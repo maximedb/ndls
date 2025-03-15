@@ -2,8 +2,11 @@ name: Daily Podcast Transcription
 
 on:
   schedule:
-    # Run at 7:00 AM on weekdays (Monday to Friday)
-    - cron: '0 7 * * 1-5'
+    # Run at 7:00 AM Brussels time on weekdays (Monday to Friday)
+    # 5:00 UTC during summer (CEST - UTC+2)
+    # 6:00 UTC during winter (CET - UTC+1)
+    - cron: '0 5 * * 1-5'  # 7:00 AM Brussels time during summer
+    - cron: '0 6 * * 1-5'  # 7:00 AM Brussels time during winter
   workflow_dispatch:  # Allow manual triggering
 
 jobs:

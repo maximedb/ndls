@@ -1,0 +1,52 @@
+# Audio files - don't commit these to GitHub
+/audio_files/
+*.mp3
+*.wav
+*.ogg
+*.m4a
+
+# Raw transcription JSON files can be large and aren't needed in the repo
+/transcriptions/
+
+# Debug files
+transcription_debug.json
+*.log
+
+# Environment variables and sensitive information
+.env
+*.key
+credentials.json
+
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+.python-version
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

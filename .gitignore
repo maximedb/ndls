@@ -6,7 +6,7 @@
 *.m4a
 
 # Raw transcription JSON files can be large and aren't needed in the repo
-/transcriptions/
+#/transcriptions/
 
 # Debug files
 transcription_debug.json

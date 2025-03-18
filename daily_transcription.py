@@ -9,6 +9,7 @@ from datetime import datetime
 import xml.etree.ElementTree as ET
 import re
 import sys
+import pytz  # For timezone handling
 
 # Configuration
 RSS_URL = "https://www.omnycontent.com/d/playlist/5978613f-cd11-4352-8f26-adb900fa9a58/3c1222e5-288f-4047-a2f0-ae1b00a91688/a0389eb5-55da-493d-b7bb-ae1b00d0d95a/podcast.rss"
@@ -16,6 +17,23 @@ OUTPUT_DIR = "audio_files"
 TRANSCRIPTIONS_DIR = "transcriptions"
 HTML_OUTPUT = "index.html"
 ARCHIVE_DIR = "archive"
+
+def check_brussels_time():
+    """
+    Check if current time in Brussels is after 7 AM
+    Returns True if it's after 7 AM, False otherwise
+    """
+    # Get current time in Brussels
+    brussels_tz = pytz.timezone('Europe/Brussels')
+    now_brussels = datetime.now(brussels_tz)
+    
+    # Check if it's after 7 AM
+    if now_brussels.hour < 7:
+        print(f"Current time in Brussels is {now_brussels.strftime('%H:%M:%S')}, before 7 AM threshold")
+        return False
+    
+    print(f"Current time in Brussels is {now_brussels.strftime('%H:%M:%S')}, after 7 AM threshold")
+    return True
 
 def download_latest_mp3(rss_url, output_directory):
     """
@@ -509,6 +527,11 @@ def main():
     """
     Main function
     """
+    # Check if it's after 7 AM Brussels time
+    if not check_brussels_time():
+        print("Exiting: Current time is before 7 AM in Brussels")
+        sys.exit(0)
+    
     # Get API key from environment variable
     api_key = os.environ.get("GLADIA_API_KEY")
     if not api_key:

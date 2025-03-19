@@ -1,15 +1,15 @@
 {
-  "id": "973a3c71-cfc0-4ef3-8a68-14cefceae246",
-  "request_id": "G-973a3c71",
+  "id": "17cdd242-6561-4f91-98b4-633c5de923be",
+  "request_id": "G-17cdd242",
   "version": 2,
   "status": "done",
-  "created_at": "2025-03-19T06:10:38.234Z",
-  "completed_at": "2025-03-19T06:11:43.374Z",
+  "created_at": "2025-03-19T06:27:45.955Z",
+  "completed_at": "2025-03-19T06:29:22.215Z",
   "custom_metadata": null,
   "error_code": null,
   "kind": "pre-recorded",
   "file": {
-    "id": "973a3c71-cfc0-4ef3-8a68-14cefceae246",
+    "id": "17cdd242-6561-4f91-98b4-633c5de923be",
     "filename": "audio.mp3",
     "source": "https://traffic.omny.fm/d/clips/5978613f-cd11-4352-8f26-adb900fa9a58/3c1222e5-288f-4047-a2f0-ae1b00a91688/4f7f6f66-756e-4063-808f-b2a50050512b/audio.mp3?utm_source=Podcast&in_playlist=a0389eb5-55da-493d-b7bb-ae1b00d0d95a",
     "audio_duration": 1045.577,
@@ -45,7 +45,7 @@
       "audio_duration": 1045.577143,
       "number_of_distinct_channels": 1,
       "billing_time": 1045.577143,
-      "transcription_time": 65.14
+      "transcription_time": 96.26
     },
     "transcription": {
       "languages": [
@@ -56,7 +56,7 @@
           "text": "De Zeven is d\u00e9 bron van ondernemersnieuws en slimme ondernemers kiezen voor zekerheid en veiligheid.",
           "language": "nl",
           "start": 0.12001999999999999,
-          "end": 5.242089999999999,
+          "end": 5.42216,
           "confidence": 0.88,
           "channel": 0,
           "speaker": 0,
@@ -65,132 +65,126 @@
               "word": "De",
               "start": 0.12001999999999999,
               "end": 0.24007,
-              "confidence": 0.88
+              "confidence": 0.76
             },
             {
               "word": " Zeven",
               "start": 0.30010000000000003,
-              "end": 0.6402300000000001,
-              "confidence": 0.88
+              "end": 0.60022,
+              "confidence": 0.77
             },
             {
               "word": " is",
-              "start": 0.74027,
-              "end": 0.86032,
-              "confidence": 0.98
-            },
-            {
-              "word": " d\u00e9",
-              "start": 0.9003399999999999,
-              "end": 1.02039,
-              "confidence": 0.99
-            },
-            {
-              "word": " bron",
-              "start": 1.08041,
-              "end": 1.3005,
-              "confidence": 1
-            },
-            {
-              "word": " van",
-              "start": 1.3005,
-              "end": 1.42055,
-              "confidence": 0.94
-            },
-            {
-              "word": " ondernemersnieuws",
-              "start": 1.4805700000000002,
-              "end": 2.32091,
+              "start": 0.72027,
+              "end": 0.8403099999999999,
               "confidence": 0.95
             },
             {
+              "word": " d\u00e9",
+              "start": 0.9403600000000001,
+              "end": 1.0604,
+              "confidence": 0.97
+            },
+            {
+              "word": " bron",
+              "start": 1.1404400000000001,
+              "end": 1.3405200000000002,
+              "confidence": 0.99
+            },
+            {
+              "word": " van",
+              "start": 1.36052,
+              "end": 1.4805700000000002,
+              "confidence": 0.98
+            },
+            {
+              "word": " ondernemersnieuws",
+              "start": 1.52059,
+              "end": 2.38094,
+              "confidence": 0.91
+            },
+            {
               "word": " en",
-              "start": 2.42095,
-              "end": 2.541,
+              "start": 2.5009900000000003,
+              "end": 2.62103,
               "confidence": 1
             },
             {
               "word": " slimme",
-              "start": 2.60103,
-              "end": 2.84112,
-              "confidence": 0.99
+              "start": 2.68106,
+              "end": 2.94116,
+              "confidence": 1
             },
             {
               "word": " ondernemers",
-              "start": 2.90115,
-              "end": 3.46137,
-              "confidence": 0.96
+              "start": 3.0011900000000002,
+              "end": 3.56141,
+              "confidence": 1
             },
             {
               "word": " kiezen",
-              "start": 3.56141,
-              "end": 3.7815,
-              "confidence": 0.95
+              "start": 3.64145,
+              "end": 3.84153,
+              "confidence": 0.9
             },
             {
               "word": " voor",
-              "start": 3.80151,
-              "end": 3.94157,
-              "confidence": 0.96
+              "start": 3.86153,
+              "end": 4.00159,
+              "confidence": 0.99
             },
             {
               "word": " zekerheid",
-              "start": 4.00159,
-              "end": 4.48178,
+              "start": 4.101629999999999,
+              "end": 4.60183,
               "confidence": 0.99
             },
             {
               "word": " en",
-              "start": 4.5218,
-              "end": 4.64185,
+              "start": 4.66186,
+              "end": 4.78191,
               "confidence": 0.99
             },
             {
               "word": " veiligheid.",
-              "start": 4.66186,
-              "end": 5.242089999999999,
-              "confidence": 0.99
+              "start": 4.84193,
+              "end": 5.42216,
+              "confidence": 1
             }
           ]
         },
         {
-          "text": "Je eigen website of cloud-infrastructuur?",
+          "text": "Van domeinnaam tot cloud-infrastructuur.",
           "language": "nl",
-          "start": 5.46218,
-          "end": 7.72309,
+          "start": 5.58223,
+          "end": 7.6830799999999995,
           "confidence": 0.88,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Je",
-              "start": 5.46218,
-              "end": 5.58223,
+              "word": " Van",
+              "start": 5.58223,
+              "end": 5.722289999999999,
               "confidence": 0.99
             },
             {
-              "word": " eigen",
-              "start": 5.74229,
-              "end": 5.98239,
-              "confidence": 1
+              "word": " domeinnaam",
+              "start": 5.7623,
+              "end": 6.34254,
+              "confidence": 0.77
             },
             {
-              "word": " website",
-              "start": 6.0024,
-              "end": 6.46258,
-              "confidence": 0.94
+              "word": " tot",
+              "start": 6.402559999999999,
+              "end": 6.542619999999999,
+              "confidence": 0.99
             },
             {
-              "word": " of",
-              "start": 6.502599999999999,
-              "end": 6.622649999999999,
-              "confidence": 1
-            },
-            {
-              "word": " cloud-infrastructuur?",
-              "start": 6.68267,
-              "end": 7.72309,
-              "confidence": 0.92
+              "word": " cloud-infrastructuur.",
+              "start": 6.602639999999999,
+              "end": 7.6830799999999995,
+              "confidence": 0.93
             }
           ]
         },
@@ -213,7 +207,7 @@
               "word": " big",
               "start": 8.16327,
               "end": 8.343340000000001,
-              "confidence": 0.96
+              "confidence": 0.9
             },
             {
               "word": " online",
@@ -225,13 +219,13 @@
               "word": " op",
               "start": 8.883560000000001,
               "end": 9.00361,
-              "confidence": 0.84
+              "confidence": 0.95
             },
             {
               "word": " kombel.be.",
               "start": 9.023620000000001,
               "end": 9.843950000000001,
-              "confidence": 0.51
+              "confidence": 0.71
             }
           ]
         },
@@ -248,43 +242,43 @@
               "word": " Welkom",
               "start": 11.82475,
               "end": 12.2049,
-              "confidence": 0.48
+              "confidence": 0.52
             },
             {
               "word": " bij",
               "start": 12.34496,
               "end": 12.525030000000001,
-              "confidence": 0.37
+              "confidence": 0.41
             },
             {
               "word": " De",
               "start": 12.565050000000001,
               "end": 12.6851,
-              "confidence": 0.52
+              "confidence": 0.51
             },
             {
               "word": " Zeven",
               "start": 12.84516,
               "end": 13.26533,
-              "confidence": 0.39
+              "confidence": 0.33
             },
             {
               "word": " van",
               "start": 13.40539,
               "end": 13.585460000000001,
-              "confidence": 0.62
+              "confidence": 0.52
             },
             {
               "word": " de",
               "start": 13.625480000000001,
               "end": 13.74552,
-              "confidence": 0.61
+              "confidence": 0.51
             },
             {
               "word": " Tijd.",
               "start": 13.80555,
               "end": 14.10567,
-              "confidence": 0.59
+              "confidence": 0.48
             }
           ]
         },
@@ -301,79 +295,79 @@
               "word": " Elke",
               "start": 14.805950000000001,
               "end": 15.00603,
-              "confidence": 0.68
+              "confidence": 0.56
             },
             {
               "word": " dag",
               "start": 15.046050000000001,
               "end": 15.26614,
-              "confidence": 0.84
+              "confidence": 0.7
             },
             {
               "word": " om",
               "start": 15.48623,
               "end": 15.60627,
-              "confidence": 0.86
+              "confidence": 0.8
             },
             {
               "word": " 7",
               "start": 15.70631,
               "end": 16.00644,
-              "confidence": 0.57
+              "confidence": 0.53
             },
             {
               "word": " uur",
               "start": 16.04645,
               "end": 16.226519999999997,
-              "confidence": 0.93
+              "confidence": 0.86
             },
             {
               "word": " onze",
               "start": 16.706719999999997,
               "end": 16.92681,
-              "confidence": 0.94
+              "confidence": 0.95
             },
             {
               "word": " blik",
               "start": 16.96682,
               "end": 17.1669,
-              "confidence": 0.89
+              "confidence": 0.94
             },
             {
               "word": " op",
               "start": 17.186909999999997,
               "end": 17.30696,
-              "confidence": 0.81
+              "confidence": 0.92
             },
             {
               "word": " de",
               "start": 17.286949999999997,
               "end": 17.407,
-              "confidence": 0.7
+              "confidence": 0.83
             },
             {
               "word": " zaken",
               "start": 17.44702,
               "end": 17.82717,
-              "confidence": 0.48
+              "confidence": 0.57
             },
             {
               "word": " in",
               "start": 18.08728,
               "end": 18.20732,
-              "confidence": 0.29
+              "confidence": 0.35
             },
             {
               "word": " 7",
               "start": 18.347379999999998,
               "end": 18.66751,
-              "confidence": 0.27
+              "confidence": 0.29
             },
             {
               "word": " punten.",
               "start": 18.727529999999998,
               "end": 19.06767,
-              "confidence": 0.23
+              "confidence": 0.26
             }
           ]
         },
@@ -390,19 +384,19 @@
               "word": " Dit",
               "start": 20.008049999999997,
               "end": 20.22814,
-              "confidence": 0.44
+              "confidence": 0.47
             },
             {
               "word": " is",
               "start": 20.52826,
               "end": 20.64831,
-              "confidence": 0.72
+              "confidence": 0.74
             },
             {
               "word": " Bert",
               "start": 20.768359999999998,
               "end": 20.98845,
-              "confidence": 0.9
+              "confidence": 0.91
             },
             {
               "word": " Rijmen.",
@@ -425,12 +419,12 @@
               "word": " Goedemorgen.",
               "start": 21.42862,
               "end": 24.749969999999998,
-              "confidence": 0.13
+              "confidence": 0.12
             }
           ]
         },
         {
-          "text": "De Amerikaanse tech-rus Microsoft wil 600.000 Belgen een gratis stoomcursus e-...",
+          "text": "De Amerikaanse tech-rus Microsoft wil 600.000 Belgen een gratis stoomcursus e-",
           "language": "nl",
           "start": 24.769969999999997,
           "end": 29.63194,
@@ -442,31 +436,31 @@
               "word": " De",
               "start": 24.769969999999997,
               "end": 24.89002,
-              "confidence": 0.29
+              "confidence": 0.26
             },
             {
               "word": " Amerikaanse",
               "start": 24.91003,
               "end": 25.330199999999998,
-              "confidence": 0.51
+              "confidence": 0.43
             },
             {
               "word": " tech-rus",
               "start": 25.350209999999997,
               "end": 25.67034,
-              "confidence": 0.8
+              "confidence": 0.72
             },
             {
               "word": " Microsoft",
               "start": 25.77038,
               "end": 26.3306,
-              "confidence": 0.82
+              "confidence": 0.76
             },
             {
               "word": " wil",
               "start": 26.37062,
               "end": 26.490669999999998,
-              "confidence": 0.6
+              "confidence": 0.53
             },
             {
               "word": " 600.000",
@@ -478,31 +472,31 @@
               "word": " Belgen",
               "start": 27.471059999999998,
               "end": 27.83121,
-              "confidence": 0.38
+              "confidence": 0.26
             },
             {
               "word": " een",
               "start": 27.89123,
               "end": 28.01128,
-              "confidence": 0.25
+              "confidence": 0.19
             },
             {
               "word": " gratis",
               "start": 28.09131,
               "end": 28.59152,
-              "confidence": 0.27
+              "confidence": 0.19
             },
             {
               "word": " stoomcursus",
               "start": 28.77159,
               "end": 29.411849999999998,
-              "confidence": 0.17
+              "confidence": 0.14
             },
             {
-              "word": " e-...",
+              "word": " e-",
               "start": 29.511889999999998,
               "end": 29.63194,
-              "confidence": 0.16
+              "confidence": 0.13
             }
           ]
         },
@@ -536,7 +530,7 @@
               "word": " Die",
               "start": 31.07234,
               "end": 31.19238,
-              "confidence": 0.93
+              "confidence": 0.92
             },
             {
               "word": " is",
@@ -856,7 +850,7 @@
               "word": " er",
               "start": 47.53676,
               "end": 47.65679,
-              "confidence": 0.96
+              "confidence": 0.97
             },
             {
               "word": " voorlopig",
@@ -1124,7 +1118,7 @@
           "language": "nl",
           "start": 64.30863,
           "end": 65.69254,
-          "confidence": 0.83,
+          "confidence": 0.81,
           "channel": 0,
           "speaker": 1,
           "words": [
@@ -1138,13 +1132,13 @@
               "word": " 7",
               "start": 64.54930999999999,
               "end": 64.95045,
-              "confidence": 0.47
+              "confidence": 0.48
             },
             {
               "word": " van",
               "start": 65.03067,
               "end": 65.19113,
-              "confidence": 0.84
+              "confidence": 0.85
             },
             {
               "word": " de",
@@ -1156,124 +1150,124 @@
               "word": " tijd",
               "start": 65.39169,
               "end": 65.69254,
-              "confidence": 0.81
+              "confidence": 0.82
             }
           ]
         },
         {
           "text": "Dus deze computer wordt bediend alleen en met schuiten door middel van de taal,",
           "language": "nl",
-          "start": 68.11235,
-          "end": 72.13407000000001,
+          "start": 68.1127,
+          "end": 72.13614,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Dus",
-              "start": 68.11235,
-              "end": 68.2324,
-              "confidence": 0.55
+              "start": 68.1127,
+              "end": 68.2328,
+              "confidence": 0.54
             },
             {
               "word": " deze",
-              "start": 68.35245,
-              "end": 68.51252,
+              "start": 68.35291000000001,
+              "end": 68.51304,
               "confidence": 0.97
             },
             {
               "word": " computer",
-              "start": 68.55254000000001,
-              "end": 68.89268,
+              "start": 68.55308000000001,
+              "end": 68.89337,
               "confidence": 0.93
             },
             {
               "word": " wordt",
-              "start": 68.91269,
-              "end": 69.07276,
-              "confidence": 0.67
+              "start": 68.91338,
+              "end": 69.07352,
+              "confidence": 0.66
             },
             {
               "word": " bediend",
-              "start": 69.09277,
-              "end": 69.45292,
+              "start": 69.09354,
+              "end": 69.45385,
               "confidence": 0.95
             },
             {
               "word": " alleen",
-              "start": 69.83309,
-              "end": 70.17323,
+              "start": 69.83417,
+              "end": 70.17446,
               "confidence": 0.98
             },
             {
               "word": " en",
-              "start": 70.45335,
-              "end": 70.5734,
+              "start": 70.4547,
+              "end": 70.5748,
               "confidence": 0.98
             },
             {
               "word": " met",
-              "start": 70.5734,
-              "end": 70.69345,
+              "start": 70.5748,
+              "end": 70.69491000000001,
               "confidence": 0.62
             },
             {
               "word": " schuiten",
-              "start": 70.71346,
-              "end": 71.05361,
-              "confidence": 0.9
+              "start": 70.71492,
+              "end": 71.05521,
+              "confidence": 0.94
             },
             {
               "word": " door",
-              "start": 71.17366,
-              "end": 71.29371,
+              "start": 71.17532,
+              "end": 71.29542000000001,
               "confidence": 0.98
             },
             {
               "word": " middel",
-              "start": 71.33373,
-              "end": 71.53381,
+              "start": 71.33545000000001,
+              "end": 71.53562,
               "confidence": 0.97
             },
             {
               "word": " van",
-              "start": 71.55382,
-              "end": 71.67387000000001,
+              "start": 71.55564,
+              "end": 71.67574,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 71.67387000000001,
-              "end": 71.79392,
+              "start": 71.67574,
+              "end": 71.79585,
               "confidence": 0.99
             },
             {
               "word": " taal,",
-              "start": 71.85395,
-              "end": 72.13407000000001,
-              "confidence": 0.99
+              "start": 71.8559,
+              "end": 72.13614,
+              "confidence": 0.98
             }
           ]
         },
         {
           "text": "het West-Flaans.",
           "language": "nl",
-          "start": 72.27413,
-          "end": 72.87439,
+          "start": 72.27626000000001,
+          "end": 72.87677000000001,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " het",
-              "start": 72.27413,
-              "end": 72.39418,
+              "start": 72.27626000000001,
+              "end": 72.39636,
               "confidence": 0.98
             },
             {
               "word": " West-Flaans.",
-              "start": 72.41419,
-              "end": 72.87439,
+              "start": 72.41638,
+              "end": 72.87677000000001,
               "confidence": 0.73
             }
           ]
@@ -1281,75 +1275,75 @@
         {
           "text": "Ok\u00e9,",
           "language": "nl",
-          "start": 73.1345,
-          "end": 73.27456000000001,
+          "start": 73.13699,
+          "end": 73.27711000000001,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Ok\u00e9,",
-              "start": 73.1345,
-              "end": 73.27456000000001,
-              "confidence": 0.28
+              "start": 73.13699,
+              "end": 73.27711000000001,
+              "confidence": 0.27
             }
           ]
         },
         {
           "text": "Windows 98 heeft ook een specifieke vertaaling uiteraard,",
           "language": "nl",
-          "start": 73.41462,
-          "end": 77.21624,
+          "start": 73.41723,
+          "end": 77.22048000000001,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Windows",
-              "start": 73.41462,
-              "end": 73.77477,
+              "start": 73.41723,
+              "end": 73.77754,
               "confidence": 0.19
             },
             {
               "word": " 98",
-              "start": 73.87481,
-              "end": 74.51509,
+              "start": 73.87762000000001,
+              "end": 74.51817,
               "confidence": 0.02
             },
             {
               "word": " heeft",
-              "start": 74.65515,
-              "end": 74.85523,
+              "start": 74.65829000000001,
+              "end": 74.85846000000001,
               "confidence": 0.06
             },
             {
               "word": " ook",
-              "start": 74.87524,
-              "end": 74.99529,
-              "confidence": 0.06
+              "start": 74.87848,
+              "end": 74.99858,
+              "confidence": 0.05
             },
             {
               "word": " een",
-              "start": 74.99529,
-              "end": 75.09534000000001,
+              "start": 74.99858,
+              "end": 75.09867,
               "confidence": 0.01
             },
             {
               "word": " specifieke",
-              "start": 75.09534000000001,
-              "end": 75.65558,
+              "start": 75.09867,
+              "end": 75.65915,
               "confidence": 0
             },
             {
               "word": " vertaaling",
-              "start": 76.23582,
-              "end": 76.69602,
+              "start": 76.23964000000001,
+              "end": 76.70003,
               "confidence": 0
             },
             {
               "word": " uiteraard,",
-              "start": 76.69602,
-              "end": 77.21624,
+              "start": 76.70003,
+              "end": 77.22048000000001,
               "confidence": 0
             }
           ]
@@ -1357,16 +1351,16 @@
         {
           "text": "h\u00e8?",
           "language": "nl",
-          "start": 77.21624,
-          "end": 77.33629,
+          "start": 77.22048000000001,
+          "end": 77.34058,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " h\u00e8?",
-              "start": 77.21624,
-              "end": 77.33629,
+              "start": 77.22048000000001,
+              "end": 77.34058,
               "confidence": 0
             }
           ]
@@ -1374,16 +1368,16 @@
         {
           "text": "Ja,",
           "language": "nl",
-          "start": 78.01658,
-          "end": 78.47678,
+          "start": 78.02116000000001,
+          "end": 78.48156,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Ja,",
-              "start": 78.01658,
-              "end": 78.47678,
+              "start": 78.02116000000001,
+              "end": 78.48156,
               "confidence": 0
             }
           ]
@@ -1391,16 +1385,16 @@
         {
           "text": "ja.",
           "language": "nl",
-          "start": 78.47678,
-          "end": 78.55682,
+          "start": 78.48156,
+          "end": 78.56162,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " ja.",
-              "start": 78.47678,
-              "end": 78.55682,
+              "start": 78.48156,
+              "end": 78.56162,
               "confidence": 0
             }
           ]
@@ -1408,22 +1402,22 @@
         {
           "text": "Route 98.",
           "language": "nl",
-          "start": 78.55682,
-          "end": 84.41932,
+          "start": 78.56162,
+          "end": 84.42663,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Route",
-              "start": 78.55682,
-              "end": 78.67687000000001,
+              "start": 78.56162,
+              "end": 78.68173,
               "confidence": 0.05
             },
             {
               "word": " 98.",
-              "start": 78.67687000000001,
-              "end": 84.41932,
+              "start": 78.68173,
+              "end": 84.42663,
               "confidence": 0.03
             }
           ]
@@ -1431,52 +1425,52 @@
         {
           "text": "Een legendarische sketch uit Alles kan beter,",
           "language": "nl",
-          "start": 84.43933,
-          "end": 86.80034,
+          "start": 84.44665,
+          "end": 86.80867,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Een",
-              "start": 84.43933,
-              "end": 84.57939,
+              "start": 84.44665,
+              "end": 84.58677,
               "confidence": 0.98
             },
             {
               "word": " legendarische",
-              "start": 84.77948,
-              "end": 85.41975,
+              "start": 84.78694,
+              "end": 85.42749,
               "confidence": 0.92
             },
             {
               "word": " sketch",
-              "start": 85.45977,
-              "end": 85.69987,
-              "confidence": 0.84
+              "start": 85.46752000000001,
+              "end": 85.70773,
+              "confidence": 0.83
             },
             {
               "word": " uit",
-              "start": 85.73989,
-              "end": 85.85994,
+              "start": 85.74776,
+              "end": 85.86786000000001,
               "confidence": 0.46
             },
             {
               "word": " Alles",
-              "start": 85.95998,
-              "end": 86.18007,
+              "start": 85.96795,
+              "end": 86.18814,
               "confidence": 0.66
             },
             {
               "word": " kan",
-              "start": 86.2401,
-              "end": 86.40017,
+              "start": 86.24819,
+              "end": 86.40832,
               "confidence": 0.92
             },
             {
               "word": " beter,",
-              "start": 86.46019,
-              "end": 86.80034,
+              "start": 86.46838,
+              "end": 86.80867,
               "confidence": 0.99
             }
           ]
@@ -1484,34 +1478,34 @@
         {
           "text": "20 jaar geleden alweer.",
           "language": "nl",
-          "start": 87.08046,
-          "end": 88.5811,
+          "start": 87.08891,
+          "end": 88.59019,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " 20",
-              "start": 87.08046,
-              "end": 87.48063,
-              "confidence": 0.4
+              "start": 87.08891,
+              "end": 87.48925,
+              "confidence": 0.39
             },
             {
               "word": " jaar",
-              "start": 87.62069,
-              "end": 87.82078,
+              "start": 87.62937,
+              "end": 87.82954000000001,
               "confidence": 0.98
             },
             {
               "word": " geleden",
-              "start": 87.90081,
-              "end": 88.26096,
+              "start": 87.90961,
+              "end": 88.26991000000001,
               "confidence": 1
             },
             {
               "word": " alweer.",
-              "start": 88.28097,
-              "end": 88.5811,
+              "start": 88.28993,
+              "end": 88.59019,
               "confidence": 0.99
             }
           ]
@@ -1519,76 +1513,76 @@
         {
           "text": "Toen hadden we blijkbaar heel wat uitleg nodig over Windows 98,",
           "language": "nl",
-          "start": 88.62112,
-          "end": 92.94297,
+          "start": 88.63022000000001,
+          "end": 92.95391000000001,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Toen",
-              "start": 88.62112,
-              "end": 88.76118,
-              "confidence": 0.96
+              "start": 88.63022000000001,
+              "end": 88.77034,
+              "confidence": 0.97
             },
             {
               "word": " hadden",
-              "start": 88.78119000000001,
-              "end": 88.96126000000001,
-              "confidence": 1
+              "start": 88.79036,
+              "end": 88.97051,
+              "confidence": 0.99
             },
             {
               "word": " we",
-              "start": 88.96126000000001,
-              "end": 89.08131,
+              "start": 88.97051,
+              "end": 89.09062,
               "confidence": 0.97
             },
             {
               "word": " blijkbaar",
-              "start": 89.14134,
-              "end": 89.5215,
-              "confidence": 0.95
+              "start": 89.15067,
+              "end": 89.53099,
+              "confidence": 0.96
             },
             {
               "word": " heel",
-              "start": 89.58153,
-              "end": 89.78161,
+              "start": 89.59104,
+              "end": 89.79121,
               "confidence": 1
             },
             {
               "word": " wat",
-              "start": 89.90167,
-              "end": 90.04172,
+              "start": 89.91132,
+              "end": 90.05144,
               "confidence": 1
             },
             {
               "word": " uitleg",
-              "start": 90.14177000000001,
-              "end": 90.4419,
+              "start": 90.15152,
+              "end": 90.45178,
               "confidence": 0.99
             },
             {
               "word": " nodig",
-              "start": 90.52193,
-              "end": 90.78204,
+              "start": 90.53185,
+              "end": 90.79207,
               "confidence": 1
             },
             {
               "word": " over",
-              "start": 91.26225,
-              "end": 91.48234,
-              "confidence": 0.98
+              "start": 91.27248,
+              "end": 91.49267,
+              "confidence": 0.99
             },
             {
               "word": " Windows",
-              "start": 91.70243,
-              "end": 92.06259,
+              "start": 91.71285,
+              "end": 92.07316,
               "confidence": 0.87
             },
             {
               "word": " 98,",
-              "start": 92.22266,
-              "end": 92.94297,
+              "start": 92.2333,
+              "end": 92.95391000000001,
               "confidence": 0.02
             }
           ]
@@ -1596,34 +1590,34 @@
         {
           "text": "een besturingssysteem van Microsoft.",
           "language": "nl",
-          "start": 93.023,
-          "end": 95.02385000000001,
+          "start": 93.03398,
+          "end": 95.03569,
           "confidence": 0.8100000000000002,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " een",
-              "start": 93.023,
-              "end": 93.14305,
-              "confidence": 0.95
+              "start": 93.03398,
+              "end": 93.15409,
+              "confidence": 0.97
             },
             {
               "word": " besturingssysteem",
-              "start": 93.24309,
-              "end": 94.22351,
-              "confidence": 0.95
+              "start": 93.25417,
+              "end": 94.23501,
+              "confidence": 0.97
             },
             {
               "word": " van",
-              "start": 94.28354,
-              "end": 94.40359000000001,
+              "start": 94.29506,
+              "end": 94.41516,
               "confidence": 1
             },
             {
               "word": " Microsoft.",
-              "start": 94.44361,
-              "end": 95.02385000000001,
+              "start": 94.4552,
+              "end": 95.03569,
               "confidence": 1
             }
           ]
@@ -2059,7 +2053,7 @@
               "word": " Bert.",
               "start": 119.76788,
               "end": 119.98795,
-              "confidence": 0.56
+              "confidence": 0.55
             }
           ]
         },
@@ -19690,7 +19684,7 @@
           ]
         }
       ],
-      "full_transcript": "De Zeven is d\u00e9 bron van ondernemersnieuws en slimme ondernemers kiezen voor zekerheid en veiligheid. Je eigen website of cloud-infrastructuur? Go big online op kombel.be. Welkom bij De Zeven van de Tijd. Elke dag om 7 uur onze blik op de zaken in 7 punten. Dit is Bert Rijmen. Goedemorgen. De Amerikaanse tech-rus Microsoft wil 600.000 Belgen een gratis stoomcursus e-... geven. Die is niet specifiek gericht op CoPilot, de technologie van Microsoft, maar wat heeft het bedrijf er dan zelf aan? Na het langverwachte telefoontje tussen Trump en Poetin belooft Rusland om de Oekra\u00efnse energieinfrastructuur 30 dagen niet aan te vallen. Een volledig staakt het vuren komt er voorlopig nog niet. En wat zit er in de staalplannen van de Europese Commissie? Die worden vandaag voorgesteld, maar onze expert heeft er al een goed zicht op. Het is woensdag 19 maart. Welkom! De 7 van de tijd Dus deze computer wordt bediend alleen en met schuiten door middel van de taal, het West-Flaans. Ok\u00e9, Windows 98 heeft ook een specifieke vertaaling uiteraard, h\u00e8? Ja, ja. Route 98. Een legendarische sketch uit Alles kan beter, 20 jaar geleden alweer. Toen hadden we blijkbaar heel wat uitleg nodig over Windows 98, een besturingssysteem van Microsoft. Nu wil de Amerikaanse techreus ons met AI leren werken. Daarvoor ligt een ambitieus plan klaar. Tegen 2028 moeten de AI skills van minstens 600.000 Belgen bijgespijkerd worden. Microsoft biedt een gratis online cursus aan, maar zal ook specifieke doelgroepen aanspreken met de hulp van partners. Wat is precies de bedoeling? Goedemorgen, tijdcollega Benseruren. Dag Bert. Je volgt de techsector voor onze redactie. Ben, waarom wil Microsoft Belgen met AI leren werken? Wat is het idee daarachter? Het zal u waarschijnlijk niet ontgaan zijn de laatste twee jaar dat er heel veel ontwikkeling is gebeurd in AI. Maar ons land staat niet op de eerste plaats in het omarmen daarvan van die technologie. Als je kijkt naar de Europese Digital Skill Index, dan staan we op de dertiende plaats. Iets minder dan 60% van de Belgen heeft digitale basisvaardigheden en dat streefdoel ligt eigenlijk op... op 80%. Dus Microsoft wil nu daar iets aan doen. 600.000 Belgen dan, Ben, dat is natuurlijk niet min. Hoe wil Microsoft dat aanpakken? Ze gaan verschillende dingen doen. Een belangrijk aspect is een online cursus die ze samen met het Spaanse e-learning bedrijf Founders hebben ontwikkeld. Dat is een cursus van acht uur waar iedereen zich voor kan inschrijven en die je dus online kan volgen. Maar ze beseffen tegelijkertijd ook dat je daar niet iedereen mee bereikt. Dus ze doen ook beroep op een... Een partnernetwerk, waarbij ze bijvoorbeeld studenten en leerkrachten via het netwerk van de hogeschool Hoog-West gaan benaderen. Bijvoorbeeld werkzoekenden willen ze via de programmeerschool B-code bereiken. Dat partnernetwerk kan nog uitgebreid worden, maar het is een beetje een eerste testfase om te zien wat werkt en niet werkt. Ok\u00e9, en wat heeft Microsoft daar dan zelf aan ben? Misschien willen ze vooral producten aan de man brengen? Ze verzekeren mij dat het niet draait om licenties voor hun eigen oplossing Copilot te verkopen. De opleiding is in principe platformagnostisch, met een mooi woord. En zou dus echt wel de algemene principes moeten bijbrengen van werken met AI. Waarbij je dus evengoed straks met OpenAI of met Google of met andere platformen nog aan de slag kan. Maar ze hebben er natuurlijk ook wel een belang bij in de zin van, ze hebben voorbije jaren meer dan een miljard ge\u00efnvesteerd in... datacapaciteit in ons land. En als je die investeringen eigenlijk ten volle wil kunnen laten renderen, dan moet je ook wel ervoor zorgen dat de mensen die daar gebruik van kunnen maken, dat die digitaal vaardig genoeg zijn. Dus op die manier hebben ze er ook wel echt een belang bij. Dankjewel Ben. Graag gedaan. Twee. De ogen van techbeleggers zijn deze week gericht op San Jose in Californi\u00eb, waar AI-chipmaker NVIDIA zijn jaarlijkse conferentie houdt. Gisteravond heeft... tot man Jensen Huang daar gespeeched, maar hij kon beleggers niet overtuigen met zijn plan. Huang kwam nogthans met goed nieuws over Blackwell, een nieuwe generatie chips. Nadat er eerst vertraging was door productieproblemen, draait de verkoop nu op volle toeren. De tweede elftand jaar volgt de Blackwell Ultra, een jaar later de Vera Rubin en nadien de Rubin Ultra, telkens nieuwe generaties chips met nog veel meer rekenkracht. Verder had Huang ook nieuwe commerci\u00eble deals in petto. Zo gaat Nvidia samen met General Motors werken aan zelfrijdende wagens. Met Cisco en T-Mobile is er een deal over de ontwikkeling van 6G. Opvolger is dat van 5G, het huidig mobiel netwerk. En in robotica gaat Nvidia samenwerken met DeepMind en Disney Research. Toch waren beleggers niet meteen overtuigd. Het aandeel zakte na afloop van de speech meer dan 3%. Sinds begin dit jaar verloor Nvidia al bijna 15%. Dat komt onder andere door de opkomst van nieuwe effici\u00ebntere AI-modellen zoals dat Chinese Dipsy. 3. Gisteren namiddag rond 3 uur was het zover het lang verwachte telefoontje tussen Trump en Poetin. Het duurde uiteindelijk ruim anderhalf uur en na afloop noemde Trump het op sociale media een erg goed en productief gesprek. Rusland zet alle aanvallen op het Oekra\u00efns energienetwerk onmiddellijk stop en dat gedurende 30 dagen, maar een volledig staakt het vuur zoals Amerika had voorgesteld komt er voorlopig niet. Wat moeten we daarvan denken? Goeiemorgen lieve Dierks. Goeiemorgen Bert. Collega van de buitenlandredactie hier bij de tijd. Het Witte Huis liever stelde het gesprek voor als een succes. Maar was het dat wel? Want er is nog geen volledig staakt het vuren. Dat klopt. En de VS hadden een week geleden met Oekra\u00efne wel zo'n ruimer staakt het vuren afgesproken. Nu blijkt dat tijdens het gesprek met Poetin er dan toch een afgezwakte versie overeengekomen is. In een eerste fase zouden inderdaad de aanvallen op de energie en andere infrastructuur moeten stoppen. Die fase zou dertien dagen duren en in die periode zouden in het Midden-Oosten onderhandelingen plaatsvinden over een staak tot vuren in de Zwarte Zee. Eigenlijk aan alle fronten, dus ook op het slagveld. En in een latere fase zou het dan ook gaan over een duurzame en permanente vrede. Bestand in fases dus. Lieve, zal die aanpak werken? Dat is natuurlijk de grote vraag. In de zoektocht naar een uitweg uit de Gaza-oorlog hebben we ook gezien dat Trump voor zo'n aanpak gekozen heeft. Een bestand in fases. Daar bleek dat Hamas en Isra\u00ebl... de eerste fase van het bestand nog wel min of meer respecteerde. Maar de onderhandelingen die daarop moesten volgen om tot de volgende fases van die deal over te gaan, die zijn eigenlijk nooit van de grond gekomen. Dat had voor een deel te maken met de houding van Trump. Die haalde een aantal keer zwaar uit naar Hamas, naar de Palestijnen en die koos ook verschillende keren de kanten van Isra\u00ebl. Een gelijkaardig scenario zou zich in het Oekra\u00efense dossier ook zeker kunnen afspelen. We hebben gezien dat Trump de Oekra\u00efners de voorbije weken wel onder druk gezet heeft om mee te werken aan een deal over het einde van de oorlog. Dergelijke druk hebben we niet op Rusland gezien tot nu toe. Integendeel, Trump lijkt zelfs eerder mee te gaan in het Russische narratief. Nog voor het begin van de onderhandelingen sloot team Trump al uit dat Oekra\u00efne ooit dit kan worden van de NAVO. En tegelijkertijd gaf het ook aan dat Oekra\u00efne, grondgebied dat Rusland vandaag bezet, zal moeten opgeven. Veel elementen die dus spelen rond dat staakt het vuren, lieve. Hoe gaat dit nu verder? Het is voorlopig nog wat afwachten hoe Oekra\u00efne de uitkomst van dit gesprek gaat beoordelen. Maar zolang Trump geen stevige druk zet op Poetin, zal de Russische president wellicht vooral geneigd zijn om tijd te winnen. Tijdens het gesprek met de Amerikaanse president gooide hij ook nog wat extra eisen op tafel. Zo zou Oekra\u00efne tijdens de periode van het staakt het vuren geen soldaten meer mogen recruteren. En hij eist ook dat het Westen de wapenleveringen aan Oekra\u00efne stopzet en ook dat er geen inlichtingen meer gedeeld worden met Kiev. En nu het Russische leger er voor de bijdagen ook in geslaagd is de Oekra\u00efners flink terug te dringen, zal Poetin er wellicht ook meer en meer weer van overtuigd zijn dat hij echt op het terrein ook nog wel deze oorlog kan winnen. En zolang hij aan het frontmomentum aan zijn kant heeft, kan hij in een sterkere positie aan onderhandelingen beginnen. Zo is dat. Dankjewel, lieve. Graag gedaan. Wat staat er nog op de agenda vandaag? Om zeven uur vanavond komt er een nieuw rentebesluit van de FED. De Amerikaanse centrale bank is dat. Die zal de rente wellicht gelijk laten op 4,25 tot 4,5 procent. Het is vooral uitkijken naar hoe de bankiers de rente zien evolueren. In december ging de FED uit van twee renteverlagingen dit jaar, maar de geldmarkt rekent nu al op drie knips. De reden is dat de recessievrees is toegenomen door de dreiging van een handelsoorlog en de omslagen bij de Amerikaanse overheid. Vrijdag bleek ook nog dat het consumentenvertrouwen harder is gezakt dan verwacht en de jongste inflatiecijfers waren lager dan voorspeld. Dat lijken allemaal logische signalen voor de FED om dit jaar stevig in de rente te knippen, maar zo simpel is het niet. Amerikanen vrezen dat de tarievenpolitiek van Trump de prijzen weer meer zal doen stijgen. De inflatievrees zit nu op het hoogste pijl in. 32 jaar en daar wringt het schoentje voor de vet, want alleen al de vrees voor hogere prijzen kan de inflatie aanjagen. De centrale bank staat dus voor een moeilijke evenwichtsoefening. Zullen de collega's van de fabrieksarbeiders van Mercedes-Benz binnenkort klinken als R2-D2 hier uit Star Wars? Dat kan. De Duitse autobouwer gaat binnenkort humano\u00efde robots testen. Robots zijn dat met een menselijke vang. Apollo, zo heet de robot waar Mercedes mee werkt, kan bijvoorbeeld twee motoronderdelen in elkaar klikken. Daarna nemen mensenhanden het weer over om dat onderdeel in de motor te bevestigen. Het voordeel van humano\u00efde robots is dat ze op de werkvloer zelf functioneren, terwijl de puur industri\u00eble robots, die er nu al zijn, alleen in een afgeschermde omgeving werken. Mercedes start nu met een proefproject in een Hongaarse fabriek. Dankzij generatieve AI zouden de robots alsmaar... beter moeten worden in hun taken. Ze zullen de arbeiders vooral helpen met zwaar en gevaarlijk werk. Op die manier hoopt Mercedes oudere werknemers langer aan de slag te kunnen houden. De testfase moet tegen 2030 afgerond zijn, zodat de robots daarna kunnen meedraaien in de ruim 30 fabrieken die Mercedes wereldwijd heeft. Ook andere bedrijven, zoals Tesla, Google en Nvidia, geloven dat menselijke robots op termijn een miljardenbusiness zullen worden. De Europese Commissie stelt vandaag haar actieplan voor om de staal- en metaalindustrie te ondersteunen. Grote handicaps waarmee de sector kant zijn de hoge stroomprijzen. En staal dat goedkoop in Europa wordt gedumpt door de Trump-tarieven. Tien dagen geleden sloeg Geert van Poelvoorde, de Belgische CEO van ArcelorMittal, nog alarm. Hij zei dat de Europese staalindustrie binnen het jaar gered moet worden. Maar zal het staalplan van Europa daarvoor volstaan? Goedemorgen, Chris van Aap. Goedemorgen, Bert. Jij volgt Europa voor onze redactie. Chris, waarom komt de Europese Commissie nu met dit actieplan? Hoe erg staat die staalsector ervoor? Wel, er is toch al enkele jaren sprake van toenemende desindustrialisering. Er wordt niet meer ge\u00efnvesteerd, ook niet in Duitsland. Werknemers bij ThyssenKrupp in Duitsland zijn op straat gezet. En de miljardeninvesteringen die ArcelorMittal plande in zowel... Gent als in Duinkerke zijn onhold gezet omdat men gewoon bang is dat de vergroening van het staal die zij voor ogen hadden, dat die te duur gaat zijn. Dus dat is eigenlijk wat er aan de hand is. Er is een grote mate van desindustrialisatie. Je merkt dat die problemen acuter worden met de dag en eigenlijk moeten aangepakt worden. Welke concrete problemen wil Europa nu dan aanpakken, Chris? De belangrijkste problemen zijn de energieprijzen. Energie kost gewoon vier keer soms meer dan in andere grote landen die ook een industrie hebben. En dat is dus een competitiviteitsprobleem dat je niet direct kan oplossen. En dus behalve de energieprijs zijn er ook de tarieven die Donald Trump heeft opgelegd aan de hele wereld voor staal en aluminium. En er was al een overschot van staal op de wereldmarkt eigenlijk. Maar nu heb je vooral door die tarieven van Trump de kapers op de kust die komen, de Chinezen die nog veel meer naar Europa komen, want Europa is altijd een open markt geweest, en die dan trucjes gebruiken om te zeggen van kijk, dit is Chinees taal dat in Europa gemaakt is eigenlijk en hier nog een finishing touch krijgt. Ja, hoge energieprijzen dus, Chris, en Chinees taal dat hier gedumpt wordt. Hoe wil Europa dat nu aanpakken dan en zal dat plan volstaan? Europa heeft dus een grenstax ondertussen en die gaat in werking vanaf volgend jaar, in 2026. En zij gaat nu zorgen dat de staalbedrijven moeten aangeven waar het staal echt gemaakt is. En voor energieprijzen wil Europa zorgen dat er lagere nettarieven komen voor energieintensieve sectoren. Het is eigenlijk toch wel... een uiting van Europa om te zeggen wij willen echt wel jullie problemen ter harte nemen en daarmee iets aan doen. Of dat dan genoeg is, dat zal moeten blijken natuurlijk. Dankjewel Chris. Bedankt Bert. Zeven. Geld is allesbehalve taboe bij jongeren, blijkt uit een groot onderzoek van de financi\u00eble toezichthouder FSMA, bij duizend jongeren van 18 tot 25 jaar. 96% bijna iedereen dus. praat over geld en een derde doet dat zelfs dagelijks. Die gesprekken onder jongeren gaan bijvoorbeeld over loon, zakgeld, sparen en budgetbeheer. Tegelijk geeft bijna de helft van de jongeren aan dat ze weinig of helemaal geen financi\u00eble kennis hebben. Cryptomunten zijn bijvoorbeeld iets waar jongeren nog weinig over weten. Niet onlogisch, want bij amper een kwart kwam het onderwerp aan bod op de middelbare school. Nogthans willen veel jongeren er wel graag meer over weten. Ze zoeken vooral online naar financi\u00eble info via websites van banken en Google. AI gebruiken ze ook, maar daar hebben ze minder vertrouwen in. Als het over beleggen gaat, spelen finfluencers een grote rol. Online videomakers zijn dat, die financieel advies geven. Drie op de tien jongeren heeft zich daardoor al laten be\u00efnvloeden bij een belegging of financi\u00eble beslissing. Maar of al die finfluencers echt kennis van zaken hebben, is natuurlijk maar het vraag. Het antwoord op al die financi\u00eble vragen, dat zijn wij hier bij de Tijd natuurlijk. Alles wat je moet weten over je geld op tijd.be in de zeven. De beursvalleurs, de video's ook op de website en op je socials. De meest betrouwbare informatie van de experten van de redactie hier. Voil\u00e0, zo zijn we straks weer populair op de werkvloer. Deze zeven heb je weer gehad. Productie door Lara Droesaert en Anne-Sophie Moerman. Nog een fijne dag en tot morgen. Dit was De Zeven met Bert Rijmen. Een recensie of reactie in je favoriete podcast-app doet ons veel plezier. Heb je feedback? Laat ons iets weten op podcastattijd.be. Morgen zijn we er weer. Tot dan! Daarnaast krijg je altijd gratis support in je eigen taal. 24 op 7, 365 dagen per jaar. Hallo, hoe kan ik je helpen? Ga voor digitale ontzorging op kombel.be Duurzaamheid biedt unieke kansen voor wie durft vooruit te kijken. Dat weet ook Piet Sanders, CEO van What's Cooking. Omarm het, zie het als een opportuniteit. Wij hebben het zo gedaan en het legt ons voorlopig geen windtijren. En als je moet meten, ja je moet meten, je moet rapporteren. Gebruik die gegevens, die data, ga daarmee aan de slag. Met de opleiding Take the Lead Sustainability anticipeert u in acht weken op de nieuwe wetgeving, breidt u uw netwerk uit en krijgt u een Vlerik Business School certificaat. Schrijf u in voor 1 april via tijd.be."
+      "full_transcript": "De Zeven is d\u00e9 bron van ondernemersnieuws en slimme ondernemers kiezen voor zekerheid en veiligheid. Van domeinnaam tot cloud-infrastructuur. Go big online op kombel.be. Welkom bij De Zeven van de Tijd. Elke dag om 7 uur onze blik op de zaken in 7 punten. Dit is Bert Rijmen. Goedemorgen. De Amerikaanse tech-rus Microsoft wil 600.000 Belgen een gratis stoomcursus e- geven. Die is niet specifiek gericht op CoPilot, de technologie van Microsoft, maar wat heeft het bedrijf er dan zelf aan? Na het langverwachte telefoontje tussen Trump en Poetin belooft Rusland om de Oekra\u00efnse energieinfrastructuur 30 dagen niet aan te vallen. Een volledig staakt het vuren komt er voorlopig nog niet. En wat zit er in de staalplannen van de Europese Commissie? Die worden vandaag voorgesteld, maar onze expert heeft er al een goed zicht op. Het is woensdag 19 maart. Welkom! De 7 van de tijd Dus deze computer wordt bediend alleen en met schuiten door middel van de taal, het West-Flaans. Ok\u00e9, Windows 98 heeft ook een specifieke vertaaling uiteraard, h\u00e8? Ja, ja. Route 98. Een legendarische sketch uit Alles kan beter, 20 jaar geleden alweer. Toen hadden we blijkbaar heel wat uitleg nodig over Windows 98, een besturingssysteem van Microsoft. Nu wil de Amerikaanse techreus ons met AI leren werken. Daarvoor ligt een ambitieus plan klaar. Tegen 2028 moeten de AI skills van minstens 600.000 Belgen bijgespijkerd worden. Microsoft biedt een gratis online cursus aan, maar zal ook specifieke doelgroepen aanspreken met de hulp van partners. Wat is precies de bedoeling? Goedemorgen, tijdcollega Benseruren. Dag Bert. Je volgt de techsector voor onze redactie. Ben, waarom wil Microsoft Belgen met AI leren werken? Wat is het idee daarachter? Het zal u waarschijnlijk niet ontgaan zijn de laatste twee jaar dat er heel veel ontwikkeling is gebeurd in AI. Maar ons land staat niet op de eerste plaats in het omarmen daarvan van die technologie. Als je kijkt naar de Europese Digital Skill Index, dan staan we op de dertiende plaats. Iets minder dan 60% van de Belgen heeft digitale basisvaardigheden en dat streefdoel ligt eigenlijk op... op 80%. Dus Microsoft wil nu daar iets aan doen. 600.000 Belgen dan, Ben, dat is natuurlijk niet min. Hoe wil Microsoft dat aanpakken? Ze gaan verschillende dingen doen. Een belangrijk aspect is een online cursus die ze samen met het Spaanse e-learning bedrijf Founders hebben ontwikkeld. Dat is een cursus van acht uur waar iedereen zich voor kan inschrijven en die je dus online kan volgen. Maar ze beseffen tegelijkertijd ook dat je daar niet iedereen mee bereikt. Dus ze doen ook beroep op een... Een partnernetwerk, waarbij ze bijvoorbeeld studenten en leerkrachten via het netwerk van de hogeschool Hoog-West gaan benaderen. Bijvoorbeeld werkzoekenden willen ze via de programmeerschool B-code bereiken. Dat partnernetwerk kan nog uitgebreid worden, maar het is een beetje een eerste testfase om te zien wat werkt en niet werkt. Ok\u00e9, en wat heeft Microsoft daar dan zelf aan ben? Misschien willen ze vooral producten aan de man brengen? Ze verzekeren mij dat het niet draait om licenties voor hun eigen oplossing Copilot te verkopen. De opleiding is in principe platformagnostisch, met een mooi woord. En zou dus echt wel de algemene principes moeten bijbrengen van werken met AI. Waarbij je dus evengoed straks met OpenAI of met Google of met andere platformen nog aan de slag kan. Maar ze hebben er natuurlijk ook wel een belang bij in de zin van, ze hebben voorbije jaren meer dan een miljard ge\u00efnvesteerd in... datacapaciteit in ons land. En als je die investeringen eigenlijk ten volle wil kunnen laten renderen, dan moet je ook wel ervoor zorgen dat de mensen die daar gebruik van kunnen maken, dat die digitaal vaardig genoeg zijn. Dus op die manier hebben ze er ook wel echt een belang bij. Dankjewel Ben. Graag gedaan. Twee. De ogen van techbeleggers zijn deze week gericht op San Jose in Californi\u00eb, waar AI-chipmaker NVIDIA zijn jaarlijkse conferentie houdt. Gisteravond heeft... tot man Jensen Huang daar gespeeched, maar hij kon beleggers niet overtuigen met zijn plan. Huang kwam nogthans met goed nieuws over Blackwell, een nieuwe generatie chips. Nadat er eerst vertraging was door productieproblemen, draait de verkoop nu op volle toeren. De tweede elftand jaar volgt de Blackwell Ultra, een jaar later de Vera Rubin en nadien de Rubin Ultra, telkens nieuwe generaties chips met nog veel meer rekenkracht. Verder had Huang ook nieuwe commerci\u00eble deals in petto. Zo gaat Nvidia samen met General Motors werken aan zelfrijdende wagens. Met Cisco en T-Mobile is er een deal over de ontwikkeling van 6G. Opvolger is dat van 5G, het huidig mobiel netwerk. En in robotica gaat Nvidia samenwerken met DeepMind en Disney Research. Toch waren beleggers niet meteen overtuigd. Het aandeel zakte na afloop van de speech meer dan 3%. Sinds begin dit jaar verloor Nvidia al bijna 15%. Dat komt onder andere door de opkomst van nieuwe effici\u00ebntere AI-modellen zoals dat Chinese Dipsy. 3. Gisteren namiddag rond 3 uur was het zover het lang verwachte telefoontje tussen Trump en Poetin. Het duurde uiteindelijk ruim anderhalf uur en na afloop noemde Trump het op sociale media een erg goed en productief gesprek. Rusland zet alle aanvallen op het Oekra\u00efns energienetwerk onmiddellijk stop en dat gedurende 30 dagen, maar een volledig staakt het vuur zoals Amerika had voorgesteld komt er voorlopig niet. Wat moeten we daarvan denken? Goeiemorgen lieve Dierks. Goeiemorgen Bert. Collega van de buitenlandredactie hier bij de tijd. Het Witte Huis liever stelde het gesprek voor als een succes. Maar was het dat wel? Want er is nog geen volledig staakt het vuren. Dat klopt. En de VS hadden een week geleden met Oekra\u00efne wel zo'n ruimer staakt het vuren afgesproken. Nu blijkt dat tijdens het gesprek met Poetin er dan toch een afgezwakte versie overeengekomen is. In een eerste fase zouden inderdaad de aanvallen op de energie en andere infrastructuur moeten stoppen. Die fase zou dertien dagen duren en in die periode zouden in het Midden-Oosten onderhandelingen plaatsvinden over een staak tot vuren in de Zwarte Zee. Eigenlijk aan alle fronten, dus ook op het slagveld. En in een latere fase zou het dan ook gaan over een duurzame en permanente vrede. Bestand in fases dus. Lieve, zal die aanpak werken? Dat is natuurlijk de grote vraag. In de zoektocht naar een uitweg uit de Gaza-oorlog hebben we ook gezien dat Trump voor zo'n aanpak gekozen heeft. Een bestand in fases. Daar bleek dat Hamas en Isra\u00ebl... de eerste fase van het bestand nog wel min of meer respecteerde. Maar de onderhandelingen die daarop moesten volgen om tot de volgende fases van die deal over te gaan, die zijn eigenlijk nooit van de grond gekomen. Dat had voor een deel te maken met de houding van Trump. Die haalde een aantal keer zwaar uit naar Hamas, naar de Palestijnen en die koos ook verschillende keren de kanten van Isra\u00ebl. Een gelijkaardig scenario zou zich in het Oekra\u00efense dossier ook zeker kunnen afspelen. We hebben gezien dat Trump de Oekra\u00efners de voorbije weken wel onder druk gezet heeft om mee te werken aan een deal over het einde van de oorlog. Dergelijke druk hebben we niet op Rusland gezien tot nu toe. Integendeel, Trump lijkt zelfs eerder mee te gaan in het Russische narratief. Nog voor het begin van de onderhandelingen sloot team Trump al uit dat Oekra\u00efne ooit dit kan worden van de NAVO. En tegelijkertijd gaf het ook aan dat Oekra\u00efne, grondgebied dat Rusland vandaag bezet, zal moeten opgeven. Veel elementen die dus spelen rond dat staakt het vuren, lieve. Hoe gaat dit nu verder? Het is voorlopig nog wat afwachten hoe Oekra\u00efne de uitkomst van dit gesprek gaat beoordelen. Maar zolang Trump geen stevige druk zet op Poetin, zal de Russische president wellicht vooral geneigd zijn om tijd te winnen. Tijdens het gesprek met de Amerikaanse president gooide hij ook nog wat extra eisen op tafel. Zo zou Oekra\u00efne tijdens de periode van het staakt het vuren geen soldaten meer mogen recruteren. En hij eist ook dat het Westen de wapenleveringen aan Oekra\u00efne stopzet en ook dat er geen inlichtingen meer gedeeld worden met Kiev. En nu het Russische leger er voor de bijdagen ook in geslaagd is de Oekra\u00efners flink terug te dringen, zal Poetin er wellicht ook meer en meer weer van overtuigd zijn dat hij echt op het terrein ook nog wel deze oorlog kan winnen. En zolang hij aan het frontmomentum aan zijn kant heeft, kan hij in een sterkere positie aan onderhandelingen beginnen. Zo is dat. Dankjewel, lieve. Graag gedaan. Wat staat er nog op de agenda vandaag? Om zeven uur vanavond komt er een nieuw rentebesluit van de FED. De Amerikaanse centrale bank is dat. Die zal de rente wellicht gelijk laten op 4,25 tot 4,5 procent. Het is vooral uitkijken naar hoe de bankiers de rente zien evolueren. In december ging de FED uit van twee renteverlagingen dit jaar, maar de geldmarkt rekent nu al op drie knips. De reden is dat de recessievrees is toegenomen door de dreiging van een handelsoorlog en de omslagen bij de Amerikaanse overheid. Vrijdag bleek ook nog dat het consumentenvertrouwen harder is gezakt dan verwacht en de jongste inflatiecijfers waren lager dan voorspeld. Dat lijken allemaal logische signalen voor de FED om dit jaar stevig in de rente te knippen, maar zo simpel is het niet. Amerikanen vrezen dat de tarievenpolitiek van Trump de prijzen weer meer zal doen stijgen. De inflatievrees zit nu op het hoogste pijl in. 32 jaar en daar wringt het schoentje voor de vet, want alleen al de vrees voor hogere prijzen kan de inflatie aanjagen. De centrale bank staat dus voor een moeilijke evenwichtsoefening. Zullen de collega's van de fabrieksarbeiders van Mercedes-Benz binnenkort klinken als R2-D2 hier uit Star Wars? Dat kan. De Duitse autobouwer gaat binnenkort humano\u00efde robots testen. Robots zijn dat met een menselijke vang. Apollo, zo heet de robot waar Mercedes mee werkt, kan bijvoorbeeld twee motoronderdelen in elkaar klikken. Daarna nemen mensenhanden het weer over om dat onderdeel in de motor te bevestigen. Het voordeel van humano\u00efde robots is dat ze op de werkvloer zelf functioneren, terwijl de puur industri\u00eble robots, die er nu al zijn, alleen in een afgeschermde omgeving werken. Mercedes start nu met een proefproject in een Hongaarse fabriek. Dankzij generatieve AI zouden de robots alsmaar... beter moeten worden in hun taken. Ze zullen de arbeiders vooral helpen met zwaar en gevaarlijk werk. Op die manier hoopt Mercedes oudere werknemers langer aan de slag te kunnen houden. De testfase moet tegen 2030 afgerond zijn, zodat de robots daarna kunnen meedraaien in de ruim 30 fabrieken die Mercedes wereldwijd heeft. Ook andere bedrijven, zoals Tesla, Google en Nvidia, geloven dat menselijke robots op termijn een miljardenbusiness zullen worden. De Europese Commissie stelt vandaag haar actieplan voor om de staal- en metaalindustrie te ondersteunen. Grote handicaps waarmee de sector kant zijn de hoge stroomprijzen. En staal dat goedkoop in Europa wordt gedumpt door de Trump-tarieven. Tien dagen geleden sloeg Geert van Poelvoorde, de Belgische CEO van ArcelorMittal, nog alarm. Hij zei dat de Europese staalindustrie binnen het jaar gered moet worden. Maar zal het staalplan van Europa daarvoor volstaan? Goedemorgen, Chris van Aap. Goedemorgen, Bert. Jij volgt Europa voor onze redactie. Chris, waarom komt de Europese Commissie nu met dit actieplan? Hoe erg staat die staalsector ervoor? Wel, er is toch al enkele jaren sprake van toenemende desindustrialisering. Er wordt niet meer ge\u00efnvesteerd, ook niet in Duitsland. Werknemers bij ThyssenKrupp in Duitsland zijn op straat gezet. En de miljardeninvesteringen die ArcelorMittal plande in zowel... Gent als in Duinkerke zijn onhold gezet omdat men gewoon bang is dat de vergroening van het staal die zij voor ogen hadden, dat die te duur gaat zijn. Dus dat is eigenlijk wat er aan de hand is. Er is een grote mate van desindustrialisatie. Je merkt dat die problemen acuter worden met de dag en eigenlijk moeten aangepakt worden. Welke concrete problemen wil Europa nu dan aanpakken, Chris? De belangrijkste problemen zijn de energieprijzen. Energie kost gewoon vier keer soms meer dan in andere grote landen die ook een industrie hebben. En dat is dus een competitiviteitsprobleem dat je niet direct kan oplossen. En dus behalve de energieprijs zijn er ook de tarieven die Donald Trump heeft opgelegd aan de hele wereld voor staal en aluminium. En er was al een overschot van staal op de wereldmarkt eigenlijk. Maar nu heb je vooral door die tarieven van Trump de kapers op de kust die komen, de Chinezen die nog veel meer naar Europa komen, want Europa is altijd een open markt geweest, en die dan trucjes gebruiken om te zeggen van kijk, dit is Chinees taal dat in Europa gemaakt is eigenlijk en hier nog een finishing touch krijgt. Ja, hoge energieprijzen dus, Chris, en Chinees taal dat hier gedumpt wordt. Hoe wil Europa dat nu aanpakken dan en zal dat plan volstaan? Europa heeft dus een grenstax ondertussen en die gaat in werking vanaf volgend jaar, in 2026. En zij gaat nu zorgen dat de staalbedrijven moeten aangeven waar het staal echt gemaakt is. En voor energieprijzen wil Europa zorgen dat er lagere nettarieven komen voor energieintensieve sectoren. Het is eigenlijk toch wel... een uiting van Europa om te zeggen wij willen echt wel jullie problemen ter harte nemen en daarmee iets aan doen. Of dat dan genoeg is, dat zal moeten blijken natuurlijk. Dankjewel Chris. Bedankt Bert. Zeven. Geld is allesbehalve taboe bij jongeren, blijkt uit een groot onderzoek van de financi\u00eble toezichthouder FSMA, bij duizend jongeren van 18 tot 25 jaar. 96% bijna iedereen dus. praat over geld en een derde doet dat zelfs dagelijks. Die gesprekken onder jongeren gaan bijvoorbeeld over loon, zakgeld, sparen en budgetbeheer. Tegelijk geeft bijna de helft van de jongeren aan dat ze weinig of helemaal geen financi\u00eble kennis hebben. Cryptomunten zijn bijvoorbeeld iets waar jongeren nog weinig over weten. Niet onlogisch, want bij amper een kwart kwam het onderwerp aan bod op de middelbare school. Nogthans willen veel jongeren er wel graag meer over weten. Ze zoeken vooral online naar financi\u00eble info via websites van banken en Google. AI gebruiken ze ook, maar daar hebben ze minder vertrouwen in. Als het over beleggen gaat, spelen finfluencers een grote rol. Online videomakers zijn dat, die financieel advies geven. Drie op de tien jongeren heeft zich daardoor al laten be\u00efnvloeden bij een belegging of financi\u00eble beslissing. Maar of al die finfluencers echt kennis van zaken hebben, is natuurlijk maar het vraag. Het antwoord op al die financi\u00eble vragen, dat zijn wij hier bij de Tijd natuurlijk. Alles wat je moet weten over je geld op tijd.be in de zeven. De beursvalleurs, de video's ook op de website en op je socials. De meest betrouwbare informatie van de experten van de redactie hier. Voil\u00e0, zo zijn we straks weer populair op de werkvloer. Deze zeven heb je weer gehad. Productie door Lara Droesaert en Anne-Sophie Moerman. Nog een fijne dag en tot morgen. Dit was De Zeven met Bert Rijmen. Een recensie of reactie in je favoriete podcast-app doet ons veel plezier. Heb je feedback? Laat ons iets weten op podcastattijd.be. Morgen zijn we er weer. Tot dan! Daarnaast krijg je altijd gratis support in je eigen taal. 24 op 7, 365 dagen per jaar. Hallo, hoe kan ik je helpen? Ga voor digitale ontzorging op kombel.be Duurzaamheid biedt unieke kansen voor wie durft vooruit te kijken. Dat weet ook Piet Sanders, CEO van What's Cooking. Omarm het, zie het als een opportuniteit. Wij hebben het zo gedaan en het legt ons voorlopig geen windtijren. En als je moet meten, ja je moet meten, je moet rapporteren. Gebruik die gegevens, die data, ga daarmee aan de slag. Met de opleiding Take the Lead Sustainability anticipeert u in acht weken op de nieuwe wetgeving, breidt u uw netwerk uit en krijgt u een Vlerik Business School certificaat. Schrijf u in voor 1 april via tijd.be."
     }
   }
 }

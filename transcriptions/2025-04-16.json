@@ -1,15 +1,15 @@
 {
-  "id": "04bbac3f-9a8e-40dd-8972-3386b23fd104",
-  "request_id": "G-04bbac3f",
+  "id": "3d91ef66-0ec4-4446-99e5-45a949f92568",
+  "request_id": "G-3d91ef66",
   "version": 2,
   "status": "done",
-  "created_at": "2025-04-16T05:13:57.626Z",
-  "completed_at": "2025-04-16T05:14:44.825Z",
+  "created_at": "2025-04-16T06:29:06.388Z",
+  "completed_at": "2025-04-16T06:31:24.615Z",
   "custom_metadata": null,
   "error_code": null,
   "kind": "pre-recorded",
   "file": {
-    "id": "04bbac3f-9a8e-40dd-8972-3386b23fd104",
+    "id": "3d91ef66-0ec4-4446-99e5-45a949f92568",
     "filename": "audio.mp3",
     "source": "https://traffic.omny.fm/d/clips/5978613f-cd11-4352-8f26-adb900fa9a58/3c1222e5-288f-4047-a2f0-ae1b00a91688/4dbcbdba-5ff5-48fc-8d91-b2c1004edee6/audio.mp3?utm_source=Podcast&in_playlist=a0389eb5-55da-493d-b7bb-ae1b00d0d95a",
     "audio_duration": 879.438,
@@ -45,7 +45,7 @@
       "audio_duration": 879.438367,
       "number_of_distinct_channels": 1,
       "billing_time": 879.438367,
-      "transcription_time": 47.199
+      "transcription_time": 138.227
     },
     "transcription": {
       "languages": [
@@ -55,216 +55,216 @@
         {
           "text": "Bouw aan je kennis met de 7.",
           "language": "nl",
-          "start": 0.232,
-          "end": 1.733,
-          "confidence": 0.39142857142857135,
+          "start": 0.224,
+          "end": 1.725,
+          "confidence": 0.4714285714285715,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": "Bouw",
-              "start": 0.232,
-              "end": 0.432,
-              "confidence": 0.37
+              "start": 0.224,
+              "end": 0.424,
+              "confidence": 0.52
             },
             {
               "word": " aan",
-              "start": 0.492,
-              "end": 0.612,
-              "confidence": 0.58
+              "start": 0.484,
+              "end": 0.604,
+              "confidence": 0.67
             },
             {
               "word": " je",
-              "start": 0.613,
-              "end": 0.732,
-              "confidence": 0.64
+              "start": 0.605,
+              "end": 0.724,
+              "confidence": 0.7
             },
             {
               "word": " kennis",
-              "start": 0.772,
-              "end": 1.052,
-              "confidence": 0.63
+              "start": 0.784,
+              "end": 1.065,
+              "confidence": 0.66
             },
             {
               "word": " met",
-              "start": 1.092,
-              "end": 1.212,
-              "confidence": 0.26
+              "start": 1.105,
+              "end": 1.225,
+              "confidence": 0.35
             },
             {
               "word": " de",
-              "start": 1.213,
-              "end": 1.333,
-              "confidence": 0.13
+              "start": 1.226,
+              "end": 1.325,
+              "confidence": 0.18
             },
             {
               "word": " 7.",
-              "start": 1.353,
-              "end": 1.733,
-              "confidence": 0.13
+              "start": 1.345,
+              "end": 1.725,
+              "confidence": 0.22
             }
           ]
         },
         {
           "text": "En voor een uitzendkracht in de bouw,",
           "language": "nl",
-          "start": 2.013,
-          "end": 3.854,
-          "confidence": 0.9157142857142857,
+          "start": 2.025,
+          "end": 3.847,
+          "confidence": 0.9357142857142858,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " En",
-              "start": 2.013,
-              "end": 2.133,
-              "confidence": 0.78
+              "start": 2.025,
+              "end": 2.145,
+              "confidence": 0.88
             },
             {
               "word": " voor",
-              "start": 2.153,
-              "end": 2.293,
-              "confidence": 0.96
-            },
-            {
-              "word": " een",
-              "start": 2.294,
-              "end": 2.413,
+              "start": 2.165,
+              "end": 2.306,
               "confidence": 0.94
             },
             {
+              "word": " een",
+              "start": 2.307,
+              "end": 2.426,
+              "confidence": 0.82
+            },
+            {
               "word": " uitzendkracht",
-              "start": 2.513,
-              "end": 3.173,
+              "start": 2.506,
+              "end": 3.166,
               "confidence": 0.95
             },
             {
               "word": " in",
-              "start": 3.313,
-              "end": 3.433,
+              "start": 3.306,
+              "end": 3.426,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 3.453,
-              "end": 3.573,
+              "start": 3.466,
+              "end": 3.586,
               "confidence": 0.99
             },
             {
               "word": " bouw,",
-              "start": 3.613,
-              "end": 3.854,
-              "confidence": 0.8
+              "start": 3.606,
+              "end": 3.847,
+              "confidence": 0.98
             }
           ]
         },
         {
           "text": "ga naar Trixo.",
           "language": "nl",
-          "start": 4.234,
-          "end": 4.914,
-          "confidence": 0.89,
+          "start": 4.247,
+          "end": 4.907,
+          "confidence": 0.91,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " ga",
-              "start": 4.234,
-              "end": 4.354,
-              "confidence": 0.95
+              "start": 4.247,
+              "end": 4.367,
+              "confidence": 0.97
             },
             {
               "word": " naar",
-              "start": 4.414,
-              "end": 4.534,
-              "confidence": 0.95
+              "start": 4.407,
+              "end": 4.527,
+              "confidence": 0.98
             },
             {
               "word": " Trixo.",
-              "start": 4.574,
-              "end": 4.914,
-              "confidence": 0.77
+              "start": 4.567,
+              "end": 4.907,
+              "confidence": 0.78
             }
           ]
         },
         {
           "text": "Kijk op trixo.xx.be",
           "language": "nl",
-          "start": 5.294,
-          "end": 7.615,
-          "confidence": 0.8733333333333334,
+          "start": 5.288,
+          "end": 7.609,
+          "confidence": 0.88,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Kijk",
-              "start": 5.294,
-              "end": 5.454,
+              "start": 5.288,
+              "end": 5.468,
               "confidence": 0.99
             },
             {
               "word": " op",
-              "start": 5.494,
-              "end": 5.614,
-              "confidence": 0.98
+              "start": 5.488,
+              "end": 5.608,
+              "confidence": 0.99
             },
             {
               "word": " trixo.xx.be",
-              "start": 5.654,
-              "end": 7.615,
-              "confidence": 0.65
+              "start": 5.648,
+              "end": 7.609,
+              "confidence": 0.66
             }
           ]
         },
         {
           "text": "Welkom bij de 7 van de tijd.",
           "language": "nl",
-          "start": 10.056,
-          "end": 12.317,
-          "confidence": 0.8771428571428572,
+          "start": 10.051,
+          "end": 12.312,
+          "confidence": 0.8514285714285715,
           "channel": 0,
           "speaker": 1,
           "words": [
             {
               "word": " Welkom",
-              "start": 10.056,
-              "end": 10.416,
-              "confidence": 0.68
+              "start": 10.051,
+              "end": 10.431,
+              "confidence": 0.65
             },
             {
               "word": " bij",
-              "start": 10.556,
-              "end": 10.736,
-              "confidence": 0.94
+              "start": 10.571,
+              "end": 10.751,
+              "confidence": 0.84
             },
             {
               "word": " de",
-              "start": 10.796,
-              "end": 10.916,
+              "start": 10.791,
+              "end": 10.911,
               "confidence": 0.92
             },
             {
               "word": " 7",
-              "start": 11.077,
-              "end": 11.477,
-              "confidence": 0.66
+              "start": 11.072,
+              "end": 11.472,
+              "confidence": 0.62
             },
             {
               "word": " van",
-              "start": 11.617,
-              "end": 11.797,
-              "confidence": 0.97
+              "start": 11.632,
+              "end": 11.792,
+              "confidence": 0.96
             },
             {
               "word": " de",
-              "start": 11.837,
-              "end": 11.957,
+              "start": 11.832,
+              "end": 11.952,
               "confidence": 0.98
             },
             {
               "word": " tijd.",
-              "start": 12.017,
-              "end": 12.317,
+              "start": 12.012,
+              "end": 12.312,
               "confidence": 0.99
             }
           ]
@@ -272,99 +272,99 @@
         {
           "text": "Elke dag om 7 uur,",
           "language": "nl",
-          "start": 13.017,
-          "end": 14.458,
-          "confidence": 0.9260000000000002,
+          "start": 13.013,
+          "end": 14.454,
+          "confidence": 0.9019999999999999,
           "channel": 0,
           "speaker": 1,
           "words": [
             {
               "word": " Elke",
-              "start": 13.017,
-              "end": 13.217,
+              "start": 13.013,
+              "end": 13.233,
               "confidence": 0.98
             },
             {
               "word": " dag",
-              "start": 13.277,
-              "end": 13.478,
+              "start": 13.273,
+              "end": 13.493,
               "confidence": 0.99
             },
             {
               "word": " om",
-              "start": 13.698,
-              "end": 13.818,
-              "confidence": 0.98
+              "start": 13.693,
+              "end": 13.813,
+              "confidence": 0.97
             },
             {
               "word": " 7",
-              "start": 13.918,
-              "end": 14.218,
-              "confidence": 0.7
+              "start": 13.933,
+              "end": 14.214,
+              "confidence": 0.6
             },
             {
               "word": " uur,",
-              "start": 14.278,
-              "end": 14.458,
-              "confidence": 0.98
+              "start": 14.274,
+              "end": 14.454,
+              "confidence": 0.97
             }
           ]
         },
         {
           "text": "onze blik op de zaken in 7 punten.",
           "language": "nl",
-          "start": 14.918,
-          "end": 17.299,
-          "confidence": 0.96,
+          "start": 14.914,
+          "end": 17.296,
+          "confidence": 0.9562499999999998,
           "channel": 0,
           "speaker": 1,
           "words": [
             {
               "word": " onze",
-              "start": 14.918,
-              "end": 15.138,
+              "start": 14.914,
+              "end": 15.154,
               "confidence": 0.99
             },
             {
               "word": " blik",
-              "start": 15.178,
-              "end": 15.378,
+              "start": 15.194,
+              "end": 15.374,
               "confidence": 0.99
             },
             {
               "word": " op",
-              "start": 15.398,
-              "end": 15.518,
-              "confidence": 0.99
+              "start": 15.394,
+              "end": 15.515,
+              "confidence": 0.92
             },
             {
               "word": " de",
-              "start": 15.519,
-              "end": 15.618,
+              "start": 15.516,
+              "end": 15.615,
               "confidence": 0.99
             },
             {
               "word": " zaken",
-              "start": 15.658,
-              "end": 16.039,
-              "confidence": 0.92
+              "start": 15.675,
+              "end": 16.055,
+              "confidence": 0.97
             },
             {
               "word": " in",
-              "start": 16.299,
-              "end": 16.419,
-              "confidence": 0.98
+              "start": 16.315,
+              "end": 16.435,
+              "confidence": 0.97
             },
             {
               "word": " 7",
-              "start": 16.559,
-              "end": 16.879,
+              "start": 16.575,
+              "end": 16.896,
               "confidence": 0.84
             },
             {
               "word": " punten.",
-              "start": 16.939,
-              "end": 17.299,
+              "start": 16.956,
+              "end": 17.296,
               "confidence": 0.98
             }
           ]
@@ -372,158 +372,158 @@
         {
           "text": "Dit is Roan van Eyck.",
           "language": "nl",
-          "start": 18.099,
-          "end": 19.6,
-          "confidence": 0.8119999999999999,
+          "start": 18.096,
+          "end": 19.617,
+          "confidence": 0.8140000000000001,
           "channel": 0,
           "speaker": 1,
           "words": [
             {
               "word": " Dit",
-              "start": 18.099,
-              "end": 18.319,
+              "start": 18.096,
+              "end": 18.316,
               "confidence": 0.99
             },
             {
               "word": " is",
-              "start": 18.56,
-              "end": 18.68,
+              "start": 18.577,
+              "end": 18.697,
               "confidence": 0.99
             },
             {
               "word": " Roan",
-              "start": 18.82,
-              "end": 19.14,
+              "start": 18.837,
+              "end": 19.137,
               "confidence": 0.99
             },
             {
               "word": " van",
-              "start": 19.2,
-              "end": 19.34,
+              "start": 19.197,
+              "end": 19.337,
               "confidence": 0.87
             },
             {
               "word": " Eyck.",
-              "start": 19.44,
-              "end": 19.6,
-              "confidence": 0.22
+              "start": 19.437,
+              "end": 19.617,
+              "confidence": 0.23
             }
           ]
         },
         {
           "text": "Goeiemorgen.",
           "language": "nl",
-          "start": 22.781,
-          "end": 23.482,
-          "confidence": 0.43,
+          "start": 22.78,
+          "end": 23.48,
+          "confidence": 0.64,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Goeiemorgen.",
-              "start": 22.781,
-              "end": 23.482,
-              "confidence": 0.43
+              "start": 22.78,
+              "end": 23.48,
+              "confidence": 0.64
             }
           ]
         },
         {
           "text": "Het wordt moeilijker om vrachtwagenchauffeurs,",
           "language": "nl",
-          "start": 23.483,
-          "end": 25.863,
-          "confidence": 0.748,
+          "start": 23.481,
+          "end": 25.862,
+          "confidence": 0.762,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Het",
-              "start": 23.483,
-              "end": 23.622,
-              "confidence": 0.33
+              "start": 23.481,
+              "end": 23.62,
+              "confidence": 0.43
             },
             {
               "word": " wordt",
-              "start": 23.662,
-              "end": 23.842,
-              "confidence": 0.64
+              "start": 23.66,
+              "end": 23.86,
+              "confidence": 0.62
             },
             {
               "word": " moeilijker",
-              "start": 23.902,
-              "end": 24.322,
-              "confidence": 0.94
+              "start": 23.9,
+              "end": 24.321,
+              "confidence": 0.92
             },
             {
               "word": " om",
-              "start": 24.442,
-              "end": 24.562,
+              "start": 24.461,
+              "end": 24.581,
               "confidence": 0.99
             },
             {
               "word": " vrachtwagenchauffeurs,",
-              "start": 24.722,
-              "end": 25.863,
-              "confidence": 0.84
+              "start": 24.721,
+              "end": 25.862,
+              "confidence": 0.85
             }
           ]
         },
         {
           "text": "loodgieters en andere knelpuntwerknemers te vinden in het...",
           "language": "nl",
-          "start": 25.903,
-          "end": 29.104,
-          "confidence": 0.7724999999999999,
+          "start": 25.922,
+          "end": 29.124,
+          "confidence": 0.8187499999999999,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " loodgieters",
-              "start": 25.903,
-              "end": 26.483,
+              "start": 25.922,
+              "end": 26.482,
               "confidence": 0.83
             },
             {
               "word": " en",
-              "start": 26.503,
-              "end": 26.623,
+              "start": 26.522,
+              "end": 26.642,
               "confidence": 0.99
             },
             {
               "word": " andere",
-              "start": 26.703,
-              "end": 27.003,
-              "confidence": 0.97
+              "start": 26.722,
+              "end": 27.002,
+              "confidence": 1
             },
             {
               "word": " knelpuntwerknemers",
-              "start": 27.083,
-              "end": 28.204,
-              "confidence": 0.97
+              "start": 27.103,
+              "end": 28.223,
+              "confidence": 0.99
             },
             {
               "word": " te",
-              "start": 28.205,
-              "end": 28.324,
-              "confidence": 0.97
+              "start": 28.224,
+              "end": 28.343,
+              "confidence": 0.98
             },
             {
               "word": " vinden",
-              "start": 28.364,
-              "end": 28.664,
-              "confidence": 0.85
+              "start": 28.383,
+              "end": 28.684,
+              "confidence": 0.89
             },
             {
               "word": " in",
               "start": 28.784,
               "end": 28.904,
-              "confidence": 0.43
+              "confidence": 0.64
             },
             {
               "word": " het...",
               "start": 28.964,
-              "end": 29.104,
-              "confidence": 0.17
+              "end": 29.124,
+              "confidence": 0.23
             }
           ]
         },
@@ -549,7 +549,7 @@
           "language": "nl",
           "start": 30.125,
           "end": 34.347,
-          "confidence": 0.9211111111111112,
+          "confidence": 0.9200000000000002,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -599,7 +599,7 @@
               "word": " arbeidsmigratie",
               "start": 32.606,
               "end": 33.607,
-              "confidence": 0.92
+              "confidence": 0.91
             },
             {
               "word": " korter.",
@@ -614,7 +614,7 @@
           "language": "nl",
           "start": 35.568,
           "end": 38.41,
-          "confidence": 0.917,
+          "confidence": 0.916,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -628,7 +628,7 @@
               "word": " veelzeggend",
               "start": 35.728,
               "end": 36.169,
-              "confidence": 0.93
+              "confidence": 0.92
             },
             {
               "word": " haasje",
@@ -787,13 +787,13 @@
               "word": " En",
               "start": 45.095,
               "end": 45.215,
-              "confidence": 0.94
+              "confidence": 0.95
             },
             {
               "word": " moeten",
               "start": 45.235,
               "end": 45.595,
-              "confidence": 0.84
+              "confidence": 0.83
             },
             {
               "word": " andere",
@@ -844,7 +844,7 @@
           "language": "nl",
           "start": 48.797,
           "end": 53.501,
-          "confidence": 0.7300000000000001,
+          "confidence": 0.7316666666666668,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -858,7 +858,7 @@
               "word": " het",
               "start": 48.919,
               "end": 49.018,
-              "confidence": 0.68
+              "confidence": 0.69
             },
             {
               "word": " bekende",
@@ -906,7 +906,7 @@
               "word": " under",
               "start": 52.26,
               "end": 52.54,
-              "confidence": 0.89
+              "confidence": 0.9
             },
             {
               "word": " 30",
@@ -927,7 +927,7 @@
           "language": "nl",
           "start": 53.641,
           "end": 55.642,
-          "confidence": 0.9359999999999999,
+          "confidence": 0.9339999999999999,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -959,7 +959,7 @@
               "word": " Belgen.",
               "start": 55.262,
               "end": 55.642,
-              "confidence": 0.93
+              "confidence": 0.92
             }
           ]
         },
@@ -1330,7 +1330,7 @@
           "language": "nl",
           "start": 79.003,
           "end": 84.148,
-          "confidence": 0.9799999999999999,
+          "confidence": 0.9809999999999999,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -1362,7 +1362,7 @@
               "word": " waarvoor",
               "start": 81.565,
               "end": 81.966,
-              "confidence": 0.96
+              "confidence": 0.97
             },
             {
               "word": " een",
@@ -1401,7 +1401,7 @@
           "language": "nl",
           "start": 84.812,
           "end": 92.919,
-          "confidence": 0.9870000000000001,
+          "confidence": 0.986,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -1427,7 +1427,7 @@
               "word": " een",
               "start": 85.374,
               "end": 85.493,
-              "confidence": 0.95
+              "confidence": 0.93
             },
             {
               "word": " vlotte",
@@ -1532,7 +1532,7 @@
           "language": "nl",
           "start": 93.699,
           "end": 100.385,
-          "confidence": 0.9376470588235295,
+          "confidence": 0.9370588235294118,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -1624,7 +1624,7 @@
               "word": " single",
               "start": 98.984,
               "end": 99.344,
-              "confidence": 0.98
+              "confidence": 0.97
             },
             {
               "word": " permit",
@@ -1715,7 +1715,7 @@
           "language": "nl",
           "start": 105.449,
           "end": 108.332,
-          "confidence": 0.9742857142857143,
+          "confidence": 0.9757142857142858,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -1723,7 +1723,7 @@
               "word": " Waarom",
               "start": 105.449,
               "end": 105.81,
-              "confidence": 0.94
+              "confidence": 0.95
             },
             {
               "word": " en",
@@ -2200,7 +2200,7 @@
           "language": "nl",
           "start": 133.727,
           "end": 135.528,
-          "confidence": 0.9883333333333333,
+          "confidence": 0.9900000000000001,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -2214,7 +2214,7 @@
               "word": " komen",
               "start": 133.948,
               "end": 134.208,
-              "confidence": 0.99
+              "confidence": 1
             },
             {
               "word": " dus",
@@ -2352,7 +2352,7 @@
           "language": "nl",
           "start": 141.98,
           "end": 143.321,
-          "confidence": 0.8320000000000001,
+          "confidence": 0.8300000000000001,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -2378,7 +2378,7 @@
               "word": " hier",
               "start": 142.941,
               "end": 143.101,
-              "confidence": 0.83
+              "confidence": 0.82
             },
             {
               "word": " dat?",
@@ -2643,7 +2643,7 @@
           "language": "nl",
           "start": 158.433,
           "end": 160.394,
-          "confidence": 0.9575,
+          "confidence": 0.95875,
           "channel": 0,
           "speaker": 3,
           "words": [
@@ -2651,7 +2651,7 @@
               "word": " maar",
               "start": 158.433,
               "end": 158.553,
-              "confidence": 0.91
+              "confidence": 0.92
             },
             {
               "word": " dat",
@@ -2702,7 +2702,7 @@
           "language": "nl",
           "start": 160.854,
           "end": 166.278,
-          "confidence": 0.9413636363636364,
+          "confidence": 0.9418181818181819,
           "channel": 0,
           "speaker": 3,
           "words": [
@@ -2710,7 +2710,7 @@
               "word": " En",
               "start": 160.854,
               "end": 160.974,
-              "confidence": 0.98
+              "confidence": 0.99
             },
             {
               "word": " zegt",
@@ -3580,7 +3580,7 @@
               "word": " is",
               "start": 202.445,
               "end": 202.524,
-              "confidence": 0.85
+              "confidence": 0.86
             },
             {
               "word": " het",
@@ -3604,7 +3604,7 @@
               "word": " om",
               "start": 203.325,
               "end": 203.445,
-              "confidence": 0.96
+              "confidence": 0.95
             },
             {
               "word": " volk",
@@ -3673,7 +3673,7 @@
           "language": "nl",
           "start": 206.647,
           "end": 208.248,
-          "confidence": 0.978,
+          "confidence": 0.9799999999999999,
           "channel": 0,
           "speaker": 3,
           "words": [
@@ -3705,7 +3705,7 @@
               "word": " tevreden,",
               "start": 207.908,
               "end": 208.248,
-              "confidence": 0.96
+              "confidence": 0.97
             }
           ]
         },
@@ -3714,7 +3714,7 @@
           "language": "nl",
           "start": 208.249,
           "end": 210.289,
-          "confidence": 0.755,
+          "confidence": 0.7566666666666667,
           "channel": 0,
           "speaker": 3,
           "words": [
@@ -3728,7 +3728,7 @@
               "word": " is",
               "start": 208.408,
               "end": 208.528,
-              "confidence": 0.11
+              "confidence": 0.12
             },
             {
               "word": " de",
@@ -3914,7 +3914,7 @@
           "language": "nl",
           "start": 217.013,
           "end": 217.554,
-          "confidence": 0.695,
+          "confidence": 0.7,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -3922,7 +3922,7 @@
               "word": " Daan",
               "start": 217.013,
               "end": 217.213,
-              "confidence": 0.69
+              "confidence": 0.7
             },
             {
               "word": " Bleus.",
@@ -4398,7 +4398,7 @@
           "language": "nl",
           "start": 246.51,
           "end": 249.252,
-          "confidence": 0.8736363636363635,
+          "confidence": 0.8754545454545454,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -4442,13 +4442,13 @@
               "word": " ze",
               "start": 248.212,
               "end": 248.331,
-              "confidence": 0.75
+              "confidence": 0.76
             },
             {
               "word": " op",
               "start": 248.351,
               "end": 248.471,
-              "confidence": 0.87
+              "confidence": 0.88
             },
             {
               "word": " die",
@@ -4528,7 +4528,7 @@
           "language": "nl",
           "start": 253.415,
           "end": 259.28,
-          "confidence": 0.8793749999999999,
+          "confidence": 0.8799999999999999,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -4620,7 +4620,7 @@
               "word": " miljoen",
               "start": 258.339,
               "end": 258.7,
-              "confidence": 0.86
+              "confidence": 0.87
             },
             {
               "word": " rekent.",
@@ -4699,7 +4699,7 @@
           "language": "nl",
           "start": 262.983,
           "end": 266.426,
-          "confidence": 0.8888888888888888,
+          "confidence": 0.89,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -4725,7 +4725,7 @@
               "word": " haar",
               "start": 263.684,
               "end": 263.844,
-              "confidence": 0.99
+              "confidence": 1
             },
             {
               "word": " eigen",
@@ -4892,7 +4892,7 @@
           "language": "nl",
           "start": 272.671,
           "end": 275.253,
-          "confidence": 0.9733333333333333,
+          "confidence": 0.9716666666666667,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -4900,7 +4900,7 @@
               "word": " heeft",
               "start": 272.671,
               "end": 272.911,
-              "confidence": 0.95
+              "confidence": 0.94
             },
             {
               "word": " nog",
@@ -5109,7 +5109,7 @@
           "language": "nl",
           "start": 290.417,
           "end": 294.8,
-          "confidence": 0.965,
+          "confidence": 0.9641666666666667,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -5117,7 +5117,7 @@
               "word": " Het",
               "start": 290.417,
               "end": 290.537,
-              "confidence": 0.99
+              "confidence": 0.98
             },
             {
               "word": " heeft",
@@ -5192,7 +5192,7 @@
           "language": "nl",
           "start": 295.161,
           "end": 301.586,
-          "confidence": 0.9785714285714286,
+          "confidence": 0.9792857142857143,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -5224,7 +5224,7 @@
               "word": " duurzamer",
               "start": 296.221,
               "end": 296.782,
-              "confidence": 0.99
+              "confidence": 1
             },
             {
               "word": " maken",
@@ -5481,7 +5481,7 @@
           "language": "nl",
           "start": 316.266,
           "end": 318.947,
-          "confidence": 0.9228571428571428,
+          "confidence": 0.9285714285714286,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -5493,9 +5493,9 @@
             },
             {
               "word": " verzwakken",
-              "start": 316.906,
+              "start": 316.926,
               "end": 317.446,
-              "confidence": 0.96
+              "confidence": 1
             },
             {
               "word": " en",
@@ -5673,7 +5673,7 @@
               "word": " tonen",
               "start": 329.462,
               "end": 329.722,
-              "confidence": 0.96
+              "confidence": 0.95
             },
             {
               "word": " aan",
@@ -5703,7 +5703,7 @@
               "word": " overlevingskansen",
               "start": 330.503,
               "end": 331.663,
-              "confidence": 0.97
+              "confidence": 0.98
             },
             {
               "word": " van",
@@ -5979,7 +5979,7 @@
           "language": "nl",
           "start": 351.952,
           "end": 356.674,
-          "confidence": 0.8669230769230769,
+          "confidence": 0.8692307692307693,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -6005,7 +6005,7 @@
               "word": " op",
               "start": 353.172,
               "end": 353.292,
-              "confidence": 0.82
+              "confidence": 0.83
             },
             {
               "word": " de",
@@ -6023,7 +6023,7 @@
               "word": " in",
               "start": 353.673,
               "end": 353.793,
-              "confidence": 0.98
+              "confidence": 0.99
             },
             {
               "word": " Parijs",
@@ -6035,7 +6035,7 @@
               "word": " is",
               "start": 354.473,
               "end": 354.593,
-              "confidence": 0.82
+              "confidence": 0.83
             },
             {
               "word": " het",
@@ -6067,8 +6067,8 @@
           "text": "Het aandeel is gisteravond bijna 8%",
           "language": "nl",
           "start": 357.01,
-          "end": 360.011,
-          "confidence": 0.9466666666666667,
+          "end": 360.013,
+          "confidence": 0.9566666666666667,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -6076,226 +6076,226 @@
               "word": " Het",
               "start": 357.01,
               "end": 357.13,
-              "confidence": 0.9
+              "confidence": 0.95
             },
             {
               "word": " aandeel",
               "start": 357.19,
-              "end": 357.55,
+              "end": 357.551,
               "confidence": 1
             },
             {
               "word": " is",
-              "start": 357.67,
-              "end": 357.79,
+              "start": 357.671,
+              "end": 357.791,
               "confidence": 1
             },
             {
               "word": " gisteravond",
-              "start": 357.85,
+              "start": 357.851,
               "end": 358.471,
               "confidence": 0.95
             },
             {
               "word": " bijna",
               "start": 358.551,
-              "end": 358.831,
+              "end": 358.832,
               "confidence": 0.99
             },
             {
               "word": " 8%",
-              "start": 359.151,
-              "end": 360.011,
-              "confidence": 0.84
+              "start": 359.152,
+              "end": 360.013,
+              "confidence": 0.85
             }
           ]
         },
         {
           "text": "lager ge\u00ebindigd.",
           "language": "nl",
-          "start": 360.212,
-          "end": 361.352,
-          "confidence": 0.99,
+          "start": 360.213,
+          "end": 361.354,
+          "confidence": 0.995,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " lager",
-              "start": 360.212,
-              "end": 360.632,
+              "start": 360.213,
+              "end": 360.633,
               "confidence": 0.99
             },
             {
               "word": " ge\u00ebindigd.",
-              "start": 360.692,
-              "end": 361.352,
-              "confidence": 0.99
+              "start": 360.693,
+              "end": 361.354,
+              "confidence": 1
             }
           ]
         },
         {
           "text": "En daardoor is de groep van onder meer de handtassen van Louis Vuitton en de champagne van Mo\u00ebt Chandon niet langer het grootste luxehuis ter wereld.",
           "language": "nl",
-          "start": 362.012,
-          "end": 371.297,
+          "start": 362.015,
+          "end": 371.303,
           "confidence": 0.9515384615384614,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " En",
-              "start": 362.012,
-              "end": 362.132,
+              "start": 362.015,
+              "end": 362.135,
               "confidence": 1
             },
             {
               "word": " daardoor",
-              "start": 362.192,
-              "end": 362.633,
+              "start": 362.195,
+              "end": 362.635,
               "confidence": 1
             },
             {
               "word": " is",
-              "start": 362.773,
-              "end": 362.893,
+              "start": 362.775,
+              "end": 362.895,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 362.894,
-              "end": 363.013,
+              "start": 362.896,
+              "end": 363.016,
               "confidence": 1
             },
             {
               "word": " groep",
-              "start": 363.053,
-              "end": 363.253,
+              "start": 363.056,
+              "end": 363.256,
               "confidence": 0.99
             },
             {
               "word": " van",
-              "start": 363.333,
-              "end": 363.513,
+              "start": 363.336,
+              "end": 363.516,
               "confidence": 0.99
             },
             {
               "word": " onder",
-              "start": 363.753,
-              "end": 363.933,
+              "start": 363.756,
+              "end": 363.936,
               "confidence": 1
             },
             {
               "word": " meer",
-              "start": 363.973,
-              "end": 364.173,
+              "start": 363.976,
+              "end": 364.177,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 364.193,
-              "end": 364.313,
+              "start": 364.197,
+              "end": 364.317,
               "confidence": 1
             },
             {
               "word": " handtassen",
-              "start": 364.353,
-              "end": 364.814,
+              "start": 364.357,
+              "end": 364.817,
               "confidence": 0.94
             },
             {
               "word": " van",
-              "start": 364.834,
-              "end": 364.994,
+              "start": 364.837,
+              "end": 364.997,
               "confidence": 1
             },
             {
               "word": " Louis",
-              "start": 365.074,
-              "end": 365.354,
+              "start": 365.077,
+              "end": 365.358,
               "confidence": 0.82
             },
             {
               "word": " Vuitton",
-              "start": 365.394,
-              "end": 365.834,
+              "start": 365.398,
+              "end": 365.838,
               "confidence": 0.73
             },
             {
               "word": " en",
-              "start": 366.014,
-              "end": 366.134,
+              "start": 366.018,
+              "end": 366.138,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 366.135,
-              "end": 366.234,
+              "start": 366.139,
+              "end": 366.238,
               "confidence": 1
             },
             {
               "word": " champagne",
-              "start": 366.294,
-              "end": 366.835,
+              "start": 366.299,
+              "end": 366.839,
               "confidence": 0.94
             },
             {
               "word": " van",
-              "start": 366.915,
-              "end": 367.055,
+              "start": 366.919,
+              "end": 367.059,
               "confidence": 1
             },
             {
               "word": " Mo\u00ebt",
-              "start": 367.135,
-              "end": 367.435,
+              "start": 367.139,
+              "end": 367.44,
               "confidence": 0.61
             },
             {
               "word": " Chandon",
-              "start": 367.436,
-              "end": 367.835,
+              "start": 367.441,
+              "end": 367.84,
               "confidence": 0.88
             },
             {
               "word": " niet",
-              "start": 368.235,
-              "end": 368.435,
+              "start": 368.24,
+              "end": 368.44,
               "confidence": 1
             },
             {
               "word": " langer",
-              "start": 368.515,
-              "end": 368.775,
+              "start": 368.521,
+              "end": 368.781,
               "confidence": 0.97
             },
             {
               "word": " het",
-              "start": 368.895,
-              "end": 369.036,
+              "start": 368.901,
+              "end": 369.041,
               "confidence": 0.94
             },
             {
               "word": " grootste",
-              "start": 369.216,
-              "end": 369.696,
+              "start": 369.221,
+              "end": 369.702,
               "confidence": 0.96
             },
             {
               "word": " luxehuis",
-              "start": 369.956,
-              "end": 370.576,
+              "start": 369.962,
+              "end": 370.582,
               "confidence": 0.98
             },
             {
               "word": " ter",
-              "start": 370.696,
-              "end": 370.836,
+              "start": 370.703,
+              "end": 370.843,
               "confidence": 1
             },
             {
               "word": " wereld.",
-              "start": 370.916,
-              "end": 371.297,
+              "start": 370.923,
+              "end": 371.303,
               "confidence": 1
             }
           ]
@@ -6303,28 +6303,28 @@
         {
           "text": "Dat is voortaan",
           "language": "nl",
-          "start": 371.877,
-          "end": 372.977,
-          "confidence": 0.9866666666666667,
+          "start": 371.884,
+          "end": 372.985,
+          "confidence": 0.9899999999999999,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Dat",
-              "start": 371.877,
-              "end": 372.037,
+              "start": 371.884,
+              "end": 372.044,
               "confidence": 1
             },
             {
               "word": " is",
-              "start": 372.197,
-              "end": 372.317,
-              "confidence": 0.99
+              "start": 372.204,
+              "end": 372.324,
+              "confidence": 1
             },
             {
               "word": " voortaan",
-              "start": 372.497,
-              "end": 372.977,
+              "start": 372.504,
+              "end": 372.985,
               "confidence": 0.97
             }
           ]
@@ -6332,34 +6332,34 @@
         {
           "text": "Herm\u00e8s. Goeiemorgen Ellen Vermorgen.",
           "language": "nl",
-          "start": 373.377,
-          "end": 375.639,
-          "confidence": 0.9225,
+          "start": 373.385,
+          "end": 375.647,
+          "confidence": 0.9275,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Herm\u00e8s.",
-              "start": 373.377,
-              "end": 373.778,
-              "confidence": 0.78
+              "start": 373.385,
+              "end": 373.785,
+              "confidence": 0.79
             },
             {
               "word": " Goeiemorgen",
-              "start": 374.258,
-              "end": 374.738,
-              "confidence": 0.97
+              "start": 374.266,
+              "end": 374.746,
+              "confidence": 0.98
             },
             {
               "word": " Ellen",
-              "start": 374.898,
-              "end": 375.118,
+              "start": 374.906,
+              "end": 375.127,
               "confidence": 0.96
             },
             {
               "word": " Vermorgen.",
-              "start": 375.178,
-              "end": 375.639,
+              "start": 375.187,
+              "end": 375.647,
               "confidence": 0.98
             }
           ]
@@ -6367,16 +6367,16 @@
         {
           "text": "Hey,",
           "language": "nl",
-          "start": 376.179,
-          "end": 376.339,
+          "start": 376.188,
+          "end": 376.348,
           "confidence": 0.36,
           "channel": 0,
           "speaker": 4,
           "words": [
             {
               "word": " Hey,",
-              "start": 376.179,
-              "end": 376.339,
+              "start": 376.188,
+              "end": 376.348,
               "confidence": 0.36
             }
           ]
@@ -6384,22 +6384,22 @@
         {
           "text": "dag Rowan.",
           "language": "nl",
-          "start": 376.459,
-          "end": 376.899,
+          "start": 376.468,
+          "end": 376.908,
           "confidence": 0.7649999999999999,
           "channel": 0,
           "speaker": 4,
           "words": [
             {
               "word": " dag",
-              "start": 376.459,
-              "end": 376.599,
+              "start": 376.468,
+              "end": 376.608,
               "confidence": 0.82
             },
             {
               "word": " Rowan.",
-              "start": 376.659,
-              "end": 376.899,
+              "start": 376.668,
+              "end": 376.908,
               "confidence": 0.71
             }
           ]
@@ -6407,46 +6407,46 @@
         {
           "text": "Journalisten beleggen hier bij de tijd.",
           "language": "nl",
-          "start": 377.119,
-          "end": 379.3,
+          "start": 377.128,
+          "end": 379.31,
           "confidence": 0.9650000000000002,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Journalisten",
-              "start": 377.119,
-              "end": 377.699,
+              "start": 377.128,
+              "end": 377.709,
               "confidence": 0.93
             },
             {
               "word": " beleggen",
-              "start": 377.78,
-              "end": 378.24,
+              "start": 377.789,
+              "end": 378.249,
               "confidence": 1
             },
             {
               "word": " hier",
-              "start": 378.38,
-              "end": 378.58,
+              "start": 378.39,
+              "end": 378.59,
               "confidence": 1
             },
             {
               "word": " bij",
-              "start": 378.7,
-              "end": 378.86,
+              "start": 378.71,
+              "end": 378.87,
               "confidence": 0.87
             },
             {
               "word": " de",
-              "start": 378.861,
-              "end": 378.98,
+              "start": 378.871,
+              "end": 378.99,
               "confidence": 1
             },
             {
               "word": " tijd.",
-              "start": 379.06,
-              "end": 379.3,
+              "start": 379.07,
+              "end": 379.31,
               "confidence": 0.99
             }
           ]
@@ -6454,34 +6454,34 @@
         {
           "text": "Om te beginnen Ellen,",
           "language": "nl",
-          "start": 379.68,
-          "end": 380.641,
+          "start": 379.691,
+          "end": 380.652,
           "confidence": 0.995,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Om",
-              "start": 379.68,
-              "end": 379.8,
+              "start": 379.691,
+              "end": 379.811,
               "confidence": 1
             },
             {
               "word": " te",
-              "start": 379.801,
-              "end": 379.9,
+              "start": 379.812,
+              "end": 379.911,
               "confidence": 1
             },
             {
               "word": " beginnen",
-              "start": 379.92,
-              "end": 380.281,
+              "start": 379.931,
+              "end": 380.291,
               "confidence": 1
             },
             {
               "word": " Ellen,",
-              "start": 380.381,
-              "end": 380.641,
+              "start": 380.391,
+              "end": 380.652,
               "confidence": 0.98
             }
           ]
@@ -6489,58 +6489,58 @@
         {
           "text": "wat is er aan de hand bij LVMH?",
           "language": "nl",
-          "start": 381.101,
-          "end": 383.022,
+          "start": 381.112,
+          "end": 383.034,
           "confidence": 0.975,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " wat",
-              "start": 381.101,
-              "end": 381.241,
+              "start": 381.112,
+              "end": 381.252,
               "confidence": 1
             },
             {
               "word": " is",
-              "start": 381.281,
-              "end": 381.401,
+              "start": 381.292,
+              "end": 381.412,
               "confidence": 1
             },
             {
               "word": " er",
-              "start": 381.402,
-              "end": 381.521,
+              "start": 381.413,
+              "end": 381.532,
               "confidence": 1
             },
             {
               "word": " aan",
-              "start": 381.561,
-              "end": 381.681,
+              "start": 381.572,
+              "end": 381.693,
               "confidence": 0.97
             },
             {
               "word": " de",
-              "start": 381.701,
-              "end": 381.781,
+              "start": 381.713,
+              "end": 381.793,
               "confidence": 1
             },
             {
               "word": " hand",
-              "start": 381.782,
-              "end": 381.981,
+              "start": 381.794,
+              "end": 381.993,
               "confidence": 1
             },
             {
               "word": " bij",
-              "start": 382.061,
-              "end": 382.242,
+              "start": 382.073,
+              "end": 382.253,
               "confidence": 1
             },
             {
               "word": " LVMH?",
-              "start": 382.522,
-              "end": 383.022,
+              "start": 382.533,
+              "end": 383.034,
               "confidence": 0.83
             }
           ]
@@ -6567,7 +6567,7 @@
           "language": "nl",
           "start": 383.97,
           "end": 388.431,
-          "confidence": 0.8874999999999998,
+          "confidence": 0.8883333333333333,
           "channel": 0,
           "speaker": 4,
           "words": [
@@ -6581,7 +6581,7 @@
               "word": " maandagavond",
               "start": 384.39,
               "end": 385.13,
-              "confidence": 0.79
+              "confidence": 0.8
             },
             {
               "word": " de",
@@ -6650,7 +6650,7 @@
           "language": "nl",
           "start": 388.451,
           "end": 390.132,
-          "confidence": 0.9400000000000001,
+          "confidence": 0.9425,
           "channel": 0,
           "speaker": 4,
           "words": [
@@ -6670,7 +6670,7 @@
               "word": " krimpt",
               "start": 389.192,
               "end": 389.692,
-              "confidence": 0.84
+              "confidence": 0.85
             },
             {
               "word": " daar,",
@@ -7347,7 +7347,7 @@
           "language": "nl",
           "start": 420.249,
           "end": 421.449,
-          "confidence": 0.8140000000000001,
+          "confidence": 0.8220000000000001,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -7379,23 +7379,23 @@
               "word": " tellen,",
               "start": 421.209,
               "end": 421.449,
-              "confidence": 0.9
+              "confidence": 0.94
             }
           ]
         },
         {
           "text": "h\u00e8?",
           "language": "nl",
-          "start": 421.469,
-          "end": 421.589,
+          "start": 421.45,
+          "end": 421.569,
           "confidence": 0.45,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " h\u00e8?",
-              "start": 421.469,
-              "end": 421.589,
+              "start": 421.45,
+              "end": 421.569,
               "confidence": 0.45
             }
           ]
@@ -7598,7 +7598,7 @@
           "language": "nl",
           "start": 430.133,
           "end": 432.794,
-          "confidence": 0.9559999999999998,
+          "confidence": 0.9570000000000001,
           "channel": 0,
           "speaker": 4,
           "words": [
@@ -7606,7 +7606,7 @@
               "word": " En",
               "start": 430.133,
               "end": 430.253,
-              "confidence": 0.95
+              "confidence": 0.96
             },
             {
               "word": " nu",
@@ -8314,7 +8314,7 @@
           "language": "nl",
           "start": 465.111,
           "end": 468.853,
-          "confidence": 0.7444444444444445,
+          "confidence": 0.7433333333333334,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -8346,7 +8346,7 @@
               "word": " illustratief",
               "start": 466.372,
               "end": 467.132,
-              "confidence": 0.94
+              "confidence": 0.93
             },
             {
               "word": " voor",
@@ -8578,7 +8578,7 @@
           "language": "nl",
           "start": 476.039,
           "end": 480.643,
-          "confidence": 0.9800000000000002,
+          "confidence": 0.977857142857143,
           "channel": 0,
           "speaker": 4,
           "words": [
@@ -8652,7 +8652,7 @@
               "word": " vermogende",
               "start": 478.641,
               "end": 479.342,
-              "confidence": 0.99
+              "confidence": 0.96
             },
             {
               "word": " klantencategorie",
@@ -8673,7 +8673,7 @@
           "language": "nl",
           "start": 480.663,
           "end": 481.964,
-          "confidence": 0.9685714285714286,
+          "confidence": 0.9542857142857144,
           "channel": 0,
           "speaker": 4,
           "words": [
@@ -8705,7 +8705,7 @@
               "word": " goed",
               "start": 481.263,
               "end": 481.463,
-              "confidence": 1
+              "confidence": 0.9
             },
             {
               "word": " blijven",
@@ -9139,7 +9139,7 @@
           ]
         },
         {
-          "text": "dat is een...",
+          "text": "Dat is een...",
           "language": "nl",
           "start": 498.358,
           "end": 498.638,
@@ -9148,7 +9148,7 @@
           "speaker": 4,
           "words": [
             {
-              "word": " dat",
+              "word": " Dat",
               "start": 498.358,
               "end": 498.478,
               "confidence": 0.58
@@ -9172,7 +9172,7 @@
           "language": "nl",
           "start": 498.958,
           "end": 500.459,
-          "confidence": 0.93875,
+          "confidence": 0.94,
           "channel": 0,
           "speaker": 4,
           "words": [
@@ -9192,7 +9192,7 @@
               "word": " dat",
               "start": 499.278,
               "end": 499.398,
-              "confidence": 0.96
+              "confidence": 0.97
             },
             {
               "word": " eigenlijk",
@@ -9890,7 +9890,7 @@
           "language": "nl",
           "start": 529.222,
           "end": 533.064,
-          "confidence": 0.8914285714285713,
+          "confidence": 0.8928571428571429,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -9898,7 +9898,7 @@
               "word": " Amerikaanse",
               "start": 529.222,
               "end": 529.822,
-              "confidence": 0.8
+              "confidence": 0.81
             },
             {
               "word": " vliegtuigbouwer",
@@ -9943,7 +9943,7 @@
           "language": "nl",
           "start": 533.585,
           "end": 538.748,
-          "confidence": 0.9125000000000001,
+          "confidence": 0.9133333333333334,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -9951,7 +9951,7 @@
               "word": " China",
               "start": 533.585,
               "end": 533.885,
-              "confidence": 0.91
+              "confidence": 0.92
             },
             {
               "word": " verbiedt",
@@ -10005,7 +10005,7 @@
               "word": " doen",
               "start": 537.647,
               "end": 537.827,
-              "confidence": 0.9
+              "confidence": 0.91
             },
             {
               "word": " met",
@@ -10017,7 +10017,7 @@
               "word": " Boeing,",
               "start": 538.367,
               "end": 538.748,
-              "confidence": 0.84
+              "confidence": 0.83
             }
           ]
         },
@@ -10093,7 +10093,7 @@
               "word": " rechtstreeks",
               "start": 544.391,
               "end": 544.971,
-              "confidence": 0.91
+              "confidence": 0.92
             },
             {
               "word": " gevolg",
@@ -10111,7 +10111,7 @@
               "word": " de",
               "start": 545.553,
               "end": 545.672,
-              "confidence": 0.94
+              "confidence": 0.95
             },
             {
               "word": " tarievenoorlog",
@@ -10123,7 +10123,7 @@
               "word": " die",
               "start": 546.912,
               "end": 547.033,
-              "confidence": 0.93
+              "confidence": 0.91
             },
             {
               "word": " de",
@@ -10291,7 +10291,7 @@
           "language": "nl",
           "start": 556.398,
           "end": 562.722,
-          "confidence": 0.958888888888889,
+          "confidence": 0.9594444444444447,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -10317,7 +10317,7 @@
               "word": " van",
               "start": 557.279,
               "end": 557.399,
-              "confidence": 0.96
+              "confidence": 0.97
             },
             {
               "word": " de",
@@ -10410,7 +10410,7 @@
           "language": "nl",
           "start": 563.382,
           "end": 571.447,
-          "confidence": 0.8731578947368421,
+          "confidence": 0.8726315789473683,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -10460,7 +10460,7 @@
               "word": " plannen",
               "start": 566.444,
               "end": 566.764,
-              "confidence": 0.96
+              "confidence": 0.95
             },
             {
               "word": " om",
@@ -10606,7 +10606,7 @@
           "language": "nl",
           "start": 576.37,
           "end": 580.252,
-          "confidence": 0.9381818181818182,
+          "confidence": 0.9445454545454546,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -10614,7 +10614,7 @@
               "word": " Die",
               "start": 576.37,
               "end": 576.49,
-              "confidence": 0.86
+              "confidence": 0.93
             },
             {
               "word": " is",
@@ -10791,11 +10791,11 @@
           ]
         },
         {
-          "text": "Analysten zien zelfs ook een derde speler profiteren van de schijnbare afdaling van Boeing.",
+          "text": "Analysten zien zelfs ook een derde speler profiteren van de schijnbare afdaling van Boeing,",
           "language": "nl",
           "start": 588.539,
           "end": 594.004,
-          "confidence": 0.9564285714285715,
+          "confidence": 0.9514285714285714,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -10833,7 +10833,7 @@
               "word": " derde",
               "start": 590.1,
               "end": 590.4,
-              "confidence": 1
+              "confidence": 0.92
             },
             {
               "word": " speler",
@@ -10857,7 +10857,7 @@
               "word": " de",
               "start": 591.882,
               "end": 592.002,
-              "confidence": 0.98
+              "confidence": 0.99
             },
             {
               "word": " schijnbare",
@@ -10878,7 +10878,7 @@
               "confidence": 1
             },
             {
-              "word": " Boeing.",
+              "word": " Boeing,",
               "start": 593.683,
               "end": 594.004,
               "confidence": 0.81
@@ -10886,7 +10886,7 @@
           ]
         },
         {
-          "text": "De Braziliaanse constructeur Embraer.",
+          "text": "de Braziliaanse constructeur Embraer.",
           "language": "nl",
           "start": 594.364,
           "end": 596.846,
@@ -10895,7 +10895,7 @@
           "speaker": 2,
           "words": [
             {
-              "word": " De",
+              "word": " de",
               "start": 594.364,
               "end": 594.484,
               "confidence": 1
@@ -11408,7 +11408,7 @@
           "language": "nl",
           "start": 631.63,
           "end": 636.971,
-          "confidence": 0.8249999999999998,
+          "confidence": 0.8233333333333333,
           "channel": 0,
           "speaker": 5,
           "words": [
@@ -11434,7 +11434,7 @@
               "word": " het",
               "start": 632.53,
               "end": 632.65,
-              "confidence": 0.79
+              "confidence": 0.78
             },
             {
               "word": " qua",
@@ -11464,7 +11464,7 @@
               "word": " nieuws",
               "start": 635.211,
               "end": 635.471,
-              "confidence": 0.59
+              "confidence": 0.58
             },
             {
               "word": " wel",
@@ -11780,7 +11780,7 @@
           "language": "nl",
           "start": 652.455,
           "end": 654.476,
-          "confidence": 0.696,
+          "confidence": 0.698,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -11806,7 +11806,7 @@
               "word": " met",
               "start": 653.476,
               "end": 653.676,
-              "confidence": 0.82
+              "confidence": 0.83
             },
             {
               "word": " technologie...",
@@ -11874,7 +11874,7 @@
           "language": "nl",
           "start": 658.978,
           "end": 662.8,
-          "confidence": 0.9480000000000001,
+          "confidence": 0.9469999999999998,
           "channel": 0,
           "speaker": 5,
           "words": [
@@ -11900,7 +11900,7 @@
               "word": " dat",
               "start": 659.64,
               "end": 659.779,
-              "confidence": 0.87
+              "confidence": 0.86
             },
             {
               "word": " de",
@@ -12380,7 +12380,7 @@
           "language": "nl",
           "start": 684.108,
           "end": 685.049,
-          "confidence": 0.655,
+          "confidence": 0.645,
           "channel": 0,
           "speaker": 5,
           "words": [
@@ -12388,13 +12388,13 @@
               "word": " Handdoek",
               "start": 684.108,
               "end": 684.448,
-              "confidence": 0.69
+              "confidence": 0.68
             },
             {
               "word": " enzovoort.",
               "start": 684.608,
               "end": 685.049,
-              "confidence": 0.62
+              "confidence": 0.61
             }
           ]
         },
@@ -12567,7 +12567,7 @@
           "language": "nl",
           "start": 693.015,
           "end": 697.499,
-          "confidence": 0.9661538461538461,
+          "confidence": 0.966923076923077,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -12623,7 +12623,7 @@
               "word": " voor",
               "start": 695.878,
               "end": 696.018,
-              "confidence": 0.97
+              "confidence": 0.98
             },
             {
               "word": " nog",
@@ -12727,7 +12727,7 @@
           "language": "nl",
           "start": 701.082,
           "end": 703.624,
-          "confidence": 0.895,
+          "confidence": 0.8933333333333334,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -12735,7 +12735,7 @@
               "word": " waar",
               "start": 701.082,
               "end": 701.242,
-              "confidence": 0.76
+              "confidence": 0.75
             },
             {
               "word": " ze",
@@ -12844,7 +12844,7 @@
           "language": "nl",
           "start": 707.587,
           "end": 712.992,
-          "confidence": 0.8526315789473685,
+          "confidence": 0.8521052631578948,
           "channel": 0,
           "speaker": 5,
           "words": [
@@ -12876,7 +12876,7 @@
               "word": " mee",
               "start": 708.368,
               "end": 708.488,
-              "confidence": 0.91
+              "confidence": 0.9
             },
             {
               "word": " bezig",
@@ -12969,7 +12969,7 @@
           "language": "nl",
           "start": 713.544,
           "end": 714.205,
-          "confidence": 0.8533333333333334,
+          "confidence": 0.85,
           "channel": 0,
           "speaker": 5,
           "words": [
@@ -12983,7 +12983,7 @@
               "word": " bij",
               "start": 713.824,
               "end": 713.944,
-              "confidence": 0.61
+              "confidence": 0.6
             },
             {
               "word": " ons,",
@@ -13033,7 +13033,7 @@
           "language": "nl",
           "start": 716.266,
           "end": 717.487,
-          "confidence": 0.9766666666666666,
+          "confidence": 0.9733333333333333,
           "channel": 0,
           "speaker": 5,
           "words": [
@@ -13053,7 +13053,7 @@
               "word": " lokaal.",
               "start": 717.027,
               "end": 717.487,
-              "confidence": 0.97
+              "confidence": 0.96
             }
           ]
         },
@@ -13552,7 +13552,7 @@
           "language": "nl",
           "start": 741.747,
           "end": 742.647,
-          "confidence": 0.8500000000000001,
+          "confidence": 0.8475,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -13578,7 +13578,7 @@
               "word": " app,",
               "start": 742.527,
               "end": 742.647,
-              "confidence": 0.49
+              "confidence": 0.48
             }
           ]
         },
@@ -13751,7 +13751,7 @@
           "language": "nl",
           "start": 753.433,
           "end": 755.113,
-          "confidence": 0.98375,
+          "confidence": 0.9800000000000001,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -13783,7 +13783,7 @@
               "word": " met",
               "start": 754.153,
               "end": 754.293,
-              "confidence": 0.97
+              "confidence": 0.94
             },
             {
               "word": " jou",
@@ -13810,7 +13810,7 @@
           "language": "nl",
           "start": 755.333,
           "end": 760.636,
-          "confidence": 0.9315384615384616,
+          "confidence": 0.9300000000000002,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -13884,13 +13884,13 @@
               "word": " van",
               "start": 759.955,
               "end": 760.116,
-              "confidence": 0.89
+              "confidence": 0.88
             },
             {
               "word": " Vlaanderen.",
               "start": 760.176,
               "end": 760.636,
-              "confidence": 0.75
+              "confidence": 0.74
             }
           ]
         },
@@ -14005,7 +14005,7 @@
           "language": "nl",
           "start": 768.76,
           "end": 773.923,
-          "confidence": 0.8566666666666666,
+          "confidence": 0.8574999999999999,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -14019,7 +14019,7 @@
               "word": " 7",
               "start": 768.92,
               "end": 769.26,
-              "confidence": 0.94
+              "confidence": 0.95
             },
             {
               "word": " is",
@@ -14123,7 +14123,7 @@
           "language": "nl",
           "start": 776.165,
           "end": 780.027,
-          "confidence": 0.951,
+          "confidence": 0.9570000000000002,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -14155,7 +14155,7 @@
               "word": " tweede",
               "start": 776.985,
               "end": 777.326,
-              "confidence": 0.92
+              "confidence": 0.99
             },
             {
               "word": " keer",
@@ -14167,19 +14167,19 @@
               "word": " ook",
               "start": 777.846,
               "end": 777.986,
-              "confidence": 0.97
+              "confidence": 0.98
             },
             {
               "word": " luistercijfers",
               "start": 778.146,
               "end": 778.887,
-              "confidence": 0.97
+              "confidence": 0.96
             },
             {
               "word": " voor",
               "start": 778.927,
               "end": 779.107,
-              "confidence": 0.93
+              "confidence": 0.92
             },
             {
               "word": " podcasts.",
@@ -14460,7 +14460,7 @@
           "language": "nl",
           "start": 792.396,
           "end": 794.978,
-          "confidence": 0.8975,
+          "confidence": 0.9025000000000001,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -14474,25 +14474,25 @@
               "word": " bijvoorbeeld",
               "start": 792.576,
               "end": 793.137,
-              "confidence": 0.79
+              "confidence": 0.8
             },
             {
               "word": " nog",
               "start": 793.277,
               "end": 793.397,
-              "confidence": 0.78
+              "confidence": 0.79
             },
             {
               "word": " niet",
               "start": 793.597,
               "end": 793.797,
-              "confidence": 0.84
+              "confidence": 0.85
             },
             {
               "word": " mee",
               "start": 793.917,
               "end": 794.078,
-              "confidence": 0.83
+              "confidence": 0.84
             },
             {
               "word": " in",
@@ -14566,7 +14566,7 @@
           "language": "nl",
           "start": 798.621,
           "end": 803.405,
-          "confidence": 0.923529411764706,
+          "confidence": 0.9241176470588237,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -14634,7 +14634,7 @@
               "word": " en",
               "start": 801.704,
               "end": 801.824,
-              "confidence": 0.96
+              "confidence": 0.97
             },
             {
               "word": " aan",
@@ -14833,7 +14833,7 @@
           "language": "nl",
           "start": 811.352,
           "end": 812.834,
-          "confidence": 0.9750000000000001,
+          "confidence": 0.9775,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -14847,7 +14847,7 @@
               "word": " ook",
               "start": 811.753,
               "end": 811.873,
-              "confidence": 0.93
+              "confidence": 0.94
             },
             {
               "word": " morgenochtend",
@@ -14876,7 +14876,7 @@
               "word": " Graag",
               "start": 813.234,
               "end": 813.454,
-              "confidence": 0.98
+              "confidence": 0.97
             },
             {
               "word": " tot",
@@ -14918,7 +14918,7 @@
               "word": " fijne",
               "start": 814.875,
               "end": 815.115,
-              "confidence": 0.94
+              "confidence": 0.95
             },
             {
               "word": " woensdag.",
@@ -14968,7 +14968,7 @@
           "language": "nl",
           "start": 820.828,
           "end": 821.908,
-          "confidence": 0.6525000000000001,
+          "confidence": 0.6475,
           "channel": 0,
           "speaker": 1,
           "words": [
@@ -14976,13 +14976,13 @@
               "word": " Met",
               "start": 820.828,
               "end": 820.968,
-              "confidence": 0.86
+              "confidence": 0.85
             },
             {
               "word": " Roan",
               "start": 821.068,
               "end": 821.408,
-              "confidence": 0.78
+              "confidence": 0.77
             },
             {
               "word": " van",
@@ -15097,7 +15097,7 @@
           "language": "nl",
           "start": 828.07,
           "end": 830.231,
-          "confidence": 0.96875,
+          "confidence": 0.97,
           "channel": 0,
           "speaker": 1,
           "words": [
@@ -15111,7 +15111,7 @@
               "word": " door",
               "start": 828.51,
               "end": 828.63,
-              "confidence": 0.92
+              "confidence": 0.93
             },
             {
               "word": " wat",
@@ -15561,7 +15561,7 @@
           "language": "nl",
           "start": 859.454,
           "end": 860.574,
-          "confidence": 0.806,
+          "confidence": 0.8039999999999999,
           "channel": 0,
           "speaker": 6,
           "words": [
@@ -15581,7 +15581,7 @@
               "word": " een",
               "start": 859.775,
               "end": 859.894,
-              "confidence": 0.26
+              "confidence": 0.25
             },
             {
               "word": " goeie",
@@ -15620,7 +15620,7 @@
             },
             {
               "word": " een",
-              "start": 861.374,
+              "start": 861.355,
               "end": 861.494,
               "confidence": 0.27
             },
@@ -15748,7 +15748,7 @@
           "language": "nl",
           "start": 870.496,
           "end": 874.477,
-          "confidence": 0.9155555555555556,
+          "confidence": 0.9144444444444445,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -15768,7 +15768,7 @@
               "word": " effici\u00ebnt",
               "start": 871.177,
               "end": 871.657,
-              "confidence": 0.95
+              "confidence": 0.94
             },
             {
               "word": " geholpen",
@@ -15842,7 +15842,7 @@
           "language": "nl",
           "start": 876.458,
           "end": 877.238,
-          "confidence": 0.6666666666666666,
+          "confidence": 0.68,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -15850,13 +15850,13 @@
               "word": " U",
               "start": 876.458,
               "end": 876.578,
-              "confidence": 0.57
+              "confidence": 0.6
             },
             {
               "word": " wordt",
               "start": 876.618,
               "end": 876.778,
-              "confidence": 0.63
+              "confidence": 0.64
             },
             {
               "word": " verwacht.",
@@ -15867,7 +15867,7 @@
           ]
         }
       ],
-      "full_transcript": "Bouw aan je kennis met de 7. En voor een uitzendkracht in de bouw, ga naar Trixo. Kijk op trixo.xx.be Welkom bij de 7 van de tijd. Elke dag om 7 uur, onze blik op de zaken in 7 punten. Dit is Roan van Eyck. Goeiemorgen. Het wordt moeilijker om vrachtwagenchauffeurs, loodgieters en andere knelpuntwerknemers te vinden in het... Buitenland, minister Demir maakt de lijst voor vlotte arbeidsmigratie korter. Een veelzeggend haasje over in de wereld van de weelde. Herm\u00e8s steekt LVMH voorbij als grootste luxe-concern. Wat is hun geheime recept? En moeten andere chique merken dat dan maar volgen? En het bekende zakenblad Forbes publiceert zijn nieuwe 30 under 30 lijst. En daarop prijken zeven Belgen. We praten met een van hen, een maker van gep... personaliseerde kinderboeken. Je luistert naar de meest gestreamde podcast van Vlaanderen, toch volgens de Sim. Het is woensdag 16 april. Welkom. De zeven van de tijd. Vlaams minister van Werk, Souhal Demir, vermindert het aantal knelpuntberoepen waarvoor een single permit mogelijk is. Die zorgt voor een vlotte arbeidsmigratie van buiten de Europese Unie naar ons land met een gecombineerde werk- en verblijfsvergunning. Nu zijn er nog 29 beroepen waarvoor de Vlaamse en federale overheid sneller een single permit toekennen, maar dat aantal wil Demir terugbrengen naar 23. Waarom en wat zijn daarvan de gevolgen? Redacteur politiek en economie bij de tijd Daan Bleus, goeiemorgen. Goeiemorgen. Welke beroepen wil Demir van de lijst afhalen dan? Ze schrapt er elf, waaronder vrachtwagenbestuurder, buschauffeur, slager en warme bakker. Tegelijkertijd voegt ze er vijf toe, zoals als bestverwijderaar, installateur van datacommunicatienetwerken en operateurinstallaties in de chemische industrie. Ok\u00e9, er komen dus ook beroepen bij. Maar netto wordt de lijst wel korter, van 29 naar 23 knelpuntberoepen. Waarom doet hem hier dat? Haar belangrijkste argument is dat we in Vlaanderen en Belgi\u00eb genoeg inactieve en werkzoekende hebben die geactiveerd kunnen worden voor die jobs. Tegelijkertijd zegt ze vaak fraude vast van mensen die naar hier komen voor een bepaald beroep, maar dat hier niet blijken uit te oefenen. En zegt ze voor een aantal jobs is de krapte minder groot dan twee jaar geleden toen de vorige lijst werd goedgekeurd. En dus is het logisch om die te schrappen. Al blijft dat argument van de krapte wel moeilijk, want we zien dat voor het gros van de jobs die ze schrapt, er in Vlaanderen nog altijd maar maximaal vijf mensen beschikbaar zijn om die job uit te oefenen. Ok\u00e9, en hoe reageren de sociale partners op het verkorten van die lijst? Werkgevers en zelfs vakbonden wilden de lijst van 29 eigenlijk uitbreiden naar 251. Dat zijn de Vlaamse knelpuntberoepen. En ook de betrokken sectoren reageren. teleurgesteld. Bijvoorbeeld de voedingssector zegt in West- en Oost-Vlaanderen is de werkzaamheidsgraad boven de 80%. Daar is het zeer moeilijk om volk te vinden en daarvoor is die arbeidsmigratie zeer welkom. E\u00e9n organisatie is wel tevreden, dat is de Technologie Federatie Agoria. Die zijn tevreden dat de technische profielen voor de industrie toegevoegd worden aan de lijst. Allright, dankjewel voor de uitleg, Daan Bleus. Graag gedaan. De regering De Wever eist niet alleen dit jaar een uitzonderlijk dividend van de bank Belfius, ook volgend jaar rekent ze op een dividend van opnieuw 500 miljoen euro. Dat hebben we bij de tijd vernomen. Je hoorde het gisteren al hier in De Zeven. De federale regering rekent dit jaar op een uitzonderlijk dividend van Belfius om de defensieuitgaven te financieren. Samen met het gewone dividend zou ze op die manier zowat... dat de hele jaarwinst van Belfius opzoeperen. En nu blijkt dat de regering ook volgend jaar op een superdividend van 500 miljoen rekent. Dat is pittig. Belfius zou dat aankunnen, maar het zou haar eigen overnameplannen wel kunnen dwarsbomen. De bank heeft intussen ook gereageerd, zei het kort. De aandeelhouder, de overheid dus, heeft nog geen formeel verzoek ingediend, zegt Belfius. Als dat wel gebeurt, zal de bank dat onderzoeken. Het Vlaamse landbouwtechbedrijf Apix Biosciences heeft een wereldprimeur te pakken. Het heeft voedsel ontwikkeld voor bijen dat het natuurlijke stuifmeel kan vervangen. Dat kan de bijenteel duurzamer maken en de biodiversiteit en voedselzekerheid voor mensen waarborgen. Bijen hebben stuifmeel en nectar nodig, maar er zijn steeds minder bloemen door intensieve landbouw, verstedelijking en de klimaatverandering. En dat zet bijenpopulaties onder druk, kolonies verzwakken en dreigen uit te sterven. Daarom heeft Apex Biosciences in alle stilte onderzoek gedaan naar alternatief voedsel voor bijen op basis van natuurlijke ingredi\u00ebnten. Veldproeven tonen aan dat het de overlevingskansen van bijencolonies aanzienlijk verhoogt met een lagere wintersterfte. Het eerste product van Apex staat nu op punt. Het bedrijf publiceert vandaag de resultaten in een toonaangevend wetenschappelijk tijdschrift. Het wil volgend jaar in de VS op de markt komen. Een opvallende daler op de beurs in Parijs is het luxe concern LVMH. Het aandeel is gisteravond bijna 8% lager ge\u00ebindigd. En daardoor is de groep van onder meer de handtassen van Louis Vuitton en de champagne van Mo\u00ebt Chandon niet langer het grootste luxehuis ter wereld. Dat is voortaan Herm\u00e8s. Goeiemorgen Ellen Vermorgen. Hey, dag Rowan. Journalisten beleggen hier bij de tijd. Om te beginnen Ellen, wat is er aan de hand bij LVMH? Ja, LVMH maandagavond de maart verrast met cijfers die toch wel fors tegenvielen. De omzet krimpt daar, de Chinese consument geeft dan toch niet thuis. In het laatste kwartaal van vorig jaar leek het dat de Chinese maart zich wel wat herstelde, maar dat blijkt nu toch niet zo het geval te zijn. In de VS dalen de luxe bestedingen bij consumenten zinder ogen. En dat alles weegt op een concern als LVMH samen met de angst voor een recessie, de angst voor handelstarieven die het plaatje eigenlijk voor de ganse luxe sector bemoeilijken. Ok\u00e9, en nu is dus niet langer LVMH, maar Herm\u00e8s, het grootste luxeconcern ter wereld. Qua symboliek kan dat tellen, h\u00e8? Ja, dat is zeker opvallend. LVMH heeft een goede 15 jaar geleden nog geprobeerd om Herm\u00e8s in te lijven. Dat is toen mislukt. En nu is Herm\u00e8s een stukje groter geworden dan LVMH. En dat heeft ermee te maken dat dat merk zich echt kan beroepen op ultravermogende klanten. En mensen die die populaire Birkin-bags of Kelly-bags kopen. Dat zijn echt de upper rich, mensen die prijsblind zijn en die ook als de economie sputtert blijven uitgeven. En LVMH heeft dat verhoudingsgewijs wat minder. Zij hebben meer die aspirational buyer, noemen we dat. Ook een vermogend iemand, maar die niet ultra rijk is en die misschien wel wat meer de vinger op de knip gaat houden in tijden dat het economisch wat moeilijker gaat. En is dat nu illustratief voor de hele luxussector? Dat bedrijven die mikken op de... ultra-rijken het goed doen, terwijl anderen meer last hebben van die nakende recessie? Ja, ik denk het wel. Ik denk dat de merken die zich echt op die super vermogende klantencategorie richten, dat die het heel goed blijven doen. Ik denk aan het Italiaanse Brunello Cucinelli, die is een producent van cashmierkleding. Zij zijn minder afhankelijk van China bijvoorbeeld en richten zich echt tot die topklasse. En daarnaast, een aantal merken die het ook goed doen, zijn degenen die comebackmerken in portefeuille hebben. Prada is er zo eentje. Zij hebben Miu Miu, dat is een... Een merk dat eigenlijk al heel oud is, maar dat nu een tweede leven krijgt, is plots weer hyperpopulair in de verkoop. Ook Richmond, een Zwitsers luxeconcern, heeft een aantal van die brands, zoals Alaya, een specifiek type schoen, dat nu razend populair is. Dus daar zit nog wel groei in. Dus voor de hele sector is er een krimp, maar individueel verschillen die bedrijven wel nog altijd qua groeiprofiel, zeg maar. Ok\u00e9, duidelijke discrepantie. Dankjewel. Ellen, voor morgen. Met veel plezier. Zeg. Amerikaanse vliegtuigbouwer Boeing incasseert een nieuwe klap. China verbiedt zijn luchtvaartmaatschappijen om nog langer zaken te doen met Boeing, dat meldt persagent Schabloonberg. Het verbod is een rechtstreeks gevolg van de tarievenoorlog die de Amerikaanse president Donald Trump heeft ontketend. Nog China, nog Boeing bevestigen voorlopig het nieuws, maar de impact zou groot zijn. Boeing is een van de belangrijkste werkgevers in de VS en China is een van zijn grootste groeimarten. Zo hadden de drie grootste Chinese luchtvaartmaatschappijen plannen om tegen 2027 samen bijna 180 toestellen te kopen van Boeing. Een Chinees verbod zou dus ongelegen komen voor de vliegtuigpower. Die is de afgelopen jaren trouwens wel vaker geplaagd door problemen, technische issues en incidenten. waardoor het steeds meer marktaandeel moest afstaan aan het Europese Airbus. Analysten zien zelfs ook een derde speler profiteren van de schijnbare afdaling van Boeing. De Braziliaanse constructeur Embraer. Het Amerikaanse magazine Forbes roemt opnieuw een handvol jonge Belgen in zijn meest recente Europese lijst 30 under 30. Dertig beloftevolle mensen die nog geen dertig jaar oud zijn. Persoonlijkheden die volgens het magazine bijzonder getalenteerd en invloedrijk zijn. Onder hen dit jaar de bezielers van de gepersonaliseerde kinderboekenmaker Bubbly Doo. Gregory Goossens, Laura Pelgrims, Hans Otto-Viertz en CEO Twan Hapets. Ja, leuk nieuws. Ten eerste omdat het qua exposure en qua nieuws wel impact heeft, zeker als e-commercebedrijf. En ten tweede zeker ook is het een begroning toch wel ergens op vijf, zes jaar al hard werken aan ons eigen bedrijf. Dus zeker positief. Forbes noemt Pablitoe een van de snelst groeiende Europese techbedrijven. Het maakt namelijk met technologie... personaliseerde kinderboeken en tegenwoordig ook andere spullen. Het concept is dat de ouders eigenlijk een product samenstellen. Dus zij zelf aangeven welke kleur haar heeft mijn kind, wat is haarstijl enzovoort. Dat daar dan bijgekozen wordt, bijvoorbeeld mijn kind houdt van Paw Patrol, Peppa Pig, Boomba, K3 enzovoort. Zij kiezen er eigenlijk en krijgen dan binnen de zeven werkdagen een gepersonaliseerd boek aan de voordeur. Of een gepersonaliseerde boekentas of een gepersonaliseerde drinkbus. Handdoek enzovoort. Vorig jaar haalde Babelidu, leuk een naam om te zeggen, een omzet van zo'n 3 miljoen euro. Vooral met boeken. Zaken zoals textiel en gadgets moeten dit jaar voor nog meer groei zorgen. De grootste markt voor het bedrijf is de Verenigde Staten, waar ze tegenwoordig met importtarieven dreigen. Iets wat ze natuurlijk nauwlettend opvolgen, zegt Habits. We zijn daar zeker mee bezig en we hebben de vraag ook al van een paar investeerders bijvoorbeeld gekregen. Nu bij ons, omdat wij personalisatie doen, drukken wij lokaal. Dus dat wil zeggen dat onze boeken bijvoorbeeld, onze gepersonaliseerde kinderboeken, die worden allemaal East Coast, West Coast gedrukt afhankelijk van de locatie van aankoop. Dus wij werken daar eigenlijk met lokale productiepartners. Dus wij zien daar wel een heel stuk minder risico in dan veel andere e-commerce bedrijven. Maar die van Babbelidou zijn dus niet de enige Belgen op de 30 under 30 lijst van Forbes. Lees op onze app, site of in de krant van vandaag wie de anderen zijn. 7. Eigenlof stinkt, maar we kunnen het niet laten. Het heeft ook alles met jou te maken. Je luistert bij deze naar de meest gestreamde en gedownloade podcast van Vlaanderen. Dat blijkt uit cijfers van het CIM, het Centrum voor Informatie over de Media. De 7 is in maart meer dan 800.000 keer gestreamd of gedownload, blijkt uit de CIM-cijfers. Die bevatten voor de tweede keer ook luistercijfers voor podcasts. Het is dus een vrij nieuw gegeven en we moeten daarom toegeven dat die ratings nog geen volledig beeld geven van de markt. Mediahuis, de groep boven de Standaard en het Nieuwsblad, die ook goede podcasts maken. zit bijvoorbeeld nog niet mee in de cijfers. Maar toch zijn we content natuurlijk. Dus nog eens een dikke merci aan de hele Zevenploeg en aan de redactie van de tijd, zonder wie we hier niks te vertellen zouden hebben. Maar natuurlijk vooral aan jou bedankt om er zo vaak bij te zijn. Hopelijk ook morgenochtend weer. Graag tot dan en nog een heel fijne woensdag. Dit was De Zeven. Met Roan van Eyck. Productie door Joris van der Poorten, vanop de redactie van De Tijd. Geboeid door wat je hoort in deze podcast? Neem dan een abonnement op De Tijd voor nog meer scherpe journalistiek en het laatste businessnieuws. Meer op abonnement.tijd.be. Morgen zijn we er weer. Tot dan! Als ik uitzendkrachten zoek, dan wil ik niet veel kandidaten zien, dan wil ik d\u00e9 kandidaat zien. Die van ons uitzendbureau Trixo, die begrijpen dat. Ik zoek een goeie technieker, ik krijg een goeie technieker. Echt waar, een zaligheid. En hij is nog van de streek ook. Snel en effici\u00ebnt geholpen worden met een gekwalificeerde uitzendkracht? Kijk op trixo.be. U wordt verwacht."
+      "full_transcript": "Bouw aan je kennis met de 7. En voor een uitzendkracht in de bouw, ga naar Trixo. Kijk op trixo.xx.be Welkom bij de 7 van de tijd. Elke dag om 7 uur, onze blik op de zaken in 7 punten. Dit is Roan van Eyck. Goeiemorgen. Het wordt moeilijker om vrachtwagenchauffeurs, loodgieters en andere knelpuntwerknemers te vinden in het... Buitenland, minister Demir maakt de lijst voor vlotte arbeidsmigratie korter. Een veelzeggend haasje over in de wereld van de weelde. Herm\u00e8s steekt LVMH voorbij als grootste luxe-concern. Wat is hun geheime recept? En moeten andere chique merken dat dan maar volgen? En het bekende zakenblad Forbes publiceert zijn nieuwe 30 under 30 lijst. En daarop prijken zeven Belgen. We praten met een van hen, een maker van gep... personaliseerde kinderboeken. Je luistert naar de meest gestreamde podcast van Vlaanderen, toch volgens de Sim. Het is woensdag 16 april. Welkom. De zeven van de tijd. Vlaams minister van Werk, Souhal Demir, vermindert het aantal knelpuntberoepen waarvoor een single permit mogelijk is. Die zorgt voor een vlotte arbeidsmigratie van buiten de Europese Unie naar ons land met een gecombineerde werk- en verblijfsvergunning. Nu zijn er nog 29 beroepen waarvoor de Vlaamse en federale overheid sneller een single permit toekennen, maar dat aantal wil Demir terugbrengen naar 23. Waarom en wat zijn daarvan de gevolgen? Redacteur politiek en economie bij de tijd Daan Bleus, goeiemorgen. Goeiemorgen. Welke beroepen wil Demir van de lijst afhalen dan? Ze schrapt er elf, waaronder vrachtwagenbestuurder, buschauffeur, slager en warme bakker. Tegelijkertijd voegt ze er vijf toe, zoals als bestverwijderaar, installateur van datacommunicatienetwerken en operateurinstallaties in de chemische industrie. Ok\u00e9, er komen dus ook beroepen bij. Maar netto wordt de lijst wel korter, van 29 naar 23 knelpuntberoepen. Waarom doet hem hier dat? Haar belangrijkste argument is dat we in Vlaanderen en Belgi\u00eb genoeg inactieve en werkzoekende hebben die geactiveerd kunnen worden voor die jobs. Tegelijkertijd zegt ze vaak fraude vast van mensen die naar hier komen voor een bepaald beroep, maar dat hier niet blijken uit te oefenen. En zegt ze voor een aantal jobs is de krapte minder groot dan twee jaar geleden toen de vorige lijst werd goedgekeurd. En dus is het logisch om die te schrappen. Al blijft dat argument van de krapte wel moeilijk, want we zien dat voor het gros van de jobs die ze schrapt, er in Vlaanderen nog altijd maar maximaal vijf mensen beschikbaar zijn om die job uit te oefenen. Ok\u00e9, en hoe reageren de sociale partners op het verkorten van die lijst? Werkgevers en zelfs vakbonden wilden de lijst van 29 eigenlijk uitbreiden naar 251. Dat zijn de Vlaamse knelpuntberoepen. En ook de betrokken sectoren reageren. teleurgesteld. Bijvoorbeeld de voedingssector zegt in West- en Oost-Vlaanderen is de werkzaamheidsgraad boven de 80%. Daar is het zeer moeilijk om volk te vinden en daarvoor is die arbeidsmigratie zeer welkom. E\u00e9n organisatie is wel tevreden, dat is de Technologie Federatie Agoria. Die zijn tevreden dat de technische profielen voor de industrie toegevoegd worden aan de lijst. Allright, dankjewel voor de uitleg, Daan Bleus. Graag gedaan. De regering De Wever eist niet alleen dit jaar een uitzonderlijk dividend van de bank Belfius, ook volgend jaar rekent ze op een dividend van opnieuw 500 miljoen euro. Dat hebben we bij de tijd vernomen. Je hoorde het gisteren al hier in De Zeven. De federale regering rekent dit jaar op een uitzonderlijk dividend van Belfius om de defensieuitgaven te financieren. Samen met het gewone dividend zou ze op die manier zowat... dat de hele jaarwinst van Belfius opzoeperen. En nu blijkt dat de regering ook volgend jaar op een superdividend van 500 miljoen rekent. Dat is pittig. Belfius zou dat aankunnen, maar het zou haar eigen overnameplannen wel kunnen dwarsbomen. De bank heeft intussen ook gereageerd, zei het kort. De aandeelhouder, de overheid dus, heeft nog geen formeel verzoek ingediend, zegt Belfius. Als dat wel gebeurt, zal de bank dat onderzoeken. Het Vlaamse landbouwtechbedrijf Apix Biosciences heeft een wereldprimeur te pakken. Het heeft voedsel ontwikkeld voor bijen dat het natuurlijke stuifmeel kan vervangen. Dat kan de bijenteel duurzamer maken en de biodiversiteit en voedselzekerheid voor mensen waarborgen. Bijen hebben stuifmeel en nectar nodig, maar er zijn steeds minder bloemen door intensieve landbouw, verstedelijking en de klimaatverandering. En dat zet bijenpopulaties onder druk, kolonies verzwakken en dreigen uit te sterven. Daarom heeft Apex Biosciences in alle stilte onderzoek gedaan naar alternatief voedsel voor bijen op basis van natuurlijke ingredi\u00ebnten. Veldproeven tonen aan dat het de overlevingskansen van bijencolonies aanzienlijk verhoogt met een lagere wintersterfte. Het eerste product van Apex staat nu op punt. Het bedrijf publiceert vandaag de resultaten in een toonaangevend wetenschappelijk tijdschrift. Het wil volgend jaar in de VS op de markt komen. Een opvallende daler op de beurs in Parijs is het luxe concern LVMH. Het aandeel is gisteravond bijna 8% lager ge\u00ebindigd. En daardoor is de groep van onder meer de handtassen van Louis Vuitton en de champagne van Mo\u00ebt Chandon niet langer het grootste luxehuis ter wereld. Dat is voortaan Herm\u00e8s. Goeiemorgen Ellen Vermorgen. Hey, dag Rowan. Journalisten beleggen hier bij de tijd. Om te beginnen Ellen, wat is er aan de hand bij LVMH? Ja, LVMH maandagavond de maart verrast met cijfers die toch wel fors tegenvielen. De omzet krimpt daar, de Chinese consument geeft dan toch niet thuis. In het laatste kwartaal van vorig jaar leek het dat de Chinese maart zich wel wat herstelde, maar dat blijkt nu toch niet zo het geval te zijn. In de VS dalen de luxe bestedingen bij consumenten zinder ogen. En dat alles weegt op een concern als LVMH samen met de angst voor een recessie, de angst voor handelstarieven die het plaatje eigenlijk voor de ganse luxe sector bemoeilijken. Ok\u00e9, en nu is dus niet langer LVMH, maar Herm\u00e8s, het grootste luxeconcern ter wereld. Qua symboliek kan dat tellen, h\u00e8? Ja, dat is zeker opvallend. LVMH heeft een goede 15 jaar geleden nog geprobeerd om Herm\u00e8s in te lijven. Dat is toen mislukt. En nu is Herm\u00e8s een stukje groter geworden dan LVMH. En dat heeft ermee te maken dat dat merk zich echt kan beroepen op ultravermogende klanten. En mensen die die populaire Birkin-bags of Kelly-bags kopen. Dat zijn echt de upper rich, mensen die prijsblind zijn en die ook als de economie sputtert blijven uitgeven. En LVMH heeft dat verhoudingsgewijs wat minder. Zij hebben meer die aspirational buyer, noemen we dat. Ook een vermogend iemand, maar die niet ultra rijk is en die misschien wel wat meer de vinger op de knip gaat houden in tijden dat het economisch wat moeilijker gaat. En is dat nu illustratief voor de hele luxussector? Dat bedrijven die mikken op de... ultra-rijken het goed doen, terwijl anderen meer last hebben van die nakende recessie? Ja, ik denk het wel. Ik denk dat de merken die zich echt op die super vermogende klantencategorie richten, dat die het heel goed blijven doen. Ik denk aan het Italiaanse Brunello Cucinelli, die is een producent van cashmierkleding. Zij zijn minder afhankelijk van China bijvoorbeeld en richten zich echt tot die topklasse. En daarnaast, een aantal merken die het ook goed doen, zijn degenen die comebackmerken in portefeuille hebben. Prada is er zo eentje. Zij hebben Miu Miu, Dat is een... Een merk dat eigenlijk al heel oud is, maar dat nu een tweede leven krijgt, is plots weer hyperpopulair in de verkoop. Ook Richmond, een Zwitsers luxeconcern, heeft een aantal van die brands, zoals Alaya, een specifiek type schoen, dat nu razend populair is. Dus daar zit nog wel groei in. Dus voor de hele sector is er een krimp, maar individueel verschillen die bedrijven wel nog altijd qua groeiprofiel, zeg maar. Ok\u00e9, duidelijke discrepantie. Dankjewel. Ellen, voor morgen. Met veel plezier. Zeg. Amerikaanse vliegtuigbouwer Boeing incasseert een nieuwe klap. China verbiedt zijn luchtvaartmaatschappijen om nog langer zaken te doen met Boeing, dat meldt persagent Schabloonberg. Het verbod is een rechtstreeks gevolg van de tarievenoorlog die de Amerikaanse president Donald Trump heeft ontketend. Nog China, nog Boeing bevestigen voorlopig het nieuws, maar de impact zou groot zijn. Boeing is een van de belangrijkste werkgevers in de VS en China is een van zijn grootste groeimarten. Zo hadden de drie grootste Chinese luchtvaartmaatschappijen plannen om tegen 2027 samen bijna 180 toestellen te kopen van Boeing. Een Chinees verbod zou dus ongelegen komen voor de vliegtuigpower. Die is de afgelopen jaren trouwens wel vaker geplaagd door problemen, technische issues en incidenten. waardoor het steeds meer marktaandeel moest afstaan aan het Europese Airbus. Analysten zien zelfs ook een derde speler profiteren van de schijnbare afdaling van Boeing, de Braziliaanse constructeur Embraer. Het Amerikaanse magazine Forbes roemt opnieuw een handvol jonge Belgen in zijn meest recente Europese lijst 30 under 30. Dertig beloftevolle mensen die nog geen dertig jaar oud zijn. Persoonlijkheden die volgens het magazine bijzonder getalenteerd en invloedrijk zijn. Onder hen dit jaar de bezielers van de gepersonaliseerde kinderboekenmaker Bubbly Doo. Gregory Goossens, Laura Pelgrims, Hans Otto-Viertz en CEO Twan Hapets. Ja, leuk nieuws. Ten eerste omdat het qua exposure en qua nieuws wel impact heeft, zeker als e-commercebedrijf. En ten tweede zeker ook is het een begroning toch wel ergens op vijf, zes jaar al hard werken aan ons eigen bedrijf. Dus zeker positief. Forbes noemt Pablitoe een van de snelst groeiende Europese techbedrijven. Het maakt namelijk met technologie... personaliseerde kinderboeken en tegenwoordig ook andere spullen. Het concept is dat de ouders eigenlijk een product samenstellen. Dus zij zelf aangeven welke kleur haar heeft mijn kind, wat is haarstijl enzovoort. Dat daar dan bijgekozen wordt, bijvoorbeeld mijn kind houdt van Paw Patrol, Peppa Pig, Boomba, K3 enzovoort. Zij kiezen er eigenlijk en krijgen dan binnen de zeven werkdagen een gepersonaliseerd boek aan de voordeur. Of een gepersonaliseerde boekentas of een gepersonaliseerde drinkbus. Handdoek enzovoort. Vorig jaar haalde Babelidu, leuk een naam om te zeggen, een omzet van zo'n 3 miljoen euro. Vooral met boeken. Zaken zoals textiel en gadgets moeten dit jaar voor nog meer groei zorgen. De grootste markt voor het bedrijf is de Verenigde Staten, waar ze tegenwoordig met importtarieven dreigen. Iets wat ze natuurlijk nauwlettend opvolgen, zegt Habits. We zijn daar zeker mee bezig en we hebben de vraag ook al van een paar investeerders bijvoorbeeld gekregen. Nu bij ons, omdat wij personalisatie doen, drukken wij lokaal. Dus dat wil zeggen dat onze boeken bijvoorbeeld, onze gepersonaliseerde kinderboeken, die worden allemaal East Coast, West Coast gedrukt afhankelijk van de locatie van aankoop. Dus wij werken daar eigenlijk met lokale productiepartners. Dus wij zien daar wel een heel stuk minder risico in dan veel andere e-commerce bedrijven. Maar die van Babbelidou zijn dus niet de enige Belgen op de 30 under 30 lijst van Forbes. Lees op onze app, site of in de krant van vandaag wie de anderen zijn. 7. Eigenlof stinkt, maar we kunnen het niet laten. Het heeft ook alles met jou te maken. Je luistert bij deze naar de meest gestreamde en gedownloade podcast van Vlaanderen. Dat blijkt uit cijfers van het CIM, het Centrum voor Informatie over de Media. De 7 is in maart meer dan 800.000 keer gestreamd of gedownload, blijkt uit de CIM-cijfers. Die bevatten voor de tweede keer ook luistercijfers voor podcasts. Het is dus een vrij nieuw gegeven en we moeten daarom toegeven dat die ratings nog geen volledig beeld geven van de markt. Mediahuis, de groep boven de Standaard en het Nieuwsblad, die ook goede podcasts maken. zit bijvoorbeeld nog niet mee in de cijfers. Maar toch zijn we content natuurlijk. Dus nog eens een dikke merci aan de hele Zevenploeg en aan de redactie van de tijd, zonder wie we hier niks te vertellen zouden hebben. Maar natuurlijk vooral aan jou bedankt om er zo vaak bij te zijn. Hopelijk ook morgenochtend weer. Graag tot dan en nog een heel fijne woensdag. Dit was De Zeven. Met Roan van Eyck. Productie door Joris van der Poorten, vanop de redactie van De Tijd. Geboeid door wat je hoort in deze podcast? Neem dan een abonnement op De Tijd voor nog meer scherpe journalistiek en het laatste businessnieuws. Meer op abonnement.tijd.be. Morgen zijn we er weer. Tot dan! Als ik uitzendkrachten zoek, dan wil ik niet veel kandidaten zien, dan wil ik d\u00e9 kandidaat zien. Die van ons uitzendbureau Trixo, die begrijpen dat. Ik zoek een goeie technieker, ik krijg een goeie technieker. Echt waar, een zaligheid. En hij is nog van de streek ook. Snel en effici\u00ebnt geholpen worden met een gekwalificeerde uitzendkracht? Kijk op trixo.be. U wordt verwacht."
     }
   }
 }

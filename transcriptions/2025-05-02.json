@@ -1,15 +1,15 @@
 {
-  "id": "ecae2f73-84e0-4f27-8178-e577a2a55380",
-  "request_id": "G-ecae2f73",
+  "id": "b7c1a393-4763-418b-b9a0-2d81dd09f61a",
+  "request_id": "G-b7c1a393",
   "version": 2,
   "status": "done",
-  "created_at": "2025-05-02T05:13:59.977Z",
-  "completed_at": "2025-05-02T05:16:08.598Z",
+  "created_at": "2025-05-02T06:29:10.420Z",
+  "completed_at": "2025-05-02T06:30:18.810Z",
   "custom_metadata": null,
   "error_code": null,
   "kind": "pre-recorded",
   "file": {
-    "id": "ecae2f73-84e0-4f27-8178-e577a2a55380",
+    "id": "b7c1a393-4763-418b-b9a0-2d81dd09f61a",
     "filename": "audio.mp3",
     "source": "https://traffic.omny.fm/d/clips/5978613f-cd11-4352-8f26-adb900fa9a58/3c1222e5-288f-4047-a2f0-ae1b00a91688/28568dd2-8ca8-457e-88d5-b2d0015b48d7/audio.mp3?utm_source=Podcast&in_playlist=a0389eb5-55da-493d-b7bb-ae1b00d0d95a",
     "audio_duration": 1321.352,
@@ -48,7 +48,7 @@
       "audio_duration": 1321.351837,
       "number_of_distinct_channels": 1,
       "billing_time": 1321.351837,
-      "transcription_time": 128.621
+      "transcription_time": 68.39
     },
     "transcription": {
       "languages": [

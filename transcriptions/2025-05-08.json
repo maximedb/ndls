@@ -1,15 +1,15 @@
 {
-  "id": "624c47b9-d8e1-42e0-ab3b-c272ae7bda3c",
-  "request_id": "G-624c47b9",
+  "id": "7868c76a-308f-4908-a604-ac0b191b6cb3",
+  "request_id": "G-7868c76a",
   "version": 2,
   "status": "done",
-  "created_at": "2025-05-08T05:14:26.503Z",
-  "completed_at": "2025-05-08T05:15:24.956Z",
+  "created_at": "2025-05-08T06:30:36.130Z",
+  "completed_at": "2025-05-08T06:31:45.323Z",
   "custom_metadata": null,
   "error_code": null,
   "kind": "pre-recorded",
   "file": {
-    "id": "624c47b9-d8e1-42e0-ab3b-c272ae7bda3c",
+    "id": "7868c76a-308f-4908-a604-ac0b191b6cb3",
     "filename": "audio.mp3",
     "source": "https://traffic.omny.fm/d/clips/5978613f-cd11-4352-8f26-adb900fa9a58/3c1222e5-288f-4047-a2f0-ae1b00a91688/03154421-80a2-431d-b60a-b2d70042ad2a/audio.mp3?utm_source=Podcast&in_playlist=a0389eb5-55da-493d-b7bb-ae1b00d0d95a",
     "audio_duration": 1028.937,
@@ -48,7 +48,7 @@
       "audio_duration": 1028.937143,
       "number_of_distinct_channels": 1,
       "billing_time": 1028.937143,
-      "transcription_time": 58.453
+      "transcription_time": 69.193
     },
     "transcription": {
       "languages": [
@@ -11335,7 +11335,7 @@
           "end": 577.79,
           "confidence": 0.67675,
           "channel": 0,
-          "speaker": 1,
+          "speaker": 0,
           "words": [
             {
               "word": " hey",
@@ -19693,7 +19693,7 @@
           "text": "helemaal klaar nu.",
           "language": "nl",
           "start": 971.149,
-          "end": 971.849,
+          "end": 971.85,
           "confidence": 0.9033333333333333,
           "channel": 0,
           "speaker": 0,
@@ -19707,13 +19707,13 @@
             {
               "word": " klaar",
               "start": 971.449,
-              "end": 971.689,
+              "end": 971.69,
               "confidence": 1
             },
             {
               "word": " nu.",
-              "start": 971.729,
-              "end": 971.849,
+              "start": 971.73,
+              "end": 971.85,
               "confidence": 1
             }
           ]
@@ -19722,8 +19722,8 @@
           "text": "Nog een fijne dag en tot morgen.",
           "language": "nl",
           "start": 972.05,
-          "end": 973.75,
-          "confidence": 0.9271428571428572,
+          "end": 973.731,
+          "confidence": 0.9285714285714285,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19743,7 +19743,7 @@
               "word": " fijne",
               "start": 972.51,
               "end": 972.77,
-              "confidence": 0.69
+              "confidence": 0.7
             },
             {
               "word": " dag",
@@ -19754,72 +19754,72 @@
             {
               "word": " en",
               "start": 973.17,
-              "end": 973.29,
+              "end": 973.291,
               "confidence": 1
             },
             {
               "word": " tot",
-              "start": 973.291,
-              "end": 973.39,
-              "confidence": 0.95
+              "start": 973.292,
+              "end": 973.391,
+              "confidence": 0.94
             },
             {
               "word": " morgen.",
-              "start": 973.41,
-              "end": 973.75,
-              "confidence": 0.86
+              "start": 973.411,
+              "end": 973.731,
+              "confidence": 0.87
             }
           ]
         },
         {
           "text": "Dit was De Zeven met Bert Rijmen.",
           "language": "nl",
-          "start": 976.932,
-          "end": 979.633,
-          "confidence": 0.86,
+          "start": 976.933,
+          "end": 979.634,
+          "confidence": 0.8914285714285715,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dit",
-              "start": 976.932,
-              "end": 977.152,
-              "confidence": 0.95
+              "start": 976.933,
+              "end": 977.153,
+              "confidence": 0.99
             },
             {
               "word": " was",
-              "start": 977.372,
-              "end": 977.552,
-              "confidence": 0.95
+              "start": 977.373,
+              "end": 977.553,
+              "confidence": 0.99
             },
             {
               "word": " De",
-              "start": 977.572,
-              "end": 977.692,
-              "confidence": 0.92
+              "start": 977.573,
+              "end": 977.693,
+              "confidence": 0.96
             },
             {
               "word": " Zeven",
-              "start": 977.752,
-              "end": 978.132,
-              "confidence": 0.74
+              "start": 977.753,
+              "end": 978.133,
+              "confidence": 0.82
             },
             {
               "word": " met",
-              "start": 978.672,
-              "end": 978.832,
-              "confidence": 0.97
+              "start": 978.674,
+              "end": 978.834,
+              "confidence": 0.99
             },
             {
               "word": " Bert",
-              "start": 978.952,
-              "end": 979.213,
+              "start": 978.954,
+              "end": 979.214,
               "confidence": 0.96
             },
             {
               "word": " Rijmen.",
-              "start": 979.293,
-              "end": 979.633,
+              "start": 979.294,
+              "end": 979.634,
               "confidence": 0.53
             }
           ]
@@ -19827,70 +19827,70 @@
         {
           "text": "Productie door Lara Droesaert vanop de redactie van De Tijd.",
           "language": "nl",
-          "start": 980.353,
-          "end": 984.355,
-          "confidence": 0.944,
+          "start": 980.355,
+          "end": 984.357,
+          "confidence": 0.9490000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Productie",
-              "start": 980.353,
-              "end": 980.933,
+              "start": 980.355,
+              "end": 980.935,
               "confidence": 0.98
             },
             {
               "word": " door",
-              "start": 980.993,
-              "end": 981.213,
-              "confidence": 0.97
+              "start": 980.995,
+              "end": 981.215,
+              "confidence": 0.98
             },
             {
               "word": " Lara",
-              "start": 981.393,
-              "end": 981.694,
+              "start": 981.395,
+              "end": 981.696,
               "confidence": 0.99
             },
             {
               "word": " Droesaert",
-              "start": 981.754,
-              "end": 982.354,
-              "confidence": 0.65
+              "start": 981.756,
+              "end": 982.356,
+              "confidence": 0.66
             },
             {
               "word": " vanop",
-              "start": 982.694,
-              "end": 982.914,
+              "start": 982.696,
+              "end": 982.916,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 982.915,
-              "end": 983.014,
+              "start": 982.917,
+              "end": 983.016,
               "confidence": 1
             },
             {
               "word": " redactie",
-              "start": 983.034,
-              "end": 983.574,
-              "confidence": 0.89
+              "start": 983.036,
+              "end": 983.577,
+              "confidence": 0.91
             },
             {
               "word": " van",
-              "start": 983.754,
-              "end": 983.874,
+              "start": 983.757,
+              "end": 983.877,
               "confidence": 0.99
             },
             {
               "word": " De",
-              "start": 983.875,
-              "end": 983.995,
-              "confidence": 0.98
+              "start": 983.878,
+              "end": 983.997,
+              "confidence": 0.99
             },
             {
               "word": " Tijd.",
-              "start": 984.055,
-              "end": 984.355,
+              "start": 984.057,
+              "end": 984.357,
               "confidence": 0.99
             }
           ]
@@ -19898,842 +19898,953 @@
         {
           "text": "Voor meer business- en straffe nieuwsverhalen check tijd.be of onze app.",
           "language": "nl",
-          "start": 985.155,
-          "end": 989.637,
-          "confidence": 0.8727272727272727,
+          "start": 985.158,
+          "end": 989.64,
+          "confidence": 0.8781818181818182,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Voor",
-              "start": 985.155,
-              "end": 985.335,
+              "start": 985.158,
+              "end": 985.338,
               "confidence": 0.99
             },
             {
               "word": " meer",
-              "start": 985.415,
-              "end": 985.635,
+              "start": 985.418,
+              "end": 985.638,
               "confidence": 1
             },
             {
               "word": " business-",
-              "start": 985.715,
-              "end": 986.135,
+              "start": 985.718,
+              "end": 986.138,
               "confidence": 0.57
             },
             {
               "word": " en",
-              "start": 986.175,
-              "end": 986.295,
+              "start": 986.178,
+              "end": 986.298,
               "confidence": 1
             },
             {
               "word": " straffe",
-              "start": 986.335,
-              "end": 986.696,
-              "confidence": 0.96
-            },
-            {
-              "word": " nieuwsverhalen",
-              "start": 986.756,
-              "end": 987.536,
-              "confidence": 0.94
-            },
-            {
-              "word": " check",
-              "start": 987.716,
-              "end": 987.916,
-              "confidence": 0.74
-            },
-            {
-              "word": " tijd.be",
-              "start": 987.996,
-              "end": 988.776,
-              "confidence": 0.93
-            },
-            {
-              "word": " of",
-              "start": 989.057,
-              "end": 989.177,
-              "confidence": 0.88
-            },
-            {
-              "word": " onze",
-              "start": 989.237,
-              "end": 989.417,
+              "start": 986.338,
+              "end": 986.699,
               "confidence": 0.97
             },
             {
+              "word": " nieuwsverhalen",
+              "start": 986.759,
+              "end": 987.539,
+              "confidence": 0.95
+            },
+            {
+              "word": " check",
+              "start": 987.719,
+              "end": 987.919,
+              "confidence": 0.75
+            },
+            {
+              "word": " tijd.be",
+              "start": 987.999,
+              "end": 988.78,
+              "confidence": 0.94
+            },
+            {
+              "word": " of",
+              "start": 989.06,
+              "end": 989.18,
+              "confidence": 0.9
+            },
+            {
+              "word": " onze",
+              "start": 989.24,
+              "end": 989.42,
+              "confidence": 0.98
+            },
+            {
               "word": " app.",
-              "start": 989.517,
-              "end": 989.637,
-              "confidence": 0.62
+              "start": 989.52,
+              "end": 989.64,
+              "confidence": 0.61
             }
           ]
         },
         {
           "text": "Morgen zijn we er weer.",
           "language": "nl",
-          "start": 990.757,
-          "end": 991.758,
-          "confidence": 0.984,
+          "start": 990.761,
+          "end": 991.762,
+          "confidence": 0.976,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Morgen",
-              "start": 990.757,
-              "end": 991.037,
+              "start": 990.761,
+              "end": 991.041,
               "confidence": 0.99
             },
             {
               "word": " zijn",
-              "start": 991.077,
-              "end": 991.258,
+              "start": 991.081,
+              "end": 991.261,
               "confidence": 0.99
             },
             {
               "word": " we",
-              "start": 991.259,
-              "end": 991.338,
-              "confidence": 0.98
+              "start": 991.262,
+              "end": 991.341,
+              "confidence": 0.99
             },
             {
               "word": " er",
-              "start": 991.339,
-              "end": 991.458,
+              "start": 991.342,
+              "end": 991.461,
               "confidence": 0.98
             },
             {
               "word": " weer.",
-              "start": 991.498,
-              "end": 991.758,
-              "confidence": 0.98
+              "start": 991.501,
+              "end": 991.762,
+              "confidence": 0.93
             }
           ]
         },
         {
           "text": "Tot dan.",
           "language": "nl",
-          "start": 992.258,
-          "end": 992.618,
-          "confidence": 0.7949999999999999,
+          "start": 992.262,
+          "end": 992.622,
+          "confidence": 0.725,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Tot",
-              "start": 992.258,
-              "end": 992.378,
-              "confidence": 0.63
+              "start": 992.262,
+              "end": 992.382,
+              "confidence": 0.61
             },
             {
               "word": " dan.",
-              "start": 992.418,
-              "end": 992.618,
-              "confidence": 0.96
+              "start": 992.422,
+              "end": 992.622,
+              "confidence": 0.84
             }
           ]
         },
         {
-          "text": "Dag.",
+          "text": "Maar kijk toch eens Hilde,",
           "language": "nl",
-          "start": 999.481,
-          "end": 999.601,
-          "confidence": 0.33,
+          "start": 999.349,
+          "end": 1000.649,
+          "confidence": 0.642,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Dag.",
-              "start": 999.481,
-              "end": 999.601,
-              "confidence": 0.33
-            }
-          ]
-        },
-        {
-          "text": "Kijk toch eens Hilde,",
-          "language": "nl",
-          "start": 999.761,
-          "end": 1000.482,
-          "confidence": 0.6125,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " Kijk",
-              "start": 999.761,
-              "end": 999.981,
+              "word": " Maar",
+              "start": 999.349,
+              "end": 999.549,
               "confidence": 0.93
             },
             {
+              "word": " kijk",
+              "start": 999.709,
+              "end": 999.969,
+              "confidence": 0.96
+            },
+            {
               "word": " toch",
-              "start": 1000.021,
-              "end": 1000.141,
-              "confidence": 0.59
+              "start": 1000.009,
+              "end": 1000.189,
+              "confidence": 0.27
             },
             {
               "word": " eens",
-              "start": 1000.142,
-              "end": 1000.261,
-              "confidence": 0.29
+              "start": 1000.19,
+              "end": 1000.309,
+              "confidence": 0.26
             },
             {
               "word": " Hilde,",
-              "start": 1000.281,
-              "end": 1000.482,
-              "confidence": 0.64
+              "start": 1000.369,
+              "end": 1000.649,
+              "confidence": 0.79
             }
           ]
         },
         {
           "text": "wat een prachtig bos.",
           "language": "nl",
-          "start": 1000.502,
-          "end": 1001.522,
-          "confidence": 0.9375,
+          "start": 1000.669,
+          "end": 1001.67,
+          "confidence": 0.8975,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " wat",
-              "start": 1000.502,
-              "end": 1000.622,
+              "start": 1000.669,
+              "end": 1000.789,
               "confidence": 0.99
             },
             {
               "word": " een",
-              "start": 1000.623,
-              "end": 1000.742,
-              "confidence": 0.77
+              "start": 1000.79,
+              "end": 1000.909,
+              "confidence": 0.6
             },
             {
               "word": " prachtig",
-              "start": 1000.802,
-              "end": 1001.262,
-              "confidence": 0.99
+              "start": 1000.929,
+              "end": 1001.35,
+              "confidence": 1
             },
             {
               "word": " bos.",
-              "start": 1001.302,
-              "end": 1001.522,
+              "start": 1001.45,
+              "end": 1001.67,
               "confidence": 1
             }
           ]
         },
         {
-          "text": "Zo rustgevend.",
+          "text": "Die beschermende kruinen.",
           "language": "nl",
-          "start": 1002.003,
-          "end": 1003.063,
-          "confidence": 0.73,
+          "start": 1002.01,
+          "end": 1003.31,
+          "confidence": 0.8866666666666667,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Zo",
-              "start": 1002.003,
-              "end": 1002.123,
-              "confidence": 0.63
+              "word": " Die",
+              "start": 1002.01,
+              "end": 1002.13,
+              "confidence": 1
             },
             {
-              "word": " rustgevend.",
-              "start": 1002.263,
-              "end": 1003.063,
-              "confidence": 0.83
+              "word": " beschermende",
+              "start": 1002.17,
+              "end": 1002.77,
+              "confidence": 0.98
+            },
+            {
+              "word": " kruinen.",
+              "start": 1002.85,
+              "end": 1003.31,
+              "confidence": 0.68
             }
           ]
         },
         {
           "text": "Oh Frank,",
           "language": "nl",
-          "start": 1003.364,
-          "end": 1003.924,
-          "confidence": 0.445,
+          "start": 1003.59,
+          "end": 1004.39,
+          "confidence": 0.48000000000000004,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Oh",
-              "start": 1003.364,
-              "end": 1003.504,
-              "confidence": 0.26
+              "start": 1003.59,
+              "end": 1003.71,
+              "confidence": 0.05
             },
             {
               "word": " Frank,",
-              "start": 1003.644,
-              "end": 1003.924,
-              "confidence": 0.63
+              "start": 1003.99,
+              "end": 1004.39,
+              "confidence": 0.91
             }
           ]
         },
         {
-          "text": "uw bos kan de boom in.",
+          "text": "jij met uw bos.",
           "language": "nl",
-          "start": 1004.044,
-          "end": 1005.285,
-          "confidence": 0.8916666666666667,
+          "start": 1004.41,
+          "end": 1005.371,
+          "confidence": 0.685,
           "channel": 0,
-          "speaker": 0,
+          "speaker": 4,
           "words": [
             {
+              "word": " jij",
+              "start": 1004.41,
+              "end": 1004.55,
+              "confidence": 0.23
+            },
+            {
+              "word": " met",
+              "start": 1004.771,
+              "end": 1004.891,
+              "confidence": 0.85
+            },
+            {
               "word": " uw",
-              "start": 1004.044,
-              "end": 1004.164,
-              "confidence": 0.97
+              "start": 1004.892,
+              "end": 1005.011,
+              "confidence": 0.66
             },
             {
-              "word": " bos",
-              "start": 1004.244,
-              "end": 1004.444,
+              "word": " bos.",
+              "start": 1005.131,
+              "end": 1005.371,
               "confidence": 1
-            },
-            {
-              "word": " kan",
-              "start": 1004.524,
-              "end": 1004.644,
-              "confidence": 0.98
-            },
-            {
-              "word": " de",
-              "start": 1004.645,
-              "end": 1004.765,
-              "confidence": 0.82
-            },
-            {
-              "word": " boom",
-              "start": 1004.885,
-              "end": 1005.145,
-              "confidence": 0.76
-            },
-            {
-              "word": " in.",
-              "start": 1005.165,
-              "end": 1005.285,
-              "confidence": 0.82
             }
           ]
         },
         {
-          "text": "Ik zit met mijn hoofd bij dat duurzaamheidsrapport.",
+          "text": "Ik zou liever die data van mijn klanten beschermen.",
           "language": "nl",
-          "start": 1005.625,
-          "end": 1007.767,
-          "confidence": 0.9725000000000001,
+          "start": 1005.771,
+          "end": 1008.011,
+          "confidence": 0.9011111111111111,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Ik",
-              "start": 1005.625,
-              "end": 1005.745,
+              "start": 1005.771,
+              "end": 1005.891,
               "confidence": 1
             },
             {
-              "word": " zit",
-              "start": 1005.765,
-              "end": 1005.885,
+              "word": " zou",
+              "start": 1005.911,
+              "end": 1006.031,
+              "confidence": 0.43
+            },
+            {
+              "word": " liever",
+              "start": 1006.091,
+              "end": 1006.311,
+              "confidence": 0.81
+            },
+            {
+              "word": " die",
+              "start": 1006.351,
+              "end": 1006.471,
               "confidence": 0.99
             },
             {
-              "word": " met",
-              "start": 1005.905,
-              "end": 1006.025,
-              "confidence": 0.95
+              "word": " data",
+              "start": 1006.531,
+              "end": 1006.811,
+              "confidence": 1
+            },
+            {
+              "word": " van",
+              "start": 1006.851,
+              "end": 1006.971,
+              "confidence": 1
             },
             {
               "word": " mijn",
-              "start": 1006.045,
-              "end": 1006.166,
+              "start": 1006.991,
+              "end": 1007.111,
               "confidence": 0.97
             },
             {
-              "word": " hoofd",
-              "start": 1006.186,
-              "end": 1006.426,
-              "confidence": 0.91
+              "word": " klanten",
+              "start": 1007.151,
+              "end": 1007.471,
+              "confidence": 0.92
             },
             {
-              "word": " bij",
-              "start": 1006.506,
-              "end": 1006.626,
-              "confidence": 0.98
-            },
-            {
-              "word": " dat",
-              "start": 1006.627,
-              "end": 1006.746,
-              "confidence": 0.99
-            },
-            {
-              "word": " duurzaamheidsrapport.",
-              "start": 1006.786,
-              "end": 1007.767,
+              "word": " beschermen.",
+              "start": 1007.491,
+              "end": 1008.011,
               "confidence": 0.99
             }
           ]
         },
         {
-          "text": "Wel is met Delaware.",
+          "text": "Zeg maar,",
           "language": "nl",
-          "start": 1008.227,
-          "end": 1009.168,
-          "confidence": 0.855,
+          "start": 1008.171,
+          "end": 1008.512,
+          "confidence": 0.345,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Wel",
-              "start": 1008.227,
-              "end": 1008.367,
-              "confidence": 0.93
+              "word": " Zeg",
+              "start": 1008.171,
+              "end": 1008.311,
+              "confidence": 0.35
             },
             {
-              "word": " is",
-              "start": 1008.427,
-              "end": 1008.547,
-              "confidence": 0.88
-            },
+              "word": " maar,",
+              "start": 1008.371,
+              "end": 1008.512,
+              "confidence": 0.34
+            }
+          ]
+        },
+        {
+          "text": "met IT-diensten van Delaware beveiligt u uw data helemaal op uw maat.",
+          "language": "nl",
+          "start": 1008.672,
+          "end": 1012.012,
+          "confidence": 0.8191666666666667,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
             {
               "word": " met",
-              "start": 1008.587,
-              "end": 1008.727,
+              "start": 1008.672,
+              "end": 1008.812,
               "confidence": 0.98
             },
             {
-              "word": " Delaware.",
-              "start": 1008.767,
-              "end": 1009.168,
-              "confidence": 0.63
-            }
-          ]
-        },
-        {
-          "text": "Die helpen u aan alle duurzaamheidsverreisten te voldoen.",
-          "language": "nl",
-          "start": 1009.488,
-          "end": 1011.79,
-          "confidence": 0.9712500000000002,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " Die",
-              "start": 1009.488,
-              "end": 1009.608,
-              "confidence": 0.98
+              "word": " IT-diensten",
+              "start": 1008.932,
+              "end": 1009.492,
+              "confidence": 0.95
             },
             {
-              "word": " helpen",
-              "start": 1009.628,
-              "end": 1009.868,
-              "confidence": 0.91
-            },
-            {
-              "word": " u",
-              "start": 1009.888,
-              "end": 1009.948,
-              "confidence": 0.98
-            },
-            {
-              "word": " aan",
-              "start": 1009.968,
-              "end": 1010.088,
-              "confidence": 0.99
-            },
-            {
-              "word": " alle",
-              "start": 1010.228,
-              "end": 1010.429,
-              "confidence": 0.99
-            },
-            {
-              "word": " duurzaamheidsverreisten",
-              "start": 1010.509,
-              "end": 1011.369,
-              "confidence": 0.94
-            },
-            {
-              "word": " te",
-              "start": 1011.37,
-              "end": 1011.469,
+              "word": " van",
+              "start": 1009.512,
+              "end": 1009.632,
               "confidence": 1
             },
             {
-              "word": " voldoen.",
-              "start": 1011.489,
-              "end": 1011.79,
-              "confidence": 0.98
+              "word": " Delaware",
+              "start": 1009.712,
+              "end": 1010.112,
+              "confidence": 0.64
+            },
+            {
+              "word": " beveiligt",
+              "start": 1010.152,
+              "end": 1010.572,
+              "confidence": 0.85
+            },
+            {
+              "word": " u",
+              "start": 1010.592,
+              "end": 1010.672,
+              "confidence": 0
+            },
+            {
+              "word": " uw",
+              "start": 1010.673,
+              "end": 1010.752,
+              "confidence": 0.49
+            },
+            {
+              "word": " data",
+              "start": 1010.753,
+              "end": 1011.032,
+              "confidence": 0.99
+            },
+            {
+              "word": " helemaal",
+              "start": 1011.152,
+              "end": 1011.552,
+              "confidence": 0.95
+            },
+            {
+              "word": " op",
+              "start": 1011.553,
+              "end": 1011.672,
+              "confidence": 1
+            },
+            {
+              "word": " uw",
+              "start": 1011.673,
+              "end": 1011.772,
+              "confidence": 0.99
+            },
+            {
+              "word": " maat.",
+              "start": 1011.792,
+              "end": 1012.012,
+              "confidence": 0.99
             }
           ]
         },
         {
-          "text": "En ze helpen u ook voorbij alle obstakels om te groeien,",
+          "text": "En ze ondersteunen u bij alle uitdagingen die komen kijken bij de groei van uw bedrijf.",
           "language": "nl",
-          "start": 1012.13,
-          "end": 1014.592,
-          "confidence": 0.9236363636363637,
+          "start": 1012.333,
+          "end": 1016.154,
+          "confidence": 0.9556250000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " En",
-              "start": 1012.13,
-              "end": 1012.25,
+              "start": 1012.333,
+              "end": 1012.453,
               "confidence": 1
             },
             {
               "word": " ze",
-              "start": 1012.41,
-              "end": 1012.53,
-              "confidence": 0.49
+              "start": 1012.613,
+              "end": 1012.733,
+              "confidence": 0.45
             },
             {
-              "word": " helpen",
-              "start": 1012.531,
-              "end": 1012.77,
-              "confidence": 0.9
+              "word": " ondersteunen",
+              "start": 1012.734,
+              "end": 1013.273,
+              "confidence": 0.96
             },
             {
               "word": " u",
-              "start": 1012.79,
-              "end": 1012.85,
-              "confidence": 0.98
-            },
-            {
-              "word": " ook",
-              "start": 1012.851,
-              "end": 1012.97,
+              "start": 1013.274,
+              "end": 1013.373,
               "confidence": 1
             },
             {
-              "word": " voorbij",
-              "start": 1012.99,
-              "end": 1013.251,
-              "confidence": 0.96
+              "word": " bij",
+              "start": 1013.393,
+              "end": 1013.513,
+              "confidence": 0.91
             },
             {
               "word": " alle",
-              "start": 1013.411,
-              "end": 1013.571,
-              "confidence": 0.96
-            },
-            {
-              "word": " obstakels",
-              "start": 1013.611,
-              "end": 1014.071,
-              "confidence": 0.88
-            },
-            {
-              "word": " om",
-              "start": 1014.091,
-              "end": 1014.191,
+              "start": 1013.653,
+              "end": 1013.833,
               "confidence": 1
             },
             {
-              "word": " te",
-              "start": 1014.192,
-              "end": 1014.291,
+              "word": " uitdagingen",
+              "start": 1013.933,
+              "end": 1014.433,
+              "confidence": 0.99
+            },
+            {
+              "word": " die",
+              "start": 1014.434,
+              "end": 1014.553,
+              "confidence": 0.99
+            },
+            {
+              "word": " komen",
+              "start": 1014.593,
+              "end": 1014.813,
               "confidence": 1
-            },
-            {
-              "word": " groeien,",
-              "start": 1014.311,
-              "end": 1014.592,
-              "confidence": 0.99
-            }
-          ]
-        },
-        {
-          "text": "van e-facturatie tot IT-beveiliging.",
-          "language": "nl",
-          "start": 1014.752,
-          "end": 1016.793,
-          "confidence": 0.9624999999999999,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " van",
-              "start": 1014.752,
-              "end": 1014.892,
-              "confidence": 0.99
-            },
-            {
-              "word": " e-facturatie",
-              "start": 1015.052,
-              "end": 1015.772,
-              "confidence": 0.91
-            },
-            {
-              "word": " tot",
-              "start": 1015.792,
-              "end": 1015.912,
-              "confidence": 0.99
-            },
-            {
-              "word": " IT-beveiliging.",
-              "start": 1016.033,
-              "end": 1016.793,
-              "confidence": 0.96
-            }
-          ]
-        },
-        {
-          "text": "Ah,",
-          "language": "nl",
-          "start": 1017.273,
-          "end": 1017.393,
-          "confidence": 0.03,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " Ah,",
-              "start": 1017.273,
-              "end": 1017.393,
-              "confidence": 0.03
-            }
-          ]
-        },
-        {
-          "text": "maar hier in het bos is geen ontvangst.",
-          "language": "nl",
-          "start": 1017.754,
-          "end": 1019.395,
-          "confidence": 0.77125,
-          "channel": 0,
-          "speaker": 2,
-          "words": [
-            {
-              "word": " maar",
-              "start": 1017.754,
-              "end": 1017.894,
-              "confidence": 0.91
-            },
-            {
-              "word": " hier",
-              "start": 1018.014,
-              "end": 1018.174,
-              "confidence": 0.96
-            },
-            {
-              "word": " in",
-              "start": 1018.175,
-              "end": 1018.274,
-              "confidence": 0.46
-            },
-            {
-              "word": " het",
-              "start": 1018.275,
-              "end": 1018.334,
-              "confidence": 0
-            },
-            {
-              "word": " bos",
-              "start": 1018.335,
-              "end": 1018.474,
-              "confidence": 1
-            },
-            {
-              "word": " is",
-              "start": 1018.494,
-              "end": 1018.614,
-              "confidence": 0.95
-            },
-            {
-              "word": " geen",
-              "start": 1018.634,
-              "end": 1018.794,
-              "confidence": 0.92
-            },
-            {
-              "word": " ontvangst.",
-              "start": 1018.814,
-              "end": 1019.395,
-              "confidence": 0.97
-            }
-          ]
-        },
-        {
-          "text": "Ga straks eens kijken op Delaware.pro.",
-          "language": "nl",
-          "start": 1019.935,
-          "end": 1021.857,
-          "confidence": 0.7066666666666667,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " Ga",
-              "start": 1019.935,
-              "end": 1020.055,
-              "confidence": 0.74
-            },
-            {
-              "word": " straks",
-              "start": 1020.155,
-              "end": 1020.456,
-              "confidence": 0.7
-            },
-            {
-              "word": " eens",
-              "start": 1020.457,
-              "end": 1020.576,
-              "confidence": 0.07
             },
             {
               "word": " kijken",
-              "start": 1020.596,
-              "end": 1020.896,
+              "start": 1014.853,
+              "end": 1015.113,
               "confidence": 0.99
             },
             {
+              "word": " bij",
+              "start": 1015.114,
+              "end": 1015.233,
+              "confidence": 1
+            },
+            {
+              "word": " de",
+              "start": 1015.234,
+              "end": 1015.313,
+              "confidence": 1
+            },
+            {
+              "word": " groei",
+              "start": 1015.333,
+              "end": 1015.533,
+              "confidence": 1
+            },
+            {
+              "word": " van",
+              "start": 1015.573,
+              "end": 1015.693,
+              "confidence": 1
+            },
+            {
+              "word": " uw",
+              "start": 1015.694,
+              "end": 1015.813,
+              "confidence": 1
+            },
+            {
+              "word": " bedrijf.",
+              "start": 1015.814,
+              "end": 1016.154,
+              "confidence": 1
+            }
+          ]
+        },
+        {
+          "text": "Dan kunt jij gerust zijn.",
+          "language": "nl",
+          "start": 1016.354,
+          "end": 1017.394,
+          "confidence": 0.8160000000000001,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Dan",
+              "start": 1016.354,
+              "end": 1016.474,
+              "confidence": 0.45
+            },
+            {
+              "word": " kunt",
+              "start": 1016.494,
+              "end": 1016.654,
+              "confidence": 1
+            },
+            {
+              "word": " jij",
+              "start": 1016.694,
+              "end": 1016.834,
+              "confidence": 0.67
+            },
+            {
+              "word": " gerust",
+              "start": 1016.894,
+              "end": 1017.174,
+              "confidence": 1
+            },
+            {
+              "word": " zijn.",
+              "start": 1017.214,
+              "end": 1017.394,
+              "confidence": 0.96
+            }
+          ]
+        },
+        {
+          "text": "Allee,",
+          "language": "nl",
+          "start": 1017.614,
+          "end": 1017.794,
+          "confidence": 0.2,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Allee,",
+              "start": 1017.614,
+              "end": 1017.794,
+              "confidence": 0.2
+            }
+          ]
+        },
+        {
+          "text": "kom,",
+          "language": "nl",
+          "start": 1017.795,
+          "end": 1017.914,
+          "confidence": 0.75,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " kom,",
+              "start": 1017.795,
+              "end": 1017.914,
+              "confidence": 0.75
+            }
+          ]
+        },
+        {
+          "text": "bel eens.",
+          "language": "nl",
+          "start": 1018.114,
+          "end": 1018.534,
+          "confidence": 0.605,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " bel",
+              "start": 1018.114,
+              "end": 1018.274,
+              "confidence": 0.97
+            },
+            {
+              "word": " eens.",
+              "start": 1018.414,
+              "end": 1018.534,
+              "confidence": 0.24
+            }
+          ]
+        },
+        {
+          "text": "Bellen?",
+          "language": "nl",
+          "start": 1018.814,
+          "end": 1019.194,
+          "confidence": 0.81,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Bellen?",
+              "start": 1018.814,
+              "end": 1019.194,
+              "confidence": 0.81
+            }
+          ]
+        },
+        {
+          "text": "Maar hier is geen ontvangst.",
+          "language": "nl",
+          "start": 1019.514,
+          "end": 1020.815,
+          "confidence": 0.938,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Maar",
+              "start": 1019.514,
+              "end": 1019.675,
+              "confidence": 0.99
+            },
+            {
+              "word": " hier",
+              "start": 1019.735,
+              "end": 1019.875,
+              "confidence": 0.77
+            },
+            {
+              "word": " is",
+              "start": 1019.895,
+              "end": 1020.015,
+              "confidence": 0.99
+            },
+            {
+              "word": " geen",
+              "start": 1020.035,
+              "end": 1020.195,
+              "confidence": 0.98
+            },
+            {
+              "word": " ontvangst.",
+              "start": 1020.215,
+              "end": 1020.815,
+              "confidence": 0.96
+            }
+          ]
+        },
+        {
+          "text": "Kijk straks,",
+          "language": "nl",
+          "start": 1021.015,
+          "end": 1021.495,
+          "confidence": 0.925,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Kijk",
+              "start": 1021.015,
+              "end": 1021.195,
+              "confidence": 0.99
+            },
+            {
+              "word": " straks,",
+              "start": 1021.235,
+              "end": 1021.495,
+              "confidence": 0.86
+            }
+          ]
+        },
+        {
+          "text": "dan is op Delaware.pro.",
+          "language": "nl",
+          "start": 1021.496,
+          "end": 1022.535,
+          "confidence": 0.85,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " dan",
+              "start": 1021.496,
+              "end": 1021.595,
+              "confidence": 0.77
+            },
+            {
+              "word": " is",
+              "start": 1021.615,
+              "end": 1021.735,
+              "confidence": 0.9
+            },
+            {
               "word": " op",
-              "start": 1020.897,
-              "end": 1021.016,
+              "start": 1021.736,
+              "end": 1021.835,
               "confidence": 1
             },
             {
               "word": " Delaware.pro.",
-              "start": 1021.076,
-              "end": 1021.857,
-              "confidence": 0.74
+              "start": 1021.855,
+              "end": 1022.535,
+              "confidence": 0.73
             }
           ]
         },
         {
-          "text": "Zo zie je terug het bos door de bomen.",
+          "text": "Die houden uw data zo veilig als een nest in de hoogste boom.",
           "language": "nl",
-          "start": 1022.357,
-          "end": 1024.238,
-          "confidence": 0.9066666666666667,
+          "start": 1023.135,
+          "end": 1025.776,
+          "confidence": 0.9092307692307694,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Zo",
-              "start": 1022.357,
-              "end": 1022.477,
+              "word": " Die",
+              "start": 1023.135,
+              "end": 1023.255,
               "confidence": 0.99
             },
             {
-              "word": " zie",
-              "start": 1022.597,
-              "end": 1022.717,
-              "confidence": 0.96
+              "word": " houden",
+              "start": 1023.275,
+              "end": 1023.476,
+              "confidence": 0.99
             },
             {
-              "word": " je",
-              "start": 1022.757,
-              "end": 1022.877,
-              "confidence": 0.49
+              "word": " uw",
+              "start": 1023.477,
+              "end": 1023.596,
+              "confidence": 0.5
             },
             {
-              "word": " terug",
-              "start": 1022.937,
-              "end": 1023.138,
-              "confidence": 0.94
-            },
-            {
-              "word": " het",
-              "start": 1023.238,
-              "end": 1023.358,
-              "confidence": 0.93
-            },
-            {
-              "word": " bos",
-              "start": 1023.478,
-              "end": 1023.638,
+              "word": " data",
+              "start": 1023.597,
+              "end": 1023.816,
               "confidence": 1
             },
             {
-              "word": " door",
-              "start": 1023.698,
-              "end": 1023.818,
-              "confidence": 0.9
+              "word": " zo",
+              "start": 1023.876,
+              "end": 1023.996,
+              "confidence": 1
+            },
+            {
+              "word": " veilig",
+              "start": 1024.116,
+              "end": 1024.436,
+              "confidence": 0.75
+            },
+            {
+              "word": " als",
+              "start": 1024.496,
+              "end": 1024.616,
+              "confidence": 0.92
+            },
+            {
+              "word": " een",
+              "start": 1024.617,
+              "end": 1024.736,
+              "confidence": 0.95
+            },
+            {
+              "word": " nest",
+              "start": 1024.776,
+              "end": 1024.996,
+              "confidence": 1
+            },
+            {
+              "word": " in",
+              "start": 1024.997,
+              "end": 1025.116,
+              "confidence": 0.98
             },
             {
               "word": " de",
-              "start": 1023.838,
-              "end": 1023.938,
+              "start": 1025.117,
+              "end": 1025.196,
               "confidence": 0.99
             },
             {
-              "word": " bomen.",
-              "start": 1023.958,
-              "end": 1024.238,
-              "confidence": 0.96
+              "word": " hoogste",
+              "start": 1025.197,
+              "end": 1025.496,
+              "confidence": 0.95
+            },
+            {
+              "word": " boom.",
+              "start": 1025.576,
+              "end": 1025.776,
+              "confidence": 0.8
             }
           ]
         },
         {
           "text": "Delaware.",
           "language": "nl",
-          "start": 1025.559,
-          "end": 1026.02,
-          "confidence": 0.14,
+          "start": 1026.456,
+          "end": 1026.916,
+          "confidence": 0.28,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Delaware.",
-              "start": 1025.559,
-              "end": 1026.02,
-              "confidence": 0.14
+              "start": 1026.456,
+              "end": 1026.916,
+              "confidence": 0.28
             }
           ]
         },
         {
           "text": "We commit,",
           "language": "nl",
-          "start": 1026.44,
-          "end": 1027.02,
-          "confidence": 0.08499999999999999,
+          "start": 1027.357,
+          "end": 1027.937,
+          "confidence": 0.215,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " We",
-              "start": 1026.44,
-              "end": 1026.58,
-              "confidence": 0.09
+              "start": 1027.357,
+              "end": 1027.497,
+              "confidence": 0.21
             },
             {
               "word": " commit,",
-              "start": 1026.64,
-              "end": 1027.02,
-              "confidence": 0.08
+              "start": 1027.557,
+              "end": 1027.937,
+              "confidence": 0.22
             }
           ]
         },
         {
           "text": "we deliver.",
           "language": "nl",
-          "start": 1027.24,
-          "end": 1027.821,
-          "confidence": 0.105,
+          "start": 1028.137,
+          "end": 1028.737,
+          "confidence": 0.315,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " we",
-              "start": 1027.24,
-              "end": 1027.361,
-              "confidence": 0.06
+              "start": 1028.137,
+              "end": 1028.257,
+              "confidence": 0.18
             },
             {
               "word": " deliver.",
-              "start": 1027.381,
-              "end": 1027.821,
-              "confidence": 0.15
+              "start": 1028.297,
+              "end": 1028.737,
+              "confidence": 0.45
             }
           ]
         }
       ],
-      "full_transcript": "Een frisse blik op de zaken zoals die van De Zeven. De IT-oplossingen van Delaware ondersteunen uw groeiambities en digitale transformatie. Delaware. We commit, we deliver. Welkom bij De Zeven van de Tijd. Elke dag om 7 uur, onze blik op de zaken. In 7 punten. Dit is Bert Rijmen. Goedemorgen. In maart, vlak voor de start van de Trump-tarieven, hebben Belgische bedrijven bijna de helft meer ge\u00ebxporteerd naar de VS dan een jaar geleden. Voor de hele EU was dat zelfs 65% meer. Hoewel Trump erop bleef aanbrengen, heeft de Amerikaanse centrale bank de rente gisteravond toch niet verlaagd. We kijken alleen naar de cijfers, niet naar wat de president zegt, zei de Fed. En het ooit zo populaire afslankbedrijf Weight Watchers heeft bescherming gevraagd tegen zijn schuldeisers. Is vermageren op wilskracht verleden tijd nu er medicatie bestaat, zoals Ozembic? Het is donderdag 8 mei, welkom. De zeven van de tijd. In maart heeft ons land voor bijna 3,4 miljard dollar aan goederen ge\u00ebxporteerd naar Amerika. Dat is 46% meer dan een jaar eerder en meer dan het dubbele van de maand februari. Die plotse stijging heeft natuurlijk alles te maken met de aangekondigde invoertarieven in de VS. Begin april was Trumps zogenaamde Liberation Day en daarop hebben heel wat bedrijven geanticipeerd. Zo steeg de Amerikaanse import uit de rest van de wereld in maart naar meer dan 340 miljard dollar, een record. Het handelstekort dat Trump zo haat, was nog nooit zo groot. We duiken eens in de cijfers met Olaf Verhagen, datajournalist hier bij de Tijdag. Olaf? Goeiemorgen Bert. Belgi\u00eb heeft in maart dus bijna de helft meer ge\u00ebxporteerd naar de VS dan een jaar eerder. Was die stijging in andere landen even groot? Als we vergelijken met alle landen waarmee de Verenigde Staten handel drijven, dan ligt het Belgische cijfer wel hoger, maar we zijn zeker geen uitschieter. De Europese Unie bijvoorbeeld, toch als blok de... Belangrijkste handelspartner van de VS. Die verscheepte meer dan 80 miljard dollar aan goederen naar Amerika. Dat is een ongezien record. 65% meer dan vorig jaar. En als je weet dat we op maandbasis nooit boven die 55 miljard waren uitgekomen, dan is dat toch wel een opvallend cijfer. Een omgekeerd deel zien we dan voor China. Het land dat toch het felst in die handelsoorlog met Trump is verwikkeld. Zij zijn de enige noemenswaardige partner van de Amerikanen van wie de export in maart... richting de VS is gedaald ten opzichte van een jaar geleden. Ook het aandeel van de Chinezen in de totale Amerikaanse import, dat lag de laatste twintig jaar nooit lager dan nu. Ok\u00e9, over welke producten gaat het zoal, Olaf? Pharma, medicijnen, dat is een hele belangrijke. En dan misschien nog specifieker de ingredi\u00ebnten voor die medicijnen. We zien bijvoorbeeld dat Ierland door de export van die farmaceutische producten een enorme boost heeft gekregen in die cijfers. In vergelijking met maart 2024 zijn die Ierse exportcijfers richting... Amerika bijna maal drie gegaan. Dat is een stijging van 285 procent. Dat is toch wel enorm. Andere producten die in het oog springen zijn goud en edelsteden. Die jagen bijvoorbeeld de handel vanuit Zwitserland of Australi\u00eb richting de Verenigde Staten toch wel fel omhoog. En dan de import van speelgoed, kledij of elektronica. Dat zijn producten die de Amerikanen toch heel vaak in China halen. Die stijgen veel minder of gaan zelfs dalen. Serieuze hossen daar allemaal. Hoe gaat die export naar de VS evolueren? na de start van die Trump-tarieven van begin april? Ja Bert, dat is een goede vraag. Voor de offici\u00eble cijfers daarover is het sowieso nog wachten tot ergens begin juni. Maar er zijn de jongste dagen toch wel berichten dat de activiteit in die Amerikaanse havens fors is teruggevallen. Je moet natuurlijk weten, er is nog altijd een tarievenpauze voor de meeste producten uit de meeste landen. Enkel met China is de handelsoorlog echt in alle hevigheid ontploft. De meeste andere landen zijn teruggezet op een soort van basistarief van 10%. procent. Het is natuurlijk afwachten wat Trump met die pauze gaat doen. Gaat hij die nog eens verlengen met 90 of 180 dagen? Gaan de oorspronkelijke tarieven weer in? Komen er andere percentages? Of komen er producten zoals bijvoorbeeld pharma bij? Dat zijn vragen waar we voorlopig het antwoord schuldig moeten op blijven. Ik denk de enige die het antwoord kent, die heet Donald Trump. Dat denk ik ook. Dankjewel Olaf. Met veel plezier gedaan. Er is een revolt op til binnen de zakenfamilie Lippes. De ruzie gaat over Finas Sucre, dat is de familiale holding die vooral in de suikerindustrie actief is. Finas Sucre wil een bod doen op een deel van zijn eigen aandelen, maar sommige aandeelhouders vinden dat veel te laag. Vorige zomer bleek al dat het scheef zit tussen de verschillende takken van de familie Lippes. De tak van Paul Lippes liet weten dat ze haar aandelen van Finacucre, ongeveer een kwart van het bedrijf, wou verkopen. De rest zit bij de tak van zijn broer Olivier en van zijn zus Florence Lippes. Nu is er een voorstel om een aandeleninkoop te lanceren voor een deel van het kapitaal. De groep biedt 5.800 euro per aandeel, maar dat vinden meerdere aandeelhouders, waaronder de tak Paul Lippes veel. te weinig. Midden mei is de algemene vergadering waar de aandeelhouders moeten stemmen over het voorstel. Er is ook bredere kritiek op de strategie van de groep de laatste jaren, het gebrek aan groei en de slechte transparantie bij Finansucre. Een schoolvoorbeeld van hoe het niet moet in een familiebedrijf, horen we bij een bron die Finansucre niet kent. De balans van risico's. En dat is het. Dat is alles wat we gaan bepalen. Trump had meermaals aangedrongen, nogthans op een renteverlaging. Zit die er binnenkort wel aan te komen? Goeiemorgen, beleggingsjournalist Wouter Vervennen. Goeiemorgen. Jij hebt die persconferentie van de FED gisteravond gevolgd. Waarom hebben ze de rente nog niet verlaagd? Wel, Jerome Powell, de voorzitter van de Amerikaanse Centrale Bank, verwees naar de toegenomen onzekerheid, die vooral te wijten is natuurlijk aan de invoerheffingen. En de FED worstelt eigenlijk met twee tegenstrijdige krachten. ten eerste, ze zegt... Het risico van werkloosheid is toegenomen. Dat is een argument om de rente te verlagen. Maar ze zegt ook het risico van inflatie is toegenomen. En dat is dan een argument om de rente te verhogen. Dus daarom neemt zij een afwachtende houding aan en laat ze de rente voorlopig ongewijzigd. Dat is niet wat Trump wou, Wouter. Die pleit al langer voor een renteverlaging. Hij heeft Powell ook persoonlijk aangevallen. Zag hem zelfs liever vertrekken de voorbije dagen. Hoe heeft de Fed-voorzitter daarop gereageerd? Ik kreeg natuurlijk zoals verracht een paar vragen daarover. Maar Paul, dat was duidelijk. Hij zegt, de uitspraken van de president hebben geen enkele invloed op ons werk. Ons beleid laten wij alleen leiden door de economische cijfers, de economische vooruitzichten en de risico's voor de economie. Daar heeft hij de puntjes op de i gezet. Wouter, hoe zijn de vooruitzichten? Komt er nu snel een renteverlaging? Dat denk ik niet, Paul. We kunnen eigenlijk rustig afwachten, geduldig zijn. Wait and see, zei hij. Hij was eigenlijk ook relatief positief over de economie, hoewel die in het eerste kwartaal lichtjes is gekrompen. De algemene verwachting is dat er in juni bij de volgende vergadering nog geen renteverlaging komt, maar pas dan op de volgende vergadering eind juli. Later dit jaar volgen er dan waarschijnlijk nog twee renteverlagingen, dus dat betekent drie voor het einde van dit jaar. Dat zijn de vooruitzichten. Hoe hebben de beleggers daar nu op gereageerd, Wouter? Eigenlijk vrij kalm, zowel op het rentebesluit als de persconferentie van Pauw. De aandelenmarkten, dus zowel de S&P 500, de index van de 500 belangrijkste aandelen, als Nasdaq. zijn licht hoger ge\u00ebindigd en de lange termijnrente is ongeveer stabiel gebleven. Dankjewel Wouter. Graag gedaan. Eind april heeft de Russische president een driedaags staakt het vuren aangekondigd dat vandaag ingaat. Maar de vraag is of dat bestand zal stand houden. Poetin wil met het staakt het vuren de Sovjet-overwinning op Nazi-Duitsland herdenken, nu 80 jaar geleden. De president hoopt dat Oekra\u00efne de wapens ook drie dagen zal neerleggen en hij waarschuwde meteen dat er anders een gepaste reactie zal volgen van het Russische leger. Zelensky heeft niet duidelijk beloofd dat hij meegaat in die pauze, vooral omdat hij twijfelde hoe oprecht de bedoelingen van Poetin zijn. Volgens Zelensky wil Poetin maar \u00e9\u00e9n ding, geen Oekra\u00efnse drone aanvallen tijdens de militaire parade morgen. Ook buitenlandse leiders, zoals de Chinese president Xi Jinping, zullen daar aanwezig zijn. Maar de veiligheid van die leiders bij de parade wil Kiev niet garanderen. Onlangs was er ook een paaspauze van 30 uur tussen Rusland en Oekra\u00efne. Toen werd de strijd wat minder intens, maar is die ook niet volledig gestopt. En dat voorspelt dus weinig goeds voor nu. Oekra\u00efne wil eigenlijk liever een bestand van 30 dagen, maar dat botst nog op een Russische niet. hey the whole idea points i was like i don't want to be counting points so i said let me try it and see if i like it and as of today since august 12th i've lost 15 pounds wow Oprah Winfrey is dit vroeger het boegbeeld van de Weight Watchers punten tellen om af te vallen. Het was razend populair. Maar nu heeft het Amerikaanse afslankbedrijf via de rechtbank bescherming moeten vragen tegen zijn schuldeisers. Via een speciale faillissementprocedure wil het bedrijf de schuldenberg met ruim 1 miljard dollar afbouwen, zodat er een doorstart kan komen. Dat zou binnen 45 dagen moeten gebeuren. Intussen kunnen alle activiteiten van Weight Watchers normaal blijven doorlopen. maar gaan ze er nog wel bovenop geraken? Goeiemorgen, tijdcollega Floor Eelbode. Goeiemorgen Bert. Eerst nog eens uitleggen Floor, waarom heeft Weight Watchers het zo moeilijk? Ten eerste was er corona, waardoor die fysieke bijeenkomsten niet langer mogelijk waren. Dat heeft hen leden gekost. Maar er was ook de opkomst van fitnessapps, influencers en ook nieuwe di\u00ebten zoals keto en intermittent fasting. waardoor Weight Watchers, dat eigenlijk al heel lang bestaat, ook wel een beetje als vergaande glorie en een beetje achterhaald wordt gezien. Maar vooral de opkomst van nieuwe afslankmedicatie, zoals Ozempic heeft een grote invloed gehad. Het bekendste voorbeeld is misschien Oprah Winfrey. Zij was tien jaar lang het grote boegbeeld van Weight Watchers, maar is nu zelf ook overgestapt. Dat is geen goede reclame. Inderdaad, heeft Weight Watchers dan nog wel toekomst, Floor? En wat moet er dan veranderen? Wel, het werd opgericht in de jaren 60 en het gebruikt ook nog een beetje de methode van de jaren 60 die heel sterk gefocust zijn op gewicht. En bij obesitas-experts is te horen dat onze visie op obesitas de voorbije jaren sterk veranderd is. Waar data bij Weight Watchers wordt gezien als een kwestie van wilskracht en goed op je voeding letten en zo, dat dat niet altijd het geval is dat sommige mensen gewoon met een bepaalde stoornis in hun gewichtsregulatie zitten, waardoor ze obesitas hebben. context zal Weight Watchers zich een beetje moeten heruitvinden. Natuurlijk, de medicatie die nu bestaat, is ook geen zaligmakend middel. Bij obesitas-experts is te horen dat je ook in combinatie met die medicatie je voeding moet aanpassen. En dat is bijvoorbeeld iets waarin Weight Watchers ook een rol zou kunnen spelen. Inderdaad. Hoe groot zijn ze nog op dit moment in Belgi\u00eb, Floor? Wel, in Belgi\u00eb is bij coaches te horen dat het momenteel nog redelijk goed gaat. En... Landen als Nederland bijvoorbeeld zijn de fysieke bijeenkomsten afgeschaft, omdat die niet langer werkten. Dat is bij ons niet het geval. Een coach met wie ik sprak zei dat zij elke meeting wel 30 tot 50 mensen heeft die er nog komen. Maar er is ook wel te horen dat er nu wel ongerustheid is over hoe dat verder zal verlopen bij de mensen die naar die meetings komen. Dankjewel Floor. Graag gedaan Bert. Zes. Een interessante move voor de verloning van personeel in de consultancy sector. More Belgium heeft zijn kapitaal opengesteld voor zijn medewerkers. Die kunnen als ze willen dus intekenen op de aandelen van de accountancy en adviesgroep. Dat blijkt uit het jaarverslag. More Belgium is uitgegroeid tot het nummer 5 in de sector in ons land, na de Big Four dus. En de grootste onafhankelijke zakelijke dienstverlener voor KMO's en familiale bedrijven. De meeste consultancy spelers zijn partnerschappen waarbij alleen de toppers mogen instappen in het kapitaal en... dus ook de winsten. More Belgium doet dat anders. Daar is de investeringsmaatschappij Waterland de meerderheidsaandeelhouder met 55%. Een ander deel zit bij de partners, maar nu dus ook zo'n 2% bij het personeel. 40% van de medewerkers dat ervoor in aanmerking kwam tekende ook effectief in op aandelen van More en die steeg de voorbije jaren stevig in waarde van ruim 5000 euro per stuk in 2020 tot 13.500 euro eind 2024. Dat is toch mom? Zeven. En dit is ook mooi. Ik vond het een zeer leuke ervaring, want opera beleef je normaal niet op deze manier. Normaal is het van in je zachte stoeltjes en je mooi kijkt, maar nu zit je er echt in. Het was mijn eerste opera ervaring, want het was heel direct. Wauw. De toeschouwers waren duidelijk onder de indruk nadat ze Intoleranza, Diciano, Vicente Cisante of... of Onverdraagzaamheid 1960 hadden gezien. De nieuwste productie is dat van opera ballet Vlaanderen. Geen klassieke opera, maar een totaalervaring. Dat wou Koen van Boksem, onze chef cultuur, natuurlijk ook meemaken. Hoe was dat, Koen? Het was een onvergetelijke ervaring. Er zijn maar 300 toeschouwers per avond toegelaten. Omdat wij met z'n allen op het podium liggen, zitten, staan... en eigenlijk een onderdeel worden van de hele productie. Je voelt de vibraties van... die zangers, die soms op een meter van jou op een stoel zitten en ook zingen. Op een bepaald moment werd ik meegenomen door iemand. Ik dacht, oei, ik word hier ontvoerd ofzo. En dat gaat zo de hele voorstelling door. Waarover gaat die voorstelling? Over de onderdrukking, geweld, foltering, vanaf de Tweede Wereldoorlog. Tot 1960 eigenlijk. Maar het knappe aan de productie die we nu zien in Gent, is dat doordat je echt meedoet, dat je meteen, zonder dat je het wil, denkt aan wat er vandaag gebeurt. Aan Gaza of Oekra\u00efne. En dat maakt deze productie, los van het feit dat je op het podium staat, echt een onvergetelijke ervaring. Met nog eens, dit is vergeten, fantastisch mooie muziek. De chefcultuur is alvast onder de indruk, dat is duidelijk. Intoleranza 1960 loopt nog tot 18 mei in de Opera van Gent. Daarmee ben je weer helemaal mee, maar voor wie nog niet is uitgeluisterd Er staat een nieuwe aflevering voor je klaar van de beursvalleurs Deze week met een exclusief verslag van de Buffett Jamboree uit Omaha Jurgen Vluijmans, Buffettier in hart en nieren, reisde voor het tweede keer af En bracht boeiende inzichten mee voor onze valleurs over de opvolging van Buffett Warren Buffett kan je niet vervangen, dat is onmogelijk Dat is een levende obsessie met de beurs Ik denk dat hij in zijn leven honderdduizend jaarverslagen heeft gelezen. En hij kan ook allemaal fotografisch zeggen van ok\u00e9, dat bedrijf heeft toen dat gerealiseerd. Dus dat is ongelooflijk. Maar een tweede Warren Buffett, dat lijkt mij heel onwaarschijnlijk. Dit en nog veel meer leuks allemaal in een nieuwe aflevering van de Beursvalleurs. En als je vanmiddag om twaalf uur tijd hebt tijdens de lunch, volg dan zeker ook de CEO Talks via tijd.be. Deze keer is CEO Eddie Duquesne van Kin\u00e9polis te gast. Wordt zeker interessant. Voil\u00e0, helemaal klaar nu. Nog een fijne dag en tot morgen. Dit was De Zeven met Bert Rijmen. Productie door Lara Droesaert vanop de redactie van De Tijd. Voor meer business- en straffe nieuwsverhalen check tijd.be of onze app. Morgen zijn we er weer. Tot dan. Dag. Kijk toch eens Hilde, wat een prachtig bos. Zo rustgevend. Oh Frank, uw bos kan de boom in. Ik zit met mijn hoofd bij dat duurzaamheidsrapport. Wel is met Delaware. Die helpen u aan alle duurzaamheidsverreisten te voldoen. En ze helpen u ook voorbij alle obstakels om te groeien, van e-facturatie tot IT-beveiliging. Ah, maar hier in het bos is geen ontvangst. Ga straks eens kijken op Delaware.pro. Zo zie je terug het bos door de bomen. Delaware. We commit, we deliver."
+      "full_transcript": "Een frisse blik op de zaken zoals die van De Zeven. De IT-oplossingen van Delaware ondersteunen uw groeiambities en digitale transformatie. Delaware. We commit, we deliver. Welkom bij De Zeven van de Tijd. Elke dag om 7 uur, onze blik op de zaken. In 7 punten. Dit is Bert Rijmen. Goedemorgen. In maart, vlak voor de start van de Trump-tarieven, hebben Belgische bedrijven bijna de helft meer ge\u00ebxporteerd naar de VS dan een jaar geleden. Voor de hele EU was dat zelfs 65% meer. Hoewel Trump erop bleef aanbrengen, heeft de Amerikaanse centrale bank de rente gisteravond toch niet verlaagd. We kijken alleen naar de cijfers, niet naar wat de president zegt, zei de Fed. En het ooit zo populaire afslankbedrijf Weight Watchers heeft bescherming gevraagd tegen zijn schuldeisers. Is vermageren op wilskracht verleden tijd nu er medicatie bestaat, zoals Ozembic? Het is donderdag 8 mei, welkom. De zeven van de tijd. In maart heeft ons land voor bijna 3,4 miljard dollar aan goederen ge\u00ebxporteerd naar Amerika. Dat is 46% meer dan een jaar eerder en meer dan het dubbele van de maand februari. Die plotse stijging heeft natuurlijk alles te maken met de aangekondigde invoertarieven in de VS. Begin april was Trumps zogenaamde Liberation Day en daarop hebben heel wat bedrijven geanticipeerd. Zo steeg de Amerikaanse import uit de rest van de wereld in maart naar meer dan 340 miljard dollar, een record. Het handelstekort dat Trump zo haat, was nog nooit zo groot. We duiken eens in de cijfers met Olaf Verhagen, datajournalist hier bij de Tijdag. Olaf? Goeiemorgen Bert. Belgi\u00eb heeft in maart dus bijna de helft meer ge\u00ebxporteerd naar de VS dan een jaar eerder. Was die stijging in andere landen even groot? Als we vergelijken met alle landen waarmee de Verenigde Staten handel drijven, dan ligt het Belgische cijfer wel hoger, maar we zijn zeker geen uitschieter. De Europese Unie bijvoorbeeld, toch als blok de... Belangrijkste handelspartner van de VS. Die verscheepte meer dan 80 miljard dollar aan goederen naar Amerika. Dat is een ongezien record. 65% meer dan vorig jaar. En als je weet dat we op maandbasis nooit boven die 55 miljard waren uitgekomen, dan is dat toch wel een opvallend cijfer. Een omgekeerd deel zien we dan voor China. Het land dat toch het felst in die handelsoorlog met Trump is verwikkeld. Zij zijn de enige noemenswaardige partner van de Amerikanen van wie de export in maart... richting de VS is gedaald ten opzichte van een jaar geleden. Ook het aandeel van de Chinezen in de totale Amerikaanse import, dat lag de laatste twintig jaar nooit lager dan nu. Ok\u00e9, over welke producten gaat het zoal, Olaf? Pharma, medicijnen, dat is een hele belangrijke. En dan misschien nog specifieker de ingredi\u00ebnten voor die medicijnen. We zien bijvoorbeeld dat Ierland door de export van die farmaceutische producten een enorme boost heeft gekregen in die cijfers. In vergelijking met maart 2024 zijn die Ierse exportcijfers richting... Amerika bijna maal drie gegaan. Dat is een stijging van 285 procent. Dat is toch wel enorm. Andere producten die in het oog springen zijn goud en edelsteden. Die jagen bijvoorbeeld de handel vanuit Zwitserland of Australi\u00eb richting de Verenigde Staten toch wel fel omhoog. En dan de import van speelgoed, kledij of elektronica. Dat zijn producten die de Amerikanen toch heel vaak in China halen. Die stijgen veel minder of gaan zelfs dalen. Serieuze hossen daar allemaal. Hoe gaat die export naar de VS evolueren? na de start van die Trump-tarieven van begin april? Ja Bert, dat is een goede vraag. Voor de offici\u00eble cijfers daarover is het sowieso nog wachten tot ergens begin juni. Maar er zijn de jongste dagen toch wel berichten dat de activiteit in die Amerikaanse havens fors is teruggevallen. Je moet natuurlijk weten, er is nog altijd een tarievenpauze voor de meeste producten uit de meeste landen. Enkel met China is de handelsoorlog echt in alle hevigheid ontploft. De meeste andere landen zijn teruggezet op een soort van basistarief van 10%. procent. Het is natuurlijk afwachten wat Trump met die pauze gaat doen. Gaat hij die nog eens verlengen met 90 of 180 dagen? Gaan de oorspronkelijke tarieven weer in? Komen er andere percentages? Of komen er producten zoals bijvoorbeeld pharma bij? Dat zijn vragen waar we voorlopig het antwoord schuldig moeten op blijven. Ik denk de enige die het antwoord kent, die heet Donald Trump. Dat denk ik ook. Dankjewel Olaf. Met veel plezier gedaan. Er is een revolt op til binnen de zakenfamilie Lippes. De ruzie gaat over Finas Sucre, dat is de familiale holding die vooral in de suikerindustrie actief is. Finas Sucre wil een bod doen op een deel van zijn eigen aandelen, maar sommige aandeelhouders vinden dat veel te laag. Vorige zomer bleek al dat het scheef zit tussen de verschillende takken van de familie Lippes. De tak van Paul Lippes liet weten dat ze haar aandelen van Finacucre, ongeveer een kwart van het bedrijf, wou verkopen. De rest zit bij de tak van zijn broer Olivier en van zijn zus Florence Lippes. Nu is er een voorstel om een aandeleninkoop te lanceren voor een deel van het kapitaal. De groep biedt 5.800 euro per aandeel, maar dat vinden meerdere aandeelhouders, waaronder de tak Paul Lippes veel. te weinig. Midden mei is de algemene vergadering waar de aandeelhouders moeten stemmen over het voorstel. Er is ook bredere kritiek op de strategie van de groep de laatste jaren, het gebrek aan groei en de slechte transparantie bij Finansucre. Een schoolvoorbeeld van hoe het niet moet in een familiebedrijf, horen we bij een bron die Finansucre niet kent. De balans van risico's. En dat is het. Dat is alles wat we gaan bepalen. Trump had meermaals aangedrongen, nogthans op een renteverlaging. Zit die er binnenkort wel aan te komen? Goeiemorgen, beleggingsjournalist Wouter Vervennen. Goeiemorgen. Jij hebt die persconferentie van de FED gisteravond gevolgd. Waarom hebben ze de rente nog niet verlaagd? Wel, Jerome Powell, de voorzitter van de Amerikaanse Centrale Bank, verwees naar de toegenomen onzekerheid, die vooral te wijten is natuurlijk aan de invoerheffingen. En de FED worstelt eigenlijk met twee tegenstrijdige krachten. ten eerste, ze zegt... Het risico van werkloosheid is toegenomen. Dat is een argument om de rente te verlagen. Maar ze zegt ook het risico van inflatie is toegenomen. En dat is dan een argument om de rente te verhogen. Dus daarom neemt zij een afwachtende houding aan en laat ze de rente voorlopig ongewijzigd. Dat is niet wat Trump wou, Wouter. Die pleit al langer voor een renteverlaging. Hij heeft Powell ook persoonlijk aangevallen. Zag hem zelfs liever vertrekken de voorbije dagen. Hoe heeft de Fed-voorzitter daarop gereageerd? Ik kreeg natuurlijk zoals verracht een paar vragen daarover. Maar Paul, dat was duidelijk. Hij zegt, de uitspraken van de president hebben geen enkele invloed op ons werk. Ons beleid laten wij alleen leiden door de economische cijfers, de economische vooruitzichten en de risico's voor de economie. Daar heeft hij de puntjes op de i gezet. Wouter, hoe zijn de vooruitzichten? Komt er nu snel een renteverlaging? Dat denk ik niet, Paul. We kunnen eigenlijk rustig afwachten, geduldig zijn. Wait and see, zei hij. Hij was eigenlijk ook relatief positief over de economie, hoewel die in het eerste kwartaal lichtjes is gekrompen. De algemene verwachting is dat er in juni bij de volgende vergadering nog geen renteverlaging komt, maar pas dan op de volgende vergadering eind juli. Later dit jaar volgen er dan waarschijnlijk nog twee renteverlagingen, dus dat betekent drie voor het einde van dit jaar. Dat zijn de vooruitzichten. Hoe hebben de beleggers daar nu op gereageerd, Wouter? Eigenlijk vrij kalm, zowel op het rentebesluit als de persconferentie van Pauw. De aandelenmarkten, dus zowel de S&P 500, de index van de 500 belangrijkste aandelen, als Nasdaq. zijn licht hoger ge\u00ebindigd en de lange termijnrente is ongeveer stabiel gebleven. Dankjewel Wouter. Graag gedaan. Eind april heeft de Russische president een driedaags staakt het vuren aangekondigd dat vandaag ingaat. Maar de vraag is of dat bestand zal stand houden. Poetin wil met het staakt het vuren de Sovjet-overwinning op Nazi-Duitsland herdenken, nu 80 jaar geleden. De president hoopt dat Oekra\u00efne de wapens ook drie dagen zal neerleggen en hij waarschuwde meteen dat er anders een gepaste reactie zal volgen van het Russische leger. Zelensky heeft niet duidelijk beloofd dat hij meegaat in die pauze, vooral omdat hij twijfelde hoe oprecht de bedoelingen van Poetin zijn. Volgens Zelensky wil Poetin maar \u00e9\u00e9n ding, geen Oekra\u00efnse drone aanvallen tijdens de militaire parade morgen. Ook buitenlandse leiders, zoals de Chinese president Xi Jinping, zullen daar aanwezig zijn. Maar de veiligheid van die leiders bij de parade wil Kiev niet garanderen. Onlangs was er ook een paaspauze van 30 uur tussen Rusland en Oekra\u00efne. Toen werd de strijd wat minder intens, maar is die ook niet volledig gestopt. En dat voorspelt dus weinig goeds voor nu. Oekra\u00efne wil eigenlijk liever een bestand van 30 dagen, maar dat botst nog op een Russische niet. hey the whole idea points i was like i don't want to be counting points so i said let me try it and see if i like it and as of today since august 12th i've lost 15 pounds wow Oprah Winfrey is dit vroeger het boegbeeld van de Weight Watchers punten tellen om af te vallen. Het was razend populair. Maar nu heeft het Amerikaanse afslankbedrijf via de rechtbank bescherming moeten vragen tegen zijn schuldeisers. Via een speciale faillissementprocedure wil het bedrijf de schuldenberg met ruim 1 miljard dollar afbouwen, zodat er een doorstart kan komen. Dat zou binnen 45 dagen moeten gebeuren. Intussen kunnen alle activiteiten van Weight Watchers normaal blijven doorlopen. maar gaan ze er nog wel bovenop geraken? Goeiemorgen, tijdcollega Floor Eelbode. Goeiemorgen Bert. Eerst nog eens uitleggen Floor, waarom heeft Weight Watchers het zo moeilijk? Ten eerste was er corona, waardoor die fysieke bijeenkomsten niet langer mogelijk waren. Dat heeft hen leden gekost. Maar er was ook de opkomst van fitnessapps, influencers en ook nieuwe di\u00ebten zoals keto en intermittent fasting. waardoor Weight Watchers, dat eigenlijk al heel lang bestaat, ook wel een beetje als vergaande glorie en een beetje achterhaald wordt gezien. Maar vooral de opkomst van nieuwe afslankmedicatie, zoals Ozempic heeft een grote invloed gehad. Het bekendste voorbeeld is misschien Oprah Winfrey. Zij was tien jaar lang het grote boegbeeld van Weight Watchers, maar is nu zelf ook overgestapt. Dat is geen goede reclame. Inderdaad, heeft Weight Watchers dan nog wel toekomst, Floor? En wat moet er dan veranderen? Wel, het werd opgericht in de jaren 60 en het gebruikt ook nog een beetje de methode van de jaren 60 die heel sterk gefocust zijn op gewicht. En bij obesitas-experts is te horen dat onze visie op obesitas de voorbije jaren sterk veranderd is. Waar data bij Weight Watchers wordt gezien als een kwestie van wilskracht en goed op je voeding letten en zo, dat dat niet altijd het geval is dat sommige mensen gewoon met een bepaalde stoornis in hun gewichtsregulatie zitten, waardoor ze obesitas hebben. context zal Weight Watchers zich een beetje moeten heruitvinden. Natuurlijk, de medicatie die nu bestaat, is ook geen zaligmakend middel. Bij obesitas-experts is te horen dat je ook in combinatie met die medicatie je voeding moet aanpassen. En dat is bijvoorbeeld iets waarin Weight Watchers ook een rol zou kunnen spelen. Inderdaad. Hoe groot zijn ze nog op dit moment in Belgi\u00eb, Floor? Wel, in Belgi\u00eb is bij coaches te horen dat het momenteel nog redelijk goed gaat. En... Landen als Nederland bijvoorbeeld zijn de fysieke bijeenkomsten afgeschaft, omdat die niet langer werkten. Dat is bij ons niet het geval. Een coach met wie ik sprak zei dat zij elke meeting wel 30 tot 50 mensen heeft die er nog komen. Maar er is ook wel te horen dat er nu wel ongerustheid is over hoe dat verder zal verlopen bij de mensen die naar die meetings komen. Dankjewel Floor. Graag gedaan Bert. Zes. Een interessante move voor de verloning van personeel in de consultancy sector. More Belgium heeft zijn kapitaal opengesteld voor zijn medewerkers. Die kunnen als ze willen dus intekenen op de aandelen van de accountancy en adviesgroep. Dat blijkt uit het jaarverslag. More Belgium is uitgegroeid tot het nummer 5 in de sector in ons land, na de Big Four dus. En de grootste onafhankelijke zakelijke dienstverlener voor KMO's en familiale bedrijven. De meeste consultancy spelers zijn partnerschappen waarbij alleen de toppers mogen instappen in het kapitaal en... dus ook de winsten. More Belgium doet dat anders. Daar is de investeringsmaatschappij Waterland de meerderheidsaandeelhouder met 55%. Een ander deel zit bij de partners, maar nu dus ook zo'n 2% bij het personeel. 40% van de medewerkers dat ervoor in aanmerking kwam tekende ook effectief in op aandelen van More en die steeg de voorbije jaren stevig in waarde van ruim 5000 euro per stuk in 2020 tot 13.500 euro eind 2024. Dat is toch mom? Zeven. En dit is ook mooi. Ik vond het een zeer leuke ervaring, want opera beleef je normaal niet op deze manier. Normaal is het van in je zachte stoeltjes en je mooi kijkt, maar nu zit je er echt in. Het was mijn eerste opera ervaring, want het was heel direct. Wauw. De toeschouwers waren duidelijk onder de indruk nadat ze Intoleranza, Diciano, Vicente Cisante of... of Onverdraagzaamheid 1960 hadden gezien. De nieuwste productie is dat van opera ballet Vlaanderen. Geen klassieke opera, maar een totaalervaring. Dat wou Koen van Boksem, onze chef cultuur, natuurlijk ook meemaken. Hoe was dat, Koen? Het was een onvergetelijke ervaring. Er zijn maar 300 toeschouwers per avond toegelaten. Omdat wij met z'n allen op het podium liggen, zitten, staan... en eigenlijk een onderdeel worden van de hele productie. Je voelt de vibraties van... die zangers, die soms op een meter van jou op een stoel zitten en ook zingen. Op een bepaald moment werd ik meegenomen door iemand. Ik dacht, oei, ik word hier ontvoerd ofzo. En dat gaat zo de hele voorstelling door. Waarover gaat die voorstelling? Over de onderdrukking, geweld, foltering, vanaf de Tweede Wereldoorlog. Tot 1960 eigenlijk. Maar het knappe aan de productie die we nu zien in Gent, is dat doordat je echt meedoet, dat je meteen, zonder dat je het wil, denkt aan wat er vandaag gebeurt. Aan Gaza of Oekra\u00efne. En dat maakt deze productie, los van het feit dat je op het podium staat, echt een onvergetelijke ervaring. Met nog eens, dit is vergeten, fantastisch mooie muziek. De chefcultuur is alvast onder de indruk, dat is duidelijk. Intoleranza 1960 loopt nog tot 18 mei in de Opera van Gent. Daarmee ben je weer helemaal mee, maar voor wie nog niet is uitgeluisterd Er staat een nieuwe aflevering voor je klaar van de beursvalleurs Deze week met een exclusief verslag van de Buffett Jamboree uit Omaha Jurgen Vluijmans, Buffettier in hart en nieren, reisde voor het tweede keer af En bracht boeiende inzichten mee voor onze valleurs over de opvolging van Buffett Warren Buffett kan je niet vervangen, dat is onmogelijk Dat is een levende obsessie met de beurs Ik denk dat hij in zijn leven honderdduizend jaarverslagen heeft gelezen. En hij kan ook allemaal fotografisch zeggen van ok\u00e9, dat bedrijf heeft toen dat gerealiseerd. Dus dat is ongelooflijk. Maar een tweede Warren Buffett, dat lijkt mij heel onwaarschijnlijk. Dit en nog veel meer leuks allemaal in een nieuwe aflevering van de Beursvalleurs. En als je vanmiddag om twaalf uur tijd hebt tijdens de lunch, volg dan zeker ook de CEO Talks via tijd.be. Deze keer is CEO Eddie Duquesne van Kin\u00e9polis te gast. Wordt zeker interessant. Voil\u00e0, helemaal klaar nu. Nog een fijne dag en tot morgen. Dit was De Zeven met Bert Rijmen. Productie door Lara Droesaert vanop de redactie van De Tijd. Voor meer business- en straffe nieuwsverhalen check tijd.be of onze app. Morgen zijn we er weer. Tot dan. Maar kijk toch eens Hilde, wat een prachtig bos. Die beschermende kruinen. Oh Frank, jij met uw bos. Ik zou liever die data van mijn klanten beschermen. Zeg maar, met IT-diensten van Delaware beveiligt u uw data helemaal op uw maat. En ze ondersteunen u bij alle uitdagingen die komen kijken bij de groei van uw bedrijf. Dan kunt jij gerust zijn. Allee, kom, bel eens. Bellen? Maar hier is geen ontvangst. Kijk straks, dan is op Delaware.pro. Die houden uw data zo veilig als een nest in de hoogste boom. Delaware. We commit, we deliver."
     }
   }
 }

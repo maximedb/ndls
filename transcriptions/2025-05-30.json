@@ -1,18 +1,18 @@
 {
-  "id": "499b969e-2b33-4255-bb5f-05dc78d4928a",
-  "request_id": "G-499b969e",
+  "id": "c358a717-52e4-41c5-8ac4-6105024b138d",
+  "request_id": "G-c358a717",
   "version": 2,
   "status": "done",
-  "created_at": "2025-05-30T05:13:59.156Z",
-  "completed_at": "2025-05-30T05:18:56.281Z",
+  "created_at": "2025-05-30T06:30:08.686Z",
+  "completed_at": "2025-05-30T06:31:30.656Z",
   "custom_metadata": null,
   "error_code": null,
   "kind": "pre-recorded",
   "file": {
-    "id": "499b969e-2b33-4255-bb5f-05dc78d4928a",
+    "id": "c358a717-52e4-41c5-8ac4-6105024b138d",
     "filename": "audio.mp3",
     "source": "https://traffic.omny.fm/d/clips/5978613f-cd11-4352-8f26-adb900fa9a58/3c1222e5-288f-4047-a2f0-ae1b00a91688/c25662ed-d21b-4616-a364-b2ec01580f6d/audio.mp3?utm_source=Podcast&in_playlist=a0389eb5-55da-493d-b7bb-ae1b00d0d95a",
-    "audio_duration": 1569.463,
+    "audio_duration": 1568.575,
     "number_of_channels": 2
   },
   "request_params": {
@@ -45,10 +45,10 @@
   },
   "result": {
     "metadata": {
-      "audio_duration": 1569.462857,
+      "audio_duration": 1568.574694,
       "number_of_distinct_channels": 1,
-      "billing_time": 1569.462857,
-      "transcription_time": 297.125
+      "billing_time": 1568.574694,
+      "transcription_time": 81.97
     },
     "transcription": {
       "languages": [
@@ -27367,7 +27367,7 @@
           "text": "Dus een student hand in hand met de reguliere arbeidsmarkt,",
           "language": "nl",
           "start": 1390.106,
-          "end": 1393.166,
+          "end": 1393.168,
           "confidence": 0.8530000000000001,
           "channel": 0,
           "speaker": 4,
@@ -27380,56 +27380,56 @@
             },
             {
               "word": " een",
-              "start": 1390.706,
-              "end": 1390.826,
+              "start": 1390.707,
+              "end": 1390.827,
               "confidence": 0.88
             },
             {
               "word": " student",
-              "start": 1390.886,
-              "end": 1391.266,
+              "start": 1390.887,
+              "end": 1391.267,
               "confidence": 0.99
             },
             {
               "word": " hand",
-              "start": 1391.346,
-              "end": 1391.526,
+              "start": 1391.347,
+              "end": 1391.527,
               "confidence": 0.72
             },
             {
               "word": " in",
-              "start": 1391.546,
-              "end": 1391.666,
+              "start": 1391.547,
+              "end": 1391.667,
               "confidence": 0.95
             },
             {
               "word": " hand",
-              "start": 1391.667,
-              "end": 1391.806,
+              "start": 1391.668,
+              "end": 1391.807,
               "confidence": 0.63
             },
             {
               "word": " met",
-              "start": 1391.826,
-              "end": 1391.946,
+              "start": 1391.827,
+              "end": 1391.948,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 1391.947,
-              "end": 1392.046,
+              "start": 1391.949,
+              "end": 1392.048,
               "confidence": 0.66
             },
             {
               "word": " reguliere",
-              "start": 1392.047,
-              "end": 1392.466,
+              "start": 1392.049,
+              "end": 1392.468,
               "confidence": 0.94
             },
             {
               "word": " arbeidsmarkt,",
-              "start": 1392.526,
-              "end": 1393.166,
+              "start": 1392.528,
+              "end": 1393.168,
               "confidence": 0.79
             }
           ]
@@ -27437,122 +27437,122 @@
         {
           "text": "wij zijn er absoluut van overtuigd.",
           "language": "nl",
-          "start": 1393.206,
-          "end": 1394.626,
-          "confidence": 0.6583333333333333,
+          "start": 1393.209,
+          "end": 1394.63,
+          "confidence": 0.6566666666666666,
           "channel": 0,
           "speaker": 4,
           "words": [
             {
               "word": " wij",
-              "start": 1393.206,
-              "end": 1393.326,
-              "confidence": 0.21
+              "start": 1393.209,
+              "end": 1393.329,
+              "confidence": 0.2
             },
             {
               "word": " zijn",
-              "start": 1393.346,
-              "end": 1393.466,
+              "start": 1393.349,
+              "end": 1393.469,
               "confidence": 0.78
             },
             {
               "word": " er",
-              "start": 1393.486,
-              "end": 1393.586,
+              "start": 1393.489,
+              "end": 1393.589,
               "confidence": 0.55
             },
             {
               "word": " absoluut",
-              "start": 1393.626,
-              "end": 1393.946,
+              "start": 1393.629,
+              "end": 1393.949,
               "confidence": 0.87
             },
             {
               "word": " van",
-              "start": 1393.966,
-              "end": 1394.086,
+              "start": 1393.969,
+              "end": 1394.089,
               "confidence": 0.94
             },
             {
               "word": " overtuigd.",
-              "start": 1394.106,
-              "end": 1394.626,
+              "start": 1394.109,
+              "end": 1394.63,
               "confidence": 0.6
             }
           ]
         },
         {
-          "text": "Om af te sluiten,",
+          "text": "Om af te sluiten.",
           "language": "nl",
-          "start": 1396.686,
-          "end": 1397.486,
+          "start": 1396.691,
+          "end": 1397.492,
           "confidence": 0.99,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Om",
-              "start": 1396.686,
-              "end": 1396.806,
+              "start": 1396.691,
+              "end": 1396.811,
               "confidence": 0.99
             },
             {
               "word": " af",
-              "start": 1396.826,
-              "end": 1396.946,
+              "start": 1396.831,
+              "end": 1396.951,
               "confidence": 0.99
             },
             {
               "word": " te",
-              "start": 1396.947,
-              "end": 1397.066,
+              "start": 1396.952,
+              "end": 1397.072,
               "confidence": 0.99
             },
             {
-              "word": " sluiten,",
-              "start": 1397.126,
-              "end": 1397.486,
+              "word": " sluiten.",
+              "start": 1397.132,
+              "end": 1397.492,
               "confidence": 0.99
             }
           ]
         },
         {
-          "text": "klopt dat laatste volgens jullie,",
+          "text": "Klopt dat laatste volgens jullie,",
           "language": "nl",
-          "start": 1397.806,
-          "end": 1399.186,
+          "start": 1397.812,
+          "end": 1399.193,
           "confidence": 0.79,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " klopt",
-              "start": 1397.806,
-              "end": 1398.066,
+              "word": " Klopt",
+              "start": 1397.812,
+              "end": 1398.072,
               "confidence": 0.74
             },
             {
               "word": " dat",
-              "start": 1398.086,
-              "end": 1398.226,
+              "start": 1398.092,
+              "end": 1398.232,
               "confidence": 0.8
             },
             {
               "word": " laatste",
-              "start": 1398.286,
-              "end": 1398.606,
+              "start": 1398.292,
+              "end": 1398.613,
               "confidence": 0.83
             },
             {
               "word": " volgens",
-              "start": 1398.646,
-              "end": 1398.926,
+              "start": 1398.653,
+              "end": 1398.933,
               "confidence": 0.88
             },
             {
               "word": " jullie,",
-              "start": 1398.966,
-              "end": 1399.186,
+              "start": 1398.973,
+              "end": 1399.193,
               "confidence": 0.7
             }
           ]
@@ -27560,16 +27560,16 @@
         {
           "text": "Femke,",
           "language": "nl",
-          "start": 1399.306,
-          "end": 1399.646,
+          "start": 1399.313,
+          "end": 1399.654,
           "confidence": 0.85,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Femke,",
-              "start": 1399.306,
-              "end": 1399.646,
+              "start": 1399.313,
+              "end": 1399.654,
               "confidence": 0.85
             }
           ]
@@ -27577,16 +27577,16 @@
         {
           "text": "Thomas?",
           "language": "nl",
-          "start": 1399.866,
-          "end": 1400.286,
+          "start": 1399.874,
+          "end": 1400.294,
           "confidence": 0.9,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Thomas?",
-              "start": 1399.866,
-              "end": 1400.286,
+              "start": 1399.874,
+              "end": 1400.294,
               "confidence": 0.9
             }
           ]
@@ -27594,76 +27594,76 @@
         {
           "text": "Of hoe moeten we die records van vandaag volgens jullie zien?",
           "language": "nl",
-          "start": 1401.026,
-          "end": 1403.406,
+          "start": 1401.035,
+          "end": 1403.416,
           "confidence": 0.9127272727272728,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Of",
-              "start": 1401.026,
-              "end": 1401.146,
+              "start": 1401.035,
+              "end": 1401.155,
               "confidence": 0.98
             },
             {
               "word": " hoe",
-              "start": 1401.166,
-              "end": 1401.286,
+              "start": 1401.175,
+              "end": 1401.295,
               "confidence": 0.99
             },
             {
               "word": " moeten",
-              "start": 1401.326,
-              "end": 1401.506,
+              "start": 1401.335,
+              "end": 1401.515,
               "confidence": 0.98
             },
             {
               "word": " we",
-              "start": 1401.507,
-              "end": 1401.586,
+              "start": 1401.516,
+              "end": 1401.595,
               "confidence": 0.99
             },
             {
               "word": " die",
-              "start": 1401.606,
-              "end": 1401.726,
+              "start": 1401.615,
+              "end": 1401.735,
               "confidence": 0.96
             },
             {
               "word": " records",
-              "start": 1401.727,
-              "end": 1402.106,
+              "start": 1401.736,
+              "end": 1402.115,
               "confidence": 0.48
             },
             {
               "word": " van",
-              "start": 1402.107,
-              "end": 1402.226,
+              "start": 1402.116,
+              "end": 1402.236,
               "confidence": 0.99
             },
             {
               "word": " vandaag",
-              "start": 1402.246,
-              "end": 1402.526,
+              "start": 1402.256,
+              "end": 1402.536,
               "confidence": 0.99
             },
             {
               "word": " volgens",
-              "start": 1402.586,
-              "end": 1402.846,
+              "start": 1402.596,
+              "end": 1402.856,
               "confidence": 0.92
             },
             {
               "word": " jullie",
-              "start": 1402.886,
-              "end": 1403.086,
+              "start": 1402.896,
+              "end": 1403.096,
               "confidence": 0.77
             },
             {
               "word": " zien?",
-              "start": 1403.206,
-              "end": 1403.406,
+              "start": 1403.216,
+              "end": 1403.416,
               "confidence": 0.99
             }
           ]
@@ -27671,64 +27671,64 @@
         {
           "text": "Is het een win-win of moeten we toch opletten?",
           "language": "nl",
-          "start": 1403.806,
-          "end": 1406.186,
+          "start": 1403.817,
+          "end": 1406.199,
           "confidence": 0.9711111111111111,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Is",
-              "start": 1403.806,
-              "end": 1403.926,
+              "start": 1403.817,
+              "end": 1403.937,
               "confidence": 0.96
             },
             {
               "word": " het",
-              "start": 1403.927,
-              "end": 1404.046,
+              "start": 1403.938,
+              "end": 1404.057,
               "confidence": 0.95
             },
             {
               "word": " een",
-              "start": 1404.066,
-              "end": 1404.186,
+              "start": 1404.077,
+              "end": 1404.197,
               "confidence": 0.95
             },
             {
               "word": " win-win",
-              "start": 1404.246,
-              "end": 1404.566,
+              "start": 1404.257,
+              "end": 1404.577,
               "confidence": 0.95
             },
             {
               "word": " of",
-              "start": 1405.146,
-              "end": 1405.266,
+              "start": 1405.158,
+              "end": 1405.278,
               "confidence": 0.97
             },
             {
               "word": " moeten",
-              "start": 1405.366,
-              "end": 1405.566,
+              "start": 1405.378,
+              "end": 1405.578,
               "confidence": 0.99
             },
             {
               "word": " we",
-              "start": 1405.567,
-              "end": 1405.646,
+              "start": 1405.579,
+              "end": 1405.658,
               "confidence": 0.99
             },
             {
               "word": " toch",
-              "start": 1405.666,
-              "end": 1405.806,
+              "start": 1405.678,
+              "end": 1405.818,
               "confidence": 0.98
             },
             {
               "word": " opletten?",
-              "start": 1405.826,
-              "end": 1406.186,
+              "start": 1405.838,
+              "end": 1406.199,
               "confidence": 1
             }
           ]
@@ -27736,123 +27736,123 @@
         {
           "text": "Wel,",
           "language": "nl",
-          "start": 1406.546,
-          "end": 1406.686,
-          "confidence": 0.92,
+          "start": 1406.559,
+          "end": 1406.699,
+          "confidence": 0.9,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " Wel,",
-              "start": 1406.546,
-              "end": 1406.686,
-              "confidence": 0.92
+              "start": 1406.559,
+              "end": 1406.699,
+              "confidence": 0.9
             }
           ]
         },
         {
           "text": "er vallen zekere vragen te stellen bij de zeer grote toename van al die centen arbeids.",
           "language": "nl",
-          "start": 1406.946,
-          "end": 1412.266,
-          "confidence": 0.8981250000000002,
+          "start": 1406.959,
+          "end": 1412.283,
+          "confidence": 0.9081250000000002,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " er",
-              "start": 1406.946,
-              "end": 1407.066,
+              "start": 1406.959,
+              "end": 1407.079,
               "confidence": 0.96
             },
             {
               "word": " vallen",
-              "start": 1407.386,
-              "end": 1407.666,
+              "start": 1407.4,
+              "end": 1407.68,
               "confidence": 0.89
             },
             {
               "word": " zekere",
-              "start": 1408.006,
-              "end": 1408.306,
+              "start": 1408.02,
+              "end": 1408.32,
               "confidence": 0.99
             },
             {
               "word": " vragen",
-              "start": 1408.346,
-              "end": 1408.646,
+              "start": 1408.36,
+              "end": 1408.661,
               "confidence": 0.74
             },
             {
               "word": " te",
-              "start": 1408.647,
-              "end": 1408.766,
+              "start": 1408.662,
+              "end": 1408.781,
               "confidence": 0.97
             },
             {
               "word": " stellen",
-              "start": 1408.786,
-              "end": 1409.086,
+              "start": 1408.801,
+              "end": 1409.101,
               "confidence": 0.99
             },
             {
               "word": " bij",
-              "start": 1409.186,
-              "end": 1409.346,
+              "start": 1409.201,
+              "end": 1409.361,
               "confidence": 0.9
             },
             {
               "word": " de",
-              "start": 1409.506,
-              "end": 1409.626,
+              "start": 1409.521,
+              "end": 1409.641,
               "confidence": 0.97
             },
             {
               "word": " zeer",
-              "start": 1409.706,
-              "end": 1409.886,
+              "start": 1409.721,
+              "end": 1409.902,
               "confidence": 0.97
             },
             {
               "word": " grote",
-              "start": 1409.926,
-              "end": 1410.166,
+              "start": 1409.942,
+              "end": 1410.182,
               "confidence": 0.98
             },
             {
               "word": " toename",
-              "start": 1410.266,
-              "end": 1410.686,
+              "start": 1410.282,
+              "end": 1410.702,
               "confidence": 0.99
             },
             {
               "word": " van",
-              "start": 1411.146,
-              "end": 1411.286,
+              "start": 1411.163,
+              "end": 1411.303,
               "confidence": 0.97
             },
             {
               "word": " al",
-              "start": 1411.346,
-              "end": 1411.466,
-              "confidence": 0.81
+              "start": 1411.383,
+              "end": 1411.503,
+              "confidence": 0.97
             },
             {
               "word": " die",
-              "start": 1411.467,
-              "end": 1411.586,
+              "start": 1411.504,
+              "end": 1411.603,
               "confidence": 0.72
             },
             {
               "word": " centen",
-              "start": 1411.606,
-              "end": 1411.826,
+              "start": 1411.623,
+              "end": 1411.843,
               "confidence": 0.76
             },
             {
               "word": " arbeids.",
-              "start": 1411.866,
-              "end": 1412.266,
+              "start": 1411.883,
+              "end": 1412.283,
               "confidence": 0.76
             }
           ]
@@ -27860,39 +27860,39 @@
         {
           "text": "Anderzijds,",
           "language": "nl",
-          "start": 1412.846,
-          "end": 1413.366,
-          "confidence": 0.62,
+          "start": 1412.864,
+          "end": 1413.384,
+          "confidence": 0.61,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " Anderzijds,",
-              "start": 1412.846,
-              "end": 1413.366,
-              "confidence": 0.62
+              "start": 1412.864,
+              "end": 1413.384,
+              "confidence": 0.61
             }
           ]
         },
         {
           "text": "de groep...",
           "language": "nl",
-          "start": 1413.566,
-          "end": 1414.006,
+          "start": 1413.584,
+          "end": 1414.025,
           "confidence": 0.53,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " de",
-              "start": 1413.566,
-              "end": 1413.686,
+              "start": 1413.584,
+              "end": 1413.705,
               "confidence": 0.44
             },
             {
               "word": " groep...",
-              "start": 1413.786,
-              "end": 1414.006,
+              "start": 1413.805,
+              "end": 1414.025,
               "confidence": 0.62
             }
           ]
@@ -27900,223 +27900,223 @@
         {
           "text": "die echt tegen het maximum aanschurt van het toegelaten uren,",
           "language": "nl",
-          "start": 1414.294,
-          "end": 1417.817,
-          "confidence": 0.8909999999999998,
+          "start": 1414.31,
+          "end": 1417.83,
+          "confidence": 0.9190000000000002,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " die",
-              "start": 1414.294,
-              "end": 1414.434,
+              "start": 1414.31,
+              "end": 1414.43,
               "confidence": 0.91
             },
             {
               "word": " echt",
-              "start": 1414.634,
-              "end": 1414.794,
-              "confidence": 0.99
-            },
-            {
-              "word": " tegen",
-              "start": 1414.895,
-              "end": 1415.095,
-              "confidence": 0.99
-            },
-            {
-              "word": " het",
-              "start": 1415.096,
-              "end": 1415.215,
-              "confidence": 0.57
-            },
-            {
-              "word": " maximum",
-              "start": 1415.275,
-              "end": 1415.615,
-              "confidence": 0.94
-            },
-            {
-              "word": " aanschurt",
-              "start": 1415.715,
-              "end": 1416.176,
-              "confidence": 0.93
-            },
-            {
-              "word": " van",
-              "start": 1416.316,
-              "end": 1416.456,
+              "start": 1414.63,
+              "end": 1414.79,
               "confidence": 0.98
             },
             {
+              "word": " tegen",
+              "start": 1414.89,
+              "end": 1415.09,
+              "confidence": 0.93
+            },
+            {
               "word": " het",
-              "start": 1416.476,
-              "end": 1416.636,
-              "confidence": 0.8
+              "start": 1415.11,
+              "end": 1415.23,
+              "confidence": 0.68
+            },
+            {
+              "word": " maximum",
+              "start": 1415.29,
+              "end": 1415.61,
+              "confidence": 0.99
+            },
+            {
+              "word": " aanschurt",
+              "start": 1415.71,
+              "end": 1416.17,
+              "confidence": 0.97
+            },
+            {
+              "word": " van",
+              "start": 1416.31,
+              "end": 1416.45,
+              "confidence": 0.91
+            },
+            {
+              "word": " het",
+              "start": 1416.49,
+              "end": 1416.63,
+              "confidence": 0.9
             },
             {
               "word": " toegelaten",
-              "start": 1417.076,
-              "end": 1417.537,
+              "start": 1417.09,
+              "end": 1417.53,
               "confidence": 0.95
             },
             {
               "word": " uren,",
-              "start": 1417.617,
-              "end": 1417.817,
-              "confidence": 0.85
+              "start": 1417.61,
+              "end": 1417.83,
+              "confidence": 0.97
             }
           ]
         },
         {
           "text": "is en blijft natuurlijk zeer klein.",
           "language": "nl",
-          "start": 1417.957,
-          "end": 1419.398,
-          "confidence": 0.975,
+          "start": 1417.95,
+          "end": 1419.39,
+          "confidence": 0.9600000000000001,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " is",
-              "start": 1417.957,
-              "end": 1418.097,
-              "confidence": 0.97
+              "start": 1417.95,
+              "end": 1418.11,
+              "confidence": 0.98
             },
             {
               "word": " en",
-              "start": 1418.197,
-              "end": 1418.317,
-              "confidence": 0.99
-            },
-            {
-              "word": " blijft",
-              "start": 1418.337,
-              "end": 1418.557,
-              "confidence": 0.95
-            },
-            {
-              "word": " natuurlijk",
-              "start": 1418.577,
-              "end": 1418.878,
-              "confidence": 0.94
-            },
-            {
-              "word": " zeer",
-              "start": 1418.918,
-              "end": 1419.078,
+              "start": 1418.21,
+              "end": 1418.33,
               "confidence": 1
             },
             {
+              "word": " blijft",
+              "start": 1418.331,
+              "end": 1418.55,
+              "confidence": 0.89
+            },
+            {
+              "word": " natuurlijk",
+              "start": 1418.59,
+              "end": 1418.87,
+              "confidence": 0.99
+            },
+            {
+              "word": " zeer",
+              "start": 1418.93,
+              "end": 1419.07,
+              "confidence": 0.9
+            },
+            {
               "word": " klein.",
-              "start": 1419.158,
-              "end": 1419.398,
+              "start": 1419.15,
+              "end": 1419.39,
               "confidence": 1
             }
           ]
         },
         {
-          "text": "Voorlopig gaat dat om 10%.",
+          "text": "Voorlopig gaat het om 10%.",
           "language": "nl",
-          "start": 1419.558,
-          "end": 1420.879,
-          "confidence": 0.674,
+          "start": 1419.55,
+          "end": 1420.87,
+          "confidence": 0.6759999999999999,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " Voorlopig",
-              "start": 1419.558,
-              "end": 1419.918,
-              "confidence": 0.68
+              "start": 1419.55,
+              "end": 1419.91,
+              "confidence": 0.47
             },
             {
               "word": " gaat",
-              "start": 1419.938,
-              "end": 1420.099,
-              "confidence": 0.96
+              "start": 1419.93,
+              "end": 1420.09,
+              "confidence": 0.94
             },
             {
-              "word": " dat",
-              "start": 1420.1,
-              "end": 1420.199,
-              "confidence": 0.15
+              "word": " het",
+              "start": 1420.091,
+              "end": 1420.19,
+              "confidence": 0.44
             },
             {
               "word": " om",
-              "start": 1420.2,
-              "end": 1420.299,
-              "confidence": 0.98
+              "start": 1420.191,
+              "end": 1420.29,
+              "confidence": 0.97
             },
             {
               "word": " 10%.",
-              "start": 1420.359,
-              "end": 1420.879,
-              "confidence": 0.6
+              "start": 1420.35,
+              "end": 1420.87,
+              "confidence": 0.56
             }
           ]
         },
         {
           "text": "De grote meerderheid van hen zit daar fors onder,",
           "language": "nl",
-          "start": 1421.7,
-          "end": 1424.342,
-          "confidence": 0.9277777777777779,
+          "start": 1421.69,
+          "end": 1424.33,
+          "confidence": 0.9466666666666668,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " De",
-              "start": 1421.7,
-              "end": 1421.82,
+              "start": 1421.69,
+              "end": 1421.81,
               "confidence": 0.98
             },
             {
               "word": " grote",
-              "start": 1421.96,
-              "end": 1422.2,
-              "confidence": 0.99
+              "start": 1421.95,
+              "end": 1422.19,
+              "confidence": 1
             },
             {
               "word": " meerderheid",
-              "start": 1422.26,
-              "end": 1422.641,
-              "confidence": 0.96
+              "start": 1422.27,
+              "end": 1422.63,
+              "confidence": 0.98
             },
             {
               "word": " van",
-              "start": 1422.681,
-              "end": 1422.801,
+              "start": 1422.67,
+              "end": 1422.79,
               "confidence": 0.99
             },
             {
               "word": " hen",
-              "start": 1422.841,
-              "end": 1423.001,
+              "start": 1422.83,
+              "end": 1422.99,
               "confidence": 0.99
             },
             {
               "word": " zit",
-              "start": 1423.521,
-              "end": 1423.641,
+              "start": 1423.51,
+              "end": 1423.63,
               "confidence": 0.99
             },
             {
               "word": " daar",
-              "start": 1423.642,
-              "end": 1423.761,
-              "confidence": 0.61
+              "start": 1423.631,
+              "end": 1423.75,
+              "confidence": 0.69
             },
             {
               "word": " fors",
-              "start": 1423.801,
-              "end": 1424.022,
-              "confidence": 0.84
+              "start": 1423.81,
+              "end": 1424.01,
+              "confidence": 0.9
             },
             {
               "word": " onder,",
-              "start": 1424.122,
-              "end": 1424.342,
+              "start": 1424.11,
+              "end": 1424.33,
               "confidence": 1
             }
           ]
@@ -28124,129 +28124,129 @@
         {
           "text": "met die 220 gewerte uren.",
           "language": "nl",
-          "start": 1424.882,
-          "end": 1426.303,
-          "confidence": 0.7380000000000001,
+          "start": 1424.87,
+          "end": 1426.31,
+          "confidence": 0.75,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " met",
-              "start": 1424.882,
-              "end": 1425.002,
+              "start": 1424.87,
+              "end": 1424.99,
               "confidence": 0.96
             },
             {
               "word": " die",
-              "start": 1425.003,
-              "end": 1425.123,
-              "confidence": 0.85
+              "start": 1424.991,
+              "end": 1425.11,
+              "confidence": 0.9
             },
             {
               "word": " 220",
-              "start": 1425.143,
-              "end": 1425.703,
+              "start": 1425.13,
+              "end": 1425.69,
               "confidence": 0
             },
             {
               "word": " gewerte",
-              "start": 1425.723,
-              "end": 1426.023,
-              "confidence": 0.97
+              "start": 1425.71,
+              "end": 1426.03,
+              "confidence": 0.91
             },
             {
               "word": " uren.",
-              "start": 1426.103,
-              "end": 1426.303,
-              "confidence": 0.91
+              "start": 1426.11,
+              "end": 1426.31,
+              "confidence": 0.98
             }
           ]
         },
         {
           "text": "Dat maakt ook dat de werkklas voor hen zelf waarschijnlijk veel beperkter is.",
           "language": "nl",
-          "start": 1427.144,
-          "end": 1430.627,
-          "confidence": 0.8907692307692309,
+          "start": 1427.13,
+          "end": 1430.63,
+          "confidence": 0.9153846153846155,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " Dat",
-              "start": 1427.144,
-              "end": 1427.264,
+              "start": 1427.13,
+              "end": 1427.25,
               "confidence": 0.66
             },
             {
               "word": " maakt",
-              "start": 1427.284,
-              "end": 1427.484,
-              "confidence": 1
+              "start": 1427.29,
+              "end": 1427.47,
+              "confidence": 0.94
             },
             {
               "word": " ook",
-              "start": 1427.485,
-              "end": 1427.604,
-              "confidence": 0.5
+              "start": 1427.49,
+              "end": 1427.61,
+              "confidence": 0.99
             },
             {
               "word": " dat",
-              "start": 1427.605,
-              "end": 1427.725,
+              "start": 1427.611,
+              "end": 1427.71,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 1427.726,
-              "end": 1427.845,
+              "start": 1427.711,
+              "end": 1427.83,
               "confidence": 0.98
             },
             {
               "word": " werkklas",
-              "start": 1428.185,
-              "end": 1428.545,
+              "start": 1428.17,
+              "end": 1428.53,
               "confidence": 0.99
             },
             {
               "word": " voor",
-              "start": 1428.565,
-              "end": 1428.685,
-              "confidence": 1
+              "start": 1428.55,
+              "end": 1428.67,
+              "confidence": 0.95
             },
             {
               "word": " hen",
-              "start": 1428.705,
-              "end": 1428.845,
-              "confidence": 1
+              "start": 1428.69,
+              "end": 1428.83,
+              "confidence": 0.98
             },
             {
               "word": " zelf",
-              "start": 1428.925,
-              "end": 1429.206,
+              "start": 1428.91,
+              "end": 1429.19,
               "confidence": 1
             },
             {
               "word": " waarschijnlijk",
-              "start": 1429.306,
-              "end": 1429.706,
-              "confidence": 0.91
+              "start": 1429.31,
+              "end": 1429.71,
+              "confidence": 0.95
             },
             {
               "word": " veel",
-              "start": 1429.886,
-              "end": 1430.006,
-              "confidence": 0.66
+              "start": 1429.87,
+              "end": 1429.99,
+              "confidence": 0.58
             },
             {
               "word": " beperkter",
-              "start": 1430.026,
-              "end": 1430.427,
+              "start": 1430.03,
+              "end": 1430.41,
               "confidence": 0.88
             },
             {
               "word": " is.",
-              "start": 1430.507,
-              "end": 1430.627,
+              "start": 1430.49,
+              "end": 1430.63,
               "confidence": 1
             }
           ]
@@ -28254,290 +28254,273 @@
         {
           "text": "Maar tegelijkertijd ook dat de impact op de arbeidsmarkt waarschijnlijk veel minder groot is dan momenteel wordt gevreesd.",
           "language": "nl",
-          "start": 1431.107,
-          "end": 1436.491,
-          "confidence": 0.9511111111111111,
+          "start": 1431.09,
+          "end": 1436.75,
+          "confidence": 0.9572222222222224,
           "channel": 0,
           "speaker": 5,
           "words": [
             {
               "word": " Maar",
-              "start": 1431.107,
-              "end": 1431.287,
-              "confidence": 0.94
+              "start": 1431.09,
+              "end": 1431.27,
+              "confidence": 0.99
             },
             {
               "word": " tegelijkertijd",
-              "start": 1431.347,
-              "end": 1431.888,
+              "start": 1431.33,
+              "end": 1431.87,
               "confidence": 0.98
             },
             {
               "word": " ook",
-              "start": 1431.908,
-              "end": 1432.028,
+              "start": 1431.89,
+              "end": 1432.01,
               "confidence": 0.99
             },
             {
               "word": " dat",
-              "start": 1432.029,
-              "end": 1432.168,
-              "confidence": 0.94
+              "start": 1432.011,
+              "end": 1432.15,
+              "confidence": 0.9
             },
             {
               "word": " de",
-              "start": 1432.508,
-              "end": 1432.628,
+              "start": 1432.51,
+              "end": 1432.63,
               "confidence": 0.98
             },
             {
               "word": " impact",
-              "start": 1432.688,
-              "end": 1432.929,
-              "confidence": 0.98
+              "start": 1432.67,
+              "end": 1432.93,
+              "confidence": 0.99
             },
             {
               "word": " op",
-              "start": 1432.949,
-              "end": 1433.029,
+              "start": 1432.931,
+              "end": 1433.01,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 1433.03,
-              "end": 1433.129,
+              "start": 1433.011,
+              "end": 1433.11,
               "confidence": 1
             },
             {
               "word": " arbeidsmarkt",
-              "start": 1433.149,
-              "end": 1433.749,
-              "confidence": 0.95
+              "start": 1433.13,
+              "end": 1433.73,
+              "confidence": 0.97
             },
             {
               "word": " waarschijnlijk",
-              "start": 1433.869,
-              "end": 1434.33,
-              "confidence": 0.97
+              "start": 1433.85,
+              "end": 1434.31,
+              "confidence": 1
             },
             {
               "word": " veel",
               "start": 1434.37,
               "end": 1434.53,
-              "confidence": 0.98
+              "confidence": 1
             },
             {
               "word": " minder",
-              "start": 1434.57,
-              "end": 1434.75,
+              "start": 1434.55,
+              "end": 1434.73,
               "confidence": 1
             },
             {
               "word": " groot",
-              "start": 1434.77,
-              "end": 1434.99,
-              "confidence": 0.83
+              "start": 1434.75,
+              "end": 1434.97,
+              "confidence": 0.82
             },
             {
               "word": " is",
-              "start": 1435.03,
-              "end": 1435.15,
-              "confidence": 1
+              "start": 1435.01,
+              "end": 1435.13,
+              "confidence": 0.99
             },
             {
               "word": " dan",
-              "start": 1435.27,
-              "end": 1435.431,
+              "start": 1435.25,
+              "end": 1435.41,
               "confidence": 0.99
             },
             {
               "word": " momenteel",
-              "start": 1435.571,
-              "end": 1435.891,
-              "confidence": 1
+              "start": 1435.57,
+              "end": 1435.87,
+              "confidence": 0.99
             },
             {
               "word": " wordt",
-              "start": 1435.892,
-              "end": 1436.051,
-              "confidence": 0.74
+              "start": 1435.89,
+              "end": 1436.03,
+              "confidence": 0.79
             },
             {
               "word": " gevreesd.",
-              "start": 1436.071,
-              "end": 1436.491,
+              "start": 1436.07,
+              "end": 1436.75,
               "confidence": 0.85
             }
           ]
         },
         {
-          "text": "Ja,",
+          "text": "Ik zou het zelf geen zorgelijke zaak noemen in elk geval.",
           "language": "nl",
-          "start": 1436.712,
-          "end": 1436.832,
-          "confidence": 0.97,
+          "start": 1436.83,
+          "end": 1439.59,
+          "confidence": 0.9009090909090911,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
-              "word": " Ja,",
-              "start": 1436.712,
-              "end": 1436.832,
-              "confidence": 0.97
-            }
-          ]
-        },
-        {
-          "text": "ik zou het zelf geen zorgelijke zaak noemen in elk geval.",
-          "language": "nl",
-          "start": 1436.852,
-          "end": 1439.614,
-          "confidence": 0.8981818181818181,
-          "channel": 0,
-          "speaker": 2,
-          "words": [
-            {
-              "word": " ik",
-              "start": 1436.852,
-              "end": 1436.972,
-              "confidence": 0.49
+              "word": " Ik",
+              "start": 1436.83,
+              "end": 1436.95,
+              "confidence": 0.4
             },
             {
               "word": " zou",
-              "start": 1436.992,
-              "end": 1437.112,
+              "start": 1436.97,
+              "end": 1437.09,
               "confidence": 0.66
             },
             {
               "word": " het",
-              "start": 1437.113,
-              "end": 1437.232,
-              "confidence": 0.95
+              "start": 1437.091,
+              "end": 1437.21,
+              "confidence": 0.98
             },
             {
               "word": " zelf",
-              "start": 1437.252,
-              "end": 1437.532,
+              "start": 1437.25,
+              "end": 1437.53,
               "confidence": 1
             },
             {
               "word": " geen",
-              "start": 1437.612,
-              "end": 1437.792,
-              "confidence": 1
+              "start": 1437.59,
+              "end": 1437.77,
+              "confidence": 0.99
             },
             {
               "word": " zorgelijke",
-              "start": 1437.852,
-              "end": 1438.373,
-              "confidence": 0.94
+              "start": 1437.83,
+              "end": 1438.35,
+              "confidence": 0.99
             },
             {
               "word": " zaak",
-              "start": 1438.413,
-              "end": 1438.633,
-              "confidence": 0.97
+              "start": 1438.39,
+              "end": 1438.61,
+              "confidence": 0.94
             },
             {
               "word": " noemen",
-              "start": 1438.713,
-              "end": 1438.933,
-              "confidence": 0.97
+              "start": 1438.71,
+              "end": 1438.93,
+              "confidence": 0.99
             },
             {
               "word": " in",
-              "start": 1438.953,
-              "end": 1439.073,
+              "start": 1438.931,
+              "end": 1439.05,
               "confidence": 0.97
             },
             {
               "word": " elk",
-              "start": 1439.113,
-              "end": 1439.234,
+              "start": 1439.09,
+              "end": 1439.23,
               "confidence": 1
             },
             {
               "word": " geval.",
-              "start": 1439.294,
-              "end": 1439.614,
-              "confidence": 0.93
+              "start": 1439.27,
+              "end": 1439.59,
+              "confidence": 0.99
             }
           ]
         },
         {
           "text": "Ik denk dat er ruim voldoende vacatures in ons land zijn.",
           "language": "nl",
-          "start": 1439.634,
-          "end": 1443.257,
-          "confidence": 0.9045454545454547,
+          "start": 1439.61,
+          "end": 1443.23,
+          "confidence": 0.920909090909091,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Ik",
-              "start": 1439.634,
-              "end": 1439.734,
-              "confidence": 0.63
+              "start": 1439.61,
+              "end": 1439.73,
+              "confidence": 0.74
             },
             {
               "word": " denk",
-              "start": 1439.754,
-              "end": 1439.894,
-              "confidence": 0.95
+              "start": 1439.731,
+              "end": 1439.87,
+              "confidence": 0.98
             },
             {
               "word": " dat",
-              "start": 1439.934,
-              "end": 1440.054,
-              "confidence": 0.86
+              "start": 1439.91,
+              "end": 1440.05,
+              "confidence": 0.96
             },
             {
               "word": " er",
-              "start": 1440.094,
-              "end": 1440.214,
-              "confidence": 0.94
+              "start": 1440.09,
+              "end": 1440.21,
+              "confidence": 0.93
             },
             {
               "word": " ruim",
-              "start": 1441.095,
-              "end": 1441.315,
-              "confidence": 0.78
+              "start": 1441.09,
+              "end": 1441.31,
+              "confidence": 0.77
             },
             {
               "word": " voldoende",
-              "start": 1441.395,
-              "end": 1441.755,
+              "start": 1441.37,
+              "end": 1441.75,
               "confidence": 0.99
             },
             {
               "word": " vacatures",
-              "start": 1441.796,
-              "end": 1442.396,
-              "confidence": 0.83
+              "start": 1441.77,
+              "end": 1442.37,
+              "confidence": 0.85
             },
             {
               "word": " in",
-              "start": 1442.416,
-              "end": 1442.536,
+              "start": 1442.39,
+              "end": 1442.51,
               "confidence": 0.99
             },
             {
               "word": " ons",
-              "start": 1442.556,
-              "end": 1442.676,
+              "start": 1442.53,
+              "end": 1442.65,
               "confidence": 1
             },
             {
               "word": " land",
-              "start": 1442.736,
-              "end": 1442.936,
+              "start": 1442.71,
+              "end": 1442.93,
               "confidence": 1
             },
             {
               "word": " zijn.",
-              "start": 1443.016,
-              "end": 1443.257,
-              "confidence": 0.98
+              "start": 1442.99,
+              "end": 1443.23,
+              "confidence": 0.92
             }
           ]
         },
@@ -28545,8 +28528,8 @@
           "text": "Voor studenten en ook zeker voor andere werknemers om in te vullen.",
           "language": "nl",
           "start": 1444.198,
-          "end": 1447.818,
-          "confidence": 0.82,
+          "end": 1447.821,
+          "confidence": 0.7000000000000001,
           "channel": 0,
           "speaker": 2,
           "words": [
@@ -28554,158 +28537,158 @@
               "word": " Voor",
               "start": 1444.198,
               "end": 1444.378,
-              "confidence": 0.69
+              "confidence": 0.58
             },
             {
               "word": " studenten",
               "start": 1444.418,
-              "end": 1444.898,
-              "confidence": 0.96
-            },
-            {
-              "word": " en",
-              "start": 1445.038,
-              "end": 1445.158,
-              "confidence": 0.7
-            },
-            {
-              "word": " ook",
-              "start": 1445.378,
-              "end": 1445.498,
-              "confidence": 0.79
-            },
-            {
-              "word": " zeker",
-              "start": 1445.538,
-              "end": 1445.798,
-              "confidence": 0.78
-            },
-            {
-              "word": " voor",
-              "start": 1445.838,
-              "end": 1445.978,
-              "confidence": 0.82
-            },
-            {
-              "word": " andere",
-              "start": 1446.078,
-              "end": 1446.338,
-              "confidence": 0.9
-            },
-            {
-              "word": " werknemers",
-              "start": 1446.378,
-              "end": 1447.058,
-              "confidence": 0.89
-            },
-            {
-              "word": " om",
-              "start": 1447.238,
-              "end": 1447.358,
+              "end": 1444.899,
               "confidence": 0.87
             },
             {
+              "word": " en",
+              "start": 1445.039,
+              "end": 1445.159,
+              "confidence": 0.51
+            },
+            {
+              "word": " ook",
+              "start": 1445.379,
+              "end": 1445.499,
+              "confidence": 0.69
+            },
+            {
+              "word": " zeker",
+              "start": 1445.539,
+              "end": 1445.799,
+              "confidence": 0.59
+            },
+            {
+              "word": " voor",
+              "start": 1445.839,
+              "end": 1445.979,
+              "confidence": 0.64
+            },
+            {
+              "word": " andere",
+              "start": 1446.08,
+              "end": 1446.34,
+              "confidence": 0.74
+            },
+            {
+              "word": " werknemers",
+              "start": 1446.38,
+              "end": 1447.06,
+              "confidence": 0.77
+            },
+            {
+              "word": " om",
+              "start": 1447.24,
+              "end": 1447.361,
+              "confidence": 0.77
+            },
+            {
               "word": " in",
-              "start": 1447.378,
-              "end": 1447.498,
-              "confidence": 0.84
+              "start": 1447.381,
+              "end": 1447.501,
+              "confidence": 0.76
             },
             {
               "word": " te",
-              "start": 1447.499,
-              "end": 1447.598,
-              "confidence": 0.93
+              "start": 1447.502,
+              "end": 1447.601,
+              "confidence": 0.88
             },
             {
               "word": " vullen.",
-              "start": 1447.618,
-              "end": 1447.818,
-              "confidence": 0.67
+              "start": 1447.621,
+              "end": 1447.821,
+              "confidence": 0.6
             }
           ]
         },
         {
           "text": "Ok\u00e9,",
           "language": "nl",
-          "start": 1448.478,
-          "end": 1448.658,
-          "confidence": 0.96,
+          "start": 1448.481,
+          "end": 1448.662,
+          "confidence": 0.94,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Ok\u00e9,",
-              "start": 1448.478,
-              "end": 1448.658,
-              "confidence": 0.96
+              "start": 1448.481,
+              "end": 1448.662,
+              "confidence": 0.94
             }
           ]
         },
         {
           "text": "heldere conclusie.",
           "language": "nl",
-          "start": 1449.198,
-          "end": 1449.978,
-          "confidence": 0.915,
+          "start": 1449.202,
+          "end": 1449.983,
+          "confidence": 0.8999999999999999,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " heldere",
-              "start": 1449.198,
-              "end": 1449.478,
+              "start": 1449.202,
+              "end": 1449.482,
               "confidence": 0.97
             },
             {
               "word": " conclusie.",
-              "start": 1449.518,
-              "end": 1449.978,
-              "confidence": 0.86
+              "start": 1449.522,
+              "end": 1449.983,
+              "confidence": 0.83
             }
           ]
         },
         {
           "text": "Dankjewel,",
           "language": "nl",
-          "start": 1450.258,
-          "end": 1450.678,
-          "confidence": 0.88,
+          "start": 1450.263,
+          "end": 1450.683,
+          "confidence": 0.86,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dankjewel,",
-              "start": 1450.258,
-              "end": 1450.678,
-              "confidence": 0.88
+              "start": 1450.263,
+              "end": 1450.683,
+              "confidence": 0.86
             }
           ]
         },
         {
           "text": "Femke van Garteren.",
           "language": "nl",
-          "start": 1450.938,
-          "end": 1451.798,
-          "confidence": 0.8933333333333332,
+          "start": 1450.943,
+          "end": 1451.804,
+          "confidence": 0.8866666666666667,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Femke",
-              "start": 1450.938,
-              "end": 1451.198,
-              "confidence": 0.92
+              "start": 1450.943,
+              "end": 1451.204,
+              "confidence": 0.91
             },
             {
               "word": " van",
-              "start": 1451.238,
-              "end": 1451.358,
-              "confidence": 0.94
+              "start": 1451.244,
+              "end": 1451.364,
+              "confidence": 0.93
             },
             {
               "word": " Garteren.",
-              "start": 1451.418,
-              "end": 1451.798,
+              "start": 1451.424,
+              "end": 1451.804,
               "confidence": 0.82
             }
           ]
@@ -28713,1412 +28696,1375 @@
         {
           "text": "Graag gedaan,",
           "language": "nl",
-          "start": 1452.138,
-          "end": 1452.618,
-          "confidence": 0.61,
+          "start": 1452.144,
+          "end": 1452.625,
+          "confidence": 0.575,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Graag",
-              "start": 1452.138,
-              "end": 1452.358,
-              "confidence": 0.59
+              "start": 1452.144,
+              "end": 1452.364,
+              "confidence": 0.54
             },
             {
               "word": " gedaan,",
-              "start": 1452.378,
-              "end": 1452.618,
-              "confidence": 0.63
+              "start": 1452.384,
+              "end": 1452.625,
+              "confidence": 0.61
             }
           ]
         },
         {
           "text": "Roan.",
           "language": "nl",
-          "start": 1452.678,
-          "end": 1452.958,
-          "confidence": 0.85,
+          "start": 1452.685,
+          "end": 1452.965,
+          "confidence": 0.78,
           "channel": 0,
           "speaker": 2,
           "words": [
             {
               "word": " Roan.",
-              "start": 1452.678,
-              "end": 1452.958,
-              "confidence": 0.85
+              "start": 1452.685,
+              "end": 1452.965,
+              "confidence": 0.78
             }
           ]
         },
         {
           "text": "En dankjewel,",
           "language": "nl",
-          "start": 1453.278,
-          "end": 1453.838,
-          "confidence": 0.8200000000000001,
+          "start": 1453.285,
+          "end": 1453.846,
+          "confidence": 0.72,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " En",
-              "start": 1453.278,
-              "end": 1453.398,
-              "confidence": 0.83
+              "start": 1453.285,
+              "end": 1453.405,
+              "confidence": 0.75
             },
             {
               "word": " dankjewel,",
-              "start": 1453.399,
-              "end": 1453.838,
-              "confidence": 0.81
+              "start": 1453.406,
+              "end": 1453.846,
+              "confidence": 0.69
             }
           ]
         },
         {
           "text": "Thomas Roelens.",
           "language": "nl",
-          "start": 1454.058,
-          "end": 1454.798,
-          "confidence": 0.755,
+          "start": 1454.066,
+          "end": 1454.806,
+          "confidence": 0.66,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Thomas",
-              "start": 1454.058,
-              "end": 1454.378,
-              "confidence": 0.65
+              "start": 1454.066,
+              "end": 1454.386,
+              "confidence": 0.53
             },
             {
               "word": " Roelens.",
-              "start": 1454.458,
-              "end": 1454.798,
-              "confidence": 0.86
+              "start": 1454.466,
+              "end": 1454.806,
+              "confidence": 0.79
             }
           ]
         },
         {
           "text": "Dankjewel,",
           "language": "nl",
-          "start": 1455.118,
-          "end": 1455.378,
-          "confidence": 0.4,
+          "start": 1455.127,
+          "end": 1455.387,
+          "confidence": 0.42,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dankjewel,",
-              "start": 1455.118,
-              "end": 1455.378,
-              "confidence": 0.4
+              "start": 1455.127,
+              "end": 1455.387,
+              "confidence": 0.42
             }
           ]
         },
         {
           "text": "Roan.",
           "language": "nl",
-          "start": 1455.438,
-          "end": 1455.578,
-          "confidence": 0.41,
+          "start": 1455.388,
+          "end": 1455.587,
+          "confidence": 0.34,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Roan.",
-              "start": 1455.438,
-              "end": 1455.578,
-              "confidence": 0.41
+              "start": 1455.388,
+              "end": 1455.587,
+              "confidence": 0.34
             }
           ]
         },
         {
           "text": "Lees alle cijfers en de analyse van Femke en Thomas vandaag op onze app op tijd.be of in de krant natuurlijk.",
           "language": "nl",
-          "start": 1458.798,
-          "end": 1465.578,
-          "confidence": 0.9419047619047618,
+          "start": 1458.809,
+          "end": 1465.595,
+          "confidence": 0.9214285714285714,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Lees",
-              "start": 1458.798,
-              "end": 1458.978,
-              "confidence": 0.95
+              "start": 1458.809,
+              "end": 1458.99,
+              "confidence": 0.93
             },
             {
               "word": " alle",
-              "start": 1459.118,
-              "end": 1459.278,
+              "start": 1459.13,
+              "end": 1459.29,
               "confidence": 0.99
             },
             {
               "word": " cijfers",
-              "start": 1459.358,
-              "end": 1459.778,
-              "confidence": 0.98
-            },
-            {
-              "word": " en",
-              "start": 1459.838,
-              "end": 1459.958,
-              "confidence": 0.97
-            },
-            {
-              "word": " de",
-              "start": 1459.959,
-              "end": 1460.058,
-              "confidence": 0.98
-            },
-            {
-              "word": " analyse",
-              "start": 1460.078,
-              "end": 1460.498,
-              "confidence": 0.89
-            },
-            {
-              "word": " van",
-              "start": 1460.618,
-              "end": 1460.758,
-              "confidence": 0.92
-            },
-            {
-              "word": " Femke",
-              "start": 1460.878,
-              "end": 1461.138,
+              "start": 1459.37,
+              "end": 1459.79,
               "confidence": 0.96
             },
             {
               "word": " en",
-              "start": 1461.178,
-              "end": 1461.298,
-              "confidence": 0.98
+              "start": 1459.85,
+              "end": 1459.97,
+              "confidence": 0.91
+            },
+            {
+              "word": " de",
+              "start": 1459.971,
+              "end": 1460.07,
+              "confidence": 0.94
+            },
+            {
+              "word": " analyse",
+              "start": 1460.09,
+              "end": 1460.511,
+              "confidence": 0.85
+            },
+            {
+              "word": " van",
+              "start": 1460.631,
+              "end": 1460.771,
+              "confidence": 0.76
+            },
+            {
+              "word": " Femke",
+              "start": 1460.891,
+              "end": 1461.151,
+              "confidence": 0.92
+            },
+            {
+              "word": " en",
+              "start": 1461.191,
+              "end": 1461.311,
+              "confidence": 0.96
             },
             {
               "word": " Thomas",
-              "start": 1461.318,
-              "end": 1461.638,
-              "confidence": 0.98
+              "start": 1461.331,
+              "end": 1461.652,
+              "confidence": 0.97
             },
             {
               "word": " vandaag",
-              "start": 1461.678,
-              "end": 1462.158,
-              "confidence": 0.99
+              "start": 1461.692,
+              "end": 1462.172,
+              "confidence": 0.98
             },
             {
               "word": " op",
-              "start": 1462.318,
-              "end": 1462.438,
-              "confidence": 1
+              "start": 1462.332,
+              "end": 1462.452,
+              "confidence": 0.99
             },
             {
               "word": " onze",
-              "start": 1462.538,
-              "end": 1462.718,
+              "start": 1462.552,
+              "end": 1462.733,
               "confidence": 0.99
             },
             {
               "word": " app",
-              "start": 1462.798,
-              "end": 1462.918,
+              "start": 1462.813,
+              "end": 1462.933,
               "confidence": 0.49
             },
             {
               "word": " op",
-              "start": 1463.038,
-              "end": 1463.158,
+              "start": 1463.053,
+              "end": 1463.173,
               "confidence": 0.99
             },
             {
               "word": " tijd.be",
-              "start": 1463.218,
-              "end": 1463.838,
-              "confidence": 0.86
+              "start": 1463.233,
+              "end": 1463.853,
+              "confidence": 0.85
             },
             {
               "word": " of",
-              "start": 1464.098,
-              "end": 1464.238,
-              "confidence": 0.99
+              "start": 1464.114,
+              "end": 1464.254,
+              "confidence": 1
             },
             {
               "word": " in",
-              "start": 1464.458,
-              "end": 1464.578,
+              "start": 1464.474,
+              "end": 1464.594,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 1464.579,
-              "end": 1464.658,
+              "start": 1464.595,
+              "end": 1464.674,
               "confidence": 0.97
             },
             {
               "word": " krant",
-              "start": 1464.698,
-              "end": 1464.978,
-              "confidence": 0.96
+              "start": 1464.714,
+              "end": 1464.994,
+              "confidence": 0.95
             },
             {
               "word": " natuurlijk.",
-              "start": 1465.118,
-              "end": 1465.578,
-              "confidence": 0.95
+              "start": 1465.134,
+              "end": 1465.595,
+              "confidence": 0.96
             }
           ]
         },
         {
           "text": "Ik zet de link hieronder ook in de show notes.",
           "language": "nl",
-          "start": 1465.698,
-          "end": 1467.438,
-          "confidence": 0.8400000000000001,
+          "start": 1465.715,
+          "end": 1467.476,
+          "confidence": 0.8230000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Ik",
-              "start": 1465.698,
-              "end": 1465.818,
+              "start": 1465.715,
+              "end": 1465.835,
               "confidence": 1
             },
             {
               "word": " zet",
-              "start": 1465.819,
-              "end": 1465.938,
+              "start": 1465.836,
+              "end": 1465.955,
               "confidence": 0.83
             },
             {
               "word": " de",
-              "start": 1465.958,
-              "end": 1466.038,
-              "confidence": 0.59
+              "start": 1465.975,
+              "end": 1466.055,
+              "confidence": 0.6
             },
             {
               "word": " link",
-              "start": 1466.058,
-              "end": 1466.218,
+              "start": 1466.075,
+              "end": 1466.235,
               "confidence": 0.98
             },
             {
               "word": " hieronder",
-              "start": 1466.338,
-              "end": 1466.658,
-              "confidence": 0.95
+              "start": 1466.355,
+              "end": 1466.676,
+              "confidence": 0.98
             },
             {
               "word": " ook",
-              "start": 1466.659,
-              "end": 1466.778,
-              "confidence": 0.94
+              "start": 1466.696,
+              "end": 1466.816,
+              "confidence": 0.76
             },
             {
               "word": " in",
-              "start": 1466.779,
-              "end": 1466.898,
+              "start": 1466.817,
+              "end": 1466.916,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 1466.899,
-              "end": 1466.998,
+              "start": 1466.917,
+              "end": 1467.016,
               "confidence": 0.99
             },
             {
               "word": " show",
-              "start": 1467.018,
-              "end": 1467.178,
-              "confidence": 0.56
+              "start": 1467.036,
+              "end": 1467.196,
+              "confidence": 0.55
             },
             {
               "word": " notes.",
-              "start": 1467.218,
-              "end": 1467.438,
-              "confidence": 0.57
+              "start": 1467.216,
+              "end": 1467.476,
+              "confidence": 0.55
             }
           ]
         },
         {
           "text": "Maandag zijn we er weer om met je vooruit te blikken op de week die komt.",
           "language": "nl",
-          "start": 1468.118,
-          "end": 1471.358,
-          "confidence": 0.9481250000000001,
+          "start": 1468.137,
+          "end": 1471.379,
+          "confidence": 0.9712500000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Maandag",
-              "start": 1468.118,
-              "end": 1468.498,
+              "start": 1468.137,
+              "end": 1468.517,
               "confidence": 1
             },
             {
               "word": " zijn",
-              "start": 1468.618,
-              "end": 1468.738,
+              "start": 1468.637,
+              "end": 1468.757,
               "confidence": 0.99
             },
             {
               "word": " we",
-              "start": 1468.739,
-              "end": 1468.818,
-              "confidence": 0.84
+              "start": 1468.758,
+              "end": 1468.837,
+              "confidence": 0.9
             },
             {
               "word": " er",
-              "start": 1468.819,
-              "end": 1468.938,
+              "start": 1468.838,
+              "end": 1468.957,
               "confidence": 0.98
             },
             {
               "word": " weer",
-              "start": 1468.958,
-              "end": 1469.138,
+              "start": 1468.977,
+              "end": 1469.158,
               "confidence": 0.99
             },
             {
               "word": " om",
-              "start": 1469.258,
-              "end": 1469.378,
+              "start": 1469.278,
+              "end": 1469.398,
               "confidence": 0.99
             },
             {
               "word": " met",
-              "start": 1469.379,
-              "end": 1469.498,
-              "confidence": 0.96
+              "start": 1469.399,
+              "end": 1469.518,
+              "confidence": 0.97
             },
             {
               "word": " je",
-              "start": 1469.499,
-              "end": 1469.578,
-              "confidence": 0.65
+              "start": 1469.519,
+              "end": 1469.618,
+              "confidence": 0.97
             },
             {
               "word": " vooruit",
-              "start": 1469.618,
-              "end": 1469.918,
-              "confidence": 0.94
+              "start": 1469.638,
+              "end": 1469.938,
+              "confidence": 0.95
             },
             {
               "word": " te",
-              "start": 1469.919,
-              "end": 1469.998,
+              "start": 1469.939,
+              "end": 1470.018,
               "confidence": 1
             },
             {
               "word": " blikken",
-              "start": 1470.018,
-              "end": 1470.238,
+              "start": 1470.038,
+              "end": 1470.258,
               "confidence": 0.98
             },
             {
               "word": " op",
-              "start": 1470.258,
-              "end": 1470.378,
+              "start": 1470.278,
+              "end": 1470.399,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 1470.379,
-              "end": 1470.478,
-              "confidence": 0.99
+              "start": 1470.4,
+              "end": 1470.499,
+              "confidence": 1
             },
             {
               "word": " week",
-              "start": 1470.518,
-              "end": 1470.738,
+              "start": 1470.539,
+              "end": 1470.759,
               "confidence": 0.97
             },
             {
               "word": " die",
-              "start": 1470.878,
-              "end": 1470.998,
-              "confidence": 0.93
+              "start": 1470.899,
+              "end": 1471.019,
+              "confidence": 0.91
             },
             {
               "word": " komt.",
-              "start": 1471.118,
-              "end": 1471.358,
-              "confidence": 0.96
+              "start": 1471.139,
+              "end": 1471.379,
+              "confidence": 0.94
             }
           ]
         },
         {
-          "text": "Graag tot dan.",
+          "text": "Graag tot dan en nog een heel fijn weekend.",
           "language": "nl",
-          "start": 1471.718,
-          "end": 1472.218,
-          "confidence": 0.77,
+          "start": 1471.72,
+          "end": 1473.661,
+          "confidence": 0.7577777777777778,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Graag",
-              "start": 1471.718,
-              "end": 1471.918,
-              "confidence": 0.74
+              "start": 1471.72,
+              "end": 1471.92,
+              "confidence": 0.87
             },
             {
               "word": " tot",
-              "start": 1471.938,
-              "end": 1472.058,
-              "confidence": 0.9
+              "start": 1471.96,
+              "end": 1472.08,
+              "confidence": 0.96
             },
             {
-              "word": " dan.",
-              "start": 1472.078,
-              "end": 1472.218,
-              "confidence": 0.67
-            }
-          ]
-        },
-        {
-          "text": "En nog een heel fijn weekend.",
-          "language": "nl",
-          "start": 1472.53,
-          "end": 1473.651,
-          "confidence": 0.6283333333333333,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
+              "word": " dan",
+              "start": 1472.1,
+              "end": 1472.24,
+              "confidence": 0.72
+            },
             {
-              "word": " En",
-              "start": 1472.53,
-              "end": 1472.65,
-              "confidence": 0.53
+              "word": " en",
+              "start": 1472.54,
+              "end": 1472.66,
+              "confidence": 0.5
             },
             {
               "word": " nog",
-              "start": 1472.651,
-              "end": 1472.75,
-              "confidence": 0.31
+              "start": 1472.661,
+              "end": 1472.76,
+              "confidence": 0.35
             },
             {
               "word": " een",
-              "start": 1472.751,
-              "end": 1472.85,
-              "confidence": 0.44
+              "start": 1472.761,
+              "end": 1472.88,
+              "confidence": 0.94
             },
             {
               "word": " heel",
-              "start": 1472.89,
-              "end": 1473.07,
-              "confidence": 0.92
+              "start": 1472.9,
+              "end": 1473.081,
+              "confidence": 0.99
             },
             {
               "word": " fijn",
-              "start": 1473.111,
-              "end": 1473.291,
-              "confidence": 0.84
+              "start": 1473.141,
+              "end": 1473.301,
+              "confidence": 0.75
             },
             {
               "word": " weekend.",
-              "start": 1473.351,
-              "end": 1473.651,
-              "confidence": 0.73
+              "start": 1473.361,
+              "end": 1473.661,
+              "confidence": 0.74
             }
           ]
         },
         {
           "text": "Dit was de 7 Extra met Roan van Eyck.",
           "language": "nl",
-          "start": 1476.053,
-          "end": 1479.315,
-          "confidence": 0.8744444444444445,
+          "start": 1476.042,
+          "end": 1479.322,
+          "confidence": 0.8500000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dit",
-              "start": 1476.053,
-              "end": 1476.193,
+              "start": 1476.042,
+              "end": 1476.202,
               "confidence": 0.99
             },
             {
               "word": " was",
-              "start": 1476.273,
-              "end": 1476.413,
+              "start": 1476.262,
+              "end": 1476.402,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 1476.414,
-              "end": 1476.533,
-              "confidence": 0.97
+              "start": 1476.422,
+              "end": 1476.542,
+              "confidence": 0.96
             },
             {
               "word": " 7",
-              "start": 1476.653,
-              "end": 1476.994,
-              "confidence": 0.69
+              "start": 1476.642,
+              "end": 1477.002,
+              "confidence": 0.58
             },
             {
               "word": " Extra",
-              "start": 1477.314,
-              "end": 1477.714,
-              "confidence": 0.95
+              "start": 1477.302,
+              "end": 1477.722,
+              "confidence": 0.92
             },
             {
               "word": " met",
-              "start": 1478.194,
-              "end": 1478.335,
-              "confidence": 0.99
+              "start": 1478.182,
+              "end": 1478.322,
+              "confidence": 0.9
             },
             {
               "word": " Roan",
-              "start": 1478.435,
-              "end": 1478.795,
+              "start": 1478.422,
+              "end": 1478.782,
               "confidence": 0.98
             },
             {
               "word": " van",
-              "start": 1478.855,
-              "end": 1479.015,
-              "confidence": 0.97
+              "start": 1478.862,
+              "end": 1479.002,
+              "confidence": 0.96
             },
             {
               "word": " Eyck.",
-              "start": 1479.135,
-              "end": 1479.315,
-              "confidence": 0.34
+              "start": 1479.122,
+              "end": 1479.322,
+              "confidence": 0.37
             }
           ]
         },
         {
-          "text": "Productie door Lara Droesaert van de redactie van De Tijd.",
+          "text": "Productie door Lara Droesaert van de redactie van de Tijd.",
           "language": "nl",
-          "start": 1482.418,
-          "end": 1486.401,
-          "confidence": 0.915,
+          "start": 1482.402,
+          "end": 1486.382,
+          "confidence": 0.9059999999999999,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Productie",
-              "start": 1482.418,
-              "end": 1482.978,
+              "start": 1482.402,
+              "end": 1482.962,
               "confidence": 0.93
             },
             {
               "word": " door",
-              "start": 1483.038,
-              "end": 1483.258,
-              "confidence": 0.88
+              "start": 1483.042,
+              "end": 1483.242,
+              "confidence": 0.98
             },
             {
               "word": " Lara",
-              "start": 1483.439,
-              "end": 1483.739,
+              "start": 1483.422,
+              "end": 1483.722,
               "confidence": 0.99
             },
             {
               "word": " Droesaert",
-              "start": 1483.819,
-              "end": 1484.399,
-              "confidence": 0.64
+              "start": 1483.802,
+              "end": 1484.382,
+              "confidence": 0.65
             },
             {
               "word": " van",
-              "start": 1484.74,
-              "end": 1484.86,
-              "confidence": 0.86
+              "start": 1484.722,
+              "end": 1484.842,
+              "confidence": 0.79
             },
             {
               "word": " de",
-              "start": 1484.94,
-              "end": 1485.06,
+              "start": 1484.942,
+              "end": 1485.062,
               "confidence": 0.99
             },
             {
               "word": " redactie",
-              "start": 1485.08,
-              "end": 1485.62,
-              "confidence": 0.93
+              "start": 1485.082,
+              "end": 1485.602,
+              "confidence": 0.94
             },
             {
               "word": " van",
-              "start": 1485.8,
-              "end": 1485.92,
-              "confidence": 0.98
+              "start": 1485.782,
+              "end": 1485.902,
+              "confidence": 0.87
             },
             {
-              "word": " De",
-              "start": 1485.921,
-              "end": 1486.041,
+              "word": " de",
+              "start": 1485.922,
+              "end": 1486.042,
               "confidence": 0.97
             },
             {
               "word": " Tijd.",
-              "start": 1486.101,
-              "end": 1486.401,
-              "confidence": 0.98
+              "start": 1486.082,
+              "end": 1486.382,
+              "confidence": 0.95
             }
           ]
         },
         {
           "text": "Maandag zijn we er weer.",
           "language": "nl",
-          "start": 1491.225,
-          "end": 1492.726,
-          "confidence": 0.006,
+          "start": 1491.202,
+          "end": 1492.702,
+          "confidence": 0.8380000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Maandag",
-              "start": 1491.225,
-              "end": 1491.685,
-              "confidence": 0
+              "start": 1491.202,
+              "end": 1491.662,
+              "confidence": 0.61
             },
             {
               "word": " zijn",
-              "start": 1492.025,
-              "end": 1492.205,
-              "confidence": 0.01
+              "start": 1492.002,
+              "end": 1492.202,
+              "confidence": 0.93
             },
             {
               "word": " we",
-              "start": 1492.206,
-              "end": 1492.305,
-              "confidence": 0.01
+              "start": 1492.203,
+              "end": 1492.282,
+              "confidence": 0.92
             },
             {
               "word": " er",
-              "start": 1492.306,
-              "end": 1492.426,
-              "confidence": 0.01
+              "start": 1492.283,
+              "end": 1492.402,
+              "confidence": 0.91
             },
             {
               "word": " weer.",
-              "start": 1492.446,
-              "end": 1492.726,
-              "confidence": 0
+              "start": 1492.442,
+              "end": 1492.702,
+              "confidence": 0.82
             }
           ]
         },
         {
           "text": "Fijn weekend.",
           "language": "nl",
-          "start": 1493.166,
-          "end": 1493.867,
-          "confidence": 0.005,
+          "start": 1493.142,
+          "end": 1498.562,
+          "confidence": 0.46499999999999997,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Fijn",
-              "start": 1493.166,
-              "end": 1493.386,
-              "confidence": 0
+              "start": 1493.142,
+              "end": 1493.382,
+              "confidence": 0.46
             },
             {
               "word": " weekend.",
-              "start": 1493.446,
-              "end": 1493.867,
-              "confidence": 0.01
+              "start": 1493.422,
+              "end": 1498.562,
+              "confidence": 0.47
             }
           ]
         },
         {
-          "text": "Maar kijk toch eens,",
+          "text": "Kijk toch eens Hilde,",
           "language": "nl",
-          "start": 1498.33,
-          "end": 1499.151,
-          "confidence": 0.7075,
+          "start": 1498.862,
+          "end": 1499.782,
+          "confidence": 0.5075000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Maar",
-              "start": 1498.33,
-              "end": 1498.47,
-              "confidence": 0.9
-            },
-            {
-              "word": " kijk",
-              "start": 1498.63,
-              "end": 1498.851,
-              "confidence": 0.91
+              "word": " Kijk",
+              "start": 1498.862,
+              "end": 1499.122,
+              "confidence": 0.66
             },
             {
               "word": " toch",
-              "start": 1498.891,
-              "end": 1499.031,
-              "confidence": 0.55
+              "start": 1499.182,
+              "end": 1499.342,
+              "confidence": 0.35
             },
             {
-              "word": " eens,",
-              "start": 1499.032,
-              "end": 1499.151,
-              "confidence": 0.47
+              "word": " eens",
+              "start": 1499.343,
+              "end": 1499.462,
+              "confidence": 0.32
+            },
+            {
+              "word": " Hilde,",
+              "start": 1499.522,
+              "end": 1499.782,
+              "confidence": 0.7
             }
           ]
         },
         {
           "text": "wat een prachtig bos.",
           "language": "nl",
-          "start": 1499.371,
-          "end": 1500.412,
-          "confidence": 0.8099999999999999,
+          "start": 1499.802,
+          "end": 1500.862,
+          "confidence": 0.7,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " wat",
-              "start": 1499.371,
-              "end": 1499.491,
-              "confidence": 0.95
+              "start": 1499.802,
+              "end": 1499.922,
+              "confidence": 0.86
             },
             {
               "word": " een",
-              "start": 1499.492,
-              "end": 1499.611,
-              "confidence": 0.5
+              "start": 1499.923,
+              "end": 1500.022,
+              "confidence": 0.26
             },
             {
               "word": " prachtig",
-              "start": 1499.651,
-              "end": 1500.132,
-              "confidence": 0.81
+              "start": 1500.082,
+              "end": 1500.562,
+              "confidence": 0.74
             },
             {
               "word": " bos.",
-              "start": 1500.192,
-              "end": 1500.412,
-              "confidence": 0.98
+              "start": 1500.642,
+              "end": 1500.862,
+              "confidence": 0.94
             }
           ]
         },
         {
-          "text": "Zo rustgevend.",
+          "text": "Zo effici\u00ebnt georganiseerd.",
           "language": "nl",
-          "start": 1500.87,
-          "end": 1501.911,
-          "confidence": 0.74,
+          "start": 1501.13,
+          "end": 1502.591,
+          "confidence": 0.9733333333333333,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Zo",
-              "start": 1500.87,
-              "end": 1500.99,
-              "confidence": 0.56
+              "start": 1501.13,
+              "end": 1501.25,
+              "confidence": 0.99
             },
             {
-              "word": " rustgevend.",
-              "start": 1501.11,
-              "end": 1501.911,
-              "confidence": 0.92
+              "word": " effici\u00ebnt",
+              "start": 1501.35,
+              "end": 1501.831,
+              "confidence": 0.99
+            },
+            {
+              "word": " georganiseerd.",
+              "start": 1501.871,
+              "end": 1502.591,
+              "confidence": 0.94
             }
           ]
         },
         {
-          "text": "Oh Frank,",
+          "text": "Frank Jong,",
           "language": "nl",
-          "start": 1502.211,
-          "end": 1502.772,
-          "confidence": 0.49,
+          "start": 1503.112,
+          "end": 1503.692,
+          "confidence": 0.9199999999999999,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Oh",
-              "start": 1502.211,
-              "end": 1502.371,
-              "confidence": 0.2
+              "word": " Frank",
+              "start": 1503.112,
+              "end": 1503.372,
+              "confidence": 0.86
             },
             {
-              "word": " Frank,",
-              "start": 1502.491,
-              "end": 1502.772,
-              "confidence": 0.78
-            }
-          ]
-        },
-        {
-          "text": "uw bos kan een boom in.",
-          "language": "nl",
-          "start": 1502.892,
-          "end": 1504.153,
-          "confidence": 0.8516666666666667,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " uw",
-              "start": 1502.892,
-              "end": 1503.012,
+              "word": " Jong,",
+              "start": 1503.512,
+              "end": 1503.692,
               "confidence": 0.98
-            },
+            }
+          ]
+        },
+        {
+          "text": "met uw bos?",
+          "language": "nl",
+          "start": 1503.752,
+          "end": 1504.393,
+          "confidence": 0.9700000000000001,
+          "channel": 0,
+          "speaker": 1,
+          "words": [
             {
-              "word": " bos",
-              "start": 1503.092,
-              "end": 1503.292,
+              "word": " met",
+              "start": 1503.752,
+              "end": 1503.872,
               "confidence": 1
             },
             {
-              "word": " kan",
-              "start": 1503.372,
-              "end": 1503.492,
-              "confidence": 0.97
+              "word": " uw",
+              "start": 1503.892,
+              "end": 1504.012,
+              "confidence": 0.91
             },
             {
-              "word": " een",
-              "start": 1503.552,
-              "end": 1503.672,
-              "confidence": 0.58
-            },
-            {
-              "word": " boom",
-              "start": 1503.732,
-              "end": 1503.993,
-              "confidence": 0.75
-            },
-            {
-              "word": " in.",
-              "start": 1504.033,
-              "end": 1504.153,
-              "confidence": 0.83
+              "word": " bos?",
+              "start": 1504.132,
+              "end": 1504.393,
+              "confidence": 1
             }
           ]
         },
         {
-          "text": "Ik zit met mijn hoofd bij dat duurzaamheidsrapport.",
+          "text": "Ik zit met mijn ogen bij die infacturatie voor mijn bedrijf.",
           "language": "nl",
-          "start": 1504.473,
-          "end": 1506.635,
-          "confidence": 0.9775,
+          "start": 1504.793,
+          "end": 1507.395,
+          "confidence": 0.8572727272727273,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Ik",
-              "start": 1504.473,
-              "end": 1504.593,
+              "start": 1504.793,
+              "end": 1504.913,
               "confidence": 1
             },
             {
               "word": " zit",
-              "start": 1504.613,
-              "end": 1504.753,
-              "confidence": 0.99
+              "start": 1504.933,
+              "end": 1505.073,
+              "confidence": 0.89
             },
             {
               "word": " met",
-              "start": 1504.773,
-              "end": 1504.893,
-              "confidence": 0.98
+              "start": 1505.093,
+              "end": 1505.213,
+              "confidence": 0.6
             },
             {
               "word": " mijn",
-              "start": 1504.894,
-              "end": 1505.013,
-              "confidence": 0.91
+              "start": 1505.214,
+              "end": 1505.353,
+              "confidence": 0.58
             },
             {
-              "word": " hoofd",
-              "start": 1505.053,
-              "end": 1505.274,
-              "confidence": 0.99
+              "word": " ogen",
+              "start": 1505.413,
+              "end": 1505.594,
+              "confidence": 0.43
             },
             {
               "word": " bij",
-              "start": 1505.354,
-              "end": 1505.474,
+              "start": 1505.595,
+              "end": 1505.714,
               "confidence": 0.99
+            },
+            {
+              "word": " die",
+              "start": 1505.715,
+              "end": 1505.834,
+              "confidence": 0.99
+            },
+            {
+              "word": " infacturatie",
+              "start": 1505.894,
+              "end": 1506.634,
+              "confidence": 0.99
+            },
+            {
+              "word": " voor",
+              "start": 1506.654,
+              "end": 1506.794,
+              "confidence": 1
+            },
+            {
+              "word": " mijn",
+              "start": 1506.815,
+              "end": 1506.975,
+              "confidence": 1
+            },
+            {
+              "word": " bedrijf.",
+              "start": 1506.995,
+              "end": 1507.395,
+              "confidence": 0.96
+            }
+          ]
+        },
+        {
+          "text": "Vanaf 2026 is dat verplicht.",
+          "language": "nl",
+          "start": 1507.715,
+          "end": 1510.317,
+          "confidence": 0.65,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Vanaf",
+              "start": 1507.715,
+              "end": 1507.935,
+              "confidence": 0.98
+            },
+            {
+              "word": " 2026",
+              "start": 1507.995,
+              "end": 1509.176,
+              "confidence": 0.01
+            },
+            {
+              "word": " is",
+              "start": 1509.356,
+              "end": 1509.477,
+              "confidence": 0.98
             },
             {
               "word": " dat",
-              "start": 1505.475,
-              "end": 1505.594,
-              "confidence": 0.98
+              "start": 1509.497,
+              "end": 1509.617,
+              "confidence": 0.29
             },
             {
-              "word": " duurzaamheidsrapport.",
-              "start": 1505.634,
-              "end": 1506.635,
-              "confidence": 0.98
+              "word": " verplicht.",
+              "start": 1509.657,
+              "end": 1510.317,
+              "confidence": 0.99
             }
           ]
         },
         {
-          "text": "Bel eens met Delaware.",
+          "text": "Zeg maar,",
           "language": "nl",
-          "start": 1507.075,
-          "end": 1508.036,
-          "confidence": 0.645,
+          "start": 1510.637,
+          "end": 1510.938,
+          "confidence": 0.6,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Bel",
-              "start": 1507.075,
-              "end": 1507.235,
-              "confidence": 0.66
+              "word": " Zeg",
+              "start": 1510.637,
+              "end": 1510.758,
+              "confidence": 0.7
             },
             {
-              "word": " eens",
-              "start": 1507.255,
-              "end": 1507.395,
-              "confidence": 0.28
-            },
-            {
-              "word": " met",
-              "start": 1507.455,
-              "end": 1507.575,
-              "confidence": 0.98
-            },
-            {
-              "word": " Delaware.",
-              "start": 1507.615,
-              "end": 1508.036,
-              "confidence": 0.66
+              "word": " maar,",
+              "start": 1510.798,
+              "end": 1510.938,
+              "confidence": 0.5
             }
           ]
         },
         {
-          "text": "Die helpen u aan alle duurzaamheidsverreisten te voldoen.",
+          "text": "Delaware automatiseert heel dat proces,",
           "language": "nl",
-          "start": 1508.356,
-          "end": 1510.658,
-          "confidence": 0.97125,
+          "start": 1511.098,
+          "end": 1512.859,
+          "confidence": 0.77,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Die",
-              "start": 1508.356,
-              "end": 1508.476,
-              "confidence": 0.99
+              "word": " Delaware",
+              "start": 1511.098,
+              "end": 1511.458,
+              "confidence": 0.65
             },
             {
-              "word": " helpen",
-              "start": 1508.477,
-              "end": 1508.736,
-              "confidence": 0.87
+              "word": " automatiseert",
+              "start": 1511.538,
+              "end": 1512.279,
+              "confidence": 0.89
             },
             {
-              "word": " u",
-              "start": 1508.756,
-              "end": 1508.816,
-              "confidence": 0.99
+              "word": " heel",
+              "start": 1512.319,
+              "end": 1512.439,
+              "confidence": 0.9
             },
             {
-              "word": " aan",
-              "start": 1508.817,
-              "end": 1508.936,
-              "confidence": 1
+              "word": " dat",
+              "start": 1512.459,
+              "end": 1512.579,
+              "confidence": 0.47
             },
             {
-              "word": " alle",
-              "start": 1509.077,
-              "end": 1509.297,
-              "confidence": 0.99
-            },
-            {
-              "word": " duurzaamheidsverreisten",
-              "start": 1509.357,
-              "end": 1510.217,
-              "confidence": 0.93
-            },
-            {
-              "word": " te",
-              "start": 1510.237,
-              "end": 1510.318,
-              "confidence": 1
-            },
-            {
-              "word": " voldoen.",
-              "start": 1510.338,
-              "end": 1510.658,
-              "confidence": 1
+              "word": " proces,",
+              "start": 1512.58,
+              "end": 1512.859,
+              "confidence": 0.94
             }
           ]
         },
         {
-          "text": "En ze helpen u ook voorbij alle obstakels om te groeien.",
+          "text": "h\u00e8?",
           "language": "nl",
-          "start": 1510.998,
-          "end": 1513.44,
-          "confidence": 0.9272727272727274,
+          "start": 1512.879,
+          "end": 1512.999,
+          "confidence": 0.5,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " h\u00e8?",
+              "start": 1512.879,
+              "end": 1512.999,
+              "confidence": 0.5
+            }
+          ]
+        },
+        {
+          "text": "En ze ondersteunen ook bij de rest van uw digitale transformatie.",
+          "language": "nl",
+          "start": 1513.4,
+          "end": 1515.942,
+          "confidence": 0.9554545454545454,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " En",
-              "start": 1510.998,
-              "end": 1511.118,
+              "start": 1513.4,
+              "end": 1513.52,
               "confidence": 1
             },
             {
               "word": " ze",
-              "start": 1511.258,
-              "end": 1511.378,
-              "confidence": 0.53
+              "start": 1513.521,
+              "end": 1513.58,
+              "confidence": 0.97
             },
             {
-              "word": " helpen",
-              "start": 1511.379,
-              "end": 1511.619,
-              "confidence": 0.88
-            },
-            {
-              "word": " u",
-              "start": 1511.639,
-              "end": 1511.699,
-              "confidence": 0.98
+              "word": " ondersteunen",
+              "start": 1513.6,
+              "end": 1514.06,
+              "confidence": 0.99
             },
             {
               "word": " ook",
-              "start": 1511.7,
-              "end": 1511.819,
-              "confidence": 1
-            },
-            {
-              "word": " voorbij",
-              "start": 1511.859,
-              "end": 1512.119,
+              "start": 1514.08,
+              "end": 1514.2,
               "confidence": 0.99
             },
             {
-              "word": " alle",
-              "start": 1512.259,
-              "end": 1512.419,
-              "confidence": 0.99
-            },
-            {
-              "word": " obstakels",
-              "start": 1512.459,
-              "end": 1512.94,
-              "confidence": 0.85
-            },
-            {
-              "word": " om",
-              "start": 1512.941,
-              "end": 1513.04,
+              "word": " bij",
+              "start": 1514.201,
+              "end": 1514.32,
               "confidence": 1
             },
             {
-              "word": " te",
-              "start": 1513.041,
-              "end": 1513.14,
-              "confidence": 1
-            },
-            {
-              "word": " groeien.",
-              "start": 1513.16,
-              "end": 1513.44,
+              "word": " de",
+              "start": 1514.321,
+              "end": 1514.38,
               "confidence": 0.98
+            },
+            {
+              "word": " rest",
+              "start": 1514.4,
+              "end": 1514.581,
+              "confidence": 1
+            },
+            {
+              "word": " van",
+              "start": 1514.582,
+              "end": 1514.701,
+              "confidence": 1
+            },
+            {
+              "word": " uw",
+              "start": 1514.702,
+              "end": 1514.821,
+              "confidence": 0.63
+            },
+            {
+              "word": " digitale",
+              "start": 1514.822,
+              "end": 1515.241,
+              "confidence": 1
+            },
+            {
+              "word": " transformatie.",
+              "start": 1515.261,
+              "end": 1515.942,
+              "confidence": 0.95
             }
           ]
         },
         {
-          "text": "Van e-facturatie tot IT-beveiliging.",
+          "text": "Beltjes?",
           "language": "nl",
-          "start": 1513.6,
-          "end": 1515.642,
-          "confidence": 0.97,
+          "start": 1516.502,
+          "end": 1516.922,
+          "confidence": 0.59,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Van",
-              "start": 1513.6,
-              "end": 1513.74,
-              "confidence": 1
-            },
-            {
-              "word": " e-facturatie",
-              "start": 1513.9,
-              "end": 1514.621,
-              "confidence": 0.9
-            },
-            {
-              "word": " tot",
-              "start": 1514.641,
-              "end": 1514.761,
-              "confidence": 1
-            },
-            {
-              "word": " IT-beveiliging.",
-              "start": 1514.881,
-              "end": 1515.642,
-              "confidence": 0.98
+              "word": " Beltjes?",
+              "start": 1516.502,
+              "end": 1516.922,
+              "confidence": 0.59
             }
           ]
         },
         {
           "text": "Bellen?",
           "language": "nl",
-          "start": 1515.902,
-          "end": 1516.222,
-          "confidence": 0.52,
+          "start": 1517.343,
+          "end": 1517.663,
+          "confidence": 0.79,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Bellen?",
-              "start": 1515.902,
-              "end": 1516.222,
-              "confidence": 0.52
+              "start": 1517.343,
+              "end": 1517.663,
+              "confidence": 0.79
             }
           ]
         },
         {
-          "text": "Maar hier in het bos is geen ontvangst.",
+          "text": "Die vogels fluiten hier veel te luid.",
           "language": "nl",
-          "start": 1516.622,
-          "end": 1518.244,
-          "confidence": 0.615,
+          "start": 1518.083,
+          "end": 1519.645,
+          "confidence": 0.8828571428571428,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Maar",
-              "start": 1516.622,
-              "end": 1516.743,
-              "confidence": 0.98
+              "word": " Die",
+              "start": 1518.083,
+              "end": 1518.203,
+              "confidence": 0.99
             },
             {
-              "word": " hier",
-              "start": 1516.883,
-              "end": 1517.023,
-              "confidence": 0.82
-            },
-            {
-              "word": " in",
-              "start": 1517.024,
-              "end": 1517.123,
-              "confidence": 0.53
-            },
-            {
-              "word": " het",
-              "start": 1517.124,
-              "end": 1517.183,
-              "confidence": 0
-            },
-            {
-              "word": " bos",
-              "start": 1517.184,
-              "end": 1517.343,
-              "confidence": 0.51
-            },
-            {
-              "word": " is",
-              "start": 1517.344,
-              "end": 1517.463,
-              "confidence": 0.51
-            },
-            {
-              "word": " geen",
-              "start": 1517.503,
-              "end": 1517.643,
-              "confidence": 0.61
-            },
-            {
-              "word": " ontvangst.",
-              "start": 1517.663,
-              "end": 1518.244,
-              "confidence": 0.96
-            }
-          ]
-        },
-        {
-          "text": "Ga straks eens kijken op Delaware.pro.",
-          "language": "nl",
-          "start": 1518.804,
-          "end": 1520.706,
-          "confidence": 0.7816666666666666,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " Ga",
-              "start": 1518.804,
-              "end": 1518.924,
-              "confidence": 0.97
-            },
-            {
-              "word": " straks",
-              "start": 1519.004,
-              "end": 1519.305,
-              "confidence": 0.68
-            },
-            {
-              "word": " eens",
-              "start": 1519.306,
-              "end": 1519.425,
-              "confidence": 0.35
-            },
-            {
-              "word": " kijken",
-              "start": 1519.465,
-              "end": 1519.745,
+              "word": " vogels",
+              "start": 1518.243,
+              "end": 1518.584,
               "confidence": 1
             },
             {
+              "word": " fluiten",
+              "start": 1518.604,
+              "end": 1518.884,
+              "confidence": 0.93
+            },
+            {
+              "word": " hier",
+              "start": 1518.904,
+              "end": 1519.024,
+              "confidence": 0.67
+            },
+            {
+              "word": " veel",
+              "start": 1519.084,
+              "end": 1519.244,
+              "confidence": 0.87
+            },
+            {
+              "word": " te",
+              "start": 1519.245,
+              "end": 1519.364,
+              "confidence": 0.98
+            },
+            {
+              "word": " luid.",
+              "start": 1519.384,
+              "end": 1519.645,
+              "confidence": 0.74
+            }
+          ]
+        },
+        {
+          "text": "Kijk straks eens op Delaware.pro.",
+          "language": "nl",
+          "start": 1520.005,
+          "end": 1521.666,
+          "confidence": 0.7180000000000001,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Kijk",
+              "start": 1520.005,
+              "end": 1520.185,
+              "confidence": 0.81
+            },
+            {
+              "word": " straks",
+              "start": 1520.245,
+              "end": 1520.545,
+              "confidence": 0.79
+            },
+            {
+              "word": " eens",
+              "start": 1520.546,
+              "end": 1520.665,
+              "confidence": 0.26
+            },
+            {
               "word": " op",
-              "start": 1519.746,
-              "end": 1519.865,
-              "confidence": 0.96
+              "start": 1520.685,
+              "end": 1520.805,
+              "confidence": 1
             },
             {
               "word": " Delaware.pro.",
-              "start": 1519.945,
-              "end": 1520.706,
+              "start": 1520.885,
+              "end": 1521.666,
               "confidence": 0.73
             }
           ]
         },
         {
-          "text": "Zo zie je terug het bos door de bomen.",
+          "text": "Fluidje van een cent.",
           "language": "nl",
-          "start": 1521.206,
-          "end": 1523.088,
-          "confidence": 0.928888888888889,
+          "start": 1522.796,
+          "end": 1523.617,
+          "confidence": 0.5549999999999999,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Zo",
-              "start": 1521.206,
-              "end": 1521.326,
-              "confidence": 0.99
+              "word": " Fluidje",
+              "start": 1522.796,
+              "end": 1523.096,
+              "confidence": 0.38
             },
             {
-              "word": " zie",
-              "start": 1521.446,
-              "end": 1521.566,
-              "confidence": 0.98
+              "word": " van",
+              "start": 1523.116,
+              "end": 1523.236,
+              "confidence": 0.82
             },
             {
-              "word": " je",
-              "start": 1521.606,
-              "end": 1521.726,
+              "word": " een",
+              "start": 1523.237,
+              "end": 1523.357,
+              "confidence": 0.52
+            },
+            {
+              "word": " cent.",
+              "start": 1523.377,
+              "end": 1523.617,
+              "confidence": 0.5
+            }
+          ]
+        },
+        {
+          "text": "Delaware.",
+          "language": "nl",
+          "start": 1524.017,
+          "end": 1524.477,
+          "confidence": 0.49,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Delaware.",
+              "start": 1524.017,
+              "end": 1524.477,
               "confidence": 0.49
-            },
-            {
-              "word": " terug",
-              "start": 1521.787,
-              "end": 1522.007,
-              "confidence": 1
-            },
-            {
-              "word": " het",
-              "start": 1522.087,
-              "end": 1522.207,
-              "confidence": 0.99
-            },
-            {
-              "word": " bos",
-              "start": 1522.327,
-              "end": 1522.507,
-              "confidence": 1
-            },
-            {
-              "word": " door",
-              "start": 1522.547,
-              "end": 1522.687,
-              "confidence": 0.99
-            },
-            {
-              "word": " de",
-              "start": 1522.688,
-              "end": 1522.787,
-              "confidence": 0.99
-            },
-            {
-              "word": " bomen.",
-              "start": 1522.807,
-              "end": 1523.088,
-              "confidence": 0.93
             }
           ]
         },
         {
-          "text": "Delaware,",
+          "text": "We commit,",
           "language": "nl",
-          "start": 1524.394,
-          "end": 1524.854,
-          "confidence": 0.18,
+          "start": 1524.918,
+          "end": 1525.518,
+          "confidence": 0.395,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Delaware,",
-              "start": 1524.394,
-              "end": 1524.854,
-              "confidence": 0.18
-            }
-          ]
-        },
-        {
-          "text": "we commit,",
-          "language": "nl",
-          "start": 1525.274,
-          "end": 1525.854,
-          "confidence": 0.185,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
-            {
-              "word": " we",
-              "start": 1525.274,
-              "end": 1525.434,
-              "confidence": 0.17
+              "word": " We",
+              "start": 1524.918,
+              "end": 1525.038,
+              "confidence": 0.42
             },
             {
               "word": " commit,",
-              "start": 1525.494,
-              "end": 1525.854,
-              "confidence": 0.2
+              "start": 1525.158,
+              "end": 1525.518,
+              "confidence": 0.37
             }
           ]
         },
         {
           "text": "we deliver.",
           "language": "nl",
-          "start": 1526.054,
-          "end": 1526.674,
-          "confidence": 0.245,
+          "start": 1525.698,
+          "end": 1526.339,
+          "confidence": 0.5800000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " we",
-              "start": 1526.054,
-              "end": 1526.194,
-              "confidence": 0.13
+              "start": 1525.698,
+              "end": 1525.818,
+              "confidence": 0.37
             },
             {
               "word": " deliver.",
-              "start": 1526.214,
-              "end": 1526.674,
-              "confidence": 0.36
+              "start": 1525.878,
+              "end": 1526.339,
+              "confidence": 0.79
             }
           ]
         },
         {
           "text": "Exclusieve inzichten,",
           "language": "nl",
-          "start": 1527.354,
-          "end": 1528.534,
-          "confidence": 0.975,
+          "start": 1526.779,
+          "end": 1527.98,
+          "confidence": 0.98,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Exclusieve",
-              "start": 1527.354,
-              "end": 1527.934,
-              "confidence": 0.97
+              "start": 1526.779,
+              "end": 1527.36,
+              "confidence": 0.98
             },
             {
               "word": " inzichten,",
-              "start": 1528.034,
-              "end": 1528.534,
+              "start": 1527.48,
+              "end": 1527.98,
               "confidence": 0.98
             }
           ]
@@ -30126,625 +30072,636 @@
         {
           "text": "verborgen strategie\u00ebn,",
           "language": "nl",
-          "start": 1528.694,
-          "end": 1529.914,
+          "start": 1528.14,
+          "end": 1529.361,
           "confidence": 0.9299999999999999,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " verborgen",
-              "start": 1528.694,
-              "end": 1529.234,
-              "confidence": 0.94
+              "start": 1528.14,
+              "end": 1528.681,
+              "confidence": 0.95
             },
             {
               "word": " strategie\u00ebn,",
-              "start": 1529.294,
-              "end": 1529.914,
-              "confidence": 0.92
+              "start": 1528.721,
+              "end": 1529.361,
+              "confidence": 0.91
             }
           ]
         },
         {
           "text": "de toekomst van jouw sector.",
           "language": "nl",
-          "start": 1530.014,
-          "end": 1531.554,
-          "confidence": 0.95,
+          "start": 1529.461,
+          "end": 1530.982,
+          "confidence": 0.958,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " de",
-              "start": 1530.014,
-              "end": 1530.134,
+              "start": 1529.461,
+              "end": 1529.581,
               "confidence": 1
             },
             {
               "word": " toekomst",
-              "start": 1530.254,
-              "end": 1530.694,
-              "confidence": 0.97
+              "start": 1529.701,
+              "end": 1530.142,
+              "confidence": 0.98
             },
             {
               "word": " van",
-              "start": 1530.714,
-              "end": 1530.834,
+              "start": 1530.162,
+              "end": 1530.282,
               "confidence": 1
             },
             {
               "word": " jouw",
-              "start": 1530.874,
-              "end": 1531.014,
-              "confidence": 0.83
+              "start": 1530.302,
+              "end": 1530.462,
+              "confidence": 0.84
             },
             {
               "word": " sector.",
-              "start": 1531.134,
-              "end": 1531.554,
-              "confidence": 0.95
+              "start": 1530.582,
+              "end": 1530.982,
+              "confidence": 0.97
             }
           ]
         },
         {
           "text": "Wat weten jouw concurrenten dat jij nog niet weet?",
           "language": "nl",
-          "start": 1531.714,
-          "end": 1534.374,
-          "confidence": 0.9655555555555557,
+          "start": 1531.163,
+          "end": 1533.805,
+          "confidence": 0.9611111111111111,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Wat",
-              "start": 1531.714,
-              "end": 1531.874,
+              "start": 1531.163,
+              "end": 1531.323,
               "confidence": 1
             },
             {
               "word": " weten",
-              "start": 1531.954,
-              "end": 1532.234,
-              "confidence": 0.98
+              "start": 1531.403,
+              "end": 1531.683,
+              "confidence": 0.91
             },
             {
               "word": " jouw",
-              "start": 1532.274,
-              "end": 1532.434,
-              "confidence": 0.77
+              "start": 1531.723,
+              "end": 1531.883,
+              "confidence": 0.81
             },
             {
               "word": " concurrenten",
-              "start": 1532.494,
-              "end": 1533.114,
+              "start": 1531.943,
+              "end": 1532.564,
               "confidence": 0.99
             },
             {
               "word": " dat",
-              "start": 1533.374,
-              "end": 1533.494,
+              "start": 1532.824,
+              "end": 1532.944,
               "confidence": 1
             },
             {
               "word": " jij",
-              "start": 1533.534,
-              "end": 1533.654,
+              "start": 1532.984,
+              "end": 1533.104,
               "confidence": 1
             },
             {
               "word": " nog",
-              "start": 1533.694,
-              "end": 1533.814,
-              "confidence": 0.99
-            },
-            {
-              "word": " niet",
-              "start": 1533.894,
-              "end": 1534.074,
+              "start": 1533.144,
+              "end": 1533.264,
               "confidence": 1
             },
             {
+              "word": " niet",
+              "start": 1533.344,
+              "end": 1533.524,
+              "confidence": 0.99
+            },
+            {
               "word": " weet?",
-              "start": 1534.134,
-              "end": 1534.374,
-              "confidence": 0.96
+              "start": 1533.564,
+              "end": 1533.805,
+              "confidence": 0.95
             }
           ]
         },
         {
           "text": "Welke trends sluipen de markt binnen,",
           "language": "nl",
-          "start": 1534.614,
-          "end": 1536.754,
-          "confidence": 0.9666666666666667,
+          "start": 1534.065,
+          "end": 1536.207,
+          "confidence": 0.9533333333333333,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Welke",
-              "start": 1534.614,
-              "end": 1534.854,
+              "start": 1534.065,
+              "end": 1534.305,
               "confidence": 1
             },
             {
               "word": " trends",
-              "start": 1534.974,
-              "end": 1535.334,
+              "start": 1534.425,
+              "end": 1534.785,
               "confidence": 0.84
             },
             {
               "word": " sluipen",
-              "start": 1535.554,
-              "end": 1535.974,
+              "start": 1535.006,
+              "end": 1535.426,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 1535.975,
-              "end": 1536.094,
+              "start": 1535.427,
+              "end": 1535.546,
               "confidence": 1
             },
             {
               "word": " markt",
-              "start": 1536.194,
-              "end": 1536.474,
-              "confidence": 0.97
+              "start": 1535.646,
+              "end": 1535.906,
+              "confidence": 0.88
             },
             {
               "word": " binnen,",
-              "start": 1536.514,
-              "end": 1536.754,
-              "confidence": 0.99
+              "start": 1535.966,
+              "end": 1536.207,
+              "confidence": 1
             }
           ]
         },
         {
           "text": "hier en in het buitenland?",
           "language": "nl",
-          "start": 1537.114,
-          "end": 1538.574,
-          "confidence": 0.986,
+          "start": 1536.567,
+          "end": 1538.028,
+          "confidence": 0.9780000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " hier",
-              "start": 1537.114,
-              "end": 1537.394,
+              "start": 1536.567,
+              "end": 1536.847,
               "confidence": 1
             },
             {
               "word": " en",
-              "start": 1537.694,
-              "end": 1537.814,
+              "start": 1537.127,
+              "end": 1537.247,
               "confidence": 1
             },
             {
               "word": " in",
-              "start": 1537.815,
-              "end": 1537.874,
-              "confidence": 0.98
+              "start": 1537.248,
+              "end": 1537.347,
+              "confidence": 1
             },
             {
               "word": " het",
-              "start": 1537.894,
-              "end": 1538.014,
-              "confidence": 0.95
+              "start": 1537.348,
+              "end": 1537.448,
+              "confidence": 0.91
             },
             {
               "word": " buitenland?",
-              "start": 1538.054,
-              "end": 1538.574,
-              "confidence": 1
+              "start": 1537.488,
+              "end": 1538.028,
+              "confidence": 0.98
             }
           ]
         },
         {
           "text": "We staan aan het begin van een nieuwe cyclus.",
           "language": "nl",
-          "start": 1538.854,
-          "end": 1540.534,
-          "confidence": 0.8122222222222223,
+          "start": 1538.308,
+          "end": 1539.969,
+          "confidence": 0.8833333333333333,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " We",
-              "start": 1538.854,
-              "end": 1538.974,
-              "confidence": 0.49
+              "start": 1538.308,
+              "end": 1538.428,
+              "confidence": 0.84
             },
             {
               "word": " staan",
-              "start": 1538.994,
-              "end": 1539.194,
-              "confidence": 0.73
+              "start": 1538.468,
+              "end": 1538.648,
+              "confidence": 0.99
             },
             {
               "word": " aan",
-              "start": 1539.195,
-              "end": 1539.294,
-              "confidence": 0.9
+              "start": 1538.649,
+              "end": 1538.769,
+              "confidence": 0.97
             },
             {
               "word": " het",
-              "start": 1539.295,
-              "end": 1539.394,
-              "confidence": 0.47
+              "start": 1538.77,
+              "end": 1538.829,
+              "confidence": 0.41
             },
             {
               "word": " begin",
-              "start": 1539.395,
-              "end": 1539.594,
+              "start": 1538.83,
+              "end": 1539.049,
               "confidence": 1
             },
             {
               "word": " van",
-              "start": 1539.614,
-              "end": 1539.734,
-              "confidence": 0.99
+              "start": 1539.069,
+              "end": 1539.189,
+              "confidence": 1
             },
             {
               "word": " een",
-              "start": 1539.754,
-              "end": 1539.874,
+              "start": 1539.19,
+              "end": 1539.309,
               "confidence": 0.98
             },
             {
               "word": " nieuwe",
-              "start": 1539.875,
-              "end": 1540.054,
-              "confidence": 0.91
+              "start": 1539.329,
+              "end": 1539.509,
+              "confidence": 0.93
             },
             {
               "word": " cyclus.",
-              "start": 1540.134,
-              "end": 1540.534,
-              "confidence": 0.84
+              "start": 1539.589,
+              "end": 1539.969,
+              "confidence": 0.83
             }
           ]
         },
         {
           "text": "We hebben in 2024 een nieuwe erkenning gekregen van de overheid.",
           "language": "nl",
-          "start": 1540.894,
-          "end": 1544.894,
-          "confidence": 0.8681818181818183,
+          "start": 1540.35,
+          "end": 1544.353,
+          "confidence": 0.881818181818182,
           "channel": 0,
-          "speaker": 0,
+          "speaker": 3,
           "words": [
             {
               "word": " We",
-              "start": 1540.894,
-              "end": 1541.014,
-              "confidence": 0.94
+              "start": 1540.35,
+              "end": 1540.47,
+              "confidence": 0.97
             },
             {
               "word": " hebben",
-              "start": 1541.034,
-              "end": 1541.254,
-              "confidence": 0.98
+              "start": 1540.49,
+              "end": 1540.71,
+              "confidence": 0.95
             },
             {
               "word": " in",
-              "start": 1541.274,
-              "end": 1541.394,
-              "confidence": 0.93
+              "start": 1540.73,
+              "end": 1540.85,
+              "confidence": 0.98
             },
             {
               "word": " 2024",
-              "start": 1541.434,
-              "end": 1542.734,
+              "start": 1540.89,
+              "end": 1542.191,
               "confidence": 0
             },
             {
               "word": " een",
-              "start": 1542.774,
-              "end": 1542.894,
-              "confidence": 0.98
+              "start": 1542.231,
+              "end": 1542.351,
+              "confidence": 0.97
             },
             {
               "word": " nieuwe",
-              "start": 1542.914,
-              "end": 1543.074,
-              "confidence": 0.99
+              "start": 1542.371,
+              "end": 1542.531,
+              "confidence": 0.98
             },
             {
               "word": " erkenning",
-              "start": 1543.154,
-              "end": 1543.534,
+              "start": 1542.592,
+              "end": 1542.992,
               "confidence": 0.99
             },
             {
               "word": " gekregen",
-              "start": 1543.574,
-              "end": 1544.054,
+              "start": 1543.032,
+              "end": 1543.512,
               "confidence": 0.87
             },
             {
               "word": " van",
-              "start": 1544.194,
-              "end": 1544.314,
-              "confidence": 0.89
+              "start": 1543.652,
+              "end": 1543.772,
+              "confidence": 1
             },
             {
               "word": " de",
-              "start": 1544.334,
-              "end": 1544.454,
-              "confidence": 0.99
+              "start": 1543.773,
+              "end": 1543.893,
+              "confidence": 1
             },
             {
               "word": " overheid.",
-              "start": 1544.494,
-              "end": 1544.894,
+              "start": 1543.953,
+              "end": 1544.353,
               "confidence": 0.99
             }
           ]
         },
         {
-          "text": "En die erkenning is eigenlijk een soort van vertaling van een aangepaste strategie die we als FastPlus hebben aangenomen.",
+          "text": "En die erkenning is eigenlijk een soort van vertaling van een aangepaste strategie die we als Fastplus hebben.",
           "language": "nl",
-          "start": 1545.034,
-          "end": 1552.054,
-          "confidence": 0.9421052631578949,
+          "start": 1544.493,
+          "end": 1550.778,
+          "confidence": 0.935,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " En",
-              "start": 1545.034,
-              "end": 1545.154,
+              "start": 1544.493,
+              "end": 1544.613,
               "confidence": 1
             },
             {
               "word": " die",
-              "start": 1545.155,
-              "end": 1545.254,
-              "confidence": 0.99
+              "start": 1544.614,
+              "end": 1544.693,
+              "confidence": 0.92
             },
             {
               "word": " erkenning",
-              "start": 1545.255,
-              "end": 1545.634,
-              "confidence": 0.97
+              "start": 1544.713,
+              "end": 1545.093,
+              "confidence": 0.96
             },
             {
               "word": " is",
-              "start": 1545.734,
-              "end": 1545.854,
+              "start": 1545.194,
+              "end": 1545.314,
               "confidence": 1
             },
             {
               "word": " eigenlijk",
-              "start": 1545.994,
-              "end": 1546.314,
-              "confidence": 0.97
-            },
-            {
-              "word": " een",
-              "start": 1546.354,
-              "end": 1546.534,
-              "confidence": 0.24
-            },
-            {
-              "word": " soort",
-              "start": 1546.554,
-              "end": 1546.754,
-              "confidence": 0.94
-            },
-            {
-              "word": " van",
-              "start": 1546.794,
-              "end": 1546.954,
-              "confidence": 0.98
-            },
-            {
-              "word": " vertaling",
-              "start": 1547.294,
-              "end": 1547.814,
-              "confidence": 1
-            },
-            {
-              "word": " van",
-              "start": 1548.054,
-              "end": 1548.194,
-              "confidence": 1
-            },
-            {
-              "word": " een",
-              "start": 1548.274,
-              "end": 1548.394,
-              "confidence": 1
-            },
-            {
-              "word": " aangepaste",
-              "start": 1548.474,
-              "end": 1548.954,
+              "start": 1545.454,
+              "end": 1545.754,
               "confidence": 0.99
             },
             {
-              "word": " strategie",
-              "start": 1549.014,
-              "end": 1549.614,
+              "word": " een",
+              "start": 1545.814,
+              "end": 1545.994,
+              "confidence": 0.25
+            },
+            {
+              "word": " soort",
+              "start": 1546.014,
+              "end": 1546.194,
+              "confidence": 0.96
+            },
+            {
+              "word": " van",
+              "start": 1546.254,
+              "end": 1546.415,
+              "confidence": 0.99
+            },
+            {
+              "word": " vertaling",
+              "start": 1546.755,
+              "end": 1547.275,
               "confidence": 1
             },
             {
+              "word": " van",
+              "start": 1547.515,
+              "end": 1547.655,
+              "confidence": 1
+            },
+            {
+              "word": " een",
+              "start": 1547.736,
+              "end": 1547.856,
+              "confidence": 0.99
+            },
+            {
+              "word": " aangepaste",
+              "start": 1547.936,
+              "end": 1548.416,
+              "confidence": 0.97
+            },
+            {
+              "word": " strategie",
+              "start": 1548.476,
+              "end": 1549.057,
+              "confidence": 0.97
+            },
+            {
               "word": " die",
-              "start": 1549.874,
-              "end": 1549.994,
+              "start": 1549.337,
+              "end": 1549.457,
               "confidence": 1
             },
             {
               "word": " we",
-              "start": 1549.995,
-              "end": 1550.114,
+              "start": 1549.458,
+              "end": 1549.577,
               "confidence": 0.99
             },
             {
               "word": " als",
-              "start": 1550.274,
-              "end": 1550.454,
+              "start": 1549.737,
+              "end": 1549.917,
               "confidence": 0.99
             },
             {
-              "word": " FastPlus",
-              "start": 1550.534,
-              "end": 1551.014,
-              "confidence": 0.88
+              "word": " Fastplus",
+              "start": 1549.977,
+              "end": 1550.478,
+              "confidence": 0.87
             },
             {
-              "word": " hebben",
-              "start": 1551.094,
-              "end": 1551.334,
-              "confidence": 0.96
-            },
+              "word": " hebben.",
+              "start": 1550.558,
+              "end": 1550.778,
+              "confidence": 0.98
+            }
+          ]
+        },
+        {
+          "text": "aangenomen.",
+          "language": "nl",
+          "start": 1550.98,
+          "end": 1551.521,
+          "confidence": 0.79,
+          "channel": 0,
+          "speaker": 3,
+          "words": [
             {
               "word": " aangenomen.",
-              "start": 1551.534,
-              "end": 1552.054,
-              "confidence": 1
+              "start": 1550.98,
+              "end": 1551.521,
+              "confidence": 0.79
             }
           ]
         },
         {
           "text": "Enerzijds een stapje verder te zetten in de circulaire economie,",
           "language": "nl",
-          "start": 1552.202,
-          "end": 1555.284,
-          "confidence": 0.9049999999999999,
+          "start": 1551.641,
+          "end": 1554.726,
+          "confidence": 0.9700000000000001,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Enerzijds",
-              "start": 1552.202,
-              "end": 1552.722,
-              "confidence": 0.92
+              "start": 1551.641,
+              "end": 1552.182,
+              "confidence": 0.93
             },
             {
               "word": " een",
-              "start": 1552.823,
-              "end": 1552.943,
-              "confidence": 0.22
+              "start": 1552.242,
+              "end": 1552.362,
+              "confidence": 0.85
             },
             {
               "word": " stapje",
-              "start": 1552.944,
-              "end": 1553.203,
-              "confidence": 0.99
+              "start": 1552.382,
+              "end": 1552.643,
+              "confidence": 1
             },
             {
               "word": " verder",
-              "start": 1553.303,
-              "end": 1553.603,
-              "confidence": 0.98
+              "start": 1552.743,
+              "end": 1553.043,
+              "confidence": 1
             },
             {
               "word": " te",
-              "start": 1553.663,
-              "end": 1553.783,
+              "start": 1553.103,
+              "end": 1553.224,
               "confidence": 1
             },
             {
               "word": " zetten",
-              "start": 1553.823,
-              "end": 1554.084,
+              "start": 1553.264,
+              "end": 1553.524,
               "confidence": 0.99
             },
             {
               "word": " in",
-              "start": 1554.085,
-              "end": 1554.204,
+              "start": 1553.525,
+              "end": 1553.644,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 1554.205,
-              "end": 1554.284,
+              "start": 1553.645,
+              "end": 1553.724,
               "confidence": 1
             },
             {
               "word": " circulaire",
-              "start": 1554.304,
-              "end": 1554.804,
-              "confidence": 0.95
+              "start": 1553.744,
+              "end": 1554.245,
+              "confidence": 0.94
             },
             {
               "word": " economie,",
-              "start": 1554.884,
-              "end": 1555.284,
-              "confidence": 1
+              "start": 1554.325,
+              "end": 1554.726,
+              "confidence": 0.99
             }
           ]
         },
         {
           "text": "maar anderzijds ook onze maatschappelijke rol beter te gaan oppakken.",
           "language": "nl",
-          "start": 1555.505,
-          "end": 1559.127,
-          "confidence": 0.993,
+          "start": 1554.946,
+          "end": 1558.572,
+          "confidence": 0.9880000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " maar",
-              "start": 1555.505,
-              "end": 1555.625,
-              "confidence": 0.99
+              "start": 1554.946,
+              "end": 1555.067,
+              "confidence": 0.96
             },
             {
               "word": " anderzijds",
-              "start": 1555.705,
-              "end": 1556.125,
-              "confidence": 0.95
+              "start": 1555.147,
+              "end": 1555.567,
+              "confidence": 0.93
             },
             {
               "word": " ook",
-              "start": 1556.285,
-              "end": 1556.465,
+              "start": 1555.728,
+              "end": 1555.908,
               "confidence": 1
             },
             {
               "word": " onze",
-              "start": 1556.606,
-              "end": 1556.766,
+              "start": 1556.048,
+              "end": 1556.208,
               "confidence": 1
             },
             {
               "word": " maatschappelijke",
-              "start": 1556.786,
-              "end": 1557.366,
+              "start": 1556.228,
+              "end": 1556.809,
               "confidence": 1
             },
             {
               "word": " rol",
-              "start": 1557.466,
-              "end": 1557.666,
+              "start": 1556.909,
+              "end": 1557.11,
               "confidence": 1
             },
             {
               "word": " beter",
-              "start": 1558.007,
-              "end": 1558.267,
+              "start": 1557.45,
+              "end": 1557.711,
               "confidence": 1
             },
             {
               "word": " te",
-              "start": 1558.268,
-              "end": 1558.387,
+              "start": 1557.712,
+              "end": 1557.831,
               "confidence": 1
             },
             {
               "word": " gaan",
-              "start": 1558.427,
-              "end": 1558.647,
+              "start": 1557.871,
+              "end": 1558.091,
               "confidence": 1
             },
             {
               "word": " oppakken.",
-              "start": 1558.707,
-              "end": 1559.127,
+              "start": 1558.151,
+              "end": 1558.572,
               "confidence": 0.99
             }
           ]
@@ -30752,129 +30709,129 @@
         {
           "text": "Dat is waar we vandaag voor staan.",
           "language": "nl",
-          "start": 1559.388,
-          "end": 1560.829,
-          "confidence": 0.9271428571428572,
+          "start": 1558.832,
+          "end": 1560.275,
+          "confidence": 0.9314285714285715,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dat",
-              "start": 1559.388,
-              "end": 1559.528,
+              "start": 1558.832,
+              "end": 1558.973,
               "confidence": 1
             },
             {
               "word": " is",
-              "start": 1559.548,
-              "end": 1559.668,
+              "start": 1558.993,
+              "end": 1559.113,
               "confidence": 1
             },
             {
               "word": " waar",
-              "start": 1559.708,
-              "end": 1559.868,
+              "start": 1559.153,
+              "end": 1559.313,
               "confidence": 1
             },
             {
               "word": " we",
-              "start": 1559.869,
-              "end": 1559.968,
-              "confidence": 0.59
+              "start": 1559.314,
+              "end": 1559.413,
+              "confidence": 0.55
             },
             {
               "word": " vandaag",
-              "start": 1559.988,
-              "end": 1560.308,
-              "confidence": 0.94
+              "start": 1559.433,
+              "end": 1559.754,
+              "confidence": 0.99
             },
             {
               "word": " voor",
-              "start": 1560.368,
-              "end": 1560.549,
-              "confidence": 0.98
+              "start": 1559.814,
+              "end": 1559.994,
+              "confidence": 0.99
             },
             {
               "word": " staan.",
-              "start": 1560.589,
-              "end": 1560.829,
-              "confidence": 0.98
+              "start": 1560.034,
+              "end": 1560.275,
+              "confidence": 0.99
             }
           ]
         },
         {
           "text": "Ontdek het in Industry Insights en neem de vlucht vooruit.",
           "language": "nl",
-          "start": 1561.229,
-          "end": 1564.372,
-          "confidence": 0.95,
+          "start": 1560.675,
+          "end": 1563.82,
+          "confidence": 0.9490000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Ontdek",
-              "start": 1561.229,
-              "end": 1561.469,
+              "start": 1560.675,
+              "end": 1560.916,
               "confidence": 0.99
             },
             {
               "word": " het",
-              "start": 1561.489,
-              "end": 1561.609,
+              "start": 1560.936,
+              "end": 1561.056,
               "confidence": 1
             },
             {
               "word": " in",
-              "start": 1561.669,
-              "end": 1561.79,
-              "confidence": 1
+              "start": 1561.116,
+              "end": 1561.236,
+              "confidence": 0.99
             },
             {
               "word": " Industry",
-              "start": 1561.91,
-              "end": 1562.27,
+              "start": 1561.356,
+              "end": 1561.717,
               "confidence": 1
             },
             {
               "word": " Insights",
-              "start": 1562.35,
-              "end": 1562.85,
-              "confidence": 0.51
+              "start": 1561.797,
+              "end": 1562.298,
+              "confidence": 0.52
             },
             {
               "word": " en",
-              "start": 1563.151,
-              "end": 1563.271,
+              "start": 1562.598,
+              "end": 1562.718,
               "confidence": 1
             },
             {
               "word": " neem",
-              "start": 1563.331,
-              "end": 1563.511,
+              "start": 1562.779,
+              "end": 1562.959,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 1563.531,
-              "end": 1563.651,
-              "confidence": 1
+              "start": 1562.979,
+              "end": 1563.099,
+              "confidence": 0.99
             },
             {
               "word": " vlucht",
-              "start": 1563.691,
-              "end": 1563.951,
+              "start": 1563.139,
+              "end": 1563.4,
               "confidence": 1
             },
             {
               "word": " vooruit.",
-              "start": 1563.991,
-              "end": 1564.372,
+              "start": 1563.44,
+              "end": 1563.82,
               "confidence": 1
             }
           ]
         }
       ],
-      "full_transcript": "Een frisse blik op de zaken zoals die van de Zeven. De IT-oplossingen van Delaware ondersteunen uw groeiambities en digitale transformatie. Delaware. We commit, we deliver. Goeiemorgen. Geen gewone Zeven vandaag. Bert maakt de brug. Wel een extra over nieuws op de voortpagina van de tijd vandaag. Het gaat over... Ik zocht al heel lang een job voor studenten. Allemaal jobstudenten. Jobstudenten. Jobstudenten zullen 650 uur... per jaar mogen werken. De federale regering breidt het aantal werkuren voor jobstudenten onlangs uit. Het topteam van onze Vlaamse jongeren, die doen hun studentenjob en die willen ook graag meer werken. De stewards en stewardessen van Brussels Airlines zijn gefrustreerd door meer dan dat het bedrijf jobstudenten inzet. Jobstudenten. Ze breken alle records. Er waren er nog nooit zoveel en ze werkten samen ook nog nooit zoveel uren. Als nu. Restauranttafels opdienen, een kassa doen in de supermarkt of zoals in destijds. laderen rijven en gras afmaaien in tuinen. Als maar meer studenten doen dat een paar uur per week, ook buiten de vakantieperiodes. En de regering moedigt het ook aan door geregelde regels te versoepelen. Maar is dat nieuwe record een goeie zaak? Stuwen die jobstudenten onze economie? Of nemen ze gewoon laaggeschoolde plaatsen in op de arbeidsmarkt? Doen ze het om een zakcentje bij te verdienen? Of al te vaak om thuis mede rekeningen te betalen? Dat is toch niet de bedoeling? Ik ben Roan van Eyck en in deze extra aflevering van De Zeven praten we met experts en ervaringsdeskundigen over de Belgische jobstudent die vandaag alle record spreekt. Ik merk dat er alsmaar meer studenten mij zeggen van ik kan niet naar een seminar, ik hoor maar dat ik moet werken. Ik geloof er niet in dat werkgevers jobstudenten inzetten uitsluitend voor de doelgroep. De 7. Extra. Goeiemorgen Femke van Gartere. Goeiemorgen Roelans. Journalisten van onze weekendredactie. En goeiemorgen Thomas Roelans. Goeiemorgen Roelans. Chef Data bij de Tijd. Laten we beginnen met het nieuws, Thomas. Dat staat vandaag dus op onze voortpagina, met een verdiepend stuk binnenin de tijd. Jullie hebben met de Datacel een oefening gedaan rond jobstudenten, samen met de RSZ, de Rijksdienst voor Sociale Zekerheid. Vertel eens, wat is daaruit gebleken? Het is inderdaad zo dat jobstudenten vorig jaar alle records hebben gebroken. De RZ registreerde meer dan 640.000 studenten. Samen voelde die meer dan 1 miljoen jobs in. Alles bij elkaar was dat goed voor meer dan 140 miljoen gewerte uren. Voor een doorsnee jobstudenten kwam dat ongeveer neer op een gemiddelde van 220 uur gewerd in het voorbije jaar. Alle genoemde cijfers zijn telkens rekords. Ok\u00e9, toch straf. Meer jobstudenten dan ooit in ons land. En die werken samen ook meer uren dan ooit, bijna anderhalf miljoen. Soms met \u00e9\u00e9n student die dan verschillende jobs combineert. Geef ons eens wat perspectief, Thomas. Want eerlijk, dat jobstudentenrecord, dat klinkt als iets wat ik de voorbije jaren al wel vaker heb horen passeren. Is die opmars al langer bezig? Wel, het is zo dat die cijfers al enkele jaren in de lift zaten. maar ik denk dat de recente flexibilisering van die studentencontracten, daar is zeker een belangrijke motor achter geweest. Welke recente flexibilisering? Wel, voordien was een studentenjob vooral iets voor in de zomervakantie. Sinds 2017 is dat eigenlijk veranderd in een flexibele urenregeling. Studenten konden daarmee doorheen het jaar aan de slag. En die regeling is eigenlijk ook sinds 2017 gradueel telkens opgetrokken, tot op het pijl van vandaag. Daarmee kunnen studenten vandaag tot 650 uur onbelast bijverdienen. Ok\u00e9, de regering wil dat. duidelijk aanmoedigen dat studenten bijklussen. Maar wat vinden die studenten daar nu zelf van? We spraken met drie jongeren die een beetje tot redelijk stevig bijklussen. Ik ben Lina Elmar-Nissi en ik studeer HR Support aan de Thomas Moore Hogeschool. En ik werk als student bij Delta Works. Mijn naam is Pedro Legavitia Velu. Ik ben student periodele ingenieur aan de VUB. en ik doe daar twee studentenjobs aan de infodesk van de PIP en anderzijds ook als barmedewerker in Barpiller. Ik ben Atta, ik studeer toegepaste economische wetenschappen, tweede jaar bachelor aan de KU Leuven en ben begonnen als studentenjob bij een triteurszaak. Daarna geswitcht naar een supermarkt en in de zomer zou ik mogen beginnen op de lufthaven. Ik werk van een twintig uur per week, natuurlijk tijdens de examens iets minder en tijdens rustige periodes kan het ook... ook wel iets meer zijn. En ik ben best wel blij dat het nu terug 650 uur zijn, want vorig jaar had ik ze allemaal opgebruikt, alleen tegen het einde van het jaar, dus ik was dan net geen werkstudent. Dat ik maar doorheen het jaar \u00e9\u00e9n dag per week werk, zaterdag naar middag, en dan in de zomervakantie is twee, drie weken. Maar met zo masporadisch te gaan werken kom je eigenlijk nooit op die 400 tot 600 uur, dus eigenlijk lig je daar totaal niet van wakker. Ik had ook eigenlijk geen probleem met die 450 uur, omdat ik daar nooit aan kwam. Het is eigenlijk uitzonderlijk dat ik dit jaar zoveel studentenjobs doe, omdat ik binnenkort ook het studentenstatuut verlies. Dus ik probeer daar wel een beetje gebruik van te maken om zoveel mogelijk uren nog te kloppen. De ene doet het maar een paar uurtjes, de andere klopt er zoveel mogelijk. Maar ze zijn wel allemaal blij om die flexibiliteit te krijgen, dat is duidelijk. Maar hoe zit het met die... Andere kant, Thomas, hoe kijken werkgevers naar al die versoepelingen en recordaantallen jobstudenten die daaruit volgen? Wel, ook bedrijven zien die studenten graag komen natuurlijk. Eerst en vooral hoeven die werkgevers enkel een solidariteitsbijdrage te betalen op die studenten. Daarnaast is het natuurlijk ook zo dat in tijden van een zeer grote arbeidskrapte, die studenten ook een zeer interessante partij zijn om de personeelstekorten op te vullen die er in veel bedrijven zijn. niet in het minst om dat er veel studenten zich... vaak zeer flexibel opstellen qua urenregeling of taakinvulling voor de studentenjob. Ja, ze komen al gemakkelijker om wat losse uurtjes te werken. En dat kan ook steeds gemakkelijker, want ook het hoger onderwijs wordt, wat dat betreft, alsmaar flexibeler. We zien dat vandaag minder en minder studenten in een modeltraject op school zitten. Jeroen Poels is CEO en oprichter van DeltaWorks, een interimbureau dat al 60.000 studenten aan het werk zetten. vanaf het tweede jaar. kiezen bewust studenten ervoor om meer studiepunten op te nemen of minder studiepunten op te nemen of om te gaan combineren tussen verschillende jaren omdat nog niet alle vakken geslaagd zijn. Dat maakt natuurlijk dat een student toch zeker een dag in de week soms zelfs iets meer tijd heeft om studie te gaan combineren met werk. Daarnaast zien we ook dat meer en meer studenten vandaag beseffen dat onderwijs alleen niet voldoende is om klaargestoomd te geraken voor die arbeidsmarkt. We worden geconditioneerd met het idee 2,5 decennia van ons leven te investeren in een studie en uiteindelijk studeren we af en kunnen we misschien nog niet zo heel veel. En sterker nog weten we eigenlijk ook nog niet zo goed wat we willen betekenen op die arbeidsmarkt. En wij zijn daar ontzettend van overtuigd, want we zien dat er een groeiende populatie is van studenten die beseffen dat een studentenjob combineren met werk, dat dat goed is voor de start of hun latere carri\u00e8res. Ok\u00e9, dus een studentenjob helpt je beter begrijpen wat je misschien wil in het leven. En het onderwijs wordt ook zodanig flexibel dat combineren met een studentenjob eigenlijk heel easy wordt. Alleen maar voordelen, lijkt het. Maar horen we dat ook bij onze drie bijklussers? Eens luisteren waarom zij hun studentenjobs doen. Ik doe een studentenjob enerzijds om heel veel nieuwe mensen te leren kennen en anderzijds ook om op het einde van de maand een extra centje bij te verdienen voor vakantie. Caf\u00e9 gaan, een armconcert gaan, naar de cinema gaan ofzo. Voor mij is een studentenjob hebben meer voorbereiden op het leven voor later, als ik wat ouder ga worden. Dus dan praat ik over verantwoordelijkheid nemen voor bepaalde rekeningen, zoals een beugel, een bezoek aan de dokter allemaal zelf kunnen betalen, schoolboeken, inschrijvingsgeld voor school ook. En dan ook allerlei abonnementen voor de bus, voor de trein. En dan ook daarnaast, omdat ik dan nog thuis woon, Kan ik dat ook nog gebruiken om dan te shoppen of dan op vakanties te gaan? Eigenlijk allerlei dingen zou ik dan niet aan mijn ouders hoeven te vragen op 21-jarige liefde. In het begin is dat eigenlijk begonnen uit verveling. Het was zo de periode van corona dat er was geen leven. Iedereen zat stil tot lockdown. Er was niks te doen. En dan is het pas sinds ik in Leuven ben komen studeren en op de klop ben gekomen dat dat echt voor een extra accentje is geworden. Eigenlijk voor de rekening een beetje te spijzen. Ik merk dat eigenlijk niet zo in de dagelijkse sleu van 20 uur, dat is wel vrij veel. Maar dat voelt absoluut niet zo aan. Want uiteindelijk zijn er maar drie avondshiften op een week. En dat is tijd die ik toch niet zou zijn aan het spenderen te studeren. Dus eigenlijk is dat voor mij zo'n beetje gewone tijd, zeg maar. Ik heb wel geluk dat mijn rooster flexibel is. En ook de lessen zijn niet zo moeilijk en niet verplicht. Dus ik kan soms wel eens vanuit thuis een les bekijken om dan eens te gaan werken overdag. Ben eigenlijk al. jaren gepassioneerd door vliegtuigen, luchtvaart. Daarom zag ik die jobopportuniteit om bij Process Airlines te mogen beginnen. Dat heeft me altijd al ge\u00efnteresseerd en nu kan ik ook kijken, is het effectief mijn ding? Wie weet kan ik er via interne sollicitatie ook voordelen krijgen om bijvoorbeeld voorrang te krijgen in het sollicitatieproces. Dus ja, dat speelt ook wel mee. De skills die ik nu opdoe, dat zijn geen hard skills die ik ga gebruiken later op het werk. Maar aan de andere kant ben ik wel die soft skills, dat communicatieve, dat ben ik wel aan het bijwerken. En in dat opzicht is dat heel interessant. skills opdoen, carri\u00e8re mogelijkheden verkennen, uit vereniging beginnen of om een extra zakcentje op te doen om te gaan shoppen. De redenen om een studentenjob aan te nemen zijn duidelijk legio en ze kunnen ook veranderen met de tijd. Maar Femke, dat is niet altijd het geval. Sommige studenten gaan blijkbaar ook bij klussen, to the max, om thuis echt de rekeningen te helpen betalen. Klopt, zo heb ik toch in elk geval ook \u00e9\u00e9n studenten gesproken die weliswaar anoniem wilde blijven. Maar die jonge dame gaf eigenlijk perfect aan dat zij begon om wat extra te verdienen en dat zij uiteindelijk uit noodzaak is gaan werken omdat haar vader met pensioen ging en hij daardoor niet meer al haar studies kon betalen. Dus zij betaalde een deler vanzelf, haar kot, haar eten, al die zaken dat kwam op haar. Ja, op haar terecht. Het lijkt me wel aannemelijk dat zij niet de enige is. Dat blijkt althans ook uit cijfers die DeltaWorks aanhaalt. Die groep stijgt elk jaar, die wordt elk jaar groter. Dat zien we in studies die wij intern doen, maar ook studies extern. Dat er een stijgende groep is van jobstudenten die werken uit pure noodzaak. Ongeveer een 25 procent, een kwart van onze studenten vandaag. En dan bedoel ik op hogere studiestudenten, dus hogescholles, universiteren, die werken om enerzijds hun studie te financieren, maar anderzijds ook zichzelf te financieren in hun levensonderhoud, zoals dat u en ik huur moeten betalen en naar de sukkermarkt moeten gaan. Is dat bij hen net hetzelfde? Sterker zelfs nog, we zien ook dat er een stukje van die populatie zelfs bijdraagt aan het gezinsleven thuis. Ja, dat was opnieuw Jeroen Poels van DeltaWorks. soms is het dus uit pure noodzaak. Dat kan toch niet de bedoeling zijn van een studentenjob? Want dan kan je je toch niet echt meer degelijk focussen op je studies, Femke? Dat is toch nog een bedenking die ik mij maak bij studenten die zoveel bijklussen, tot 650 uren per jaar. Of het nu echt uit noodzaak is of niet, daar moeten de studies toch enigszins onder lijden. Maken de ouders zich daar bijvoorbeeld geen zorgen over? Dat is niet alleen wat sommige ouders vrezen, maar ook wel een aantal experts zijn er bezorgd over. Onder andere professor Yves Marx. Die grens, dus die 650 uren, lijkt mij hoog. Ik kan daar uit eigen ervaring spreken. Yves Marx, hoogleraar sociaal-economisch beleid aan de Universiteit Antwerpen. Ik merk dat toch als maar meer studenten mij zeggen van ik kan niet naar een seminarie komen, ik kan niet naar een afspraak komen. Omdat ik moet werken. Er was een student voor een afspraak, voor een laatste feedbackmoment. En die student antwoordt mij, ik moet de komende dagen van negen tot zes werken. Ja, dus dan denk ik van, oei, dit is nu toch niet ideaal. Dus ik denk dat het wel degelijk een impact heeft. Nu, is dat schadelijk? Dat is een andere vraag. Er zijn studenten die heel goed georganiseerd zijn. En die perfect erin slagen om hun studies en hun werk... te combineren, zelfs in die ze behoorlijk wilt werken. Maar er zijn er die ook minder goed georganiseerd zijn en waar dat moeilijker is. Ik denk ook dat het erg afhangt of die studenten voldoende controle hebben over wanneer ze werken. Want natuurlijk werkgevers, die zijn ook veel eisend en die vragen ook wel dat mensen soms opdagen op momenten dat voor de student niet past. En dus dan kan dat heel ongelukkig zijn. Dus ik denk dat het van veel factoren afhangt. Maar als het te veel wordt, denk ik dat het echt wel een negatieve impact heeft. Leiden de studieresultaten onder de studentenjob? Eens luisteren wat Atta, Lina en Pedro daarover denken. Of mijn studies daaronder leiden, dat denk ik eigenlijk niet. Aangezien ik zelf niet op werkdagen ga werken, dus niet maandag tot vrijdag doe ik al sowieso niet. Omdat ik dan op het holt zit in het eufe, naar de les moet, de lessen moet bijhouden. Het is inderdaad wel een beetje een valkuil. Maar je moet zelf echt wel de initiatief nemen om nog steeds je studies op de eerste plek te zetten. Bij mij is dat een beetje wisselvallig. Soms wel, soms niet. Maar dat hangt dan een beetje af van mijn motivatie dan op die tijd. Maar meestal doe ik dat wel. Persoonlijk merk ik echt niet veel invloed. Ik heb altijd op model traject gestudeerd. Ik doe die studentenjobs bijna drie jaar nu voor de bar. En mijn studies hebben daar nooit onder geleden. Omdat ik wel vrij sterk ben in het ene afschermen van het andere. Dus ik heb daar geen probleem mee. Dat is wat mijn papa altijd zei. Het is een studentenjob. Je bent student eerst. Over het algemeen denken onze studenten dus dat het wel perfect combineerbaar blijft. En daar is Jeroen Poels van DeltaWorks ook redelijk zeker van. Wij zijn ervan overtuigd dat de meeste studenten die vandaag ook werken, dat die nog altijd hun studie als prioriteit nummer \u00e9\u00e9n beschouwen. Ook voor onze overheid is dat eigenlijk hetzelfde. Je mag pas genieten van dat voordelig studentenstatuut als je hoofdberoep studeren is. En wij willen daar ook heel duidelijk in zijn dat wij dat absoluut aanmoedigen. Een studie is belangrijk. Ik denk alleen dat het een hele mooie aanvulling kan en mag zijn voor jongeren om hun studie te combineren met werk en op die manier praktijkervaring op te doen en hopelijk een beetje beter klaar te zijn voor het grote mensenleven of die hun toekomstige eerste werk ervaren. Tot nu toe hebben we vooral naar dat nieuwe record gekeken vanuit het standpunt van de studenten zelf. Hun wensen en noden, hun... work-study balance. Maar wat met onze economie? Is die erbij gebaat dat er zoveel geleund wordt op jobstudenten? Zijn daar eigenlijk wetenschappelijke studies over? We vroegen het aan Yves Marx. Er zijn best wel wetenschappelijke studies, maar er is geen wetenschappelijke consensus over. De studies zijn heel divers. De cruciale vraag is wat, indien er veel gewerkt wordt door studenten. Als studenten veel werken... Heeft dat een negatieve impact? Want uiteindelijk laten we wel wezen, als gemeenschap investeren wij ontzettend veel in onderwijs, en zeker in hoger onderwijs. Wij betalen daar, belastingbetaler betaalt daar per student, en makkelijk vele duizenden euro's. En we doen dat omdat dat mensen zijn die verstandig zijn, en die allerlei capaciteiten hebben, en daarom doen we die investering. Omdat we weten die mensen gaan hoogproductieve shops doen, Die gaan je op zoek doen met veel. toegevoegde waarde. Dus ja, als die dan niet hun potentieel realiseren, en dan kunnen we wel zeggen van op korte termijn is dat goed voor de economie, dan zijn er mensen in de winkels, en dan zijn er mensen in de tuincentra, en dan zijn er mensen in de horeca, enzovoort. Dus dat heeft dan een economisch rendement, maar of dat op langere termijn goed is, dat is natuurlijk een heel andere vraag. Geen wetenschappelijke consensus dus. Maar er zijn wel redenen om economisch vraagtekens te zetten bij te veel studentenwerk. We betalen tenslotte mee belastingen, zodat studenten kunnen studeren en niet werken. En er is meer, zegt Marx. Er zijn nog andere overwegingen ook. Voor studentenarbeid wordt geen volwaardige sociale bijdrage betaald. En we weten dat onze sociale zekerheid nu al een deficit heeft. dat die onder gefinancierd is en dus regelingen zoals de flexi-shops, zoals de studentenarbeid, waarop geen volwaardige sociale bijdragen worden betaald, zelfs indien daar een economische baat is, stelt zich toch een belangrijk principeel punt of probleem indien dat te dominant wordt en indien dat misschien wat ten koste gaat van volwaardige shops. Het is nu een fenomeen geworden dat echt wel... En dat komt ook in het artikel van vandaag aan aanbod, dat een enorme omvang heeft aangenomen. Dus daar moeten we het duidelijk nog wel wat meer over hebben. Dit gewoon blijven uitbreiden, dan moet daar ook een debat over gevoerd worden. Dat is duidelijk essentieel. Ja, die grens van 650 uren nog verder gaan optrekken, geen goed idee dus, volgens Marx. Toch niet zonder een breed en sterk onderbouwd maatschappelijk debat. Als we het over studentenjobs in de bredere economie hebben, dan moeten we misschien toch ook even een taboe aanraken. Wat hier ook speelt op de achtergrond is die vaak gehoorde kritiek dat jobstudenten soms de job afpakken van gewone werknemers. Het is inderdaad wel een kritiek die af en toe terugkomt, dat jobstudenten de plek van lager geschoolde arbeiders of bedienden zouden inpikken. Ze zouden dan natuurlijk interessanter zijn voor werkgevers ook, omdat ze minder sociale bijdragen voor hen moeten betalen dan voor een reguliere werknemer. Maar volgens experts is dat moeilijk om hard te maken. Daar kunnen we alleen maar naar gissen op dit moment. Dus we weten dat die studenten aan het... aantrekkelijk zijn voor werkgevers omdat ze goedkoper zijn, omdat ze flexibeler zijn, misschien soms wat minder mondig zijn, omdat ze niet gesyndiceerd zijn. En dus in zoverre dat die studenten werk doen die niet kunnen opgevangen worden door reguliere werkkrachten. En in veel sectoren is dat zo. Kunnen we zeggen dat dit misschien ook wel goed is voor de reguliere tewerkstelling. Als een caf\u00e9 of een restaurant goed draait tijdens de piekperiodes, en rendabel is, omwille van het feit dat het rendabel is, ook reguliere mensen, horecapersoneel, kan tewerkstellen, dan is dat goed voor iedereen, dat is goed voor de klant, dat is goed voor die zaak, voor de mensen die er vast werken. Maar goed, het zou evengoed het geval kunnen zijn dat dat inderdaad wel de kosten gaat van te werk stellen. En opnieuw, dat is iets wat we eens een keer goed moeten uitzoeken. Duidelijk besluit van Yves Marx. Arbeidsmarktexperten weten dus wat hen te doen staat. Onze jobstudent Atta heeft, voor hij koos voor een job bij Brussels Airlines, ook een job gehad in de supermarkt. En daar voelde hij zich in ieder geval wel heel welkom tussen de reguliere werknemers. concurrentie naar de vaste medewerkers zal ik gaan zeggen, aan de vaste werknemers heb ik bij de kolo uiteindelijk totaal totaal niet gemerkt, zelfs niet. Dat was eigenlijk al van dag \u00e9\u00e9n dat je daar onderdeel was van het team toen ik mijn laatste dag had. Namens dat, allee, we willen gauw niet weg hier, we hebben echt een heel goede werkkracht binnen ons team, dat willen wij niet. Dan hebben we zelfs nog een leuk afscheid gehad en nog een fles avalschaduw meegegeven naar huis. Dat is ook een duidelijk beeld. En ook Jeroen Poels van Deltaworks gelooft dat de verhouding tussen jobstudenten en vaste werknemers doorgaans harmonieus is. Een win-win. Ik geloof er niet in dat vandaag werkgevers jobstudenten inzetten uitsluitend voor de goedkoop. Wat we zien vandaag is dat studenten ingezet worden zeer vaak op momenten die voor onze reguliere arbeidsmarkten, dus niet studenten, soms niet altijd even gemakkelijk voordelen of uitkomt. En het mooiste voorbeeld dat we daarvan kunnen geven, zijn de supermarkten. Heel veel supermarkten, en voornamelijk vandaag de franchises, die openen vandaag op zondag. En we merken dat reguliere krachten het niet altijd zien zitten om dat zondagwerk te doen. Wel, ik vind dat een perfect voorbeeld van werkgevers die zeggen, goed, we gaan op zoek naar mensen die dat wel graag willen doen. En dat geldt voor studenten, maar evengoed voor de flexiestatuten. En dat is alleen maar een win-win. Ik wil vooral een oproep maken om hier niet... te veel bang van te hebben of met een negatieve blik naar te kijken. Ik denk dat jobstudenten altijd een aanvulling zullen zijn op de reguliere arbeidsmarkt. Een oplossing zullen zijn voor de nood aan flexibiliteit die werkgevers hebben. En vooral een steunpilaar kunnen zijn voor de reguliere krachten om vakanties, recup, overuren en dergelijke meer te kunnen opnemen of niet te moeten werken op momenten dat zij graag met hun gezinsleven thuis zijn. Dus een student hand in hand met de reguliere arbeidsmarkt, wij zijn er absoluut van overtuigd. Om af te sluiten, klopt dat laatste volgens jullie, Femke, Thomas? Of hoe moeten we die records van vandaag volgens jullie zien? Is het een win-win of moeten we toch opletten? Wel, er vallen zekere vragen te stellen bij de zeer grote toename van al die centen arbeids. Anderzijds, de groep... die echt tegen het maximum aanschurt van het toegelaten uren, is en blijft natuurlijk zeer klein. Voorlopig gaat dat om 10%. De grote meerderheid van hen zit daar fors onder, met die 220 gewerte uren. Dat maakt ook dat de werkklas voor hen zelf waarschijnlijk veel beperkter is. Maar tegelijkertijd ook dat de impact op de arbeidsmarkt waarschijnlijk veel minder groot is dan momenteel wordt gevreesd. Ja, ik zou het zelf geen zorgelijke zaak noemen in elk geval. Ik denk dat er ruim voldoende vacatures in ons land zijn. Voor studenten en ook zeker voor andere werknemers om in te vullen. Ok\u00e9, heldere conclusie. Dankjewel, Femke van Garteren. Graag gedaan, Roan. En dankjewel, Thomas Roelens. Dankjewel, Roan. Lees alle cijfers en de analyse van Femke en Thomas vandaag op onze app op tijd.be of in de krant natuurlijk. Ik zet de link hieronder ook in de show notes. Maandag zijn we er weer om met je vooruit te blikken op de week die komt. Graag tot dan. En nog een heel fijn weekend. Dit was de 7 Extra met Roan van Eyck. Productie door Lara Droesaert van de redactie van De Tijd. Maandag zijn we er weer. Fijn weekend. Maar kijk toch eens, wat een prachtig bos. Zo rustgevend. Oh Frank, uw bos kan een boom in. Ik zit met mijn hoofd bij dat duurzaamheidsrapport. Bel eens met Delaware. Die helpen u aan alle duurzaamheidsverreisten te voldoen. En ze helpen u ook voorbij alle obstakels om te groeien. Van e-facturatie tot IT-beveiliging. Bellen? Maar hier in het bos is geen ontvangst. Ga straks eens kijken op Delaware.pro. Zo zie je terug het bos door de bomen. Delaware, we commit, we deliver. Exclusieve inzichten, verborgen strategie\u00ebn, de toekomst van jouw sector. Wat weten jouw concurrenten dat jij nog niet weet? Welke trends sluipen de markt binnen, hier en in het buitenland? We staan aan het begin van een nieuwe cyclus. We hebben in 2024 een nieuwe erkenning gekregen van de overheid. En die erkenning is eigenlijk een soort van vertaling van een aangepaste strategie die we als FastPlus hebben aangenomen. Enerzijds een stapje verder te zetten in de circulaire economie, maar anderzijds ook onze maatschappelijke rol beter te gaan oppakken. Dat is waar we vandaag voor staan. Ontdek het in Industry Insights en neem de vlucht vooruit."
+      "full_transcript": "Een frisse blik op de zaken zoals die van de Zeven. De IT-oplossingen van Delaware ondersteunen uw groeiambities en digitale transformatie. Delaware. We commit, we deliver. Goeiemorgen. Geen gewone Zeven vandaag. Bert maakt de brug. Wel een extra over nieuws op de voortpagina van de tijd vandaag. Het gaat over... Ik zocht al heel lang een job voor studenten. Allemaal jobstudenten. Jobstudenten. Jobstudenten zullen 650 uur... per jaar mogen werken. De federale regering breidt het aantal werkuren voor jobstudenten onlangs uit. Het topteam van onze Vlaamse jongeren, die doen hun studentenjob en die willen ook graag meer werken. De stewards en stewardessen van Brussels Airlines zijn gefrustreerd door meer dan dat het bedrijf jobstudenten inzet. Jobstudenten. Ze breken alle records. Er waren er nog nooit zoveel en ze werkten samen ook nog nooit zoveel uren. Als nu. Restauranttafels opdienen, een kassa doen in de supermarkt of zoals in destijds. laderen rijven en gras afmaaien in tuinen. Als maar meer studenten doen dat een paar uur per week, ook buiten de vakantieperiodes. En de regering moedigt het ook aan door geregelde regels te versoepelen. Maar is dat nieuwe record een goeie zaak? Stuwen die jobstudenten onze economie? Of nemen ze gewoon laaggeschoolde plaatsen in op de arbeidsmarkt? Doen ze het om een zakcentje bij te verdienen? Of al te vaak om thuis mede rekeningen te betalen? Dat is toch niet de bedoeling? Ik ben Roan van Eyck en in deze extra aflevering van De Zeven praten we met experts en ervaringsdeskundigen over de Belgische jobstudent die vandaag alle record spreekt. Ik merk dat er alsmaar meer studenten mij zeggen van ik kan niet naar een seminar, ik hoor maar dat ik moet werken. Ik geloof er niet in dat werkgevers jobstudenten inzetten uitsluitend voor de doelgroep. De 7. Extra. Goeiemorgen Femke van Gartere. Goeiemorgen Roelans. Journalisten van onze weekendredactie. En goeiemorgen Thomas Roelans. Goeiemorgen Roelans. Chef Data bij de Tijd. Laten we beginnen met het nieuws, Thomas. Dat staat vandaag dus op onze voortpagina, met een verdiepend stuk binnenin de tijd. Jullie hebben met de Datacel een oefening gedaan rond jobstudenten, samen met de RSZ, de Rijksdienst voor Sociale Zekerheid. Vertel eens, wat is daaruit gebleken? Het is inderdaad zo dat jobstudenten vorig jaar alle records hebben gebroken. De RZ registreerde meer dan 640.000 studenten. Samen voelde die meer dan 1 miljoen jobs in. Alles bij elkaar was dat goed voor meer dan 140 miljoen gewerte uren. Voor een doorsnee jobstudenten kwam dat ongeveer neer op een gemiddelde van 220 uur gewerd in het voorbije jaar. Alle genoemde cijfers zijn telkens rekords. Ok\u00e9, toch straf. Meer jobstudenten dan ooit in ons land. En die werken samen ook meer uren dan ooit, bijna anderhalf miljoen. Soms met \u00e9\u00e9n student die dan verschillende jobs combineert. Geef ons eens wat perspectief, Thomas. Want eerlijk, dat jobstudentenrecord, dat klinkt als iets wat ik de voorbije jaren al wel vaker heb horen passeren. Is die opmars al langer bezig? Wel, het is zo dat die cijfers al enkele jaren in de lift zaten. maar ik denk dat de recente flexibilisering van die studentencontracten, daar is zeker een belangrijke motor achter geweest. Welke recente flexibilisering? Wel, voordien was een studentenjob vooral iets voor in de zomervakantie. Sinds 2017 is dat eigenlijk veranderd in een flexibele urenregeling. Studenten konden daarmee doorheen het jaar aan de slag. En die regeling is eigenlijk ook sinds 2017 gradueel telkens opgetrokken, tot op het pijl van vandaag. Daarmee kunnen studenten vandaag tot 650 uur onbelast bijverdienen. Ok\u00e9, de regering wil dat. duidelijk aanmoedigen dat studenten bijklussen. Maar wat vinden die studenten daar nu zelf van? We spraken met drie jongeren die een beetje tot redelijk stevig bijklussen. Ik ben Lina Elmar-Nissi en ik studeer HR Support aan de Thomas Moore Hogeschool. En ik werk als student bij Delta Works. Mijn naam is Pedro Legavitia Velu. Ik ben student periodele ingenieur aan de VUB. en ik doe daar twee studentenjobs aan de infodesk van de PIP en anderzijds ook als barmedewerker in Barpiller. Ik ben Atta, ik studeer toegepaste economische wetenschappen, tweede jaar bachelor aan de KU Leuven en ben begonnen als studentenjob bij een triteurszaak. Daarna geswitcht naar een supermarkt en in de zomer zou ik mogen beginnen op de lufthaven. Ik werk van een twintig uur per week, natuurlijk tijdens de examens iets minder en tijdens rustige periodes kan het ook... ook wel iets meer zijn. En ik ben best wel blij dat het nu terug 650 uur zijn, want vorig jaar had ik ze allemaal opgebruikt, alleen tegen het einde van het jaar, dus ik was dan net geen werkstudent. Dat ik maar doorheen het jaar \u00e9\u00e9n dag per week werk, zaterdag naar middag, en dan in de zomervakantie is twee, drie weken. Maar met zo masporadisch te gaan werken kom je eigenlijk nooit op die 400 tot 600 uur, dus eigenlijk lig je daar totaal niet van wakker. Ik had ook eigenlijk geen probleem met die 450 uur, omdat ik daar nooit aan kwam. Het is eigenlijk uitzonderlijk dat ik dit jaar zoveel studentenjobs doe, omdat ik binnenkort ook het studentenstatuut verlies. Dus ik probeer daar wel een beetje gebruik van te maken om zoveel mogelijk uren nog te kloppen. De ene doet het maar een paar uurtjes, de andere klopt er zoveel mogelijk. Maar ze zijn wel allemaal blij om die flexibiliteit te krijgen, dat is duidelijk. Maar hoe zit het met die... Andere kant, Thomas, hoe kijken werkgevers naar al die versoepelingen en recordaantallen jobstudenten die daaruit volgen? Wel, ook bedrijven zien die studenten graag komen natuurlijk. Eerst en vooral hoeven die werkgevers enkel een solidariteitsbijdrage te betalen op die studenten. Daarnaast is het natuurlijk ook zo dat in tijden van een zeer grote arbeidskrapte, die studenten ook een zeer interessante partij zijn om de personeelstekorten op te vullen die er in veel bedrijven zijn. niet in het minst om dat er veel studenten zich... vaak zeer flexibel opstellen qua urenregeling of taakinvulling voor de studentenjob. Ja, ze komen al gemakkelijker om wat losse uurtjes te werken. En dat kan ook steeds gemakkelijker, want ook het hoger onderwijs wordt, wat dat betreft, alsmaar flexibeler. We zien dat vandaag minder en minder studenten in een modeltraject op school zitten. Jeroen Poels is CEO en oprichter van DeltaWorks, een interimbureau dat al 60.000 studenten aan het werk zetten. vanaf het tweede jaar. kiezen bewust studenten ervoor om meer studiepunten op te nemen of minder studiepunten op te nemen of om te gaan combineren tussen verschillende jaren omdat nog niet alle vakken geslaagd zijn. Dat maakt natuurlijk dat een student toch zeker een dag in de week soms zelfs iets meer tijd heeft om studie te gaan combineren met werk. Daarnaast zien we ook dat meer en meer studenten vandaag beseffen dat onderwijs alleen niet voldoende is om klaargestoomd te geraken voor die arbeidsmarkt. We worden geconditioneerd met het idee 2,5 decennia van ons leven te investeren in een studie en uiteindelijk studeren we af en kunnen we misschien nog niet zo heel veel. En sterker nog weten we eigenlijk ook nog niet zo goed wat we willen betekenen op die arbeidsmarkt. En wij zijn daar ontzettend van overtuigd, want we zien dat er een groeiende populatie is van studenten die beseffen dat een studentenjob combineren met werk, dat dat goed is voor de start of hun latere carri\u00e8res. Ok\u00e9, dus een studentenjob helpt je beter begrijpen wat je misschien wil in het leven. En het onderwijs wordt ook zodanig flexibel dat combineren met een studentenjob eigenlijk heel easy wordt. Alleen maar voordelen, lijkt het. Maar horen we dat ook bij onze drie bijklussers? Eens luisteren waarom zij hun studentenjobs doen. Ik doe een studentenjob enerzijds om heel veel nieuwe mensen te leren kennen en anderzijds ook om op het einde van de maand een extra centje bij te verdienen voor vakantie. Caf\u00e9 gaan, een armconcert gaan, naar de cinema gaan ofzo. Voor mij is een studentenjob hebben meer voorbereiden op het leven voor later, als ik wat ouder ga worden. Dus dan praat ik over verantwoordelijkheid nemen voor bepaalde rekeningen, zoals een beugel, een bezoek aan de dokter allemaal zelf kunnen betalen, schoolboeken, inschrijvingsgeld voor school ook. En dan ook allerlei abonnementen voor de bus, voor de trein. En dan ook daarnaast, omdat ik dan nog thuis woon, Kan ik dat ook nog gebruiken om dan te shoppen of dan op vakanties te gaan? Eigenlijk allerlei dingen zou ik dan niet aan mijn ouders hoeven te vragen op 21-jarige liefde. In het begin is dat eigenlijk begonnen uit verveling. Het was zo de periode van corona dat er was geen leven. Iedereen zat stil tot lockdown. Er was niks te doen. En dan is het pas sinds ik in Leuven ben komen studeren en op de klop ben gekomen dat dat echt voor een extra accentje is geworden. Eigenlijk voor de rekening een beetje te spijzen. Ik merk dat eigenlijk niet zo in de dagelijkse sleu van 20 uur, dat is wel vrij veel. Maar dat voelt absoluut niet zo aan. Want uiteindelijk zijn er maar drie avondshiften op een week. En dat is tijd die ik toch niet zou zijn aan het spenderen te studeren. Dus eigenlijk is dat voor mij zo'n beetje gewone tijd, zeg maar. Ik heb wel geluk dat mijn rooster flexibel is. En ook de lessen zijn niet zo moeilijk en niet verplicht. Dus ik kan soms wel eens vanuit thuis een les bekijken om dan eens te gaan werken overdag. Ben eigenlijk al. jaren gepassioneerd door vliegtuigen, luchtvaart. Daarom zag ik die jobopportuniteit om bij Process Airlines te mogen beginnen. Dat heeft me altijd al ge\u00efnteresseerd en nu kan ik ook kijken, is het effectief mijn ding? Wie weet kan ik er via interne sollicitatie ook voordelen krijgen om bijvoorbeeld voorrang te krijgen in het sollicitatieproces. Dus ja, dat speelt ook wel mee. De skills die ik nu opdoe, dat zijn geen hard skills die ik ga gebruiken later op het werk. Maar aan de andere kant ben ik wel die soft skills, dat communicatieve, dat ben ik wel aan het bijwerken. En in dat opzicht is dat heel interessant. skills opdoen, carri\u00e8re mogelijkheden verkennen, uit vereniging beginnen of om een extra zakcentje op te doen om te gaan shoppen. De redenen om een studentenjob aan te nemen zijn duidelijk legio en ze kunnen ook veranderen met de tijd. Maar Femke, dat is niet altijd het geval. Sommige studenten gaan blijkbaar ook bij klussen, to the max, om thuis echt de rekeningen te helpen betalen. Klopt, zo heb ik toch in elk geval ook \u00e9\u00e9n studenten gesproken die weliswaar anoniem wilde blijven. Maar die jonge dame gaf eigenlijk perfect aan dat zij begon om wat extra te verdienen en dat zij uiteindelijk uit noodzaak is gaan werken omdat haar vader met pensioen ging en hij daardoor niet meer al haar studies kon betalen. Dus zij betaalde een deler vanzelf, haar kot, haar eten, al die zaken dat kwam op haar. Ja, op haar terecht. Het lijkt me wel aannemelijk dat zij niet de enige is. Dat blijkt althans ook uit cijfers die DeltaWorks aanhaalt. Die groep stijgt elk jaar, die wordt elk jaar groter. Dat zien we in studies die wij intern doen, maar ook studies extern. Dat er een stijgende groep is van jobstudenten die werken uit pure noodzaak. Ongeveer een 25 procent, een kwart van onze studenten vandaag. En dan bedoel ik op hogere studiestudenten, dus hogescholles, universiteren, die werken om enerzijds hun studie te financieren, maar anderzijds ook zichzelf te financieren in hun levensonderhoud, zoals dat u en ik huur moeten betalen en naar de sukkermarkt moeten gaan. Is dat bij hen net hetzelfde? Sterker zelfs nog, we zien ook dat er een stukje van die populatie zelfs bijdraagt aan het gezinsleven thuis. Ja, dat was opnieuw Jeroen Poels van DeltaWorks. soms is het dus uit pure noodzaak. Dat kan toch niet de bedoeling zijn van een studentenjob? Want dan kan je je toch niet echt meer degelijk focussen op je studies, Femke? Dat is toch nog een bedenking die ik mij maak bij studenten die zoveel bijklussen, tot 650 uren per jaar. Of het nu echt uit noodzaak is of niet, daar moeten de studies toch enigszins onder lijden. Maken de ouders zich daar bijvoorbeeld geen zorgen over? Dat is niet alleen wat sommige ouders vrezen, maar ook wel een aantal experts zijn er bezorgd over. Onder andere professor Yves Marx. Die grens, dus die 650 uren, lijkt mij hoog. Ik kan daar uit eigen ervaring spreken. Yves Marx, hoogleraar sociaal-economisch beleid aan de Universiteit Antwerpen. Ik merk dat toch als maar meer studenten mij zeggen van ik kan niet naar een seminarie komen, ik kan niet naar een afspraak komen. Omdat ik moet werken. Er was een student voor een afspraak, voor een laatste feedbackmoment. En die student antwoordt mij, ik moet de komende dagen van negen tot zes werken. Ja, dus dan denk ik van, oei, dit is nu toch niet ideaal. Dus ik denk dat het wel degelijk een impact heeft. Nu, is dat schadelijk? Dat is een andere vraag. Er zijn studenten die heel goed georganiseerd zijn. En die perfect erin slagen om hun studies en hun werk... te combineren, zelfs in die ze behoorlijk wilt werken. Maar er zijn er die ook minder goed georganiseerd zijn en waar dat moeilijker is. Ik denk ook dat het erg afhangt of die studenten voldoende controle hebben over wanneer ze werken. Want natuurlijk werkgevers, die zijn ook veel eisend en die vragen ook wel dat mensen soms opdagen op momenten dat voor de student niet past. En dus dan kan dat heel ongelukkig zijn. Dus ik denk dat het van veel factoren afhangt. Maar als het te veel wordt, denk ik dat het echt wel een negatieve impact heeft. Leiden de studieresultaten onder de studentenjob? Eens luisteren wat Atta, Lina en Pedro daarover denken. Of mijn studies daaronder leiden, dat denk ik eigenlijk niet. Aangezien ik zelf niet op werkdagen ga werken, dus niet maandag tot vrijdag doe ik al sowieso niet. Omdat ik dan op het holt zit in het eufe, naar de les moet, de lessen moet bijhouden. Het is inderdaad wel een beetje een valkuil. Maar je moet zelf echt wel de initiatief nemen om nog steeds je studies op de eerste plek te zetten. Bij mij is dat een beetje wisselvallig. Soms wel, soms niet. Maar dat hangt dan een beetje af van mijn motivatie dan op die tijd. Maar meestal doe ik dat wel. Persoonlijk merk ik echt niet veel invloed. Ik heb altijd op model traject gestudeerd. Ik doe die studentenjobs bijna drie jaar nu voor de bar. En mijn studies hebben daar nooit onder geleden. Omdat ik wel vrij sterk ben in het ene afschermen van het andere. Dus ik heb daar geen probleem mee. Dat is wat mijn papa altijd zei. Het is een studentenjob. Je bent student eerst. Over het algemeen denken onze studenten dus dat het wel perfect combineerbaar blijft. En daar is Jeroen Poels van DeltaWorks ook redelijk zeker van. Wij zijn ervan overtuigd dat de meeste studenten die vandaag ook werken, dat die nog altijd hun studie als prioriteit nummer \u00e9\u00e9n beschouwen. Ook voor onze overheid is dat eigenlijk hetzelfde. Je mag pas genieten van dat voordelig studentenstatuut als je hoofdberoep studeren is. En wij willen daar ook heel duidelijk in zijn dat wij dat absoluut aanmoedigen. Een studie is belangrijk. Ik denk alleen dat het een hele mooie aanvulling kan en mag zijn voor jongeren om hun studie te combineren met werk en op die manier praktijkervaring op te doen en hopelijk een beetje beter klaar te zijn voor het grote mensenleven of die hun toekomstige eerste werk ervaren. Tot nu toe hebben we vooral naar dat nieuwe record gekeken vanuit het standpunt van de studenten zelf. Hun wensen en noden, hun... work-study balance. Maar wat met onze economie? Is die erbij gebaat dat er zoveel geleund wordt op jobstudenten? Zijn daar eigenlijk wetenschappelijke studies over? We vroegen het aan Yves Marx. Er zijn best wel wetenschappelijke studies, maar er is geen wetenschappelijke consensus over. De studies zijn heel divers. De cruciale vraag is wat, indien er veel gewerkt wordt door studenten. Als studenten veel werken... Heeft dat een negatieve impact? Want uiteindelijk laten we wel wezen, als gemeenschap investeren wij ontzettend veel in onderwijs, en zeker in hoger onderwijs. Wij betalen daar, belastingbetaler betaalt daar per student, en makkelijk vele duizenden euro's. En we doen dat omdat dat mensen zijn die verstandig zijn, en die allerlei capaciteiten hebben, en daarom doen we die investering. Omdat we weten die mensen gaan hoogproductieve shops doen, Die gaan je op zoek doen met veel. toegevoegde waarde. Dus ja, als die dan niet hun potentieel realiseren, en dan kunnen we wel zeggen van op korte termijn is dat goed voor de economie, dan zijn er mensen in de winkels, en dan zijn er mensen in de tuincentra, en dan zijn er mensen in de horeca, enzovoort. Dus dat heeft dan een economisch rendement, maar of dat op langere termijn goed is, dat is natuurlijk een heel andere vraag. Geen wetenschappelijke consensus dus. Maar er zijn wel redenen om economisch vraagtekens te zetten bij te veel studentenwerk. We betalen tenslotte mee belastingen, zodat studenten kunnen studeren en niet werken. En er is meer, zegt Marx. Er zijn nog andere overwegingen ook. Voor studentenarbeid wordt geen volwaardige sociale bijdrage betaald. En we weten dat onze sociale zekerheid nu al een deficit heeft. dat die onder gefinancierd is en dus regelingen zoals de flexi-shops, zoals de studentenarbeid, waarop geen volwaardige sociale bijdragen worden betaald, zelfs indien daar een economische baat is, stelt zich toch een belangrijk principeel punt of probleem indien dat te dominant wordt en indien dat misschien wat ten koste gaat van volwaardige shops. Het is nu een fenomeen geworden dat echt wel... En dat komt ook in het artikel van vandaag aan aanbod, dat een enorme omvang heeft aangenomen. Dus daar moeten we het duidelijk nog wel wat meer over hebben. Dit gewoon blijven uitbreiden, dan moet daar ook een debat over gevoerd worden. Dat is duidelijk essentieel. Ja, die grens van 650 uren nog verder gaan optrekken, geen goed idee dus, volgens Marx. Toch niet zonder een breed en sterk onderbouwd maatschappelijk debat. Als we het over studentenjobs in de bredere economie hebben, dan moeten we misschien toch ook even een taboe aanraken. Wat hier ook speelt op de achtergrond is die vaak gehoorde kritiek dat jobstudenten soms de job afpakken van gewone werknemers. Het is inderdaad wel een kritiek die af en toe terugkomt, dat jobstudenten de plek van lager geschoolde arbeiders of bedienden zouden inpikken. Ze zouden dan natuurlijk interessanter zijn voor werkgevers ook, omdat ze minder sociale bijdragen voor hen moeten betalen dan voor een reguliere werknemer. Maar volgens experts is dat moeilijk om hard te maken. Daar kunnen we alleen maar naar gissen op dit moment. Dus we weten dat die studenten aan het... aantrekkelijk zijn voor werkgevers omdat ze goedkoper zijn, omdat ze flexibeler zijn, misschien soms wat minder mondig zijn, omdat ze niet gesyndiceerd zijn. En dus in zoverre dat die studenten werk doen die niet kunnen opgevangen worden door reguliere werkkrachten. En in veel sectoren is dat zo. Kunnen we zeggen dat dit misschien ook wel goed is voor de reguliere tewerkstelling. Als een caf\u00e9 of een restaurant goed draait tijdens de piekperiodes, en rendabel is, omwille van het feit dat het rendabel is, ook reguliere mensen, horecapersoneel, kan tewerkstellen, dan is dat goed voor iedereen, dat is goed voor de klant, dat is goed voor die zaak, voor de mensen die er vast werken. Maar goed, het zou evengoed het geval kunnen zijn dat dat inderdaad wel de kosten gaat van te werk stellen. En opnieuw, dat is iets wat we eens een keer goed moeten uitzoeken. Duidelijk besluit van Yves Marx. Arbeidsmarktexperten weten dus wat hen te doen staat. Onze jobstudent Atta heeft, voor hij koos voor een job bij Brussels Airlines, ook een job gehad in de supermarkt. En daar voelde hij zich in ieder geval wel heel welkom tussen de reguliere werknemers. concurrentie naar de vaste medewerkers zal ik gaan zeggen, aan de vaste werknemers heb ik bij de kolo uiteindelijk totaal totaal niet gemerkt, zelfs niet. Dat was eigenlijk al van dag \u00e9\u00e9n dat je daar onderdeel was van het team toen ik mijn laatste dag had. Namens dat, allee, we willen gauw niet weg hier, we hebben echt een heel goede werkkracht binnen ons team, dat willen wij niet. Dan hebben we zelfs nog een leuk afscheid gehad en nog een fles avalschaduw meegegeven naar huis. Dat is ook een duidelijk beeld. En ook Jeroen Poels van Deltaworks gelooft dat de verhouding tussen jobstudenten en vaste werknemers doorgaans harmonieus is. Een win-win. Ik geloof er niet in dat vandaag werkgevers jobstudenten inzetten uitsluitend voor de goedkoop. Wat we zien vandaag is dat studenten ingezet worden zeer vaak op momenten die voor onze reguliere arbeidsmarkten, dus niet studenten, soms niet altijd even gemakkelijk voordelen of uitkomt. En het mooiste voorbeeld dat we daarvan kunnen geven, zijn de supermarkten. Heel veel supermarkten, en voornamelijk vandaag de franchises, die openen vandaag op zondag. En we merken dat reguliere krachten het niet altijd zien zitten om dat zondagwerk te doen. Wel, ik vind dat een perfect voorbeeld van werkgevers die zeggen, goed, we gaan op zoek naar mensen die dat wel graag willen doen. En dat geldt voor studenten, maar evengoed voor de flexiestatuten. En dat is alleen maar een win-win. Ik wil vooral een oproep maken om hier niet... te veel bang van te hebben of met een negatieve blik naar te kijken. Ik denk dat jobstudenten altijd een aanvulling zullen zijn op de reguliere arbeidsmarkt. Een oplossing zullen zijn voor de nood aan flexibiliteit die werkgevers hebben. En vooral een steunpilaar kunnen zijn voor de reguliere krachten om vakanties, recup, overuren en dergelijke meer te kunnen opnemen of niet te moeten werken op momenten dat zij graag met hun gezinsleven thuis zijn. Dus een student hand in hand met de reguliere arbeidsmarkt, wij zijn er absoluut van overtuigd. Om af te sluiten. Klopt dat laatste volgens jullie, Femke, Thomas? Of hoe moeten we die records van vandaag volgens jullie zien? Is het een win-win of moeten we toch opletten? Wel, er vallen zekere vragen te stellen bij de zeer grote toename van al die centen arbeids. Anderzijds, de groep... die echt tegen het maximum aanschurt van het toegelaten uren, is en blijft natuurlijk zeer klein. Voorlopig gaat het om 10%. De grote meerderheid van hen zit daar fors onder, met die 220 gewerte uren. Dat maakt ook dat de werkklas voor hen zelf waarschijnlijk veel beperkter is. Maar tegelijkertijd ook dat de impact op de arbeidsmarkt waarschijnlijk veel minder groot is dan momenteel wordt gevreesd. Ik zou het zelf geen zorgelijke zaak noemen in elk geval. Ik denk dat er ruim voldoende vacatures in ons land zijn. Voor studenten en ook zeker voor andere werknemers om in te vullen. Ok\u00e9, heldere conclusie. Dankjewel, Femke van Garteren. Graag gedaan, Roan. En dankjewel, Thomas Roelens. Dankjewel, Roan. Lees alle cijfers en de analyse van Femke en Thomas vandaag op onze app op tijd.be of in de krant natuurlijk. Ik zet de link hieronder ook in de show notes. Maandag zijn we er weer om met je vooruit te blikken op de week die komt. Graag tot dan en nog een heel fijn weekend. Dit was de 7 Extra met Roan van Eyck. Productie door Lara Droesaert van de redactie van de Tijd. Maandag zijn we er weer. Fijn weekend. Kijk toch eens Hilde, wat een prachtig bos. Zo effici\u00ebnt georganiseerd. Frank Jong, met uw bos? Ik zit met mijn ogen bij die infacturatie voor mijn bedrijf. Vanaf 2026 is dat verplicht. Zeg maar, Delaware automatiseert heel dat proces, h\u00e8? En ze ondersteunen ook bij de rest van uw digitale transformatie. Beltjes? Bellen? Die vogels fluiten hier veel te luid. Kijk straks eens op Delaware.pro. Fluidje van een cent. Delaware. We commit, we deliver. Exclusieve inzichten, verborgen strategie\u00ebn, de toekomst van jouw sector. Wat weten jouw concurrenten dat jij nog niet weet? Welke trends sluipen de markt binnen, hier en in het buitenland? We staan aan het begin van een nieuwe cyclus. We hebben in 2024 een nieuwe erkenning gekregen van de overheid. En die erkenning is eigenlijk een soort van vertaling van een aangepaste strategie die we als Fastplus hebben. aangenomen. Enerzijds een stapje verder te zetten in de circulaire economie, maar anderzijds ook onze maatschappelijke rol beter te gaan oppakken. Dat is waar we vandaag voor staan. Ontdek het in Industry Insights en neem de vlucht vooruit."
     }
   }
 }

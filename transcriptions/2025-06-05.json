@@ -1,18 +1,18 @@
 {
-  "id": "e52ccd9a-0cab-4a1a-ae65-648ab3758a4a",
-  "request_id": "G-e52ccd9a",
+  "id": "26f8ba62-49fb-405d-a20b-5d625517df89",
+  "request_id": "G-26f8ba62",
   "version": 2,
   "status": "done",
-  "created_at": "2025-06-05T05:14:59.933Z",
-  "completed_at": "2025-06-05T05:16:04.370Z",
+  "created_at": "2025-06-05T06:31:56.634Z",
+  "completed_at": "2025-06-05T06:33:09.587Z",
   "custom_metadata": null,
   "error_code": null,
   "kind": "pre-recorded",
   "file": {
-    "id": "e52ccd9a-0cab-4a1a-ae65-648ab3758a4a",
+    "id": "26f8ba62-49fb-405d-a20b-5d625517df89",
     "filename": "audio.mp3",
     "source": "https://traffic.omny.fm/d/clips/5978613f-cd11-4352-8f26-adb900fa9a58/3c1222e5-288f-4047-a2f0-ae1b00a91688/d9152d63-6f12-47f6-8319-b2f30044dca3/audio.mp3?utm_source=Podcast&in_playlist=a0389eb5-55da-493d-b7bb-ae1b00d0d95a",
-    "audio_duration": 1061.564,
+    "audio_duration": 1063.602,
     "number_of_channels": 2
   },
   "request_params": {
@@ -45,10 +45,10 @@
   },
   "result": {
     "metadata": {
-      "audio_duration": 1061.564082,
+      "audio_duration": 1063.601633,
       "number_of_distinct_channels": 1,
-      "billing_time": 1061.564082,
-      "transcription_time": 64.437
+      "billing_time": 1063.601633,
+      "transcription_time": 72.953
     },
     "transcription": {
       "languages": [
@@ -2753,7 +2753,7 @@
           "end": 149.062,
           "confidence": 0.11,
           "channel": 0,
-          "speaker": 1,
+          "speaker": 0,
           "words": [
             {
               "word": " Ja,",
@@ -10598,7 +10598,7 @@
           "end": 530.14,
           "confidence": 0.505,
           "channel": 0,
-          "speaker": 2,
+          "speaker": 0,
           "words": [
             {
               "word": " Graag",
@@ -17139,7 +17139,7 @@
           "language": "nl",
           "start": 879.987,
           "end": 881.508,
-          "confidence": 0.8544444444444445,
+          "confidence": 0.8511111111111112,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -17183,7 +17183,7 @@
               "word": " misschien",
               "start": 880.847,
               "end": 881.107,
-              "confidence": 0.36
+              "confidence": 0.33
             },
             {
               "word": " de",
@@ -17316,7 +17316,7 @@
           "language": "nl",
           "start": 885.151,
           "end": 887.292,
-          "confidence": 0.7333333333333334,
+          "confidence": 0.7316666666666668,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -17342,7 +17342,7 @@
               "word": " niets",
               "start": 886.271,
               "end": 886.492,
-              "confidence": 0.88
+              "confidence": 0.87
             },
             {
               "word": " van",
@@ -17363,7 +17363,7 @@
           "language": "nl",
           "start": 887.332,
           "end": 896.94,
-          "confidence": 0.9614814814814812,
+          "confidence": 0.9618518518518515,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -17503,7 +17503,7 @@
               "word": " geen",
               "start": 894.918,
               "end": 895.098,
-              "confidence": 0.97
+              "confidence": 0.98
             },
             {
               "word": " erfenisbelasting",
@@ -17536,7 +17536,7 @@
           "language": "nl",
           "start": 896.96,
           "end": 900.763,
-          "confidence": 0.9221428571428573,
+          "confidence": 0.9214285714285716,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -17556,13 +17556,13 @@
               "word": " van",
               "start": 897.32,
               "end": 897.44,
-              "confidence": 0.93
+              "confidence": 0.92
             },
             {
               "word": " de",
               "start": 897.441,
               "end": 897.52,
-              "confidence": 0.96
+              "confidence": 0.97
             },
             {
               "word": " gehandicapte",
@@ -17586,7 +17586,7 @@
               "word": " de",
               "start": 898.881,
               "end": 898.981,
-              "confidence": 0.99
+              "confidence": 0.98
             },
             {
               "word": " meeste",
@@ -17629,266 +17629,266 @@
         {
           "text": "Je feliciteert dus collega's Lars Bovee en Pieter Puit.",
           "language": "nl",
-          "start": 901.91,
-          "end": 905.153,
-          "confidence": 0.9077777777777778,
+          "start": 901.898,
+          "end": 905.138,
+          "confidence": 0.9044444444444445,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Je",
-              "start": 901.91,
-              "end": 902.03,
+              "start": 901.898,
+              "end": 902.018,
               "confidence": 0.99
             },
             {
               "word": " feliciteert",
-              "start": 902.21,
-              "end": 902.891,
-              "confidence": 1
+              "start": 902.218,
+              "end": 902.878,
+              "confidence": 0.98
             },
             {
               "word": " dus",
-              "start": 902.951,
-              "end": 903.111,
-              "confidence": 1
+              "start": 902.938,
+              "end": 903.118,
+              "confidence": 0.99
             },
             {
               "word": " collega's",
-              "start": 903.231,
-              "end": 903.651,
+              "start": 903.238,
+              "end": 903.638,
               "confidence": 0.83
             },
             {
               "word": " Lars",
-              "start": 903.872,
-              "end": 904.052,
-              "confidence": 0.93
+              "start": 903.858,
+              "end": 904.058,
+              "confidence": 0.94
             },
             {
               "word": " Bovee",
-              "start": 904.092,
-              "end": 904.352,
+              "start": 904.098,
+              "end": 904.338,
               "confidence": 0.82
             },
             {
               "word": " en",
-              "start": 904.432,
-              "end": 904.552,
-              "confidence": 1
+              "start": 904.438,
+              "end": 904.558,
+              "confidence": 0.97
             },
             {
               "word": " Pieter",
-              "start": 904.652,
-              "end": 904.892,
-              "confidence": 0.7
+              "start": 904.638,
+              "end": 904.878,
+              "confidence": 0.79
             },
             {
               "word": " Puit.",
-              "start": 904.912,
-              "end": 905.153,
-              "confidence": 0.9
+              "start": 904.918,
+              "end": 905.138,
+              "confidence": 0.83
             }
           ]
         },
         {
           "text": "En ik zet de link naar die De Zeven Extra hieronder ook nog eens in de show notes.",
           "language": "nl",
-          "start": 905.233,
-          "end": 909.696,
-          "confidence": 0.8805555555555558,
+          "start": 905.218,
+          "end": 909.698,
+          "confidence": 0.8733333333333334,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " En",
-              "start": 905.233,
-              "end": 905.353,
-              "confidence": 1
+              "start": 905.218,
+              "end": 905.338,
+              "confidence": 0.89
             },
             {
               "word": " ik",
-              "start": 905.354,
-              "end": 905.453,
+              "start": 905.339,
+              "end": 905.458,
               "confidence": 1
             },
             {
               "word": " zet",
-              "start": 905.454,
-              "end": 905.573,
-              "confidence": 0.94
+              "start": 905.459,
+              "end": 905.558,
+              "confidence": 0.79
             },
             {
               "word": " de",
-              "start": 905.574,
-              "end": 905.673,
-              "confidence": 0.73
+              "start": 905.578,
+              "end": 905.658,
+              "confidence": 0.75
             },
             {
               "word": " link",
-              "start": 905.693,
-              "end": 905.853,
-              "confidence": 1
-            },
-            {
-              "word": " naar",
-              "start": 905.953,
-              "end": 906.093,
-              "confidence": 0.93
-            },
-            {
-              "word": " die",
-              "start": 906.153,
-              "end": 906.273,
-              "confidence": 0.98
-            },
-            {
-              "word": " De",
-              "start": 906.274,
-              "end": 906.394,
+              "start": 905.698,
+              "end": 905.858,
               "confidence": 0.97
             },
             {
-              "word": " Zeven",
-              "start": 906.434,
-              "end": 906.674,
-              "confidence": 0.88
-            },
-            {
-              "word": " Extra",
-              "start": 906.774,
-              "end": 907.094,
+              "word": " naar",
+              "start": 905.938,
+              "end": 906.098,
               "confidence": 0.99
             },
             {
-              "word": " hieronder",
-              "start": 907.454,
-              "end": 907.835,
+              "word": " die",
+              "start": 906.138,
+              "end": 906.258,
+              "confidence": 0.95
+            },
+            {
+              "word": " De",
+              "start": 906.278,
+              "end": 906.398,
+              "confidence": 0.98
+            },
+            {
+              "word": " Zeven",
+              "start": 906.418,
+              "end": 906.678,
+              "confidence": 0.95
+            },
+            {
+              "word": " Extra",
+              "start": 906.758,
+              "end": 907.098,
               "confidence": 1
             },
             {
+              "word": " hieronder",
+              "start": 907.438,
+              "end": 907.818,
+              "confidence": 0.99
+            },
+            {
               "word": " ook",
-              "start": 908.015,
-              "end": 908.135,
+              "start": 907.998,
+              "end": 908.118,
               "confidence": 0.99
             },
             {
               "word": " nog",
-              "start": 908.195,
-              "end": 908.315,
-              "confidence": 0.96
-            },
-            {
-              "word": " eens",
-              "start": 908.335,
-              "end": 908.455,
-              "confidence": 0.27
-            },
-            {
-              "word": " in",
-              "start": 908.615,
-              "end": 908.735,
+              "start": 908.178,
+              "end": 908.298,
               "confidence": 0.98
             },
             {
+              "word": " eens",
+              "start": 908.338,
+              "end": 908.458,
+              "confidence": 0.25
+            },
+            {
+              "word": " in",
+              "start": 908.618,
+              "end": 908.738,
+              "confidence": 0.99
+            },
+            {
               "word": " de",
-              "start": 908.795,
-              "end": 908.916,
-              "confidence": 0.97
+              "start": 908.798,
+              "end": 908.918,
+              "confidence": 0.98
             },
             {
               "word": " show",
-              "start": 909.176,
-              "end": 909.356,
-              "confidence": 0.63
+              "start": 909.178,
+              "end": 909.358,
+              "confidence": 0.61
             },
             {
               "word": " notes.",
-              "start": 909.396,
-              "end": 909.696,
-              "confidence": 0.63
+              "start": 909.398,
+              "end": 909.698,
+              "confidence": 0.66
             }
           ]
         },
         {
           "text": "Deze De Zeven werd geproduceerd door Roan van Eyck en Amber Butts.",
           "language": "nl",
-          "start": 911.017,
-          "end": 913.919,
-          "confidence": 0.8616666666666667,
+          "start": 911.018,
+          "end": 913.898,
+          "confidence": 0.8633333333333333,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Deze",
-              "start": 911.017,
-              "end": 911.237,
-              "confidence": 0.92
-            },
-            {
-              "word": " De",
-              "start": 911.238,
-              "end": 911.357,
-              "confidence": 0.91
-            },
-            {
-              "word": " Zeven",
-              "start": 911.377,
-              "end": 911.618,
+              "start": 911.018,
+              "end": 911.238,
               "confidence": 0.98
             },
             {
+              "word": " De",
+              "start": 911.239,
+              "end": 911.358,
+              "confidence": 0.93
+            },
+            {
+              "word": " Zeven",
+              "start": 911.359,
+              "end": 911.598,
+              "confidence": 0.99
+            },
+            {
               "word": " werd",
-              "start": 911.638,
-              "end": 911.758,
-              "confidence": 0.89
+              "start": 911.618,
+              "end": 911.738,
+              "confidence": 0.94
             },
             {
               "word": " geproduceerd",
-              "start": 911.798,
+              "start": 911.778,
               "end": 912.278,
-              "confidence": 0.97
+              "confidence": 0.95
             },
             {
               "word": " door",
-              "start": 912.318,
-              "end": 912.438,
+              "start": 912.298,
+              "end": 912.418,
               "confidence": 0.99
             },
             {
               "word": " Roan",
               "start": 912.538,
-              "end": 912.779,
-              "confidence": 0.99
+              "end": 912.778,
+              "confidence": 0.9
             },
             {
               "word": " van",
-              "start": 912.799,
-              "end": 912.919,
-              "confidence": 0.98
+              "start": 912.779,
+              "end": 912.898,
+              "confidence": 0.88
             },
             {
               "word": " Eyck",
-              "start": 912.959,
-              "end": 913.079,
-              "confidence": 0.24
+              "start": 912.958,
+              "end": 913.078,
+              "confidence": 0.25
             },
             {
               "word": " en",
-              "start": 913.119,
-              "end": 913.239,
-              "confidence": 0.93
+              "start": 913.098,
+              "end": 913.218,
+              "confidence": 0.99
             },
             {
               "word": " Amber",
-              "start": 913.339,
-              "end": 913.559,
-              "confidence": 0.77
+              "start": 913.338,
+              "end": 913.558,
+              "confidence": 0.79
             },
             {
               "word": " Butts.",
-              "start": 913.659,
-              "end": 913.919,
+              "start": 913.658,
+              "end": 913.898,
               "confidence": 0.77
             }
           ]
@@ -17896,140 +17896,140 @@
         {
           "text": "Voor ons geen Belfiusprijs,",
           "language": "nl",
-          "start": 914.26,
-          "end": 915.401,
-          "confidence": 0.9675,
+          "start": 914.238,
+          "end": 915.378,
+          "confidence": 0.9725,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Voor",
-              "start": 914.26,
-              "end": 914.38,
+              "start": 914.238,
+              "end": 914.378,
               "confidence": 0.99
             },
             {
               "word": " ons",
-              "start": 914.44,
-              "end": 914.56,
-              "confidence": 1
-            },
-            {
-              "word": " geen",
-              "start": 914.6,
-              "end": 914.74,
+              "start": 914.438,
+              "end": 914.558,
               "confidence": 0.99
             },
             {
+              "word": " geen",
+              "start": 914.578,
+              "end": 914.738,
+              "confidence": 1
+            },
+            {
               "word": " Belfiusprijs,",
-              "start": 914.78,
-              "end": 915.401,
-              "confidence": 0.89
+              "start": 914.778,
+              "end": 915.378,
+              "confidence": 0.91
             }
           ]
         },
         {
           "text": "maar misschien wel een podcast award.",
           "language": "nl",
-          "start": 915.441,
-          "end": 917.122,
-          "confidence": 0.9316666666666666,
+          "start": 915.438,
+          "end": 917.118,
+          "confidence": 0.9516666666666667,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " maar",
-              "start": 915.441,
-              "end": 915.561,
-              "confidence": 1
+              "start": 915.438,
+              "end": 915.558,
+              "confidence": 0.99
             },
             {
               "word": " misschien",
-              "start": 915.581,
-              "end": 915.841,
-              "confidence": 0.83
+              "start": 915.578,
+              "end": 915.838,
+              "confidence": 0.88
             },
             {
               "word": " wel",
-              "start": 915.842,
-              "end": 915.961,
-              "confidence": 0.95
+              "start": 915.839,
+              "end": 915.958,
+              "confidence": 1
             },
             {
               "word": " een",
-              "start": 916.001,
-              "end": 916.121,
-              "confidence": 0.96
+              "start": 915.978,
+              "end": 916.098,
+              "confidence": 1
             },
             {
               "word": " podcast",
-              "start": 916.181,
-              "end": 916.682,
-              "confidence": 0.87
+              "start": 916.158,
+              "end": 916.678,
+              "confidence": 0.88
             },
             {
               "word": " award.",
-              "start": 916.782,
-              "end": 917.122,
-              "confidence": 0.98
+              "start": 916.778,
+              "end": 917.118,
+              "confidence": 0.96
             }
           ]
         },
         {
           "text": "Als je nog ergens een vrij momentje hebt,",
           "language": "nl",
-          "start": 917.602,
-          "end": 919.444,
-          "confidence": 0.95875,
+          "start": 917.578,
+          "end": 919.438,
+          "confidence": 0.9724999999999999,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Als",
-              "start": 917.602,
-              "end": 917.722,
-              "confidence": 0.76
+              "start": 917.578,
+              "end": 917.698,
+              "confidence": 0.95
             },
             {
               "word": " je",
-              "start": 917.723,
-              "end": 917.802,
+              "start": 917.699,
+              "end": 917.798,
               "confidence": 0.99
             },
             {
               "word": " nog",
-              "start": 917.803,
-              "end": 917.923,
-              "confidence": 0.98
+              "start": 917.799,
+              "end": 917.918,
+              "confidence": 1
             },
             {
               "word": " ergens",
-              "start": 918.023,
-              "end": 918.283,
-              "confidence": 0.96
-            },
-            {
-              "word": " een",
-              "start": 918.343,
-              "end": 918.463,
+              "start": 918.018,
+              "end": 918.278,
               "confidence": 0.99
             },
             {
+              "word": " een",
+              "start": 918.338,
+              "end": 918.458,
+              "confidence": 0.88
+            },
+            {
               "word": " vrij",
-              "start": 918.503,
-              "end": 918.723,
+              "start": 918.478,
+              "end": 918.718,
               "confidence": 1
             },
             {
               "word": " momentje",
-              "start": 918.803,
-              "end": 919.184,
-              "confidence": 0.99
+              "start": 918.778,
+              "end": 919.158,
+              "confidence": 0.97
             },
             {
               "word": " hebt,",
-              "start": 919.244,
-              "end": 919.444,
+              "start": 919.238,
+              "end": 919.438,
               "confidence": 1
             }
           ]
@@ -18037,81 +18037,81 @@
         {
           "text": "doe je favoriete podcast dan een plezier.",
           "language": "nl",
-          "start": 919.684,
-          "end": 921.946,
-          "confidence": 0.9571428571428572,
+          "start": 919.678,
+          "end": 921.918,
+          "confidence": 0.9642857142857143,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " doe",
-              "start": 919.684,
-              "end": 919.824,
-              "confidence": 0.92
+              "start": 919.678,
+              "end": 919.798,
+              "confidence": 0.91
             },
             {
               "word": " je",
-              "start": 919.844,
-              "end": 919.964,
+              "start": 919.838,
+              "end": 919.958,
               "confidence": 1
             },
             {
               "word": " favoriete",
-              "start": 920.084,
-              "end": 920.485,
-              "confidence": 0.96
+              "start": 920.078,
+              "end": 920.478,
+              "confidence": 1
             },
             {
               "word": " podcast",
-              "start": 920.545,
-              "end": 921.005,
+              "start": 920.538,
+              "end": 920.978,
               "confidence": 0.87
             },
             {
               "word": " dan",
-              "start": 921.145,
-              "end": 921.285,
-              "confidence": 0.96
+              "start": 921.138,
+              "end": 921.278,
+              "confidence": 1
             },
             {
               "word": " een",
-              "start": 921.365,
-              "end": 921.485,
+              "start": 921.358,
+              "end": 921.478,
               "confidence": 1
             },
             {
               "word": " plezier.",
-              "start": 921.486,
-              "end": 921.946,
-              "confidence": 0.99
+              "start": 921.479,
+              "end": 921.918,
+              "confidence": 0.97
             }
           ]
         },
         {
           "text": "Dat zijn wij.",
           "language": "nl",
-          "start": 922.026,
-          "end": 922.506,
-          "confidence": 0.9966666666666667,
+          "start": 922.018,
+          "end": 922.478,
+          "confidence": 0.9700000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dat",
-              "start": 922.026,
-              "end": 922.146,
+              "start": 922.018,
+              "end": 922.138,
               "confidence": 1
             },
             {
               "word": " zijn",
-              "start": 922.186,
-              "end": 922.326,
-              "confidence": 1
+              "start": 922.158,
+              "end": 922.318,
+              "confidence": 0.92
             },
             {
               "word": " wij.",
-              "start": 922.346,
-              "end": 922.506,
+              "start": 922.319,
+              "end": 922.478,
               "confidence": 0.99
             }
           ]
@@ -18119,64 +18119,64 @@
         {
           "text": "Stem voor De Zeven in de Belgian Podcast Awards.",
           "language": "nl",
-          "start": 922.866,
-          "end": 925.909,
-          "confidence": 0.9400000000000001,
+          "start": 922.858,
+          "end": 925.898,
+          "confidence": 0.9300000000000002,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Stem",
-              "start": 922.866,
-              "end": 923.087,
+              "start": 922.858,
+              "end": 923.058,
               "confidence": 0.99
             },
             {
               "word": " voor",
-              "start": 923.267,
-              "end": 923.467,
-              "confidence": 0.98
+              "start": 923.258,
+              "end": 923.458,
+              "confidence": 0.97
             },
             {
               "word": " De",
-              "start": 923.567,
-              "end": 923.687,
-              "confidence": 0.93
+              "start": 923.558,
+              "end": 923.678,
+              "confidence": 0.95
             },
             {
               "word": " Zeven",
-              "start": 923.767,
-              "end": 924.127,
-              "confidence": 0.94
+              "start": 923.758,
+              "end": 924.118,
+              "confidence": 0.95
             },
             {
               "word": " in",
-              "start": 924.268,
-              "end": 924.388,
-              "confidence": 0.99
+              "start": 924.238,
+              "end": 924.358,
+              "confidence": 0.9
             },
             {
               "word": " de",
-              "start": 924.389,
-              "end": 924.488,
+              "start": 924.359,
+              "end": 924.478,
               "confidence": 0.98
             },
             {
               "word": " Belgian",
-              "start": 924.588,
-              "end": 924.948,
-              "confidence": 0.82
+              "start": 924.578,
+              "end": 924.918,
+              "confidence": 0.81
             },
             {
               "word": " Podcast",
-              "start": 925.028,
-              "end": 925.488,
-              "confidence": 0.89
+              "start": 925.018,
+              "end": 925.478,
+              "confidence": 0.88
             },
             {
               "word": " Awards.",
-              "start": 925.549,
-              "end": 925.909,
+              "start": 925.538,
+              "end": 925.898,
               "confidence": 0.94
             }
           ]
@@ -18184,89 +18184,89 @@
         {
           "text": "We zijn genomineerd in de categorie Daily en de concurrentie daar is stevig.",
           "language": "nl",
-          "start": 926.289,
-          "end": 930.152,
-          "confidence": 0.926923076923077,
+          "start": 926.278,
+          "end": 930.138,
+          "confidence": 0.9353846153846155,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " We",
-              "start": 926.289,
-              "end": 926.409,
-              "confidence": 0.64
+              "start": 926.278,
+              "end": 926.398,
+              "confidence": 0.7
             },
             {
               "word": " zijn",
-              "start": 926.429,
-              "end": 926.549,
-              "confidence": 0.89
+              "start": 926.418,
+              "end": 926.538,
+              "confidence": 0.9
             },
             {
               "word": " genomineerd",
-              "start": 926.569,
-              "end": 927.01,
-              "confidence": 0.98
+              "start": 926.558,
+              "end": 926.998,
+              "confidence": 0.99
             },
             {
               "word": " in",
-              "start": 927.03,
-              "end": 927.13,
+              "start": 926.999,
+              "end": 927.118,
               "confidence": 1
             },
             {
               "word": " de",
-              "start": 927.131,
-              "end": 927.21,
-              "confidence": 1
+              "start": 927.119,
+              "end": 927.178,
+              "confidence": 0.99
             },
             {
               "word": " categorie",
-              "start": 927.23,
-              "end": 927.67,
+              "start": 927.198,
+              "end": 927.658,
               "confidence": 0.92
             },
             {
               "word": " Daily",
-              "start": 927.89,
-              "end": 928.271,
+              "start": 927.858,
+              "end": 928.258,
               "confidence": 0.74
             },
             {
               "word": " en",
-              "start": 928.471,
-              "end": 928.591,
+              "start": 928.458,
+              "end": 928.578,
               "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 928.592,
-              "end": 928.691,
+              "start": 928.579,
+              "end": 928.658,
               "confidence": 0.99
             },
             {
               "word": " concurrentie",
-              "start": 928.711,
-              "end": 929.211,
+              "start": 928.678,
+              "end": 929.198,
               "confidence": 0.99
             },
             {
               "word": " daar",
-              "start": 929.251,
-              "end": 929.412,
+              "start": 929.218,
+              "end": 929.398,
               "confidence": 0.99
             },
             {
               "word": " is",
-              "start": 929.492,
-              "end": 929.612,
-              "confidence": 0.97
+              "start": 929.478,
+              "end": 929.598,
+              "confidence": 0.98
             },
             {
               "word": " stevig.",
-              "start": 929.752,
-              "end": 930.152,
-              "confidence": 0.95
+              "start": 929.738,
+              "end": 930.138,
+              "confidence": 0.98
             }
           ]
         },
@@ -18275,7 +18275,7 @@
           "language": "nl",
           "start": 930.326,
           "end": 931.587,
-          "confidence": 0.9800000000000001,
+          "confidence": 0.982,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18289,7 +18289,7 @@
               "word": " steun",
               "start": 930.546,
               "end": 930.806,
-              "confidence": 0.9
+              "confidence": 0.91
             },
             {
               "word": " is",
@@ -18316,7 +18316,7 @@
           "language": "nl",
           "start": 932.007,
           "end": 934.729,
-          "confidence": 0.9225000000000001,
+          "confidence": 0.925,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18324,7 +18324,7 @@
               "word": " Stemmen",
               "start": 932.007,
               "end": 932.248,
-              "confidence": 0.92
+              "confidence": 0.93
             },
             {
               "word": " kan",
@@ -18351,7 +18351,7 @@
           "language": "nl",
           "start": 935.11,
           "end": 937.011,
-          "confidence": 0.7211111111111111,
+          "confidence": 0.73,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18359,7 +18359,7 @@
               "word": " Ik",
               "start": 935.11,
               "end": 935.23,
-              "confidence": 0.03
+              "confidence": 0.02
             },
             {
               "word": " steek",
@@ -18377,13 +18377,13 @@
               "word": " die",
               "start": 935.571,
               "end": 935.69,
-              "confidence": 0.38
+              "confidence": 0.39
             },
             {
               "word": " link",
               "start": 935.73,
               "end": 935.93,
-              "confidence": 0.76
+              "confidence": 0.84
             },
             {
               "word": " in",
@@ -18401,13 +18401,13 @@
               "word": " show",
               "start": 936.551,
               "end": 936.711,
-              "confidence": 0.88
+              "confidence": 0.89
             },
             {
               "word": " notes.",
               "start": 936.751,
               "end": 937.011,
-              "confidence": 0.53
+              "confidence": 0.52
             }
           ]
         },
@@ -18416,7 +18416,7 @@
           "language": "nl",
           "start": 937.091,
           "end": 939.113,
-          "confidence": 0.9422222222222223,
+          "confidence": 0.9377777777777779,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18442,7 +18442,7 @@
               "word": " ook",
               "start": 937.452,
               "end": 937.572,
-              "confidence": 0.99
+              "confidence": 1
             },
             {
               "word": " stemmen",
@@ -18466,13 +18466,13 @@
               "word": " Beursvalleurs",
               "start": 938.132,
               "end": 938.673,
-              "confidence": 0.61
+              "confidence": 0.6
             },
             {
               "word": " trouwens,",
               "start": 938.733,
               "end": 939.113,
-              "confidence": 0.93
+              "confidence": 0.89
             }
           ]
         },
@@ -18481,7 +18481,7 @@
           "language": "nl",
           "start": 939.153,
           "end": 940.634,
-          "confidence": 0.93,
+          "confidence": 0.958,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18507,7 +18507,7 @@
               "word": " de",
               "start": 940.195,
               "end": 940.314,
-              "confidence": 0.84
+              "confidence": 0.98
             },
             {
               "word": " tijd.",
@@ -18522,7 +18522,7 @@
           "language": "nl",
           "start": 941.114,
           "end": 947.8,
-          "confidence": 0.8584210526315789,
+          "confidence": 0.8526315789473684,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18530,7 +18530,7 @@
               "word": " Er",
               "start": 941.114,
               "end": 941.235,
-              "confidence": 0.18
+              "confidence": 0.15
             },
             {
               "word": " staat",
@@ -18548,13 +18548,13 @@
               "word": " nieuwe",
               "start": 941.995,
               "end": 942.255,
-              "confidence": 0.82
+              "confidence": 0.83
             },
             {
               "word": " De",
               "start": 942.315,
               "end": 942.435,
-              "confidence": 0.85
+              "confidence": 0.86
             },
             {
               "word": " Beursvalleurs",
@@ -18566,7 +18566,7 @@
               "word": " aflevering",
               "start": 943.076,
               "end": 943.576,
-              "confidence": 0.96
+              "confidence": 0.95
             },
             {
               "word": " klaar",
@@ -18625,8 +18625,8 @@
             {
               "word": " als",
               "start": 946.779,
-              "end": 946.939,
-              "confidence": 0.92
+              "end": 946.919,
+              "confidence": 0.83
             },
             {
               "word": " centrale",
@@ -18647,7 +18647,7 @@
           "language": "nl",
           "start": 948.18,
           "end": 950.021,
-          "confidence": 0.7577777777777779,
+          "confidence": 0.7533333333333334,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18655,13 +18655,13 @@
               "word": " Bitcoin",
               "start": 948.18,
               "end": 948.48,
-              "confidence": 0.73
+              "confidence": 0.74
             },
             {
               "word": " is",
               "start": 948.481,
               "end": 948.58,
-              "confidence": 0.74
+              "confidence": 0.73
             },
             {
               "word": " ook",
@@ -18673,7 +18673,7 @@
               "word": " zo",
               "start": 948.681,
               "end": 948.78,
-              "confidence": 0.91
+              "confidence": 0.9
             },
             {
               "word": " eentje",
@@ -18691,7 +18691,7 @@
               "word": " ik",
               "start": 949.181,
               "end": 949.301,
-              "confidence": 0.53
+              "confidence": 0.51
             },
             {
               "word": " wat",
@@ -18703,7 +18703,7 @@
               "word": " twijfel.",
               "start": 949.721,
               "end": 950.021,
-              "confidence": 0.87
+              "confidence": 0.86
             }
           ]
         },
@@ -18712,7 +18712,7 @@
           "language": "nl",
           "start": 950.142,
           "end": 951.983,
-          "confidence": 0.8870000000000001,
+          "confidence": 0.901,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18720,19 +18720,19 @@
               "word": " En",
               "start": 950.142,
               "end": 950.262,
-              "confidence": 0.48
+              "confidence": 0.59
             },
             {
               "word": " je",
               "start": 950.263,
               "end": 950.342,
-              "confidence": 0.78
+              "confidence": 0.77
             },
             {
               "word": " hebt",
               "start": 950.343,
               "end": 950.482,
-              "confidence": 0.87
+              "confidence": 0.92
             },
             {
               "word": " er",
@@ -18744,7 +18744,7 @@
               "word": " nooit",
               "start": 950.602,
               "end": 950.762,
-              "confidence": 0.94
+              "confidence": 0.93
             },
             {
               "word": " iets",
@@ -18783,7 +18783,7 @@
           "language": "nl",
           "start": 951.984,
           "end": 953.784,
-          "confidence": 0.5487500000000001,
+          "confidence": 0.55,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18791,7 +18791,7 @@
               "word": " Want",
               "start": 951.984,
               "end": 952.103,
-              "confidence": 0.28
+              "confidence": 0.29
             },
             {
               "word": " je",
@@ -18809,13 +18809,13 @@
               "word": " maal",
               "start": 952.603,
               "end": 952.764,
-              "confidence": 0.69
+              "confidence": 0.68
             },
             {
               "word": " 15",
               "start": 952.804,
               "end": 953.164,
-              "confidence": 0.23
+              "confidence": 0.24
             },
             {
               "word": " of",
@@ -18842,7 +18842,7 @@
           "language": "nl",
           "start": 954.085,
           "end": 954.205,
-          "confidence": 0.46,
+          "confidence": 0.45,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18850,7 +18850,7 @@
               "word": " Ja,",
               "start": 954.085,
               "end": 954.205,
-              "confidence": 0.46
+              "confidence": 0.45
             }
           ]
         },
@@ -18859,7 +18859,7 @@
           "language": "nl",
           "start": 954.206,
           "end": 955.786,
-          "confidence": 0.518,
+          "confidence": 0.5000000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18867,25 +18867,25 @@
               "word": " ik",
               "start": 954.206,
               "end": 954.285,
-              "confidence": 0.12
+              "confidence": 0.11
             },
             {
               "word": " denk",
               "start": 954.286,
               "end": 954.405,
-              "confidence": 0.72
+              "confidence": 0.67
             },
             {
               "word": " nu",
               "start": 954.406,
               "end": 954.525,
-              "confidence": 0.85
+              "confidence": 0.84
             },
             {
               "word": " maal",
               "start": 954.565,
               "end": 954.725,
-              "confidence": 0.76
+              "confidence": 0.74
             },
             {
               "word": " 13.",
@@ -18922,8 +18922,8 @@
           "text": "dan stelt Gu de vraag van waarom heb ik het toen?",
           "language": "nl",
           "start": 956.987,
-          "end": 959.129,
-          "confidence": 0.7109090909090908,
+          "end": 959.149,
+          "confidence": 0.7118181818181818,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -18937,13 +18937,13 @@
               "word": " stelt",
               "start": 957.407,
               "end": 957.587,
-              "confidence": 0.85
+              "confidence": 0.86
             },
             {
               "word": " Gu",
               "start": 957.588,
               "end": 957.707,
-              "confidence": 0.34
+              "confidence": 0.36
             },
             {
               "word": " de",
@@ -18955,19 +18955,19 @@
               "word": " vraag",
               "start": 957.829,
               "end": 958.008,
-              "confidence": 0.94
+              "confidence": 0.95
             },
             {
               "word": " van",
-              "start": 958.068,
-              "end": 958.188,
-              "confidence": 0.84
+              "start": 958.048,
+              "end": 958.168,
+              "confidence": 0.8
             },
             {
               "word": " waarom",
               "start": 958.448,
               "end": 958.628,
-              "confidence": 0.89
+              "confidence": 0.86
             },
             {
               "word": " heb",
@@ -18979,19 +18979,19 @@
               "word": " ik",
               "start": 958.749,
               "end": 958.848,
-              "confidence": 0.51
+              "confidence": 0.5
             },
             {
               "word": " het",
               "start": 958.849,
               "end": 958.928,
-              "confidence": 0.02
+              "confidence": 0.03
             },
             {
               "word": " toen?",
               "start": 958.929,
-              "end": 959.129,
-              "confidence": 0.92
+              "end": 959.149,
+              "confidence": 0.96
             }
           ]
         },
@@ -18999,8 +18999,8 @@
           "text": "Niet een beetje meer aangekocht.",
           "language": "nl",
           "start": 959.538,
-          "end": 961.48,
-          "confidence": 0.382,
+          "end": 960.919,
+          "confidence": 0.36000000000000004,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19008,54 +19008,100 @@
               "word": " Niet",
               "start": 959.538,
               "end": 959.658,
-              "confidence": 0.19
+              "confidence": 0.18
             },
             {
               "word": " een",
               "start": 959.659,
               "end": 959.738,
-              "confidence": 0.34
+              "confidence": 0.32
             },
             {
               "word": " beetje",
               "start": 959.739,
               "end": 959.938,
-              "confidence": 0.28
+              "confidence": 0.27
             },
             {
               "word": " meer",
               "start": 960.018,
               "end": 960.219,
-              "confidence": 0.69
+              "confidence": 0.64
             },
             {
               "word": " aangekocht.",
               "start": 960.439,
-              "end": 961.48,
-              "confidence": 0.41
+              "end": 960.919,
+              "confidence": 0.39
             }
           ]
         },
         {
-          "text": "Typisch dat je niet alleen bent.",
+          "text": "Ja,",
           "language": "nl",
-          "start": 961.5,
-          "end": 962.901,
-          "confidence": 0.48333333333333334,
+          "start": 960.92,
+          "end": 960.999,
+          "confidence": 0.05,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Typisch",
-              "start": 961.5,
-              "end": 961.9,
-              "confidence": 0.24
-            },
+              "word": " Ja,",
+              "start": 960.92,
+              "end": 960.999,
+              "confidence": 0.05
+            }
+          ]
+        },
+        {
+          "text": "dat is het typische.",
+          "language": "nl",
+          "start": 961,
+          "end": 961.96,
+          "confidence": 0.075,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
             {
               "word": " dat",
+              "start": 961,
+              "end": 961.059,
+              "confidence": 0
+            },
+            {
+              "word": " is",
+              "start": 961.06,
+              "end": 961.139,
+              "confidence": 0.03
+            },
+            {
+              "word": " het",
+              "start": 961.14,
+              "end": 961.48,
+              "confidence": 0.02
+            },
+            {
+              "word": " typische.",
+              "start": 961.5,
+              "end": 961.96,
+              "confidence": 0.25
+            }
+          ]
+        },
+        {
+          "text": "Dat je niet alleen bent.",
+          "language": "nl",
+          "start": 962.12,
+          "end": 962.881,
+          "confidence": 0.5279999999999999,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
+            {
+              "word": " Dat",
               "start": 962.12,
               "end": 962.24,
-              "confidence": 0.36
+              "confidence": 0.37
             },
             {
               "word": " je",
@@ -19067,19 +19113,19 @@
               "word": " niet",
               "start": 962.301,
               "end": 962.4,
-              "confidence": 0.56
+              "confidence": 0.57
             },
             {
               "word": " alleen",
               "start": 962.401,
               "end": 962.64,
-              "confidence": 0.88
+              "confidence": 0.87
             },
             {
               "word": " bent.",
               "start": 962.68,
-              "end": 962.901,
-              "confidence": 0.77
+              "end": 962.881,
+              "confidence": 0.74
             }
           ]
         },
@@ -19088,7 +19134,7 @@
           "language": "nl",
           "start": 964.562,
           "end": 969.005,
-          "confidence": 0.890909090909091,
+          "confidence": 0.9,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19096,19 +19142,19 @@
               "word": " Bitcoin",
               "start": 964.562,
               "end": 965.002,
-              "confidence": 0.57
+              "confidence": 0.62
             },
             {
               "word": " en",
               "start": 965.142,
               "end": 965.262,
-              "confidence": 0.9
+              "confidence": 0.94
             },
             {
               "word": " andere",
               "start": 965.423,
               "end": 965.663,
-              "confidence": 0.94
+              "confidence": 0.96
             },
             {
               "word": " beursontboezemingen",
@@ -19156,7 +19202,7 @@
               "word": " Beursvalleurs.",
               "start": 968.325,
               "end": 969.005,
-              "confidence": 0.67
+              "confidence": 0.66
             }
           ]
         },
@@ -19165,7 +19211,7 @@
           "language": "nl",
           "start": 969.646,
           "end": 969.846,
-          "confidence": 0.08,
+          "confidence": 0.1,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19173,7 +19219,7 @@
               "word": " Voil\u00e0,",
               "start": 969.646,
               "end": 969.846,
-              "confidence": 0.08
+              "confidence": 0.1
             }
           ]
         },
@@ -19182,7 +19228,7 @@
           "language": "nl",
           "start": 970.086,
           "end": 970.847,
-          "confidence": 0.9933333333333333,
+          "confidence": 0.9733333333333333,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19190,7 +19236,7 @@
               "word": " helemaal",
               "start": 970.086,
               "end": 970.427,
-              "confidence": 0.99
+              "confidence": 0.93
             },
             {
               "word": " klaar",
@@ -19211,7 +19257,7 @@
           "language": "nl",
           "start": 970.927,
           "end": 972.528,
-          "confidence": 0.9457142857142857,
+          "confidence": 0.9457142857142856,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19231,7 +19277,7 @@
               "word": " fijne",
               "start": 971.267,
               "end": 971.567,
-              "confidence": 0.71
+              "confidence": 0.69
             },
             {
               "word": " dag",
@@ -19249,13 +19295,13 @@
               "word": " tot",
               "start": 972.109,
               "end": 972.208,
-              "confidence": 0.96
+              "confidence": 0.97
             },
             {
               "word": " morgen.",
               "start": 972.248,
               "end": 972.528,
-              "confidence": 0.97
+              "confidence": 0.98
             }
           ]
         },
@@ -19264,7 +19310,7 @@
           "language": "nl",
           "start": 975.931,
           "end": 978.653,
-          "confidence": 0.8471428571428571,
+          "confidence": 0.8600000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19272,31 +19318,31 @@
               "word": " Dit",
               "start": 975.931,
               "end": 976.151,
-              "confidence": 0.89
+              "confidence": 0.91
             },
             {
               "word": " was",
               "start": 976.391,
               "end": 976.551,
-              "confidence": 0.91
+              "confidence": 0.93
             },
             {
               "word": " De",
               "start": 976.591,
               "end": 976.711,
-              "confidence": 0.9
+              "confidence": 0.92
             },
             {
               "word": " Zeven",
-              "start": 976.771,
+              "start": 976.751,
               "end": 977.152,
-              "confidence": 0.8
+              "confidence": 0.83
             },
             {
               "word": " met",
               "start": 977.692,
               "end": 977.852,
-              "confidence": 0.92
+              "confidence": 0.94
             },
             {
               "word": " Bert",
@@ -19308,7 +19354,7 @@
               "word": " Rijmen.",
               "start": 978.313,
               "end": 978.653,
-              "confidence": 0.6
+              "confidence": 0.58
             }
           ]
         },
@@ -19352,7 +19398,7 @@
           "language": "nl",
           "start": 981.455,
           "end": 982.476,
-          "confidence": 0.974,
+          "confidence": 0.9780000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19372,7 +19418,7 @@
               "word": " we",
               "start": 981.957,
               "end": 982.056,
-              "confidence": 0.97
+              "confidence": 0.98
             },
             {
               "word": " er",
@@ -19384,7 +19430,7 @@
               "word": " weer.",
               "start": 982.196,
               "end": 982.476,
-              "confidence": 0.95
+              "confidence": 0.96
             }
           ]
         },
@@ -19393,7 +19439,7 @@
           "language": "nl",
           "start": 982.956,
           "end": 983.317,
-          "confidence": 0.71,
+          "confidence": 0.675,
           "channel": 0,
           "speaker": 0,
           "words": [
@@ -19401,170 +19447,236 @@
               "word": " Tot",
               "start": 982.956,
               "end": 983.096,
-              "confidence": 0.65
+              "confidence": 0.62
             },
             {
               "word": " dan.",
               "start": 983.136,
               "end": 983.317,
-              "confidence": 0.77
+              "confidence": 0.73
             }
           ]
         },
         {
-          "text": "E\u00e9n iPhone voor oma?",
+          "text": "E\u00e9n iPad om de kids bezig te houden op vakantie?",
           "language": "nl",
-          "start": 990.386,
-          "end": 991.527,
-          "confidence": 0.7949999999999999,
+          "start": 990.342,
+          "end": 992.764,
+          "confidence": 0.951,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " E\u00e9n",
-              "start": 990.386,
-              "end": 990.526,
-              "confidence": 0.39
+              "start": 990.342,
+              "end": 990.482,
+              "confidence": 0.89
             },
             {
-              "word": " iPhone",
-              "start": 990.746,
-              "end": 991.027,
-              "confidence": 0.83
+              "word": " iPad",
+              "start": 990.702,
+              "end": 990.943,
+              "confidence": 0.74
             },
             {
-              "word": " voor",
-              "start": 991.067,
-              "end": 991.207,
-              "confidence": 0.99
+              "word": " om",
+              "start": 990.944,
+              "end": 991.063,
+              "confidence": 1
             },
             {
-              "word": " oma?",
-              "start": 991.327,
-              "end": 991.527,
-              "confidence": 0.97
+              "word": " de",
+              "start": 991.064,
+              "end": 991.163,
+              "confidence": 1
+            },
+            {
+              "word": " kids",
+              "start": 991.203,
+              "end": 991.403,
+              "confidence": 0.98
+            },
+            {
+              "word": " bezig",
+              "start": 991.443,
+              "end": 991.743,
+              "confidence": 1
+            },
+            {
+              "word": " te",
+              "start": 991.763,
+              "end": 991.883,
+              "confidence": 1
+            },
+            {
+              "word": " houden",
+              "start": 991.903,
+              "end": 992.144,
+              "confidence": 0.96
+            },
+            {
+              "word": " op",
+              "start": 992.145,
+              "end": 992.264,
+              "confidence": 1
+            },
+            {
+              "word": " vakantie?",
+              "start": 992.284,
+              "end": 992.764,
+              "confidence": 0.94
             }
           ]
         },
         {
           "text": "Dat is snel gekocht.",
           "language": "nl",
-          "start": 992.067,
-          "end": 993.048,
-          "confidence": 0.9675,
+          "start": 993.264,
+          "end": 994.325,
+          "confidence": 0.9975,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dat",
-              "start": 992.067,
-              "end": 992.228,
+              "start": 993.264,
+              "end": 993.405,
               "confidence": 1
             },
             {
               "word": " is",
-              "start": 992.229,
-              "end": 992.348,
-              "confidence": 0.96
+              "start": 993.425,
+              "end": 993.545,
+              "confidence": 1
             },
             {
               "word": " snel",
-              "start": 992.368,
-              "end": 992.568,
-              "confidence": 0.91
+              "start": 993.585,
+              "end": 993.825,
+              "confidence": 1
             },
             {
               "word": " gekocht.",
-              "start": 992.628,
-              "end": 993.048,
-              "confidence": 1
+              "start": 993.885,
+              "end": 994.325,
+              "confidence": 0.99
             }
           ]
         },
         {
-          "text": "Honderden iPhones van je medewerkers beheren?",
+          "text": "Elke leerling in de klas met een iPad aan de slag?",
           "language": "nl",
-          "start": 993.529,
-          "end": 995.85,
-          "confidence": 0.9383333333333335,
+          "start": 994.806,
+          "end": 997.147,
+          "confidence": 0.9654545454545453,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Honderden",
-              "start": 993.529,
-              "end": 993.989,
-              "confidence": 0.8
-            },
-            {
-              "word": " iPhones",
-              "start": 994.189,
-              "end": 994.569,
-              "confidence": 0.86
-            },
-            {
-              "word": " van",
-              "start": 994.589,
-              "end": 994.709,
-              "confidence": 0.99
-            },
-            {
-              "word": " je",
-              "start": 994.71,
-              "end": 994.83,
+              "word": " Elke",
+              "start": 994.806,
+              "end": 995.046,
               "confidence": 1
             },
             {
-              "word": " medewerkers",
-              "start": 994.87,
-              "end": 995.43,
+              "word": " leerling",
+              "start": 995.106,
+              "end": 995.446,
+              "confidence": 0.9
+            },
+            {
+              "word": " in",
+              "start": 995.466,
+              "end": 995.586,
               "confidence": 0.99
             },
             {
-              "word": " beheren?",
-              "start": 995.47,
-              "end": 995.85,
-              "confidence": 0.99
+              "word": " de",
+              "start": 995.587,
+              "end": 995.686,
+              "confidence": 1
+            },
+            {
+              "word": " klas",
+              "start": 995.687,
+              "end": 995.926,
+              "confidence": 1
+            },
+            {
+              "word": " met",
+              "start": 995.967,
+              "end": 996.087,
+              "confidence": 1
+            },
+            {
+              "word": " een",
+              "start": 996.088,
+              "end": 996.207,
+              "confidence": 1
+            },
+            {
+              "word": " iPad",
+              "start": 996.367,
+              "end": 996.587,
+              "confidence": 0.73
+            },
+            {
+              "word": " aan",
+              "start": 996.647,
+              "end": 996.767,
+              "confidence": 1
+            },
+            {
+              "word": " de",
+              "start": 996.768,
+              "end": 996.867,
+              "confidence": 1
+            },
+            {
+              "word": " slag?",
+              "start": 996.887,
+              "end": 997.147,
+              "confidence": 1
             }
           ]
         },
         {
           "text": "Dat vraagt een andere aanpak.",
           "language": "nl",
-          "start": 996.311,
-          "end": 997.732,
-          "confidence": 0.9720000000000001,
+          "start": 997.548,
+          "end": 998.929,
+          "confidence": 0.9799999999999999,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dat",
-              "start": 996.311,
-              "end": 996.491,
+              "start": 997.548,
+              "end": 997.708,
               "confidence": 1
             },
             {
               "word": " vraagt",
-              "start": 996.531,
-              "end": 996.811,
-              "confidence": 0.96
+              "start": 997.748,
+              "end": 998.028,
+              "confidence": 0.98
             },
             {
               "word": " een",
-              "start": 996.812,
-              "end": 996.931,
+              "start": 998.029,
+              "end": 998.148,
               "confidence": 0.99
             },
             {
               "word": " andere",
-              "start": 997.011,
-              "end": 997.271,
-              "confidence": 0.98
+              "start": 998.228,
+              "end": 998.468,
+              "confidence": 1
             },
             {
               "word": " aanpak.",
-              "start": 997.352,
-              "end": 997.732,
+              "start": 998.569,
+              "end": 998.929,
               "confidence": 0.93
             }
           ]
@@ -19572,462 +19684,485 @@
         {
           "text": "Daarom kan je voor alles van Apple bij Lab9 en Lab9",
           "language": "nl",
-          "start": 998.192,
-          "end": 1001.195,
-          "confidence": 0.9154545454545455,
+          "start": 999.489,
+          "end": 1002.351,
+          "confidence": 0.9154545454545456,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Daarom",
-              "start": 998.192,
-              "end": 998.472,
-              "confidence": 1
+              "start": 999.489,
+              "end": 999.81,
+              "confidence": 0.98
             },
             {
               "word": " kan",
-              "start": 998.532,
-              "end": 998.653,
-              "confidence": 0.9
+              "start": 999.85,
+              "end": 999.97,
+              "confidence": 1
             },
             {
               "word": " je",
-              "start": 998.673,
-              "end": 998.753,
+              "start": 999.99,
+              "end": 1000.09,
               "confidence": 1
             },
             {
               "word": " voor",
-              "start": 998.773,
-              "end": 998.913,
-              "confidence": 0.97
+              "start": 1000.11,
+              "end": 1000.23,
+              "confidence": 1
             },
             {
               "word": " alles",
-              "start": 998.993,
-              "end": 999.213,
+              "start": 1000.31,
+              "end": 1000.53,
               "confidence": 1
             },
             {
               "word": " van",
-              "start": 999.233,
-              "end": 999.353,
+              "start": 1000.55,
+              "end": 1000.67,
               "confidence": 1
             },
             {
               "word": " Apple",
-              "start": 999.413,
-              "end": 999.693,
+              "start": 1000.75,
+              "end": 1001.01,
               "confidence": 0.91
             },
             {
               "word": " bij",
-              "start": 999.813,
-              "end": 999.954,
+              "start": 1001.111,
+              "end": 1001.231,
               "confidence": 1
             },
             {
               "word": " Lab9",
-              "start": 1000.054,
-              "end": 1000.214,
-              "confidence": 0.67
+              "start": 1001.331,
+              "end": 1001.491,
+              "confidence": 0.63
             },
             {
               "word": " en",
-              "start": 1000.774,
-              "end": 1000.894,
-              "confidence": 0.96
+              "start": 1002.011,
+              "end": 1002.131,
+              "confidence": 0.97
             },
             {
               "word": " Lab9",
-              "start": 1001.014,
-              "end": 1001.195,
-              "confidence": 0.66
+              "start": 1002.191,
+              "end": 1002.351,
+              "confidence": 0.58
             }
           ]
         },
         {
           "text": "Pro terecht.",
           "language": "nl",
-          "start": 1001.575,
-          "end": 1002.215,
-          "confidence": 0.98,
+          "start": 1002.712,
+          "end": 1003.332,
+          "confidence": 0.885,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Pro",
-              "start": 1001.575,
-              "end": 1001.735,
-              "confidence": 0.99
+              "start": 1002.712,
+              "end": 1002.852,
+              "confidence": 0.97
             },
             {
               "word": " terecht.",
-              "start": 1001.835,
-              "end": 1002.215,
-              "confidence": 0.97
+              "start": 1002.972,
+              "end": 1003.332,
+              "confidence": 0.8
             }
           ]
         },
         {
-          "text": "Bij Lab9 krijg je advies in mensentaal en tips waar zelfs oma mee aan de slag kan.",
+          "text": "Als de iPad op vakantie leert te zwemmen,",
           "language": "nl",
-          "start": 1002.676,
-          "end": 1007.459,
-          "confidence": 0.95,
+          "start": 1003.773,
+          "end": 1005.894,
+          "confidence": 0.90125,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Bij",
-              "start": 1002.676,
-              "end": 1002.796,
-              "confidence": 0.98
-            },
-            {
-              "word": " Lab9",
-              "start": 1002.876,
-              "end": 1003.056,
-              "confidence": 0.64
-            },
-            {
-              "word": " krijg",
-              "start": 1003.436,
-              "end": 1003.656,
-              "confidence": 0.98
-            },
-            {
-              "word": " je",
-              "start": 1003.657,
-              "end": 1003.777,
-              "confidence": 0.96
-            },
-            {
-              "word": " advies",
-              "start": 1003.837,
-              "end": 1004.197,
+              "word": " Als",
+              "start": 1003.773,
+              "end": 1003.933,
               "confidence": 0.99
-            },
-            {
-              "word": " in",
-              "start": 1004.257,
-              "end": 1004.377,
-              "confidence": 0.99
-            },
-            {
-              "word": " mensentaal",
-              "start": 1004.397,
-              "end": 1004.977,
-              "confidence": 0.96
-            },
-            {
-              "word": " en",
-              "start": 1005.238,
-              "end": 1005.358,
-              "confidence": 1
-            },
-            {
-              "word": " tips",
-              "start": 1005.518,
-              "end": 1005.758,
-              "confidence": 0.96
-            },
-            {
-              "word": " waar",
-              "start": 1005.798,
-              "end": 1005.958,
-              "confidence": 0.99
-            },
-            {
-              "word": " zelfs",
-              "start": 1006.038,
-              "end": 1006.279,
-              "confidence": 1
-            },
-            {
-              "word": " oma",
-              "start": 1006.399,
-              "end": 1006.599,
-              "confidence": 0.99
-            },
-            {
-              "word": " mee",
-              "start": 1006.639,
-              "end": 1006.759,
-              "confidence": 0.84
-            },
-            {
-              "word": " aan",
-              "start": 1006.779,
-              "end": 1006.899,
-              "confidence": 0.87
             },
             {
               "word": " de",
-              "start": 1006.9,
-              "end": 1006.979,
+              "start": 1003.934,
+              "end": 1004.053,
               "confidence": 1
             },
             {
-              "word": " slag",
-              "start": 1006.999,
-              "end": 1007.239,
+              "word": " iPad",
+              "start": 1004.253,
+              "end": 1004.473,
+              "confidence": 0.62
+            },
+            {
+              "word": " op",
+              "start": 1004.513,
+              "end": 1004.633,
               "confidence": 1
             },
             {
-              "word": " kan.",
-              "start": 1007.299,
-              "end": 1007.459,
-              "confidence": 1
+              "word": " vakantie",
+              "start": 1004.653,
+              "end": 1005.114,
+              "confidence": 0.97
+            },
+            {
+              "word": " leert",
+              "start": 1005.154,
+              "end": 1005.354,
+              "confidence": 0.8
+            },
+            {
+              "word": " te",
+              "start": 1005.355,
+              "end": 1005.474,
+              "confidence": 0.84
+            },
+            {
+              "word": " zwemmen,",
+              "start": 1005.494,
+              "end": 1005.894,
+              "confidence": 0.99
             }
           ]
         },
         {
-          "text": "Maar als het complexer wordt met netwerken,",
+          "text": "kan je hem bij Lab9 vlot laten herstellen.",
           "language": "nl",
-          "start": 1007.94,
-          "end": 1010.162,
-          "confidence": 0.9657142857142856,
+          "start": 1006.295,
+          "end": 1008.616,
+          "confidence": 0.80125,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " Maar",
-              "start": 1007.94,
-              "end": 1008.1,
-              "confidence": 0.99
-            },
-            {
-              "word": " als",
-              "start": 1008.14,
-              "end": 1008.26,
+              "word": " kan",
+              "start": 1006.295,
+              "end": 1006.435,
               "confidence": 1
             },
             {
-              "word": " het",
-              "start": 1008.261,
-              "end": 1008.38,
-              "confidence": 0.93
+              "word": " je",
+              "start": 1006.436,
+              "end": 1006.535,
+              "confidence": 0.97
             },
             {
-              "word": " complexer",
-              "start": 1008.42,
-              "end": 1008.961,
+              "word": " hem",
+              "start": 1006.536,
+              "end": 1006.615,
+              "confidence": 0.01
+            },
+            {
+              "word": " bij",
+              "start": 1006.616,
+              "end": 1006.735,
               "confidence": 0.98
             },
             {
-              "word": " wordt",
-              "start": 1009.001,
-              "end": 1009.221,
-              "confidence": 0.87
+              "word": " Lab9",
+              "start": 1006.795,
+              "end": 1006.955,
+              "confidence": 0.59
             },
             {
-              "word": " met",
-              "start": 1009.401,
-              "end": 1009.521,
-              "confidence": 1
-            },
-            {
-              "word": " netwerken,",
-              "start": 1009.601,
-              "end": 1010.162,
+              "word": " vlot",
+              "start": 1007.476,
+              "end": 1007.716,
               "confidence": 0.99
-            }
-          ]
-        },
-        {
-          "text": "toestellen en integraties,",
-          "language": "nl",
-          "start": 1010.302,
-          "end": 1011.703,
-          "confidence": 0.9833333333333334,
-          "channel": 0,
-          "speaker": 0,
-          "words": [
+            },
             {
-              "word": " toestellen",
-              "start": 1010.302,
-              "end": 1010.762,
+              "word": " laten",
+              "start": 1007.796,
+              "end": 1008.076,
+              "confidence": 0.91
+            },
+            {
+              "word": " herstellen.",
+              "start": 1008.096,
+              "end": 1008.616,
               "confidence": 0.96
-            },
-            {
-              "word": " en",
-              "start": 1010.782,
-              "end": 1010.902,
-              "confidence": 1
-            },
-            {
-              "word": " integraties,",
-              "start": 1010.962,
-              "end": 1011.703,
-              "confidence": 0.99
             }
           ]
         },
         {
-          "text": "dan schiet Lab9",
+          "text": "Pakt jouw schooldigitalisering graag slim aan?",
           "language": "nl",
-          "start": 1011.983,
-          "end": 1012.663,
-          "confidence": 0.7133333333333333,
+          "start": 1009.017,
+          "end": 1011.659,
+          "confidence": 0.9516666666666668,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " dan",
-              "start": 1011.983,
-              "end": 1012.143,
+              "word": " Pakt",
+              "start": 1009.017,
+              "end": 1009.197,
+              "confidence": 0.99
+            },
+            {
+              "word": " jouw",
+              "start": 1009.277,
+              "end": 1009.437,
+              "confidence": 0.81
+            },
+            {
+              "word": " schooldigitalisering",
+              "start": 1009.517,
+              "end": 1010.718,
+              "confidence": 0.94
+            },
+            {
+              "word": " graag",
+              "start": 1010.758,
+              "end": 1011.018,
+              "confidence": 0.99
+            },
+            {
+              "word": " slim",
+              "start": 1011.098,
+              "end": 1011.339,
               "confidence": 1
             },
             {
-              "word": " schiet",
-              "start": 1012.223,
-              "end": 1012.443,
-              "confidence": 0.43
-            },
+              "word": " aan?",
+              "start": 1011.479,
+              "end": 1011.659,
+              "confidence": 0.98
+            }
+          ]
+        },
+        {
+          "text": "Lab9",
+          "language": "nl",
+          "start": 1011.959,
+          "end": 1012.119,
+          "confidence": 0.51,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
             {
               "word": " Lab9",
-              "start": 1012.503,
-              "end": 1012.663,
-              "confidence": 0.71
+              "start": 1011.959,
+              "end": 1012.119,
+              "confidence": 0.51
             }
           ]
         },
         {
-          "text": "Pro in actie.",
+          "text": "Pro helpt je met een plan en toestellen die vele jaren meegaan.",
           "language": "nl",
-          "start": 1013.084,
-          "end": 1014.045,
-          "confidence": 0.9333333333333332,
+          "start": 1012.499,
+          "end": 1016.222,
+          "confidence": 0.9550000000000001,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Pro",
-              "start": 1013.084,
-              "end": 1013.244,
+              "start": 1012.499,
+              "end": 1012.68,
+              "confidence": 0.89
+            },
+            {
+              "word": " helpt",
+              "start": 1012.86,
+              "end": 1013.16,
+              "confidence": 0.78
+            },
+            {
+              "word": " je",
+              "start": 1013.161,
+              "end": 1013.28,
               "confidence": 0.98
             },
             {
-              "word": " in",
-              "start": 1013.444,
-              "end": 1013.564,
+              "word": " met",
+              "start": 1013.3,
+              "end": 1013.42,
+              "confidence": 1
+            },
+            {
+              "word": " een",
+              "start": 1013.44,
+              "end": 1013.56,
+              "confidence": 1
+            },
+            {
+              "word": " plan",
+              "start": 1013.6,
+              "end": 1013.84,
+              "confidence": 1
+            },
+            {
+              "word": " en",
+              "start": 1014.061,
+              "end": 1014.181,
+              "confidence": 0.84
+            },
+            {
+              "word": " toestellen",
+              "start": 1014.241,
+              "end": 1014.741,
               "confidence": 0.99
             },
             {
-              "word": " actie.",
-              "start": 1013.704,
-              "end": 1014.045,
-              "confidence": 0.83
+              "word": " die",
+              "start": 1014.781,
+              "end": 1014.901,
+              "confidence": 1
+            },
+            {
+              "word": " vele",
+              "start": 1014.961,
+              "end": 1015.282,
+              "confidence": 1
+            },
+            {
+              "word": " jaren",
+              "start": 1015.342,
+              "end": 1015.662,
+              "confidence": 0.99
+            },
+            {
+              "word": " meegaan.",
+              "start": 1015.702,
+              "end": 1016.222,
+              "confidence": 0.99
             }
           ]
         },
         {
-          "text": "Lab9 en Lab9 Pro.",
+          "text": "Lab9 en Lab9",
           "language": "nl",
-          "start": 1014.585,
-          "end": 1016.126,
-          "confidence": 0.8200000000000001,
+          "start": 1016.843,
+          "end": 1017.924,
+          "confidence": 0.5866666666666667,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Lab9",
-              "start": 1014.585,
-              "end": 1014.745,
-              "confidence": 0.65
+              "start": 1016.843,
+              "end": 1017.023,
+              "confidence": 0.38
             },
             {
               "word": " en",
-              "start": 1015.286,
-              "end": 1015.406,
-              "confidence": 0.98
+              "start": 1017.543,
+              "end": 1017.663,
+              "confidence": 0.87
             },
             {
               "word": " Lab9",
-              "start": 1015.506,
-              "end": 1015.666,
-              "confidence": 0.66
-            },
+              "start": 1017.764,
+              "end": 1017.924,
+              "confidence": 0.51
+            }
+          ]
+        },
+        {
+          "text": "Pro.",
+          "language": "nl",
+          "start": 1018.264,
+          "end": 1018.404,
+          "confidence": 0.76,
+          "channel": 0,
+          "speaker": 0,
+          "words": [
             {
               "word": " Pro.",
-              "start": 1015.986,
-              "end": 1016.126,
-              "confidence": 0.99
+              "start": 1018.264,
+              "end": 1018.404,
+              "confidence": 0.76
             }
           ]
         },
         {
           "text": "Dezelfde Apple-expertise,",
           "language": "nl",
-          "start": 1016.687,
-          "end": 1018.168,
-          "confidence": 0.97,
+          "start": 1018.87,
+          "end": 1020.23,
+          "confidence": 0.455,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Dezelfde",
-              "start": 1016.687,
-              "end": 1017.207,
-              "confidence": 1
+              "start": 1018.87,
+              "end": 1019.31,
+              "confidence": 0.54
             },
             {
               "word": " Apple-expertise,",
-              "start": 1017.287,
-              "end": 1018.168,
-              "confidence": 0.94
+              "start": 1019.37,
+              "end": 1020.23,
+              "confidence": 0.37
             }
           ]
         },
         {
           "text": "een andere aanpak.",
           "language": "nl",
-          "start": 1018.448,
-          "end": 1019.449,
-          "confidence": 0.9700000000000001,
+          "start": 1020.47,
+          "end": 1021.43,
+          "confidence": 0.5666666666666667,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " een",
-              "start": 1018.448,
-              "end": 1018.568,
-              "confidence": 0.98
+              "start": 1020.47,
+              "end": 1020.59,
+              "confidence": 0.36
             },
             {
               "word": " andere",
-              "start": 1018.688,
-              "end": 1018.968,
-              "confidence": 0.93
+              "start": 1020.71,
+              "end": 1020.97,
+              "confidence": 0.62
             },
             {
               "word": " aanpak.",
-              "start": 1019.068,
-              "end": 1019.449,
-              "confidence": 1
+              "start": 1021.07,
+              "end": 1021.43,
+              "confidence": 0.72
             }
           ]
         },
         {
           "text": "Exclusieve inzichten,",
           "language": "nl",
-          "start": 1020.434,
-          "end": 1021.615,
-          "confidence": 0.955,
+          "start": 1022.45,
+          "end": 1023.65,
+          "confidence": 0.95,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Exclusieve",
-              "start": 1020.434,
-              "end": 1021.015,
-              "confidence": 0.97
+              "start": 1022.45,
+              "end": 1023.05,
+              "confidence": 0.96
             },
             {
               "word": " inzichten,",
-              "start": 1021.115,
-              "end": 1021.615,
+              "start": 1023.15,
+              "end": 1023.65,
               "confidence": 0.94
             }
           ]
@@ -20035,63 +20170,63 @@
         {
           "text": "verborgen strategie\u00ebn,",
           "language": "nl",
-          "start": 1021.775,
-          "end": 1022.996,
-          "confidence": 0.96,
+          "start": 1023.81,
+          "end": 1025.03,
+          "confidence": 0.925,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " verborgen",
-              "start": 1021.775,
-              "end": 1022.316,
-              "confidence": 0.96
+              "start": 1023.81,
+              "end": 1024.35,
+              "confidence": 0.94
             },
             {
               "word": " strategie\u00ebn,",
-              "start": 1022.376,
-              "end": 1022.996,
-              "confidence": 0.96
+              "start": 1024.41,
+              "end": 1025.03,
+              "confidence": 0.91
             }
           ]
         },
         {
           "text": "de toekomst van jouw sector.",
           "language": "nl",
-          "start": 1023.096,
-          "end": 1024.617,
-          "confidence": 0.95,
+          "start": 1025.13,
+          "end": 1026.67,
+          "confidence": 0.9559999999999998,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " de",
-              "start": 1023.096,
-              "end": 1023.216,
+              "start": 1025.13,
+              "end": 1025.25,
               "confidence": 0.99
             },
             {
               "word": " toekomst",
-              "start": 1023.336,
-              "end": 1023.777,
-              "confidence": 0.98
-            },
-            {
-              "word": " van",
-              "start": 1023.797,
-              "end": 1023.917,
+              "start": 1025.37,
+              "end": 1025.81,
               "confidence": 1
             },
             {
+              "word": " van",
+              "start": 1025.83,
+              "end": 1025.95,
+              "confidence": 0.99
+            },
+            {
               "word": " jouw",
-              "start": 1023.957,
-              "end": 1024.097,
-              "confidence": 0.8
+              "start": 1025.99,
+              "end": 1026.13,
+              "confidence": 0.82
             },
             {
               "word": " sector.",
-              "start": 1024.217,
-              "end": 1024.617,
+              "start": 1026.25,
+              "end": 1026.67,
               "confidence": 0.98
             }
           ]
@@ -20099,64 +20234,64 @@
         {
           "text": "Wat weten jouw concurrenten dat jij nog niet weet?",
           "language": "nl",
-          "start": 1024.798,
-          "end": 1027.46,
-          "confidence": 0.9544444444444444,
+          "start": 1026.83,
+          "end": 1029.49,
+          "confidence": 0.941111111111111,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Wat",
-              "start": 1024.798,
-              "end": 1024.958,
+              "start": 1026.83,
+              "end": 1026.99,
               "confidence": 1
             },
             {
               "word": " weten",
-              "start": 1025.038,
-              "end": 1025.318,
-              "confidence": 0.97
+              "start": 1027.07,
+              "end": 1027.35,
+              "confidence": 0.94
             },
             {
               "word": " jouw",
-              "start": 1025.358,
-              "end": 1025.518,
-              "confidence": 0.79
+              "start": 1027.39,
+              "end": 1027.55,
+              "confidence": 0.78
             },
             {
               "word": " concurrenten",
-              "start": 1025.578,
-              "end": 1026.199,
+              "start": 1027.61,
+              "end": 1028.23,
               "confidence": 0.98
             },
             {
               "word": " dat",
-              "start": 1026.459,
-              "end": 1026.579,
+              "start": 1028.49,
+              "end": 1028.61,
               "confidence": 1
             },
             {
               "word": " jij",
-              "start": 1026.619,
-              "end": 1026.739,
+              "start": 1028.65,
+              "end": 1028.77,
               "confidence": 0.99
             },
             {
               "word": " nog",
-              "start": 1026.779,
-              "end": 1026.899,
-              "confidence": 1
+              "start": 1028.81,
+              "end": 1028.93,
+              "confidence": 0.92
             },
             {
               "word": " niet",
-              "start": 1026.979,
-              "end": 1027.159,
+              "start": 1029.01,
+              "end": 1029.19,
               "confidence": 1
             },
             {
               "word": " weet?",
-              "start": 1027.219,
-              "end": 1027.46,
+              "start": 1029.25,
+              "end": 1029.49,
               "confidence": 0.86
             }
           ]
@@ -20164,511 +20299,506 @@
         {
           "text": "Welke trends sluipen de markt binnen,",
           "language": "nl",
-          "start": 1027.7,
-          "end": 1029.841,
-          "confidence": 0.9500000000000001,
+          "start": 1029.73,
+          "end": 1031.87,
+          "confidence": 0.9466666666666667,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Welke",
-              "start": 1027.7,
-              "end": 1027.94,
+              "start": 1029.73,
+              "end": 1029.97,
               "confidence": 1
             },
             {
               "word": " trends",
-              "start": 1028.06,
-              "end": 1028.42,
-              "confidence": 0.85
+              "start": 1030.09,
+              "end": 1030.45,
+              "confidence": 0.84
             },
             {
               "word": " sluipen",
-              "start": 1028.641,
-              "end": 1029.061,
-              "confidence": 1
+              "start": 1030.67,
+              "end": 1031.09,
+              "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 1029.062,
-              "end": 1029.181,
+              "start": 1031.091,
+              "end": 1031.21,
               "confidence": 0.99
             },
             {
               "word": " markt",
-              "start": 1029.281,
-              "end": 1029.561,
-              "confidence": 0.91
+              "start": 1031.31,
+              "end": 1031.57,
+              "confidence": 0.89
             },
             {
               "word": " binnen,",
-              "start": 1029.601,
-              "end": 1029.841,
-              "confidence": 0.95
+              "start": 1031.63,
+              "end": 1031.87,
+              "confidence": 0.97
             }
           ]
         },
         {
           "text": "hier en in het buitenland?",
           "language": "nl",
-          "start": 1030.202,
-          "end": 1031.663,
-          "confidence": 0.9639999999999999,
+          "start": 1032.23,
+          "end": 1033.69,
+          "confidence": 0.99,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " hier",
-              "start": 1030.202,
-              "end": 1030.482,
+              "start": 1032.23,
+              "end": 1032.51,
               "confidence": 1
             },
             {
               "word": " en",
-              "start": 1030.762,
-              "end": 1030.882,
-              "confidence": 0.96
+              "start": 1032.79,
+              "end": 1032.91,
+              "confidence": 0.99
             },
             {
               "word": " in",
-              "start": 1030.883,
-              "end": 1030.962,
-              "confidence": 0.94
+              "start": 1032.911,
+              "end": 1033.01,
+              "confidence": 0.99
             },
             {
               "word": " het",
-              "start": 1030.982,
-              "end": 1031.102,
-              "confidence": 0.95
+              "start": 1033.011,
+              "end": 1033.13,
+              "confidence": 0.97
             },
             {
               "word": " buitenland?",
-              "start": 1031.142,
-              "end": 1031.663,
-              "confidence": 0.97
+              "start": 1033.17,
+              "end": 1033.69,
+              "confidence": 1
             }
           ]
         },
         {
           "text": "BD is een van de grootste medisch-technologische bedrijven wereldwijd.",
           "language": "nl",
-          "start": 1031.963,
-          "end": 1035.746,
-          "confidence": 0.7766666666666667,
+          "start": 1034.01,
+          "end": 1037.77,
+          "confidence": 0.7477777777777779,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " BD",
-              "start": 1031.963,
-              "end": 1032.083,
-              "confidence": 0.51
+              "start": 1034.01,
+              "end": 1034.13,
+              "confidence": 0.5
             },
             {
               "word": " is",
-              "start": 1032.183,
-              "end": 1032.303,
-              "confidence": 0.39
+              "start": 1034.15,
+              "end": 1034.33,
+              "confidence": 0.29
             },
             {
               "word": " een",
-              "start": 1032.323,
-              "end": 1032.443,
-              "confidence": 0.66
+              "start": 1034.35,
+              "end": 1034.47,
+              "confidence": 0.63
             },
             {
               "word": " van",
-              "start": 1032.444,
-              "end": 1032.564,
-              "confidence": 0.98
+              "start": 1034.471,
+              "end": 1034.59,
+              "confidence": 0.99
             },
             {
               "word": " de",
-              "start": 1032.565,
-              "end": 1032.664,
+              "start": 1034.591,
+              "end": 1034.69,
               "confidence": 0.99
             },
             {
               "word": " grootste",
-              "start": 1032.665,
-              "end": 1033.084,
-              "confidence": 0.99
+              "start": 1034.691,
+              "end": 1035.11,
+              "confidence": 0.98
             },
             {
               "word": " medisch-technologische",
-              "start": 1033.204,
-              "end": 1034.245,
-              "confidence": 0.87
+              "start": 1035.23,
+              "end": 1036.27,
+              "confidence": 0.83
             },
             {
               "word": " bedrijven",
-              "start": 1034.705,
-              "end": 1035.126,
-              "confidence": 0.85
+              "start": 1036.73,
+              "end": 1037.17,
+              "confidence": 0.81
             },
             {
               "word": " wereldwijd.",
-              "start": 1035.206,
-              "end": 1035.746,
-              "confidence": 0.75
+              "start": 1037.23,
+              "end": 1037.77,
+              "confidence": 0.71
             }
           ]
         },
         {
           "text": "We investeren heel veel in innovatie of acquisities van innovatieve oplossingen.",
           "language": "nl",
-          "start": 1035.826,
-          "end": 1040.129,
-          "confidence": 0.8663636363636363,
+          "start": 1037.81,
+          "end": 1042.15,
+          "confidence": 0.8736363636363635,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " We",
-              "start": 1035.826,
-              "end": 1035.946,
+              "start": 1037.81,
+              "end": 1037.93,
               "confidence": 0.26
             },
             {
               "word": " investeren",
-              "start": 1035.966,
-              "end": 1036.427,
+              "start": 1037.99,
+              "end": 1038.45,
               "confidence": 0.99
             },
             {
               "word": " heel",
-              "start": 1036.467,
-              "end": 1036.627,
+              "start": 1038.49,
+              "end": 1038.65,
               "confidence": 1
             },
             {
               "word": " veel",
-              "start": 1036.667,
-              "end": 1036.807,
-              "confidence": 0.9
+              "start": 1038.69,
+              "end": 1038.83,
+              "confidence": 0.97
             },
             {
               "word": " in",
-              "start": 1036.808,
-              "end": 1036.927,
-              "confidence": 0.63
+              "start": 1038.831,
+              "end": 1038.95,
+              "confidence": 0.68
             },
             {
               "word": " innovatie",
-              "start": 1036.947,
-              "end": 1037.507,
-              "confidence": 0.91
+              "start": 1038.97,
+              "end": 1039.53,
+              "confidence": 0.98
             },
             {
               "word": " of",
-              "start": 1037.708,
-              "end": 1037.828,
+              "start": 1039.73,
+              "end": 1039.85,
               "confidence": 1
             },
             {
               "word": " acquisities",
-              "start": 1037.988,
-              "end": 1038.528,
-              "confidence": 0.86
+              "start": 1040.01,
+              "end": 1040.55,
+              "confidence": 0.84
             },
             {
               "word": " van",
-              "start": 1038.588,
-              "end": 1038.748,
+              "start": 1040.61,
+              "end": 1040.77,
               "confidence": 0.99
             },
             {
               "word": " innovatieve",
-              "start": 1038.909,
-              "end": 1039.469,
-              "confidence": 0.99
+              "start": 1040.93,
+              "end": 1041.49,
+              "confidence": 0.95
             },
             {
               "word": " oplossingen.",
-              "start": 1039.589,
-              "end": 1040.129,
-              "confidence": 1
+              "start": 1041.63,
+              "end": 1042.15,
+              "confidence": 0.95
             }
           ]
         },
         {
           "text": "Met een filosofie om naast onze klant,",
           "language": "nl",
-          "start": 1040.41,
-          "end": 1043.732,
-          "confidence": 0.8485714285714286,
+          "start": 1042.43,
+          "end": 1045.75,
+          "confidence": 0.8557142857142858,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " Met",
-              "start": 1040.41,
-              "end": 1040.53,
-              "confidence": 0.71
+              "start": 1042.43,
+              "end": 1042.55,
+              "confidence": 0.67
             },
             {
               "word": " een",
-              "start": 1040.531,
-              "end": 1040.65,
-              "confidence": 0.6
+              "start": 1042.551,
+              "end": 1042.67,
+              "confidence": 0.64
             },
             {
               "word": " filosofie",
-              "start": 1040.651,
-              "end": 1041.29,
-              "confidence": 0.98
+              "start": 1042.671,
+              "end": 1043.29,
+              "confidence": 0.94
             },
             {
               "word": " om",
-              "start": 1041.43,
-              "end": 1041.551,
-              "confidence": 0.98
+              "start": 1043.43,
+              "end": 1043.57,
+              "confidence": 0.96
             },
             {
               "word": " naast",
-              "start": 1042.071,
-              "end": 1042.531,
-              "confidence": 0.86
-            },
-            {
-              "word": " onze",
-              "start": 1042.852,
-              "end": 1043.112,
+              "start": 1044.09,
+              "end": 1044.55,
               "confidence": 0.95
             },
             {
+              "word": " onze",
+              "start": 1044.87,
+              "end": 1045.13,
+              "confidence": 0.98
+            },
+            {
               "word": " klant,",
-              "start": 1043.392,
-              "end": 1043.732,
-              "confidence": 0.86
+              "start": 1045.41,
+              "end": 1045.75,
+              "confidence": 0.85
             }
           ]
         },
         {
           "text": "naast de zorgverlener,",
           "language": "nl",
-          "start": 1043.892,
-          "end": 1045.594,
-          "confidence": 0.8233333333333333,
+          "start": 1045.91,
+          "end": 1048.31,
+          "confidence": 0.7266666666666666,
           "channel": 0,
           "speaker": 3,
           "words": [
             {
               "word": " naast",
-              "start": 1043.892,
-              "end": 1044.193,
-              "confidence": 0.91
+              "start": 1045.91,
+              "end": 1046.19,
+              "confidence": 0.92
             },
             {
               "word": " de",
-              "start": 1044.194,
-              "end": 1044.313,
-              "confidence": 0.6
+              "start": 1046.21,
+              "end": 1046.33,
+              "confidence": 0.5
             },
             {
               "word": " zorgverlener,",
-              "start": 1044.553,
-              "end": 1045.594,
-              "confidence": 0.96
+              "start": 1046.57,
+              "end": 1048.31,
+              "confidence": 0.76
             }
           ]
         },
         {
-          "text": "zorgbeslisser te zitten.",
+          "text": "beslisser te zitten en een intu\u00efnt oplossing te geven.",
           "language": "nl",
-          "start": 1046.114,
-          "end": 1047.835,
-          "confidence": 0.87,
-          "channel": 0,
-          "speaker": 3,
-          "words": [
-            {
-              "word": " zorgbeslisser",
-              "start": 1046.114,
-              "end": 1047.155,
-              "confidence": 0.87
-            },
-            {
-              "word": " te",
-              "start": 1047.375,
-              "end": 1047.495,
-              "confidence": 0.91
-            },
-            {
-              "word": " zitten.",
-              "start": 1047.535,
-              "end": 1047.835,
-              "confidence": 0.83
-            }
-          ]
-        },
-        {
-          "text": "een intu\u00efnt oplossing te geven.",
-          "language": "nl",
-          "start": 1048.906,
-          "end": 1050.51,
-          "confidence": 0.638,
+          "start": 1048.658,
+          "end": 1052.544,
+          "confidence": 0.9566666666666668,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
-              "word": " een",
-              "start": 1048.906,
-              "end": 1048.986,
-              "confidence": 0.01
-            },
-            {
-              "word": " intu\u00efnt",
-              "start": 1048.987,
-              "end": 1049.547,
-              "confidence": 0.71
-            },
-            {
-              "word": " oplossing",
-              "start": 1049.708,
-              "end": 1050.109,
-              "confidence": 0.98
+              "word": " beslisser",
+              "start": 1048.658,
+              "end": 1049.179,
+              "confidence": 0.99
             },
             {
               "word": " te",
-              "start": 1050.11,
-              "end": 1050.229,
-              "confidence": 0.95
+              "start": 1049.379,
+              "end": 1049.499,
+              "confidence": 0.99
+            },
+            {
+              "word": " zitten",
+              "start": 1049.54,
+              "end": 1049.84,
+              "confidence": 1
+            },
+            {
+              "word": " en",
+              "start": 1050.161,
+              "end": 1050.321,
+              "confidence": 0.99
+            },
+            {
+              "word": " een",
+              "start": 1050.741,
+              "end": 1050.862,
+              "confidence": 0.99
+            },
+            {
+              "word": " intu\u00efnt",
+              "start": 1051.022,
+              "end": 1051.603,
+              "confidence": 0.74
+            },
+            {
+              "word": " oplossing",
+              "start": 1051.743,
+              "end": 1052.144,
+              "confidence": 0.99
+            },
+            {
+              "word": " te",
+              "start": 1052.164,
+              "end": 1052.284,
+              "confidence": 1
             },
             {
               "word": " geven.",
-              "start": 1050.249,
-              "end": 1050.51,
-              "confidence": 0.54
+              "start": 1052.285,
+              "end": 1052.544,
+              "confidence": 0.92
             }
           ]
         },
         {
           "text": "Dus echt van begin tot het eind.",
           "language": "nl",
-          "start": 1050.53,
-          "end": 1052.494,
-          "confidence": 0.8057142857142857,
+          "start": 1052.584,
+          "end": 1054.527,
+          "confidence": 0.8914285714285715,
           "channel": 0,
-          "speaker": 3,
+          "speaker": 0,
           "words": [
             {
               "word": " Dus",
-              "start": 1050.53,
-              "end": 1050.65,
-              "confidence": 0.37
+              "start": 1052.584,
+              "end": 1052.705,
+              "confidence": 0.82
             },
             {
               "word": " echt",
-              "start": 1050.81,
-              "end": 1050.991,
-              "confidence": 0.89
+              "start": 1052.845,
+              "end": 1053.025,
+              "confidence": 0.99
             },
             {
               "word": " van",
-              "start": 1051.091,
-              "end": 1051.251,
+              "start": 1053.125,
+              "end": 1053.285,
               "confidence": 0.99
             },
             {
               "word": " begin",
-              "start": 1051.432,
-              "end": 1051.713,
-              "confidence": 0.92
+              "start": 1053.466,
+              "end": 1053.746,
+              "confidence": 0.94
             },
             {
               "word": " tot",
-              "start": 1052.013,
-              "end": 1052.134,
-              "confidence": 0.99
+              "start": 1054.047,
+              "end": 1054.167,
+              "confidence": 1
             },
             {
               "word": " het",
-              "start": 1052.135,
-              "end": 1052.254,
+              "start": 1054.168,
+              "end": 1054.287,
               "confidence": 0.93
             },
             {
               "word": " eind.",
-              "start": 1052.314,
-              "end": 1052.494,
-              "confidence": 0.55
+              "start": 1054.367,
+              "end": 1054.527,
+              "confidence": 0.57
             }
           ]
         },
         {
           "text": "Ontdek het in Industry Insights en neem de vlucht vooruit.",
           "language": "nl",
-          "start": 1052.935,
-          "end": 1056.103,
-          "confidence": 0.9390000000000001,
+          "start": 1054.988,
+          "end": 1058.133,
+          "confidence": 0.944,
           "channel": 0,
           "speaker": 0,
           "words": [
             {
               "word": " Ontdek",
-              "start": 1052.935,
-              "end": 1053.176,
-              "confidence": 0.95
+              "start": 1054.988,
+              "end": 1055.228,
+              "confidence": 0.99
             },
             {
               "word": " het",
-              "start": 1053.216,
-              "end": 1053.336,
+              "start": 1055.248,
+              "end": 1055.369,
               "confidence": 0.99
             },
             {
               "word": " in",
-              "start": 1053.397,
-              "end": 1053.517,
+              "start": 1055.429,
+              "end": 1055.549,
               "confidence": 0.99
             },
             {
               "word": " Industry",
-              "start": 1053.637,
-              "end": 1053.998,
-              "confidence": 0.99
+              "start": 1055.669,
+              "end": 1056.05,
+              "confidence": 0.97
             },
             {
               "word": " Insights",
-              "start": 1054.078,
-              "end": 1054.579,
-              "confidence": 0.51
+              "start": 1056.13,
+              "end": 1056.611,
+              "confidence": 0.52
             },
             {
               "word": " en",
-              "start": 1054.88,
-              "end": 1055,
+              "start": 1056.911,
+              "end": 1057.031,
               "confidence": 1
             },
             {
               "word": " neem",
-              "start": 1055.06,
-              "end": 1055.241,
-              "confidence": 0.99
+              "start": 1057.091,
+              "end": 1057.272,
+              "confidence": 1
             },
             {
               "word": " de",
-              "start": 1055.261,
-              "end": 1055.381,
-              "confidence": 0.97
+              "start": 1057.292,
+              "end": 1057.412,
+              "confidence": 0.98
             },
             {
               "word": " vlucht",
-              "start": 1055.401,
-              "end": 1055.682,
+              "start": 1057.452,
+              "end": 1057.732,
               "confidence": 1
             },
             {
               "word": " vooruit.",
-              "start": 1055.722,
-              "end": 1056.103,
+              "start": 1057.752,
+              "end": 1058.133,
               "confidence": 1
             }
           ]
         }
       ],
-      "full_transcript": "Voor duiding bij het nieuws vertrouw je op de 7. Voor deskundig Apple-advies vertrouw je op Lab9, de Apple-experte jouw buurt. Welkom bij de 7 van de tijd. Elke dag om 7 uur, onze blik op de zaken in 7 punten. Dit is Bert Rijmen. Goedemorgen. Het Waalse biotechbedrijf Universelle staat aan de rand van de afgrond. Als er niet snel vers geld binnenkomt, haalt de parel uit Charlois het einde van de zomer niet. Zullen pensioenspaarders geraakt worden door een meerwaardebelasting? De politieke discussie daarover woedt nog volop. Waarover gaat dat precies en wat zegt al dat gekibbel over de regering De Wever? Onze Belgische bierindustrie krimpt voor het derde jaar op rij, ook internationaal. Wat is er daar aan de hand? wanneer gaat het tij keren? Het is donderdag 5 juni. Welkom. De zeven van de tijd. 1. Universeel vecht voor zijn overleven. Biotechbedrijf uit Charleroi heeft dringend verse keren. cash nodig, anders halen ze de volgende maanden niet. Volgens onze bronnen gaat het om minstens 10 miljoen euro die Universell de komende weken zou moeten ophalen bij investeerders. Hoe komt dat en gaat dat nog lukken? Valt de situatie nog te redden? Goedemorgen, Michael Seffia. Goedemorgen, Bert. Journalist ondernemen hier bij de tijd. Laten we beginnen bij de basics. Michael, wat voor bedrijf is Universell? Universels bestaat intussen al twaalf jaar en uit de ontwikkelde aanvankelijke technologie om goedkoop vaccins te produceren, om die heel toegankelijk te maken en om die ook in de landen te produceren waar ze het meest nodig zijn. Maar gaandeweg evolueerde het bedrijf naar een holding, universel, met onderdelen die actief zijn in verschillende metiers uit de biotechsfeer. Het is een beetje uitgegroeid tot een... parel omdat het een frisse wind door Charleroi en omstreken deed waaien. Die regio is bekend voor grauwe industrie. En ineens stond daar een dynamisch biotech bedrijf op dat ook een impact probeerde te hebben op de gezondheid wereldwijd. En dat is de reden waarom zelfs Bill Gates en George Soros in Universell hebben ge\u00efnvesteerd. Je mag het dan wel een parel noemen, Michael, maar wel eentje met een probleem. Wat precies? Ja, dat is het. Universell heeft sinds zijn oprichting honderden miljoenen opgehaald. Enerzijds via kapitaalrondes, maar ook via leningen en subsidies. Maar zoals iedere start-up verbranden ze veel cash. En de inkomsten die daar tegenover staan, zijn nog onvoldoende om die cash burn te dekken. Ok\u00e9, en dat geldekort is nu dus echt wel acuut geworden. Valt dat nog recht te trekken? Begin dit jaar heeft Universell al een stevige ontslagronde aangekondigd om iets te doen aan de kosten. 73 van de meer dan 400 banen werden toen geschrapt. En sindsdien zijn ze ook in gesprek gegaan met een externe investeerder of externe financierder om er geld op te halen. Wij weten dat ze met verschillende partijen aan tafel hebben gezeten. Maar uiteindelijk mondde dat op niks uit. Dus ja, nu zitten ze te schrapen en wordt er aan de noodrem getrokken. In die mate dat UniverCell zich ook gericht heeft tot overheden in dit land en tot de Europese overheid. Om te proberen te zien wat dat mogelijk is om het bedrijf te helpen. Dankjewel, Michael Sifia. Graag gedaan. Heb jij veel miljonairs bij jou om de hoek wonen? Misschien zijn er dit jaar wel wat minder, want het aantal dollarmiljonairs in Belgi\u00eb daalt. En dat is opvallend, want wereldwijd ging het aantal miljonairs net omhoog. Concreet waren er afgelopen jaar 134.590 Belgische dollarmiljonairs. Dat zijn er 3.450 minder dan het jaar ervoor. Een daling met 2,5%. Het gaat dan om landgenoten met minstens een miljoen dollar aan kapitaal en activa. Nou... Omgerekend 878.000 euro. Dat zien we in een nieuw rapport van financieel consultancybureau Capgemini. Wereldwijd is het aantal dollar miljonairs net gestegen. Voornamelijk dankzij een sterke beurs en crypto-markt. Hebben die Belgische miljonairs daar dan niet van geprofiteerd? Wel, gedeeltelijk niet inderdaad. Vooral de zogenoemde miljonairs van om de hoek, die met een bescheiden vermogen tussen de 1 en de 5 miljoen dollar zijn doorgaans te voorzichtig in hun financi\u00ebn. en ze hebben daardoor een deel van die winst gemist. Binnen de groep superrijken in Belgi\u00eb, met meer dan 30 miljoen dollar op de rekening, is er wel een toename van het kapitaal, net als bij de andere internationale miljonairs. Ons land telt nu 540 van die supermiljonairs, 30 meer dan een jaar geleden. Die zullen klassieke pensioenspaarders geraakt worden door een meerwaardbelasting. Dat is waar momenteel volop politieke discussie over woedt binnen de federale regering. Er wordt al maanden gedebatteerd over die geplande meerwaardebelasting. Wie zal die moeten betalen en onder welke voorwaarden? Deze week met een focus dus op die pensioenspaarders. Hoe zit dat en wat zegt al dat interne gekibbel over die regering De Wever? Goeiemorgen, Dieter Duserte. Goeiemorgen Bert. Journalist politiek en economie hier bij de tijd. Tussen wie gaat die discussie nu, Dieter? Tot nu toe werd de discussie vooral op binnenskamers gevoerd, in zogenaamde IKW's. Dat zijn technische vergaderingen tussen de specialisten van alle vice-kabinetten. De gewoonte is dat daar eigenlijk niet te veel wordt over de pers verteld, maar de Sammy Medi van CD&V heeft zondag eigenlijk een beetje de kroon ontbloot, heeft gezegd tussen vooruit... Hij verkondigde al een paar weken dat Jan Bon voorziet te veel uitzonderingen in zijn voorstel, dus de rijken gaan ontkomen. Ja, Medi heeft nu eigenlijk bekendgemaakt dat onder die positie ook moet verstaan worden dat de vrijstelling op pensioensparen die Jan Bon voorziet, dat Vooruit die wil schrappen. Vooruit heeft er eerst op gereageerd, dit is voer voor de onderhandelingstafel, wij praten daar niet over, en hoe meer vrijstellingen, hoe meer de rijken gaan veruitgaan, ja natuurlijk, dan worden er... berekening gemaakt over wat de impact zou kunnen zijn van zo'n voorstel. En ja, dan heeft de vooruitzicht wat moet ik er pakken en een stevige positie innemen. Ok\u00e9, en waar gaat het dan precies over Dieter? Wat is die vrijstelling op pensioensparen? Nu is het zo dat wie dus aan pensioensparen doet, zogenaamd de derde pijler, wordt aan zijn zestigste acht procent getaxeerd. Dus wat vooruitzegt, als je het regeerakkoord letterlijk interpreteert, met name alle financi\u00eble producten worden gevat, Dan zal er voor de mensen die nog tussen een 60ste en een 65ste nog oprenten, en die boven de 10.000 euro meerwaarde raken, zou er dan toch nog een meerwaardebelasting kunnen komen. Maar vooruit zegt Rob, ja, het is eigenlijk niet nodig om die vrijstelling in de wet te voorzien, want niemand gaat boven die 10.000 euro komen, of op zijn minst de gewone spaarders niet. Maar bon, Peter van Maldenhem, onze collega van de cel en mijn geld, heeft de rekening gemaakt op basis van iemand die vanaf zijn 22e begint te sparen bij Argenta. Dus al een redelijk... perte instapkost. En hij zegt ja, je kunt toch met een jaarlijkse inleg van goeie duizend euro, kan je toch aan een bedrag komen dat door de meerwaarde belasting gevat wordt. Maar intussen heeft Rousseau gezegd, ja maar als het zo zit, ben ik bereid om te zeggen pensioensparen wordt uitgesloten. Dus eigenlijk, Conor Rousseau komt nu terug op een rode lijn van hem. Ok\u00e9, discussie lijkt dan zo goed als gesloten, Dieter, maar wat zegt dat nu, dat daar binnen de regering toch zoveel over wordt gekibbeld? Ja, we wisten natuurlijk dat dit het meest toxische dossier van deze coalitie is, modus. Dat ze binnen de vier maanden aan de start van de regering die partijvoorzitters opnieuw elkaar aanvallen met filmpjes en memes en allerlei, dat doet niet het beste vermoeden. Er moet een akkoord komen over de meerwaardebelasting, want pas als die akkoord er is, zal vooruit, en ook eigenlijk lijstengag\u00e9, zullen die het KB dat moet genomen worden om de beperking van de werkloosheid in de tijd te activeren, zullen die dat toestaan, zullen die dat nemen dat KB. Dus met andere woorden, er is een compromis nodig. Anders is het trofee van N-VA en N-MR. Anders loopt die vertraging op. Het is de vraag wat er de komende weken zal gebeuren. Eigenlijk had de deal er al moeten zijn. En de wever agendeert de kwestie nog altijd niet op kernkabinet. Hij houdt het bij zogenaamde bilaterale gesprekken. Dus ja, afwachten hoe het de komende weken evolueert. Inderdaad. En jij volgt dat voor ons. Dankjewel Pieter Tuzarte. Graag gedaan. Super Mario is dit op de Nintendo Switch. De eerste versie van die spelconsole was een kaskraker. En vanaf vandaag zullen we zien of de opvolger dat ook is, want straks lanceert Nintendo de Switch 2. Voel je eens. Die Switch 2 lijkt op zijn voorganger. Het is opnieuw een console waarop je zowel in de hand als op een groter scherm, zoals je tv-games kan spelen. Van de eerste versie werden meer dan 150 miljoen exemplaren verkocht wereldwijd. Groot business succes dus voor het Japanse Nintendo. Maar wordt de 2 dat ook? Als je naar de voorverkoop kijkt, zou je denken van wel, want alle reorder exemplaren zijn uitverkocht. Al was dat destijds ook zo met Nintendo's Wii U console. En die flopte in de maanden na de lancering compleet. Dat illustreert volgens analisten het verschil tussen adoptie door enerzijds fans van het eerste uur en anderzijds het grote publiek. De komende weken zullen we zien in welke categorie die Switch 2 thuis stopt. De gouden jaren van de Belgische bierindustrie lijken nu echt wel vervlogen. Voor het derde jaar op rij krimpt de internationale verkoop van ons vaderlands gerstenmat. Blijkt uit de laatste cijfers van de Federatie van de Belgische Brouwers, die onze redactie heeft kunnen inkijken, hoe zwaar is die neergang, wat zijn de onderliggende redenen en kunnen de brouwers het tij nog keren? Goeiemorgen, Jens Cardinaas. Goeiemorgen Bert. Redacteur ondernemen hier bij de tijd, je hebt dus over die cijfers van de brouwers gebogen. Jens, vertel eens, hoe erg is het gesteld? Vorig jaar zijn de verkochte biervolumes gedaald met 2,1% naar het equivalent van ruim 6 miljard bierglazen van 33cl. Dat is eigenlijk de derde daling op rij. In 2022 was de krimp nog wel veel groter met 7,5% en ook in 2023 was er een krimp van 5,8%. Dat is stevig. Hoe komt dat, Jens? Die hardnekkige neergang van de Belgische bierindustrie? Dat komt vooral door de al 30 jaar dalende binnenlandse verkoop. Maar wat nieuwer is, is dat sinds drie jaar ook de export afneemt. En dat is toch wel zorgwekkend voor de sector. Er zijn een aantal maatschappelijke veranderingen die plaatsvinden en die gevolgen hebben voor de bierverkoop. Zo is het het geval dat mensen eigenlijk minder alcohol drinken uit gezondheidsoverwegingen voor zichzelf, maar ook voor... En verder zien we ook dat er binnen de categorie van alcoholhoudende dranken een verschuiving is naar bijvoorbeeld sterke drank in de vorm van cocktails vaak. En specifiek in het buitenland, wat toch altijd booming business was voor de Belgische bierbrouwers, zien we dat veel lokale bierbrouwers zijn opgedokten de voorbije jaren, voorbije decennium. En die zijn populair geworden in hun eigen land en die zijn vaak ook goedkoper omdat ze lokaal produceren en winnen dus eigenlijk marktaandeel in hun respectieve thuislanden. kosten van het Belgische bier. Ok\u00e9, als die neergang wel stilaan vertraagt, komen we dan misschien binnenkort wel op een soort keerpunt, Jens? Goh, dat zit er toch niet meteen in, denk ik. Zeker ook als we gaan kijken naar de geopolitieke context op dit moment, met allerlei handelsbarri\u00e8res die in de hele wereld opduiken. Er is toch wel de vrees dat bepaalde beloftevolle markten zoals China en zeker ook de Verenigde Staten voorlopig toch wel zeer, zeer moeilijk blijven voor de Belgische brouwers. Ze proberen wel in nieuwe landen populair te worden, maar dat is niet eenvoudig. Ze proberen het in Zuid-Amerika, in India. Afrika is ook in het vizier. Maar het is moeilijk om het Belgische bier daar eigenlijk uit te bouwen. Dat is een project dat meerdere jaren zou duren en kans op slagen is zeker niet gegarandeerd daar. Dankjewel, Jens Gardinaals. Graag gedaan. In de Antwerpse wijk Groenkwartier hoorde je tot voor kort vooral dit, terwijl het binnenkort vooral zo zal klinken. Want het bekende twee sterren restaurant The Jane van chefs Sergio Herman en Nick Bril maakt plaats voor een fitness. Het gaat meer bepaald om een nieuwe boutique fitness van Ride Studios. Zo'n drie maanden geleden sloot de Jane de Deuren. Bril wees toen expliciet naar de maandelijkse huurprijs van ruim 23.000 euro. Maar voor de oprichters van Ride Studios, Frederik Reinders en Nicolas van der Loek, is het dat waard. In 2024 boekten ze met hun zaak trouwens een omzet van 2 miljoen euro. En dit jaar zijn ze op weg om dat bedrag te verdrievoudigen. Rite Studios heeft intussen een akkoord met de eigenaar van de kapel, vastgoedontwikkelaar Triginta, om die te verbouwen van een Burgondisch heiligdom naar een gezondheidstempel. Een tekens destijds misschien in een samenleving die alsmaar vaker sport en welzijn kiest als een soort nieuwe religie. Rite betekent trouwens ritueel, heel passend allemaal. Na positieve gesprekken met de stad Antwerpen is nu enkel nog wachten op een definitieve omgevingsvergunning voor de werken kunnen staan. En dan nog wat stoefnieuws uit eigen huis, want met hun werk rond private stichtingen hebben onze tijdcollega's Lars Bovee en Piet de Puit een Belfius persprijs gewonnen en wel in de categorie van de financieel-economische berichtgeving. De belangrijkste natuurlijk. Het onderzoek van Lars en Piet onthulde hoe honderden vermogende Belgische families zulke stichtingen, die eigenlijk bedoeld zijn om goede doelen te steunen, gebruiken om geen erfbelasting te moeten betalen. We maakten er destijds ook een extra over. Wat wij hebben ontdekt met dit onderzoek, zijn er meer dan 500 familiale stichtingen. Allemaal niet illegaal, maar je stelt je dan wel misschien de vraag, zou het dat niet een beetje moeten zijn? De stichtingen zijn een zeer goede zaak. Critici hebben er niets van begrepen. Steeds meer rijke families in ons land verplaatsen hun vermogen naar zo'n stichting en kunnen daarmee dan de toekomstige generaties toelaten om geen erfenisbelasting meer te betalen. In plaats van de gehandicapte kinderen zijn de meeste stichtingen toch voor verbende kinderen. Je feliciteert dus collega's Lars Bovee en Pieter Puit. En ik zet de link naar die De Zeven Extra hieronder ook nog eens in de show notes. Deze De Zeven werd geproduceerd door Roan van Eyck en Amber Butts. Voor ons geen Belfiusprijs, maar misschien wel een podcast award. Als je nog ergens een vrij momentje hebt, doe je favoriete podcast dan een plezier. Dat zijn wij. Stem voor De Zeven in de Belgian Podcast Awards. We zijn genomineerd in de categorie Daily en de concurrentie daar is stevig. Alle steun is dus welkom. Stemmen kan via belgiampodcastawards.be. Ik steek ook die link in de show notes. En je kan ook stemmen voor de Beursvalleurs trouwens, de beleggenpodcast van de tijd. Er staat een nieuwe De Beursvalleurs aflevering klaar ook met deze week chef Lo\u00efc van Impen als centrale gast. Bitcoin is ook zo eentje waar ik wat twijfel. En je hebt er nooit iets van winst van afgepakt? Want je bent maal 15 of zo gegaan? Ja, ik denk nu maal 13. Maar ja, dan stelt Gu de vraag van waarom heb ik het toen? Niet een beetje meer aangekocht. Typisch dat je niet alleen bent. Bitcoin en andere beursontboezemingen in de nieuwste aflevering van de Beursvalleurs. Voil\u00e0, helemaal klaar nu. Nog een fijne dag en tot morgen. Dit was De Zeven met Bert Rijmen. Bedankt om te luisteren. Morgen zijn we er weer. Tot dan. E\u00e9n iPhone voor oma? Dat is snel gekocht. Honderden iPhones van je medewerkers beheren? Dat vraagt een andere aanpak. Daarom kan je voor alles van Apple bij Lab9 en Lab9 Pro terecht. Bij Lab9 krijg je advies in mensentaal en tips waar zelfs oma mee aan de slag kan. Maar als het complexer wordt met netwerken, toestellen en integraties, dan schiet Lab9 Pro in actie. Lab9 en Lab9 Pro. Dezelfde Apple-expertise, een andere aanpak. Exclusieve inzichten, verborgen strategie\u00ebn, de toekomst van jouw sector. Wat weten jouw concurrenten dat jij nog niet weet? Welke trends sluipen de markt binnen, hier en in het buitenland? BD is een van de grootste medisch-technologische bedrijven wereldwijd. We investeren heel veel in innovatie of acquisities van innovatieve oplossingen. Met een filosofie om naast onze klant, naast de zorgverlener, zorgbeslisser te zitten. een intu\u00efnt oplossing te geven. Dus echt van begin tot het eind. Ontdek het in Industry Insights en neem de vlucht vooruit."
+      "full_transcript": "Voor duiding bij het nieuws vertrouw je op de 7. Voor deskundig Apple-advies vertrouw je op Lab9, de Apple-experte jouw buurt. Welkom bij de 7 van de tijd. Elke dag om 7 uur, onze blik op de zaken in 7 punten. Dit is Bert Rijmen. Goedemorgen. Het Waalse biotechbedrijf Universelle staat aan de rand van de afgrond. Als er niet snel vers geld binnenkomt, haalt de parel uit Charlois het einde van de zomer niet. Zullen pensioenspaarders geraakt worden door een meerwaardebelasting? De politieke discussie daarover woedt nog volop. Waarover gaat dat precies en wat zegt al dat gekibbel over de regering De Wever? Onze Belgische bierindustrie krimpt voor het derde jaar op rij, ook internationaal. Wat is er daar aan de hand? wanneer gaat het tij keren? Het is donderdag 5 juni. Welkom. De zeven van de tijd. 1. Universeel vecht voor zijn overleven. Biotechbedrijf uit Charleroi heeft dringend verse keren. cash nodig, anders halen ze de volgende maanden niet. Volgens onze bronnen gaat het om minstens 10 miljoen euro die Universell de komende weken zou moeten ophalen bij investeerders. Hoe komt dat en gaat dat nog lukken? Valt de situatie nog te redden? Goedemorgen, Michael Seffia. Goedemorgen, Bert. Journalist ondernemen hier bij de tijd. Laten we beginnen bij de basics. Michael, wat voor bedrijf is Universell? Universels bestaat intussen al twaalf jaar en uit de ontwikkelde aanvankelijke technologie om goedkoop vaccins te produceren, om die heel toegankelijk te maken en om die ook in de landen te produceren waar ze het meest nodig zijn. Maar gaandeweg evolueerde het bedrijf naar een holding, universel, met onderdelen die actief zijn in verschillende metiers uit de biotechsfeer. Het is een beetje uitgegroeid tot een... parel omdat het een frisse wind door Charleroi en omstreken deed waaien. Die regio is bekend voor grauwe industrie. En ineens stond daar een dynamisch biotech bedrijf op dat ook een impact probeerde te hebben op de gezondheid wereldwijd. En dat is de reden waarom zelfs Bill Gates en George Soros in Universell hebben ge\u00efnvesteerd. Je mag het dan wel een parel noemen, Michael, maar wel eentje met een probleem. Wat precies? Ja, dat is het. Universell heeft sinds zijn oprichting honderden miljoenen opgehaald. Enerzijds via kapitaalrondes, maar ook via leningen en subsidies. Maar zoals iedere start-up verbranden ze veel cash. En de inkomsten die daar tegenover staan, zijn nog onvoldoende om die cash burn te dekken. Ok\u00e9, en dat geldekort is nu dus echt wel acuut geworden. Valt dat nog recht te trekken? Begin dit jaar heeft Universell al een stevige ontslagronde aangekondigd om iets te doen aan de kosten. 73 van de meer dan 400 banen werden toen geschrapt. En sindsdien zijn ze ook in gesprek gegaan met een externe investeerder of externe financierder om er geld op te halen. Wij weten dat ze met verschillende partijen aan tafel hebben gezeten. Maar uiteindelijk mondde dat op niks uit. Dus ja, nu zitten ze te schrapen en wordt er aan de noodrem getrokken. In die mate dat UniverCell zich ook gericht heeft tot overheden in dit land en tot de Europese overheid. Om te proberen te zien wat dat mogelijk is om het bedrijf te helpen. Dankjewel, Michael Sifia. Graag gedaan. Heb jij veel miljonairs bij jou om de hoek wonen? Misschien zijn er dit jaar wel wat minder, want het aantal dollarmiljonairs in Belgi\u00eb daalt. En dat is opvallend, want wereldwijd ging het aantal miljonairs net omhoog. Concreet waren er afgelopen jaar 134.590 Belgische dollarmiljonairs. Dat zijn er 3.450 minder dan het jaar ervoor. Een daling met 2,5%. Het gaat dan om landgenoten met minstens een miljoen dollar aan kapitaal en activa. Nou... Omgerekend 878.000 euro. Dat zien we in een nieuw rapport van financieel consultancybureau Capgemini. Wereldwijd is het aantal dollar miljonairs net gestegen. Voornamelijk dankzij een sterke beurs en crypto-markt. Hebben die Belgische miljonairs daar dan niet van geprofiteerd? Wel, gedeeltelijk niet inderdaad. Vooral de zogenoemde miljonairs van om de hoek, die met een bescheiden vermogen tussen de 1 en de 5 miljoen dollar zijn doorgaans te voorzichtig in hun financi\u00ebn. en ze hebben daardoor een deel van die winst gemist. Binnen de groep superrijken in Belgi\u00eb, met meer dan 30 miljoen dollar op de rekening, is er wel een toename van het kapitaal, net als bij de andere internationale miljonairs. Ons land telt nu 540 van die supermiljonairs, 30 meer dan een jaar geleden. Die zullen klassieke pensioenspaarders geraakt worden door een meerwaardbelasting. Dat is waar momenteel volop politieke discussie over woedt binnen de federale regering. Er wordt al maanden gedebatteerd over die geplande meerwaardebelasting. Wie zal die moeten betalen en onder welke voorwaarden? Deze week met een focus dus op die pensioenspaarders. Hoe zit dat en wat zegt al dat interne gekibbel over die regering De Wever? Goeiemorgen, Dieter Duserte. Goeiemorgen Bert. Journalist politiek en economie hier bij de tijd. Tussen wie gaat die discussie nu, Dieter? Tot nu toe werd de discussie vooral op binnenskamers gevoerd, in zogenaamde IKW's. Dat zijn technische vergaderingen tussen de specialisten van alle vice-kabinetten. De gewoonte is dat daar eigenlijk niet te veel wordt over de pers verteld, maar de Sammy Medi van CD&V heeft zondag eigenlijk een beetje de kroon ontbloot, heeft gezegd tussen vooruit... Hij verkondigde al een paar weken dat Jan Bon voorziet te veel uitzonderingen in zijn voorstel, dus de rijken gaan ontkomen. Ja, Medi heeft nu eigenlijk bekendgemaakt dat onder die positie ook moet verstaan worden dat de vrijstelling op pensioensparen die Jan Bon voorziet, dat Vooruit die wil schrappen. Vooruit heeft er eerst op gereageerd, dit is voer voor de onderhandelingstafel, wij praten daar niet over, en hoe meer vrijstellingen, hoe meer de rijken gaan veruitgaan, ja natuurlijk, dan worden er... berekening gemaakt over wat de impact zou kunnen zijn van zo'n voorstel. En ja, dan heeft de vooruitzicht wat moet ik er pakken en een stevige positie innemen. Ok\u00e9, en waar gaat het dan precies over Dieter? Wat is die vrijstelling op pensioensparen? Nu is het zo dat wie dus aan pensioensparen doet, zogenaamd de derde pijler, wordt aan zijn zestigste acht procent getaxeerd. Dus wat vooruitzegt, als je het regeerakkoord letterlijk interpreteert, met name alle financi\u00eble producten worden gevat, Dan zal er voor de mensen die nog tussen een 60ste en een 65ste nog oprenten, en die boven de 10.000 euro meerwaarde raken, zou er dan toch nog een meerwaardebelasting kunnen komen. Maar vooruit zegt Rob, ja, het is eigenlijk niet nodig om die vrijstelling in de wet te voorzien, want niemand gaat boven die 10.000 euro komen, of op zijn minst de gewone spaarders niet. Maar bon, Peter van Maldenhem, onze collega van de cel en mijn geld, heeft de rekening gemaakt op basis van iemand die vanaf zijn 22e begint te sparen bij Argenta. Dus al een redelijk... perte instapkost. En hij zegt ja, je kunt toch met een jaarlijkse inleg van goeie duizend euro, kan je toch aan een bedrag komen dat door de meerwaarde belasting gevat wordt. Maar intussen heeft Rousseau gezegd, ja maar als het zo zit, ben ik bereid om te zeggen pensioensparen wordt uitgesloten. Dus eigenlijk, Conor Rousseau komt nu terug op een rode lijn van hem. Ok\u00e9, discussie lijkt dan zo goed als gesloten, Dieter, maar wat zegt dat nu, dat daar binnen de regering toch zoveel over wordt gekibbeld? Ja, we wisten natuurlijk dat dit het meest toxische dossier van deze coalitie is, modus. Dat ze binnen de vier maanden aan de start van de regering die partijvoorzitters opnieuw elkaar aanvallen met filmpjes en memes en allerlei, dat doet niet het beste vermoeden. Er moet een akkoord komen over de meerwaardebelasting, want pas als die akkoord er is, zal vooruit, en ook eigenlijk lijstengag\u00e9, zullen die het KB dat moet genomen worden om de beperking van de werkloosheid in de tijd te activeren, zullen die dat toestaan, zullen die dat nemen dat KB. Dus met andere woorden, er is een compromis nodig. Anders is het trofee van N-VA en N-MR. Anders loopt die vertraging op. Het is de vraag wat er de komende weken zal gebeuren. Eigenlijk had de deal er al moeten zijn. En de wever agendeert de kwestie nog altijd niet op kernkabinet. Hij houdt het bij zogenaamde bilaterale gesprekken. Dus ja, afwachten hoe het de komende weken evolueert. Inderdaad. En jij volgt dat voor ons. Dankjewel Pieter Tuzarte. Graag gedaan. Super Mario is dit op de Nintendo Switch. De eerste versie van die spelconsole was een kaskraker. En vanaf vandaag zullen we zien of de opvolger dat ook is, want straks lanceert Nintendo de Switch 2. Voel je eens. Die Switch 2 lijkt op zijn voorganger. Het is opnieuw een console waarop je zowel in de hand als op een groter scherm, zoals je tv-games kan spelen. Van de eerste versie werden meer dan 150 miljoen exemplaren verkocht wereldwijd. Groot business succes dus voor het Japanse Nintendo. Maar wordt de 2 dat ook? Als je naar de voorverkoop kijkt, zou je denken van wel, want alle reorder exemplaren zijn uitverkocht. Al was dat destijds ook zo met Nintendo's Wii U console. En die flopte in de maanden na de lancering compleet. Dat illustreert volgens analisten het verschil tussen adoptie door enerzijds fans van het eerste uur en anderzijds het grote publiek. De komende weken zullen we zien in welke categorie die Switch 2 thuis stopt. De gouden jaren van de Belgische bierindustrie lijken nu echt wel vervlogen. Voor het derde jaar op rij krimpt de internationale verkoop van ons vaderlands gerstenmat. Blijkt uit de laatste cijfers van de Federatie van de Belgische Brouwers, die onze redactie heeft kunnen inkijken, hoe zwaar is die neergang, wat zijn de onderliggende redenen en kunnen de brouwers het tij nog keren? Goeiemorgen, Jens Cardinaas. Goeiemorgen Bert. Redacteur ondernemen hier bij de tijd, je hebt dus over die cijfers van de brouwers gebogen. Jens, vertel eens, hoe erg is het gesteld? Vorig jaar zijn de verkochte biervolumes gedaald met 2,1% naar het equivalent van ruim 6 miljard bierglazen van 33cl. Dat is eigenlijk de derde daling op rij. In 2022 was de krimp nog wel veel groter met 7,5% en ook in 2023 was er een krimp van 5,8%. Dat is stevig. Hoe komt dat, Jens? Die hardnekkige neergang van de Belgische bierindustrie? Dat komt vooral door de al 30 jaar dalende binnenlandse verkoop. Maar wat nieuwer is, is dat sinds drie jaar ook de export afneemt. En dat is toch wel zorgwekkend voor de sector. Er zijn een aantal maatschappelijke veranderingen die plaatsvinden en die gevolgen hebben voor de bierverkoop. Zo is het het geval dat mensen eigenlijk minder alcohol drinken uit gezondheidsoverwegingen voor zichzelf, maar ook voor... En verder zien we ook dat er binnen de categorie van alcoholhoudende dranken een verschuiving is naar bijvoorbeeld sterke drank in de vorm van cocktails vaak. En specifiek in het buitenland, wat toch altijd booming business was voor de Belgische bierbrouwers, zien we dat veel lokale bierbrouwers zijn opgedokten de voorbije jaren, voorbije decennium. En die zijn populair geworden in hun eigen land en die zijn vaak ook goedkoper omdat ze lokaal produceren en winnen dus eigenlijk marktaandeel in hun respectieve thuislanden. kosten van het Belgische bier. Ok\u00e9, als die neergang wel stilaan vertraagt, komen we dan misschien binnenkort wel op een soort keerpunt, Jens? Goh, dat zit er toch niet meteen in, denk ik. Zeker ook als we gaan kijken naar de geopolitieke context op dit moment, met allerlei handelsbarri\u00e8res die in de hele wereld opduiken. Er is toch wel de vrees dat bepaalde beloftevolle markten zoals China en zeker ook de Verenigde Staten voorlopig toch wel zeer, zeer moeilijk blijven voor de Belgische brouwers. Ze proberen wel in nieuwe landen populair te worden, maar dat is niet eenvoudig. Ze proberen het in Zuid-Amerika, in India. Afrika is ook in het vizier. Maar het is moeilijk om het Belgische bier daar eigenlijk uit te bouwen. Dat is een project dat meerdere jaren zou duren en kans op slagen is zeker niet gegarandeerd daar. Dankjewel, Jens Gardinaals. Graag gedaan. In de Antwerpse wijk Groenkwartier hoorde je tot voor kort vooral dit, terwijl het binnenkort vooral zo zal klinken. Want het bekende twee sterren restaurant The Jane van chefs Sergio Herman en Nick Bril maakt plaats voor een fitness. Het gaat meer bepaald om een nieuwe boutique fitness van Ride Studios. Zo'n drie maanden geleden sloot de Jane de Deuren. Bril wees toen expliciet naar de maandelijkse huurprijs van ruim 23.000 euro. Maar voor de oprichters van Ride Studios, Frederik Reinders en Nicolas van der Loek, is het dat waard. In 2024 boekten ze met hun zaak trouwens een omzet van 2 miljoen euro. En dit jaar zijn ze op weg om dat bedrag te verdrievoudigen. Rite Studios heeft intussen een akkoord met de eigenaar van de kapel, vastgoedontwikkelaar Triginta, om die te verbouwen van een Burgondisch heiligdom naar een gezondheidstempel. Een tekens destijds misschien in een samenleving die alsmaar vaker sport en welzijn kiest als een soort nieuwe religie. Rite betekent trouwens ritueel, heel passend allemaal. Na positieve gesprekken met de stad Antwerpen is nu enkel nog wachten op een definitieve omgevingsvergunning voor de werken kunnen staan. En dan nog wat stoefnieuws uit eigen huis, want met hun werk rond private stichtingen hebben onze tijdcollega's Lars Bovee en Piet de Puit een Belfius persprijs gewonnen en wel in de categorie van de financieel-economische berichtgeving. De belangrijkste natuurlijk. Het onderzoek van Lars en Piet onthulde hoe honderden vermogende Belgische families zulke stichtingen, die eigenlijk bedoeld zijn om goede doelen te steunen, gebruiken om geen erfbelasting te moeten betalen. We maakten er destijds ook een extra over. Wat wij hebben ontdekt met dit onderzoek, zijn er meer dan 500 familiale stichtingen. Allemaal niet illegaal, maar je stelt je dan wel misschien de vraag, zou het dat niet een beetje moeten zijn? De stichtingen zijn een zeer goede zaak. Critici hebben er niets van begrepen. Steeds meer rijke families in ons land verplaatsen hun vermogen naar zo'n stichting en kunnen daarmee dan de toekomstige generaties toelaten om geen erfenisbelasting meer te betalen. In plaats van de gehandicapte kinderen zijn de meeste stichtingen toch voor verbende kinderen. Je feliciteert dus collega's Lars Bovee en Pieter Puit. En ik zet de link naar die De Zeven Extra hieronder ook nog eens in de show notes. Deze De Zeven werd geproduceerd door Roan van Eyck en Amber Butts. Voor ons geen Belfiusprijs, maar misschien wel een podcast award. Als je nog ergens een vrij momentje hebt, doe je favoriete podcast dan een plezier. Dat zijn wij. Stem voor De Zeven in de Belgian Podcast Awards. We zijn genomineerd in de categorie Daily en de concurrentie daar is stevig. Alle steun is dus welkom. Stemmen kan via belgiampodcastawards.be. Ik steek ook die link in de show notes. En je kan ook stemmen voor de Beursvalleurs trouwens, de beleggenpodcast van de tijd. Er staat een nieuwe De Beursvalleurs aflevering klaar ook met deze week chef Lo\u00efc van Impen als centrale gast. Bitcoin is ook zo eentje waar ik wat twijfel. En je hebt er nooit iets van winst van afgepakt? Want je bent maal 15 of zo gegaan? Ja, ik denk nu maal 13. Maar ja, dan stelt Gu de vraag van waarom heb ik het toen? Niet een beetje meer aangekocht. Ja, dat is het typische. Dat je niet alleen bent. Bitcoin en andere beursontboezemingen in de nieuwste aflevering van de Beursvalleurs. Voil\u00e0, helemaal klaar nu. Nog een fijne dag en tot morgen. Dit was De Zeven met Bert Rijmen. Bedankt om te luisteren. Morgen zijn we er weer. Tot dan. E\u00e9n iPad om de kids bezig te houden op vakantie? Dat is snel gekocht. Elke leerling in de klas met een iPad aan de slag? Dat vraagt een andere aanpak. Daarom kan je voor alles van Apple bij Lab9 en Lab9 Pro terecht. Als de iPad op vakantie leert te zwemmen, kan je hem bij Lab9 vlot laten herstellen. Pakt jouw schooldigitalisering graag slim aan? Lab9 Pro helpt je met een plan en toestellen die vele jaren meegaan. Lab9 en Lab9 Pro. Dezelfde Apple-expertise, een andere aanpak. Exclusieve inzichten, verborgen strategie\u00ebn, de toekomst van jouw sector. Wat weten jouw concurrenten dat jij nog niet weet? Welke trends sluipen de markt binnen, hier en in het buitenland? BD is een van de grootste medisch-technologische bedrijven wereldwijd. We investeren heel veel in innovatie of acquisities van innovatieve oplossingen. Met een filosofie om naast onze klant, naast de zorgverlener, beslisser te zitten en een intu\u00efnt oplossing te geven. Dus echt van begin tot het eind. Ontdek het in Industry Insights en neem de vlucht vooruit."
     }
   }
 }

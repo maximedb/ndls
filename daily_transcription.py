@@ -224,7 +224,7 @@ def transcribe_audio_with_gladia(audio_path, api_key):
         print(f"Error transcribing audio: {str(e)}")
         return None
 
-def create_html_page(transcription_result, output_path):
+def create_html_page(transcription_result, output_path, audio_url=None):
     """
     Create an HTML page from transcription results
     """
@@ -269,7 +269,7 @@ def create_html_page(transcription_result, output_path):
                     font-family: Arial, sans-serif;
                     line-height: 1.6;
                     margin: 0;
-                    padding: 20px;
+                    padding: 20px 20px 80px 20px;
                     max-width: 800px;
                     margin: 0 auto;
                     color: #333;
@@ -295,6 +295,15 @@ def create_html_page(transcription_result, output_path):
                     background-color: #f9f9f9;
                     border-radius: 5px;
                     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+                    cursor: pointer;
+                    transition: background-color 0.2s;
+                }}
+                .utterance:hover {{
+                    background-color: #e9ecef;
+                }}
+                .utterance.playing {{
+                    background-color: #e3f2fd;
+                    border-left: 4px solid #2196f3;
                 }}
                 .utterance-text {{
                     font-size: 16px;
@@ -339,6 +348,62 @@ def create_html_page(transcription_result, output_path):
                 .archives a:hover {{
                     text-decoration: underline;
                 }}
+                .audio-player {{
+                    position: fixed;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    background-color: #2c3e50;
+                    color: white;
+                    padding: 15px 20px;
+                    box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+                    z-index: 1000;
+                }}
+                .audio-controls {{
+                    display: flex;
+                    align-items: center;
+                    max-width: 800px;
+                    margin: 0 auto;
+                    gap: 15px;
+                }}
+                .play-button {{
+                    background: #3498db;
+                    border: none;
+                    color: white;
+                    width: 40px;
+                    height: 40px;
+                    border-radius: 50%;
+                    cursor: pointer;
+                    font-size: 16px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    transition: background-color 0.2s;
+                }}
+                .play-button:hover {{
+                    background: #2980b9;
+                }}
+                .progress-container {{
+                    flex: 1;
+                    height: 6px;
+                    background: #34495e;
+                    border-radius: 3px;
+                    cursor: pointer;
+                    position: relative;
+                }}
+                .progress-bar {{
+                    height: 100%;
+                    background: #3498db;
+                    border-radius: 3px;
+                    width: 0%;
+                    transition: width 0.1s;
+                }}
+                .time-display {{
+                    font-size: 14px;
+                    font-family: monospace;
+                    min-width: 80px;
+                    text-align: center;
+                }}
             </style>
         </head>
         <body>
@@ -372,7 +437,7 @@ def create_html_page(transcription_result, output_path):
             end_formatted = f"{end_min}:{end_sec:02d}"
             
             html_content += f"""
-            <div class="utterance">
+            <div class="utterance" data-start="{start}" data-end="{end}" ondblclick="seekToTime({start})">
                 <div class="utterance-text">{text}</div>
                 <div class="utterance-info">
                     <span class="timestamp">{start_formatted} - {end_formatted}</span>
@@ -413,9 +478,147 @@ def create_html_page(transcription_result, output_path):
             
             <div class="updated-date">Last updated: {}
             </div>
+            
+            {}
+            
+            <script>
+                let audio = null;
+                let isPlaying = false;
+                let currentUtterance = null;
+                
+                function initializeAudio() {{
+                    if (!audio && document.getElementById('audioSource').src) {{
+                        audio = document.getElementById('audioElement');
+                        audio.addEventListener('timeupdate', updateProgress);
+                        audio.addEventListener('ended', () => {{
+                            isPlaying = false;
+                            updatePlayButton();
+                            if (currentUtterance) {{
+                                currentUtterance.classList.remove('playing');
+                                currentUtterance = null;
+                            }}
+                        }});
+                    }}
+                }}
+                
+                function togglePlay() {{
+                    initializeAudio();
+                    if (!audio) return;
+                    
+                    if (isPlaying) {{
+                        audio.pause();
+                        isPlaying = false;
+                    }} else {{
+                        audio.play();
+                        isPlaying = true;
+                    }}
+                    updatePlayButton();
+                }}
+                
+                function updatePlayButton() {{
+                    const button = document.getElementById('playButton');
+                    button.textContent = isPlaying ? '⏸' : '▶';
+                }}
+                
+                function seekToTime(startTime) {{
+                    initializeAudio();
+                    if (!audio) return;
+                    
+                    // Remove playing class from current utterance
+                    if (currentUtterance) {{
+                        currentUtterance.classList.remove('playing');
+                    }}
+                    
+                    // Find and highlight the clicked utterance
+                    const utterances = document.querySelectorAll('.utterance');
+                    utterances.forEach(utterance => {{
+                        if (parseFloat(utterance.getAttribute('data-start')) === startTime) {{
+                            currentUtterance = utterance;
+                            utterance.classList.add('playing');
+                        }}
+                    }});
+                    
+                    audio.currentTime = startTime;
+                    if (!isPlaying) {{
+                        togglePlay();
+                    }}
+                }}
+                
+                function updateProgress() {{
+                    if (!audio) return;
+                    
+                    const progress = (audio.currentTime / audio.duration) * 100;
+                    document.getElementById('progressBar').style.width = progress + '%';
+                    
+                    const currentTime = formatTime(audio.currentTime);
+                    const duration = formatTime(audio.duration);
+                    document.getElementById('timeDisplay').textContent = currentTime + ' / ' + duration;
+                    
+                    // Update current utterance highlighting
+                    const utterances = document.querySelectorAll('.utterance');
+                    let newCurrentUtterance = null;
+                    
+                    utterances.forEach(utterance => {{
+                        const start = parseFloat(utterance.getAttribute('data-start'));
+                        const end = parseFloat(utterance.getAttribute('data-end'));
+                        
+                        if (audio.currentTime >= start && audio.currentTime <= end) {{
+                            newCurrentUtterance = utterance;
+                        }}
+                    }});
+                    
+                    if (newCurrentUtterance !== currentUtterance) {{
+                        if (currentUtterance) {{
+                            currentUtterance.classList.remove('playing');
+                        }}
+                        currentUtterance = newCurrentUtterance;
+                        if (currentUtterance) {{
+                            currentUtterance.classList.add('playing');
+                        }}
+                    }}
+                }}
+                
+                function formatTime(seconds) {{
+                    if (isNaN(seconds)) return '0:00';
+                    const mins = Math.floor(seconds / 60);
+                    const secs = Math.floor(seconds % 60);
+                    return mins + ':' + (secs < 10 ? '0' : '') + secs;
+                }}
+                
+                function seekToProgress(event) {{
+                    initializeAudio();
+                    if (!audio) return;
+                    
+                    const progressContainer = event.currentTarget;
+                    const rect = progressContainer.getBoundingClientRect();
+                    const clickX = event.clientX - rect.left;
+                    const percentage = clickX / rect.width;
+                    const newTime = percentage * audio.duration;
+                    
+                    audio.currentTime = newTime;
+                }}
+                
+                // Initialize when page loads
+                document.addEventListener('DOMContentLoaded', initializeAudio);
+            </script>
         </body>
         </html>
-        """.format(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+        """.format(
+            datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            f'''<div class="audio-player" {'' if audio_url else 'style="display: none;"'}>
+                <audio id="audioElement" preload="metadata">
+                    <source id="audioSource" src="{audio_url or ''}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+                <div class="audio-controls">
+                    <button id="playButton" class="play-button" onclick="togglePlay()">▶</button>
+                    <div class="progress-container" onclick="seekToProgress(event)">
+                        <div id="progressBar" class="progress-bar"></div>
+                    </div>
+                    <div id="timeDisplay" class="time-display">0:00 / 0:00</div>
+                </div>
+            </div>''' if audio_url else ''
+        )
         
         # Save HTML file
         with open(output_path, 'w', encoding='utf-8') as f:
@@ -544,6 +747,7 @@ def main():
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
     
     # Parse RSS to get latest MP3 URL without downloading
+    audio_url = None
     try:
         response = requests.get(RSS_URL)
         if response.status_code == 200:
@@ -553,6 +757,7 @@ def main():
             item = channel.find('item')
             media_content = item.find('.//{http://search.yahoo.com/mrss/}content[@type="audio/mpeg"]')
             mp3_url = media_content.get('url')
+            audio_url = mp3_url
             
             if mp3_url:
                 print(f"Found MP3 URL: {mp3_url}")
@@ -619,7 +824,7 @@ def main():
         json.dump(transcription_result, f, indent=2)
     print(f"Saved debug JSON to {debug_path}")
     
-    create_html_page(transcription_result, HTML_OUTPUT)
+    create_html_page(transcription_result, HTML_OUTPUT, audio_url)
     
     print("Process completed successfully")
 
